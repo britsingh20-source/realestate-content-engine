@@ -1,0 +1,7 @@
+{
+  "individualBreakout": {"candidate":2.0,"strong":3.0,"priority":5.0},
+  "weights": {"creatorOutlier":0.30,"viewVelocity":0.25,"crossCreatorValidation":0.25,"engagement":0.10,"recency":0.10},
+  "crossCreator": {"minimumConfirmations":2,"strongConfirmations":3},
+  "promptThreshold":80,
+  "principle":"A new upload alone never triggers a Gemini prompt. Generate only after breakout and cross-creator validation or exceptional velocity."
+}
