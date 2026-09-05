@@ -1,0 +1,9 @@
+{
+  "channels": [
+    {"id":"investment","name":"Property Investment","sourceCount":5,"visualMode":"money-maps-growth-comparisons"},
+    {"id":"legal","name":"Property Legal & Documents","sourceCount":5,"visualMode":"documents-xray-warnings-verification"},
+    {"id":"land_selection","name":"Smart Land Buyer","sourceCount":5,"visualMode":"plots-roads-drainage-boundaries-aerial"},
+    {"id":"construction","name":"Construction Knowledge","sourceCount":5,"visualMode":"cutaways-soil-foundation-structural-3d"},
+    {"id":"buyer_education","name":"Property Buyer Education","sourceCount":5,"visualMode":"comparisons-mistakes-negotiation-storytelling"}
+  ]
+}
