@@ -1,0 +1,49 @@
+{
+  "niche": "investment",
+  "scanWindowDays": 45,
+  "baselineVideoCount": 12,
+  "sourceVideoMaxSeconds": 90,
+  "breakoutMultipliers": { "candidate": 2, "strong": 3, "priority": 5 },
+  "creators": [
+    {
+      "key": "mayank",
+      "name": "Real Estate With Mayank",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "handle": "@realestatewithmayank",
+      "language": "English",
+      "enabled": true
+    },
+    {
+      "key": "sanat-thakur",
+      "name": "Sanat Thakur",
+      "searchQuery": "Sanat Thakur real estate investment India",
+      "language": "English",
+      "enabled": true,
+      "needsChannelIdVerification": true
+    },
+    {
+      "key": "rohit-gaikwad",
+      "name": "Rohit Gaikwad",
+      "searchQuery": "Rohit Gaikwad real estate India",
+      "language": "English",
+      "enabled": true,
+      "needsChannelIdVerification": true
+    },
+    {
+      "key": "samir-jasuja",
+      "name": "Samir Jasuja / PropEquity",
+      "searchQuery": "Samir Jasuja PropEquity",
+      "language": "English",
+      "enabled": true,
+      "needsChannelIdVerification": true
+    },
+    {
+      "key": "abrar-teli",
+      "name": "Abrar Teli",
+      "searchQuery": "Abrar Teli real estate India",
+      "language": "English",
+      "enabled": true,
+      "needsChannelIdVerification": true
+    }
+  ]
+}
