@@ -1,0 +1,14 @@
+{
+  "niche": "construction",
+  "scanWindowDays": 45,
+  "baselineVideoCount": 12,
+  "sourceVideoMaxSeconds": 90,
+  "breakoutMultipliers": { "candidate": 2, "strong": 3, "priority": 5 },
+  "creators": [
+    {"key":"civil-guruji","name":"Civil Guruji","searchQuery":"Civil Guruji construction India Shorts","language":"English/Hindi mix","enabled":true,"needsChannelIdVerification":true},
+    {"key":"civiconcepts","name":"Civiconcepts / Bhushan Mahajan","searchQuery":"Civiconcepts Bhushan Mahajan construction India","language":"English","enabled":true,"needsChannelIdVerification":true},
+    {"key":"buildofy","name":"Buildofy","searchQuery":"Buildofy India architecture construction","language":"English","enabled":true,"needsChannelIdVerification":true},
+    {"key":"nemmadi","name":"Nemmadi Home Inspection","searchQuery":"Nemmadi Home Inspection construction defects India","language":"English","enabled":true,"needsChannelIdVerification":true},
+    {"key":"brick-bolt","name":"Brick&Bolt","searchQuery":"Brick and Bolt construction India","language":"English","enabled":true,"needsChannelIdVerification":true}
+  ]
+}
