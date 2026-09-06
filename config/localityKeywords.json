@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "defaultTelecaller": "telecaller-1",
+  "areas": [
+    { "key": "KARAMADAI", "label": "Karamadai", "aliases": ["karamadai", "karamadi", "காரமடை"], "telecaller": "telecaller-2" },
+    { "key": "SARAVANAMPATTI", "label": "Saravanampatti", "aliases": ["saravanampatti", "saravanampatty", "saranampatti", "saravanam patti", "சரவணம்பட்டி"], "telecaller": "telecaller-1" },
+    { "key": "KALAPATTI", "label": "Kalapatti", "aliases": ["kalapatti", "kala patti", "காளப்பட்டி"], "telecaller": "telecaller-1" },
+    { "key": "VADAVALLI", "label": "Vadavalli", "aliases": ["vadavalli", "vada valli", "வடவள்ளி"], "telecaller": "telecaller-2" },
+    { "key": "SULUR", "label": "Sulur", "aliases": ["sulur", "suloor", "சூலூர்"], "telecaller": "telecaller-1" },
+    { "key": "KOVILPALAYAM", "label": "Kovilpalayam", "aliases": ["kovilpalayam", "kovil palayam", "கோவில்பாளையம்"], "telecaller": "telecaller-2" },
+    { "key": "ANNUR", "label": "Annur", "aliases": ["annur", "அன்னூர்"], "telecaller": "telecaller-2" },
+    { "key": "METTUPALAYAM", "label": "Mettupalayam", "aliases": ["mettupalayam", "mtp", "மேட்டுப்பாளையம்"], "telecaller": "telecaller-2" },
+    { "key": "MALUMICHAMPATTI", "label": "Malumichampatti", "aliases": ["malumichampatti", "malumichampatty", "malumicham patti", "மலுமிச்சம்பட்டி"], "telecaller": "telecaller-1" }
+  ]
+}
