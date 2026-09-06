@@ -1,0 +1,37 @@
+{
+  "investment": {
+    "label": "PROPERTY INVESTMENT",
+    "emoji": "📈",
+    "creatorConfig": "config/investment.creators.json",
+    "youtubeSecretPrefix": "YOUTUBE_INVESTMENT",
+    "instagramSecretPrefix": "INSTAGRAM_INVESTMENT"
+  },
+  "documentation": {
+    "label": "PROPERTY DOCUMENTATION & LEGAL",
+    "emoji": "📑",
+    "creatorConfig": "config/documentation.creators.json",
+    "youtubeSecretPrefix": "YOUTUBE_DOCUMENTATION",
+    "instagramSecretPrefix": "INSTAGRAM_DOCUMENTATION"
+  },
+  "land_selection": {
+    "label": "SMART LAND SELECTION",
+    "emoji": "📍",
+    "creatorConfig": "config/land-selection.creators.json",
+    "youtubeSecretPrefix": "YOUTUBE_LAND_SELECTION",
+    "instagramSecretPrefix": "INSTAGRAM_LAND_SELECTION"
+  },
+  "construction": {
+    "label": "CONSTRUCTION KNOWLEDGE",
+    "emoji": "🏗️",
+    "creatorConfig": "config/construction.creators.json",
+    "youtubeSecretPrefix": "YOUTUBE_CONSTRUCTION",
+    "instagramSecretPrefix": "INSTAGRAM_CONSTRUCTION"
+  },
+  "buyer_education": {
+    "label": "PROPERTY BUYER EDUCATION",
+    "emoji": "🏠",
+    "creatorConfig": "config/buyer-education.creators.json",
+    "youtubeSecretPrefix": "YOUTUBE_BUYER_EDUCATION",
+    "instagramSecretPrefix": "INSTAGRAM_BUYER_EDUCATION"
+  }
+}
