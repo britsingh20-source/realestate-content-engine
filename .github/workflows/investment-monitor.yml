@@ -14,8 +14,6 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: build/investment-pilot
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -36,5 +34,5 @@ jobs:
           git add data/ || true
           if ! git diff --cached --quiet; then
             git commit -m "chore: update investment monitoring state"
-            git push origin HEAD:build/investment-pilot
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
