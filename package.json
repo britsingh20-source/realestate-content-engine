@@ -1,12 +1,17 @@
 {
   "name": "realestate-content-engine",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "description": "Multi-channel real estate Shorts intelligence, Gemini prompt and publishing engine",
+  "description": "Five-channel real estate Shorts intelligence, Gemini prompt and publishing engine",
   "type": "module",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node src/runAllNiches.js",
+    "scan": "node src/runAllNiches.js",
+    "telegram:publish": "node src/telegramIngest.js",
     "score": "node src/scoring/demo.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.883.0"
   },
   "engines": { "node": ">=20" }
 }
