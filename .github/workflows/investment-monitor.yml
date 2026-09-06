@@ -1,0 +1,40 @@
+name: Investment Shorts Monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */3 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: build/investment-pilot
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run investment monitor
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_TEXT_MODEL: ${{ secrets.GEMINI_TEXT_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_STATUS_MESSAGES: 'false'
+        run: node src/index.js
+      - name: Persist monitoring state
+        if: always()
+        run: |
+          git config user.name "realestate-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update investment monitoring state"
+            git push origin HEAD:build/investment-pilot
+          fi
