@@ -1,0 +1,14 @@
+{
+  "niche": "buyer_education",
+  "scanWindowDays": 45,
+  "baselineVideoCount": 12,
+  "sourceVideoMaxSeconds": 90,
+  "breakoutMultipliers": { "candidate": 2, "strong": 3, "priority": 5 },
+  "creators": [
+    {"key":"realty-by-rahul","name":"Realty by Rahul / Rahul Jakhar","searchQuery":"Realty by Rahul Rahul Jakhar India real estate Shorts","language":"English","enabled":true,"needsChannelIdVerification":true},
+    {"key":"priyam-saraswat","name":"Priyam Saraswat","searchQuery":"Priyam Saraswat real estate India Shorts","language":"English","enabled":true,"needsChannelIdVerification":true},
+    {"key":"mayank","name":"Real Estate With Mayank","channelId":"UCCUFbFnWiZxFdIGonxnIp5g","handle":"@realestatewithmayank","language":"English","enabled":true},
+    {"key":"buildofy","name":"Buildofy","searchQuery":"Buildofy India architecture property","language":"English","enabled":true,"needsChannelIdVerification":true},
+    {"key":"vishal-bhargava","name":"Vishal Bhargava","searchQuery":"Vishal Bhargava real estate India buyer education","language":"English","enabled":true,"needsChannelIdVerification":true}
+  ]
+}
