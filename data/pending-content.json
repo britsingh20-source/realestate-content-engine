@@ -1,5 +1,103 @@
 [
   {
+    "contentId": "INV-20260907-VXAK",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-07T23:38:29.047Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 577066,
+        "likes": 11539,
+        "comments": 504,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 442.0868486111111,
+        "velocity": 1305.322702570656,
+        "outlier": 59.892682926829266,
+        "velocityRatio": 44.23938094198712,
+        "engagementRatio": 0.9103176545612787
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 4771
+    },
+    "pack": {
+      "topic": "Urban Land Efficiency & Infill Redevelopment Potential in Core Coimbatore",
+      "source_script_insight": "The Mumbai SRA redevelopment mechanism demonstrates how vertical density unlocks massive latent value from high-demand central urban land by maximizing land utilization efficiency.",
+      "coimbatore_angle": "Translating cross-subsidization and high-density land mechanics into a real estate checklist for Coimbatore investors: evaluating core city infill potential (like Gandhipuram or Town Hall) through FAR/FSI utilization, accessibility, and high-density re-development potential.",
+      "voiceover_tamil": "நகரத்தின் மையப் பகுதியில் புதிய இடம் இல்லையா? ஆனால் சொத்தின் மதிப்பு மட்டும் எப்படி உயர்கிறது? மும்பை மாடல் காட்டும் முக்கிய பாடம் — Land Efficiency அல்லது நில பயன்பாட்டுத் திறன். அதாவது, குறைந்த பயன்பாட்டில் உள்ள பழைய கிடைமட்ட இடத்தை செங்குத்தான கட்டிடமாக மாற்றுவது. கோவை நகர மையப்பகுதிகளில் புதிய நிலங்கள் குறைவு, அதனால் Infill Redevelopment தான் எதிர்கால மதிப்பு உயர்விற்கு காரணம். முதலீடு செய்வதற்கு முன் 3 விஷயங்களை கவனியுங்கள்: FSI சாத்தியம், சாலை அணுகல், மற்றும் வணிகத் தேவை. நிலத்தின் அளவை மட்டும் பார்க்காதீர்கள், அதன் பயன்பாட்டு திறனை பாருங்கள். மேலும் அறிய OliveTree Investors-ஐ பின்தொடருங்கள்.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "duration_seconds": 4,
+          "visual_description_english": "9:16 vertical split screen graphic. Top shows a congested horizontal plot, bottom transforms into a modern sleek multi-story structure with a clean Coimbatore map outline.",
+          "voiceover_tamil_segment": "நகரத்தின் மையப் பகுதியில் புதிய இடம் இல்லையா? ஆனால் சொத்தின் மதிப்பு மட்டும் எப்படி உயர்கிறது?"
+        },
+        {
+          "scene_number": 2,
+          "duration_seconds": 4,
+          "visual_description_english": "Top-down 2D vector map animation highlighting core Coimbatore urban pockets (Gandhipuram/Town Hall grid). Text overlay: 'Land Efficiency Ratio'.",
+          "voiceover_tamil_segment": "மும்பை மாடல் காட்டும் முக்கிய பாடம் — Land Efficiency அல்லது நில பயன்பாட்டுத் திறன்."
+        },
+        {
+          "scene_number": 3,
+          "duration_seconds": 4,
+          "visual_description_english": "Motion graphic showing a single-story structural icon extruding upwards into high-density 3D vertical blocks.",
+          "voiceover_tamil_segment": "அதாவது, குறைந்த பயன்பாட்டில் உள்ள பழைய கிடைமட்ட இடத்தை செங்குத்தான கட்டிடமாக மாற்றுவது."
+        },
+        {
+          "scene_number": 4,
+          "duration_seconds": 5,
+          "visual_description_english": "Clean animated chart contrasting flat fringe expansion curve against steep rising value curve of core city infill redevelopment.",
+          "voiceover_tamil_segment": "கோவை நகர மையப்பகுதிகளில் புதிய நிலங்கள் குறைவு, அதனால் Infill Redevelopment தான் எதிர்கால மதிப்பு உயர்விற்கு காரணம்."
+        },
+        {
+          "scene_number": 5,
+          "duration_seconds": 5,
+          "visual_description_english": "Checklist graphics pop up sequentially: 1. FSI Potential (FSI சாத்தியம்), 2. Road Access (சாலை அணுகல்), 3. Commercial Demand (வணிகத் தேவை).",
+          "voiceover_tamil_segment": "முதலீடு செய்வதற்கு முன் 3 விஷயங்களை கவனியுங்கள்: FSI சாத்தியம், சாலை அணுகல், மற்றும் வணிகத் தேவை."
+        },
+        {
+          "scene_number": 6,
+          "duration_seconds": 4,
+          "visual_description_english": "Architectural grid graphic showing land plot optimization with glowing green density vectors.",
+          "voiceover_tamil_segment": "நிலத்தின் அளவை மட்டும் பார்க்காதீர்கள், அதன் பயன்பாட்டு திறனை பாருங்கள்."
+        },
+        {
+          "scene_number": 7,
+          "duration_seconds": 4,
+          "visual_description_english": "End screen card featuring OliveTree Investors logo, minimal aesthetic graphic, and 'Coimbatore Real Estate Insights' text.",
+          "voiceover_tamil_segment": "மேலும் அறிய OliveTree Investors-ஐ பின்தொடருங்கள்."
+        }
+      ],
+      "gemini_video_prompt": "Create a 30-35 second 9:16 vertical video for OLIVETREE INVESTORS strictly targeting COIMBATORE ONLY. Clean modern corporate visual style with no human faces, no camera operator, no fake landmarks, no religious symbols, and no guaranteed returns. Frame 1 (0-4s): Split graphic showing low horizontal building vs vertical building outline on Coimbatore map shape. Tamil VO: 'நகரத்தின் மையப் பகுதியில் புதிய இடம் இல்லையா? ஆனால் சொத்தின் மதிப்பு மட்டும் எப்படி உயர்கிறது?'. Frame 2 (4-8s): 2D animated city grid map highlighting central commercial zones. Text overlay 'Land Efficiency'. Tamil VO: 'மும்பை மாடல் காட்டும் முக்கிய பாடம் — Land Efficiency அல்லது நில பயன்பாட்டுத் திறன்.'. Frame 3 (8-12s): 3D graphic showing low structure extending vertically into modern space. Tamil VO: 'அதாவது, குறைந்த பயன்பாட்டில் உள்ள பழைய கிடைமட்ட இடத்தை செங்குத்தான கட்டிடமாக மாற்றுவது.'. Frame 4 (12-17s): Chart showing value growth of urban infill vs outer sprawl. Tamil VO: 'கோவை நகர மையப்பகுதிகளில் புதிய நிலங்கள் குறைவு, அதனால் Infill Redevelopment தான் எதிர்கால மதிப்பு உயர்விற்கு காரணம்.'. Frame 5 (17-22s): Checklist points popping on screen: 1. FSI Potential 2. Road Access 3. Commercial Demand. Tamil VO: 'முதலீடு செய்வதற்கு முன் 3 விஷயங்களை கவனியுங்கள்: FSI சாத்தியம், சாலை அணுகல், மற்றும் வணிகத் தேவை.'. Frame 6 (22-26s): Architectural plot grid with glowing green density arrows. Tamil VO: 'நிலத்தின் அளவை மட்டும் பார்க்காதீர்கள், அதன் பயன்பாட்டு திறனை பாருங்கள்.'. Frame 7 (26-30s): Elegant brand screen with OliveTree Investors logo. Tamil VO: 'மேலும் அறிய OliveTree Investors-ஐ பின்தொடருங்கள்.'",
+      "title_tamil": "கோவையில் நிலத்தின் பயன்பாட்டுத் திறனை கணக்கிடுவது எப்படி?",
+      "caption_tamil": "கோவையின் மையப் பகுதிகளில் புதிய நிலங்கள் கிடைப்பது அரிது. ஆனால் சரியான நில பயன்பாட்டுத் திறன் (Land Efficiency) மற்றும் Infill Redevelopment மூலம் உங்கள் சொத்தின் மதிப்பை உயர்த்த முடியும். முதலீடு செய்வதற்கு முன் கவனிக்க வேண்டிய முக்கிய காரணிகளை தெரிந்து கொள்ளுங்கள்!",
+      "hashtags": [
+        "#CoimbatoreRealEstate",
+        "#PropertyInvestment",
+        "#OliveTreeInvestors"
+      ],
+      "telegram_prompt": "PRODUCTION PACKAGE | CONTENT ID: INV-20260907-VXAK\nSOURCE URL: https://www.youtube.com/watch?v=hQp5jilYjT8\n\nCOIMBATORE ANGLE:\nTranslating high-density land mechanics into an investor checklist for core Coimbatore areas. Focuses on land efficiency, FSI utilization, and urban infill redevelopment logic without making false growth guarantees.\n\nFINAL GEMINI PROMPT:\nCreate a 30-35 second 9:16 vertical video for OLIVETREE INVESTORS strictly targeting COIMBATORE ONLY. Visual style: clean modern vector graphics, architectural blueprints, motion charts. No generic stock footage, no faces, no guaranteed returns.\n\n- Scene 1 (0-4s): 9:16 split screen comparing low horizontal structure vs modern high-rise on Coimbatore map footprint. VO (Tamil): 'நகரத்தின் மையப் பகுதியில் புதிய இடம் இல்லையா? ஆனால் சொத்தின் மதிப்பு மட்டும் எப்படி உயர்கிறது?'\n- Scene 2 (4-8s): 2D vector map of central Coimbatore grid with overlay text 'Land Efficiency'. VO (Tamil): 'மும்பை மாடல் காட்டும் முக்கிய பாடம் — Land Efficiency அல்லது நில பயன்பாட்டுத் திறன்.'\n- Scene 3 (8-12s): 3D structure extrusion graphic showing vertical density expansion. VO (Tamil): 'அதாவது, குறைந்த பயன்பாட்டில் உள்ள பழைய கிடைமட்ட இடத்தை செங்குத்தான கட்டிடமாக மாற்றுவது.'\n- Scene 4 (12-17s): Growth trend visual comparing core infill vs sprawl. VO (Tamil): 'கோவை நகர மையப்பகுதிகளில் புதிய நிலங்கள் குறைவு, அதனால் Infill Redevelopment தான் எதிர்கால மதிப்பு உயர்விற்கு காரணம்.'\n- Scene 5 (17-22s): Interactive checklist card: 1. FSI Potential 2. Road Access 3. Commercial Demand. VO (Tamil): 'முதலீடு செய்வதற்கு முன் 3 விஷயங்களை கவனியுங்கள்: FSI சாத்தியம், சாலை அணுகல், மற்றும் வணிகத் தேவை.'\n- Scene 6 (22-26s): Plot design grid highlighting optimal space utilization. VO (Tamil): 'நிலத்தின் அளவை மட்டும் பார்க்காதீர்கள், அதன் பயன்பாட்டு திறனை பாருங்கள்.'\n- Scene 7 (26-30s): OliveTree Investors branded CTA screen. VO (Tamil): 'மேலும் அறிய OliveTree Investors-ஐ பின்தொடருங்கள்.'\n\nTITLE:\nகோவையில் நிலத்தின் பயன்பாட்டுத் திறனை கணக்கிடுவது எப்படி?\n\nCAPTION:\nகோவையின் மையப் பகுதிகளில் புதிய நிலங்கள் கிடைப்பது அரிது. ஆனால் சரியான நில பயன்பாட்டுத் திறன் (Land Efficiency) மற்றும் Infill Redevelopment மூலம் உங்கள் சொத்தின் மதிப்பை உயர்த்த முடியும். முதலீடு செய்வதற்கு முன் கவனிக்க வேண்டிய முக்கிய காரணிகளை தெரிந்து கொள்ளுங்கள்!\n\nHASHTAGS:\n#CoimbatoreRealEstate #PropertyInvestment #OliveTreeInvestors\n\nUPLOAD INSTRUCTION:\nPublish to Coimbatore targeted vertical channels using Content ID INV-20260907-VXAK."
+    }
+  },
+  {
     "contentId": "INV-20260907-BWE4",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
