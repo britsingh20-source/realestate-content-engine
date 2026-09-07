@@ -6,6 +6,13 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/investors-pilot-monitor.yml'
+      - 'src/runInvestorsPilot.js'
+      - 'src/multiNicheMonitor.js'
+      - 'src/geminiText.js'
+      - 'src/telegram.js'
+      - 'config/investment.creators.json'
+      - 'config/niches.json'
+      - 'package.json'
   schedule:
     - cron: '23 */3 * * *'
 
