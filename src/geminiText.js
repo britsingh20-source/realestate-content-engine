@@ -14,9 +14,7 @@ async function modelCandidates(apiKey) {
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?key=${apiKey}`);
   if (!res.ok) throw new Error(`Gemini model list ${res.status}: ${await res.text()}`);
   const data = await res.json();
-  const models = (data.models || [])
-    .filter(m => (m.supportedGenerationMethods || []).includes('generateContent'))
-    .map(m => m.name.replace(/^models\//, ''));
+  const models = (data.models || []).filter(m => (m.supportedGenerationMethods || []).includes('generateContent')).map(m => m.name.replace(/^models\//, ''));
   const flash = models.filter(n => /flash/i.test(n)).sort((a, b) => versionScore(b) - versionScore(a));
   const others = models.filter(n => !/flash/i.test(n)).sort((a, b) => versionScore(b) - versionScore(a));
   const ordered = [...flash, ...others];
@@ -29,17 +27,10 @@ function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
 export async function generateContentPack(candidate) {
   const apiKey = required('GEMINI_API_KEY');
   const models = await modelCandidates(apiKey);
+  const transcript = String(candidate.transcript || '').slice(0, 14000);
+  if (transcript.length < 120) throw new Error('Transcript is required for Investors content generation');
 
-  const peerSummary = candidate.peerMatches.slice(0, 4).map(p => ({
-    creator: p.creator,
-    title: p.title,
-    description: String(p.description || '').slice(0, 500),
-    outlier: Number(p.outlier.toFixed(2)),
-    similarity: Number(p.similarity.toFixed(2))
-  }));
-
-  const sourceDescription = String(candidate.source.description || '').slice(0, 1800);
-  const instruction = `You are the intelligence layer for OliveTree Investors, an original Indian real-estate Shorts brand.\n\nNICHE: ${candidate.niche}\nCONTENT ID: ${candidate.contentId || 'pending'}\n\nRESEARCH METHOD: The input below is verified YouTube metadata and performance data (title, description, creator, URL, views-derived breakout metrics and peer metadata). Treat it as a topic/audience-interest signal. Do NOT pretend you watched or transcribed spoken content that is not supplied.\n\nSTRICT FACT RULES:\n1. Do not invent or infer named cities, neighbourhoods, projects, laws, government schemes, FSI/FAR values, percentages, prices, returns, timelines, distances or regulatory claims unless explicitly present in SOURCE BREAKOUT SIGNAL or PEER SIGNALS.\n2. Preserve the source geography when geography is explicitly stated. Do not relocate a Mumbai topic to Chennai, Coimbatore or another city without verified evidence.\n3. If a visual needs numbers, use qualitative labels or clearly mark hypothetical numbers as ILLUSTRATIVE EXAMPLE and do not present them as real market data.\n4. Separate verified source facts from our original educational framing.\n5. Do NOT copy source wording, script, sequence, examples, thumbnails, or distinctive creative expression. Extract only the underlying topic, audience question and presentation mechanism.\n\nCreate ONE production-ready Gemini video prompt for a 30-45 second Tamil-first Reel/Short. It must be visually understandable on mute, useful to ordinary viewers, and strongly visual rather than presenter-heavy.\n\nReturn STRICT JSON with these keys: topic, verified_source_facts (array), why_it_is_working, original_angle, source_takeaway, hook_options (exactly 5), selected_hook, voiceover_tamil, voiceover_english_summary, scenes (array of 7-10 objects with seconds, visual, on_screen_text, purpose), gemini_video_prompt, title_tamil, caption_tamil, hashtags.\n\nThe gemini_video_prompt must itself be ready to paste directly into Gemini and must include: true portrait 9:16; premium realistic Indian environment consistent with verified geography; powerful first 1.5 seconds; new visual information every 2-3 seconds; clear graphical comparisons/maps/cutaways/3D diagrams where useful; no generic luxury montage; no continuous presenter; no gimbal/camera operator; no random people blocking the shot; no religious markings added by AI; minimal readable text; no black bars; no landscape framing; no invented guarantees.\n\nSOURCE BREAKOUT SIGNAL:\nCreator: ${candidate.creator}\nYouTube URL: ${candidate.source.url}\nTitle: ${candidate.source.title}\nDescription: ${sourceDescription}\nPublished: ${candidate.source.publishedAt}\nDuration seconds: ${candidate.source.durationSeconds}\nViews: ${candidate.source.views}\nPerformance vs creator baseline: ${candidate.source.outlier.toFixed(2)}x\nViral score: ${candidate.viralScore}/100\nPeer confirmations: ${candidate.confirmations}\nPEER SIGNALS: ${JSON.stringify(peerSummary)}\n`;
+  const instruction = `You create original social-video concepts for OliveTree Investors. The final audience is Coimbatore, Tamil Nadu only.\n\nCONTENT ID: ${candidate.contentId}\nSOURCE CREATOR: ${candidate.creator}\nSOURCE URL: ${candidate.source.url}\nSOURCE TITLE: ${candidate.source.title}\nSOURCE PERFORMANCE: ${candidate.source.outlier.toFixed(2)}x creator baseline\n\nACTUAL SOURCE TRANSCRIPT/CAPTIONS:\n${transcript}\n\nTASK:\n1. Read the transcript closely and extract the actual hook, argument, examples, warnings, numbers, mechanism and takeaway.\n2. Do NOT copy wording, sequence, script, examples or distinctive expression. Use only the underlying educational mechanism and audience-interest signal.\n3. Rebuild it as an ORIGINAL Coimbatore-focused property-investment lesson for OliveTree Investors. The final video must talk about Coimbatore, not Chennai, Mumbai, Bengaluru or generic India.\n4. Do not invent Coimbatore locality facts, prices, infrastructure announcements, appreciation percentages, laws, distances, returns or project claims. If the source mechanism cannot be safely localized with known facts, frame it as a Coimbatore investment checklist/example rather than pretending a specific claim is true.\n5. Tamil-first voice-over, English visual directions.\n6. Strong graphical/visual explanation: maps, plotted land, road/access diagrams, comparison graphics, before/after, demand arrows, micro-market illustrations, checklists.\n7. True portrait 9:16. No black bars, no landscape frame, no gimbal/camera operator, no random people blocking frame, no religious markings, no fake landmarks, no guaranteed returns.\n8. 30-40 seconds, 7-9 scenes, new visual information every 2-3 seconds.\n9. Exactly 3 hashtags.\n10. Create ONE Telegram-ready production package, compact enough to fit one Telegram message.\n\nReturn STRICT JSON with keys:\ntopic, source_script_insight, coimbatore_angle, voiceover_tamil, scenes, gemini_video_prompt, title_tamil, caption_tamil, hashtags, telegram_prompt.\n\ntelegram_prompt MUST be one compact ready-to-copy package under 3200 characters and include: SOURCE URL, COIMBATORE ANGLE, FINAL GEMINI PROMPT with scene-by-scene visuals + Tamil voice-over embedded, TITLE, CAPTION, exactly 3 HASHTAGS, and UPLOAD instruction using CONTENT ID ${candidate.contentId}. The Gemini prompt must itself say OLIVETREE INVESTORS and COIMBATORE ONLY.`;
 
   let lastError = null;
   for (const model of models.slice(0, 6)) {
@@ -49,14 +40,16 @@ export async function generateContentPack(candidate) {
         method: 'POST', headers: { 'content-type': 'application/json' },
         body: JSON.stringify({
           contents: [{ role: 'user', parts: [{ text: instruction }] }],
-          generationConfig: { responseMimeType: 'application/json', temperature: 0.55 }
+          generationConfig: { responseMimeType: 'application/json', temperature: 0.45 }
         })
       });
       if (res.ok) {
         const data = await res.json();
         const text = data.candidates?.[0]?.content?.parts?.map(p => p.text || '').join('') || '';
         if (!text) throw new Error('Gemini returned no text');
-        return JSON.parse(text);
+        const pack = JSON.parse(text);
+        if (!pack.telegram_prompt) throw new Error('Gemini omitted telegram_prompt');
+        return pack;
       }
       const body = await res.text();
       lastError = new Error(`Gemini ${model} ${res.status}: ${body}`);
