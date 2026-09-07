@@ -20,6 +20,7 @@ jobs:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_OLIVETREE_INVESTORS_REFRESH_TOKEN }}
+          EXPECTED_CHANNEL_ID: UCag2aE2ZsU_9FI77GRlgIDg
         shell: bash
         run: |
           set -euo pipefail
@@ -43,10 +44,21 @@ jobs:
             exit 1
           fi
 
-          CHANNEL_JSON=$(curl -sS \
+          echo "OAuth token exchange succeeded."
+
+          TOKENINFO=$(curl -sS "https://oauth2.googleapis.com/tokeninfo?access_token=${ACCESS_TOKEN}")
+          printf '%s' "$TOKENINFO" | python3 -c "import sys,json; d=json.load(sys.stdin); print('GRANTED_SCOPES=' + d.get('scope','')); print('TOKEN_EXPIRES_IN=' + str(d.get('expires_in','')))"
+
+          EXPECTED_JSON=$(curl -sS \
+            -H "Authorization: Bearer ${ACCESS_TOKEN}" \
+            "https://www.googleapis.com/youtube/v3/channels?part=snippet&id=${EXPECTED_CHANNEL_ID}")
+
+          printf '%s' "$EXPECTED_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); err=d.get('error'); print('KNOWN_CHANNEL_API_ERROR=' + (str(err.get('message','')) if err else 'none')); items=d.get('items',[]); print('KNOWN_CHANNEL_VISIBLE=' + ('yes' if items else 'no')); [print('KNOWN_CHANNEL_NAME=' + i.get('snippet',{}).get('title','')) for i in items]"
+
+          MINE_JSON=$(curl -sS \
             -H "Authorization: Bearer ${ACCESS_TOKEN}" \
             'https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true')
 
-          printf '%s' "$CHANNEL_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); items=d.get('items',[]); assert items, 'OAuth succeeded, but no YouTube channel was returned for this account.'; [print('CONNECTED_CHANNEL_NAME=' + item.get('snippet',{}).get('title','')) or print('CONNECTED_CHANNEL_ID=' + item.get('id','')) for item in items]"
+          printf '%s' "$MINE_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); err=d.get('error'); print('MINE_API_ERROR=' + (str(err.get('message','')) if err else 'none')); items=d.get('items',[]); print('MINE_CHANNEL_COUNT=' + str(len(items))); [print('CONNECTED_CHANNEL_NAME=' + i.get('snippet',{}).get('title','')) or print('CONNECTED_CHANNEL_ID=' + i.get('id','')) for i in items]"
 
-          echo "YouTube OAuth verification succeeded. No secret values were printed."
+          echo "Diagnostic completed. No secret values were printed."
