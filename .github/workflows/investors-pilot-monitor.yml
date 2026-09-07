@@ -34,9 +34,7 @@ jobs:
         with:
           node-version: '20'
       - run: npm install
-      - name: Install YouTube transcript extractor
-        run: python -m pip install --upgrade yt-dlp
-      - name: Research YouTube transcript and send one Coimbatore prompt to Telegram
+      - name: Analyze YouTube video and send one Coimbatore prompt to Telegram
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
