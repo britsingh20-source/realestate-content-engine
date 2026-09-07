@@ -32,7 +32,7 @@ jobs:
           BASE="https://graph.facebook.com/${META_GRAPH_VERSION}"
 
           PROFILE_JSON=$(curl -sS -G "${BASE}/${IG_USER_ID}" \
-            --data-urlencode "fields=id,username,name,account_type,media_count" \
+            --data-urlencode "fields=id,username,name,media_count" \
             --data-urlencode "access_token=${IG_ACCESS_TOKEN}")
 
           if printf '%s' "$PROFILE_JSON" | jq -e '.error' >/dev/null 2>&1; then
@@ -43,7 +43,6 @@ jobs:
           echo "INSTAGRAM_ID=$(printf '%s' "$PROFILE_JSON" | jq -r '.id // ""')"
           echo "INSTAGRAM_USERNAME=$(printf '%s' "$PROFILE_JSON" | jq -r '.username // ""')"
           echo "INSTAGRAM_NAME=$(printf '%s' "$PROFILE_JSON" | jq -r '.name // ""')"
-          echo "INSTAGRAM_ACCOUNT_TYPE=$(printf '%s' "$PROFILE_JSON" | jq -r '.account_type // ""')"
           echo "INSTAGRAM_MEDIA_COUNT=$(printf '%s' "$PROFILE_JSON" | jq -r '.media_count // ""')"
 
           DEBUG_JSON=$(curl -sS -G "${BASE}/debug_token" \
