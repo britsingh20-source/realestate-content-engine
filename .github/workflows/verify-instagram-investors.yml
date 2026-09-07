@@ -35,19 +35,23 @@ jobs:
             --data-urlencode "fields=id,username,name,account_type,media_count" \
             --data-urlencode "access_token=${IG_ACCESS_TOKEN}")
 
-          printf '%s' "$PROFILE_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); err=d.get('error');
-if err:
- print('PROFILE_API_ERROR=' + str(err.get('message',''))); raise SystemExit(1)
-print('INSTAGRAM_ID=' + str(d.get('id','')))
-print('INSTAGRAM_USERNAME=' + str(d.get('username','')))
-print('INSTAGRAM_NAME=' + str(d.get('name','')))
-print('INSTAGRAM_ACCOUNT_TYPE=' + str(d.get('account_type','')))
-print('INSTAGRAM_MEDIA_COUNT=' + str(d.get('media_count','')))"
+          if printf '%s' "$PROFILE_JSON" | jq -e '.error' >/dev/null 2>&1; then
+            echo "PROFILE_API_ERROR=$(printf '%s' "$PROFILE_JSON" | jq -r '.error.message // "unknown"')"
+            exit 1
+          fi
+
+          echo "INSTAGRAM_ID=$(printf '%s' "$PROFILE_JSON" | jq -r '.id // ""')"
+          echo "INSTAGRAM_USERNAME=$(printf '%s' "$PROFILE_JSON" | jq -r '.username // ""')"
+          echo "INSTAGRAM_NAME=$(printf '%s' "$PROFILE_JSON" | jq -r '.name // ""')"
+          echo "INSTAGRAM_ACCOUNT_TYPE=$(printf '%s' "$PROFILE_JSON" | jq -r '.account_type // ""')"
+          echo "INSTAGRAM_MEDIA_COUNT=$(printf '%s' "$PROFILE_JSON" | jq -r '.media_count // ""')"
 
           DEBUG_JSON=$(curl -sS -G "${BASE}/debug_token" \
             --data-urlencode "input_token=${IG_ACCESS_TOKEN}" \
             --data-urlencode "access_token=${IG_ACCESS_TOKEN}")
 
-          printf '%s' "$DEBUG_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); data=d.get('data',{}); print('TOKEN_VALID=' + str(data.get('is_valid',False)).lower()); print('TOKEN_TYPE=' + str(data.get('type',''))); print('TOKEN_SCOPES=' + ' '.join(data.get('scopes',[]) or []))"
+          echo "TOKEN_VALID=$(printf '%s' "$DEBUG_JSON" | jq -r '.data.is_valid // false')"
+          echo "TOKEN_TYPE=$(printf '%s' "$DEBUG_JSON" | jq -r '.data.type // ""')"
+          echo "TOKEN_SCOPES=$(printf '%s' "$DEBUG_JSON" | jq -r '(.data.scopes // []) | join(" ")')"
 
           echo "Instagram verification succeeded. No secret values were printed."
