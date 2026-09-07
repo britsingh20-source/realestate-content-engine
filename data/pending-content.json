@@ -1,0 +1,14 @@
+[
+  {
+    "contentId": "INV-20260907-TEST",
+    "niche": "investment",
+    "status": "pending",
+    "createdAt": "2026-09-07T18:20:00.000Z",
+    "pack": {
+      "title_tamil": "OliveTree Investors - Publishing System Test",
+      "caption_tamil": "OliveTree Investors end-to-end publishing system test.",
+      "selected_hook": "Publishing system test",
+      "hashtags": ["#OliveTreeInvestors", "#RealEstate", "#PropertyInvestment"]
+    }
+  }
+]
