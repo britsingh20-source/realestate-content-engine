@@ -1,0 +1,47 @@
+name: OliveTree Investors YouTube Research Pilot
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/investors-pilot-monitor.yml'
+  schedule:
+    - cron: '23 */3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: realestate-content-state
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - name: Research YouTube and send OliveTree Investors prompt to Telegram
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_TEXT_MODEL: ${{ secrets.GEMINI_TEXT_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: npm run scan:investors
+      - name: Persist research and pending content state
+        if: always()
+        run: |
+          git config user.name "realestate-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update OliveTree Investors research state"
+            git pull --rebase origin main
+            git push origin main
+          fi
