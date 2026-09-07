@@ -1,0 +1,58 @@
+name: Verify OliveTree Investors YouTube OAuth
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Verify OAuth and connected YouTube channel
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_OLIVETREE_INVESTORS_REFRESH_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ -z "${YOUTUBE_CLIENT_ID:-}" ] || [ -z "${YOUTUBE_CLIENT_SECRET:-}" ] || [ -z "${YOUTUBE_REFRESH_TOKEN:-}" ]; then
+            echo "Missing one or more required YouTube OAuth secrets."
+            exit 1
+          fi
+
+          TOKEN_JSON=$(curl -sS -X POST https://oauth2.googleapis.com/token \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" \
+            --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
+            --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
+            --data-urlencode "grant_type=refresh_token")
+
+          ACCESS_TOKEN=$(printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('access_token',''))")
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "OAuth token exchange failed."
+            printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); print('Error:', d.get('error','unknown')); print('Description:', d.get('error_description',''))"
+            exit 1
+          fi
+
+          CHANNEL_JSON=$(curl -sS \
+            -H "Authorization: Bearer ${ACCESS_TOKEN}" \
+            'https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true')
+
+          python3 - <<'PY' <<< "$CHANNEL_JSON"
+          import json,sys
+          d=json.load(sys.stdin)
+          items=d.get('items',[])
+          if not items:
+              print('OAuth succeeded, but no YouTube channel was returned for this account.')
+              raise SystemExit(1)
+          for item in items:
+              print('CONNECTED_CHANNEL_NAME=' + item.get('snippet',{}).get('title',''))
+              print('CONNECTED_CHANNEL_ID=' + item.get('id',''))
+          PY
+
+          echo "YouTube OAuth verification succeeded. No secret values were printed."
