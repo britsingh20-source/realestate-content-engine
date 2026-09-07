@@ -1,5 +1,87 @@
 [
   {
+    "contentId": "INV-20260907-BWE4",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-07T19:18:49.087Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 573925,
+        "likes": 11526,
+        "comments": 504,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 437.59197222222224,
+        "velocity": 1311.5528538730682,
+        "outlier": 59.65956340956341,
+        "velocityRatio": 43.82579027312368,
+        "engagementRatio": 0.9130666796491651
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 4096
+    },
+    "pack": {
+      "topic": "Coimbatore Land Development vs Vertical Growth Model",
+      "source_script_insight": "The source explains how dense urban land transformation (like Mumbai slum rehabilitation) unlocks high-value real estate through smart land pooling and vertical development, creating a win-win for developers and occupants.",
+      "coimbatore_angle": "Applying the concept of high-efficiency land pooling and plotted development conversions in rapidly growing corridors like Avinashi Road and Thudiyalur, rather than vertical high-rise slums.",
+      "voiceover_tamil": "கோவையில் நிலத்தை எப்படி புத்திசாலித்தனமா லாபகரமா மாத்துறதுனு தெரியுமா? மும்பை மாதிரி பெரிய டவர்ஸ் இல்லாம, கோவையோட வளர்ந்து வரும் பகுதிகளில் ப்ளாட்டெட் டெவலப்மென்ட் எப்படி ஒர்க் அவுட் ஆகுதுன்னு பாப்போம். கரக்டான லொகேஷன் செலக்ட் பண்ணா, இன்வெஸ்டர்ஸ்க்கு நல்ல ரிட்டர்ன்ஸ் கிடைக்க வாய்ப்பு இருக்கு. ஒழிவு ட்ரீ இன்வெஸ்டர்ஸ் கூட சேர்ந்து கோவையில் ஸ்மார்ட்டா இன்வெஸ்ட் பண்ணுங்க.",
+      "scenes": [
+        {
+          "second_range": "0-4",
+          "visual": "A split-screen graphic showing a busy Coimbatore highway on one side and a plotted land layout blueprint on the other. Text overlay: 'Coimbatore Real Estate Strategy'.",
+          "voiceover_segment": "கோவையில் நிலத்தை எப்படி புத்திசாலித்தனமா லாபகரமா மாத்துறதுனு தெரியுமா?"
+        },
+        {
+          "second_range": "4-9",
+          "visual": "Aerial drone shot panning over fast-growing suburban outskirts of Coimbatore with new tarmac roads.",
+          "voiceover_segment": "மும்பை மாதிரி பெரிய டவர்ஸ் இல்லாம,"
+        },
+        {
+          "second_range": "9-15",
+          "visual": "Zoom-in map graphic highlighting Avinashi Road and Thudiyalur corridors with growth arrows pointing outwards.",
+          "voiceover_segment": "கோவையோட வளர்ந்து வரும் பகுதிகளில் ப்ளாட்டெட் டெவலப்மென்ட் எப்படி ஒர்க் அவுட் ஆகுதுன்னு பாப்போம்."
+        },
+        {
+          "second_range": "15-22",
+          "visual": "Comparison graphic showing an old congested layout transforming into a clean gated layout with underground cabling icons.",
+          "voiceover_segment": "கரக்டான லொகேஷன் செலக்ட் பண்ணா,"
+        },
+        {
+          "second_range": "22-30",
+          "visual": "Clean financial growth chart going upwards with text overlays: 'Smart Land Value', 'Clear Titles', 'Coimbatore Growth'.",
+          "voiceover_segment": "இன்வெஸ்டர்ஸ்க்கு நல்ல ரிட்டர்ன்ஸ் கிடைக்க வாய்ப்பு இருக்கு."
+        },
+        {
+          "second_range": "30-36",
+          "visual": "OliveTree Investors branded professional closing card with Coimbatore skyline silhouette and a checklist graphic.",
+          "voiceover_segment": "ஒழிவு ட்ரீ இன்வெஸ்டர்ஸ் கூட சேர்ந்து கோவையில் ஸ்மார்ட்டா இன்வெஸ்ட் பண்ணுங்க."
+        }
+      ],
+      "gemini_video_prompt": "OLIVETREE INVESTORS - COIMBATORE ONLY. Vertical 9:16 high-end real estate explainer video. Strictly Coimbatore, Tamil Nadu. Scene 1 (0-4s): Split-screen graphic showing a busy Coimbatore highway and a plotted land layout blueprint. Text overlay: Coimbatore Real Estate Strategy. Voice-over: கோவையில் நிலத்தை எப்படி புத்திசாலித்தனமா லாபகரமா மாத்துறதுனு தெரியுமா? Scene 2 (4-9s): Aerial drone shot panning over fast-growing suburban outskirts of Coimbatore with new tarmac roads. Voice-over: மும்பை மாதிரி பெரிய டவர்ஸ் இல்லாம,. Scene 3 (9-15s): Zoom-in map graphic highlighting Avinashi Road and Thudiyalur corridors with growth arrows. Voice-over: கோவையோட வளர்ந்து வரும் பகுதிகளில் ப்ளாட்டெட் டெவலப்மென்ட் எப்படி ஒர்க் அவுட் ஆகுதுன்னு பாப்போம். Scene 4 (15-22s): Comparison graphic showing an old congested layout transforming into a clean gated layout. Voice-over: கரக்டான லொகேஷன் செலக்ட் பண்ணா,. Scene 5 (22-30s): Clean financial growth chart going upwards with text overlays. Voice-over: இன்வெஸ்டர்ஸ்க்கு நல்ல ரிட்டர்ன்ஸ் கிடைக்க வாய்ப்பு இருக்கு. Scene 6 (30-36s): OliveTree Investors branded professional closing card with Coimbatore skyline silhouette and a checklist graphic. Voice-over: ஒழிவு ட்ரீ இன்வெஸ்டர்ஸ் கூட சேர்ந்து கோவையில் ஸ்மார்ட்டா இன்வெஸ்ட் பண்ணுங்க. No black bars, no fake landmarks, no guaranteed returns.",
+      "title_tamil": "கோவையில் நில முதலீடு செய்யும் முறைகள் | OliveTree Investors",
+      "caption_tamil": "கோவையின் வளர்ந்து வரும் பகுதிகளில் சரியான நிலத்தை தேர்ந்தெடுத்து எப்படி லாபம் பார்ப்பது என்று தெரிந்து கொள்ளுங்கள். கோவையின் ரியல் எஸ்டேட் வாய்ப்புகள் பற்றி மேலும் அறிய ஒழிவு ட்ரீ இன்வெஸ்டர்ஸை தொடர்பு கொள்ளுங்கள்.",
+      "hashtags": "#CoimbatoreRealEstate #OliveTreeInvestors #LandInvestmentCoimbatore",
+      "telegram_prompt": "SOURCE URL: https://www.youtube.com/watch?v=hQp5jilYjT8\nCONTENT ID: INV-20260907-BWE4\nCOIMBATORE ANGLE: Applying high-efficiency land pooling and plotted development conversions in rapidly growing Coimbatore corridors rather than vertical high-rise models.\n\nTITLE: கோவையில் நில முதலீடு செய்யும் முறைகள் | OliveTree Investors\n\nCAPTION: கோவையின் வளர்ந்து வரும் பகுதிகளில் சரியான நிலத்தை தேர்ந்தெடுத்து எப்படி லாபம் பார்ப்பது என்று தெரிந்து கொள்ளுங்கள். கோவையின் ரியல் எஸ்டேட் வாய்ப்புகள் பற்றி மேலும் அறிய ஒழிவு ட்ரீ இன்வெஸ்டர்ஸை தொடர்பு கொள்ளுங்கள்.\n\nHASHTAGS: #CoimbatoreRealEstate #OliveTreeInvestors #LandInvestmentCoimbatore\n\nFINAL GEMINI PROMPT:\nOLIVETREE INVESTORS - COIMBATORE ONLY. Vertical 9:16 high-end real estate explainer video. Strictly Coimbatore, Tamil Nadu. Scene 1 (0-4s): Split-screen graphic showing a busy Coimbatore highway and a plotted land layout blueprint. Text overlay: Coimbatore Real Estate Strategy. Voice-over: கோவையில் நிலத்தை எப்படி புத்திசாலித்தனமா லாபகரமா மாத்துறதுனு தெரியுமா? Scene 2 (4-9s): Aerial drone shot panning over fast-growing suburban outskirts of Coimbatore with new tarmac roads. Voice-over: மும்பை மாதிரி பெரிய டவர்ஸ் இல்லாம,. Scene 3 (9-15s): Zoom-in map graphic highlighting Avinashi Road and Thudiyalur corridors with growth arrows. Voice-over: கோவையோட வளர்ந்து வரும் பகுதிகளில் ப்ளாட்டெட் டெவலப்மென்ட் எப்படி ஒர்க் அவுட் ஆகுதுன்னு பாப்போம். Scene 4 (15-22s): Comparison graphic showing an old congested layout transforming into a clean gated layout. Voice-over: கரக்டான லொகேஷன் செலக்ட் பண்ணா,. Scene 5 (22-30s): Clean financial growth chart going upwards with text overlays. Voice-over: இன்வெஸ்டர்ஸ்க்கு நல்ல ரிட்டர்ன்ஸ் கிடைக்க வாய்ப்பு இருக்கு. Scene 6 (30-36s): OliveTree Investors branded professional closing card with Coimbatore skyline silhouette and a checklist graphic. Voice-over: ஒழிவு ட்ரீ இன்வெஸ்டர்ஸ் கூட சேர்ந்து கோவையில் ஸ்மார்ட்டா இன்வெஸ்ட் பண்ணுங்க. No black bars, no fake landmarks, no guaranteed returns.\n\nUPLOAD INSTRUCTION: Generate the video using the prompt above, tag with CONTENT ID INV-20260907-BWE4, and publish for Coimbatore audience only."
+    }
+  },
+  {
     "contentId": "INV-20260907-YD4K",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
