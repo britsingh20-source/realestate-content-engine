@@ -4,13 +4,19 @@ function required(name) {
   return v;
 }
 
+function versionScore(name) {
+  const m = String(name).match(/gemini-(\d+)(?:\.(\d+))?/i);
+  return m ? Number(m[1]) * 100 + Number(m[2] || 0) : 0;
+}
+
 async function pickModel(apiKey) {
   if (process.env.GEMINI_TEXT_MODEL) return process.env.GEMINI_TEXT_MODEL;
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?key=${apiKey}`);
   if (!res.ok) throw new Error(`Gemini model list ${res.status}: ${await res.text()}`);
   const data = await res.json();
   const models = (data.models || []).filter(m => (m.supportedGenerationMethods || []).includes('generateContent'));
-  const preferred = models.find(m => /flash/i.test(m.name)) || models[0];
+  const flashModels = models.filter(m => /flash/i.test(m.name)).sort((a, b) => versionScore(b.name) - versionScore(a.name));
+  const preferred = flashModels[0] || models.sort((a, b) => versionScore(b.name) - versionScore(a.name))[0];
   if (!preferred?.name) throw new Error('No Gemini generateContent model available');
   return preferred.name.replace(/^models\//, '');
 }
