@@ -7,6 +7,7 @@ function required(name) {
 async function send(text) {
   const token = required('TELEGRAM_BOT_TOKEN');
   const chatId = required('TELEGRAM_CHAT_ID');
+  if (String(text).length > 4090) throw new Error(`Telegram message too long: ${String(text).length} chars`);
   const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
@@ -16,44 +17,34 @@ async function send(text) {
   return (await res.json()).result;
 }
 
-function chunks(text, size = 3800) {
-  const out = [];
-  for (let i = 0; i < text.length; i += size) out.push(text.slice(i, i + size));
-  return out;
-}
-
 export async function sendContentPack(candidate, pack) {
-  const label = candidate.nicheLabel || candidate.niche || 'CONTENT';
   const contentId = candidate.contentId || 'UNASSIGNED';
-  const head = [
-    `🔥 ${label} CONTENT OPPORTUNITY`,
+  const prefix = [
+    `🌿 OLIVETREE INVESTORS — COIMBATORE`,
     `CONTENT ID: ${contentId}`,
-    `Viral score: ${candidate.viralScore}/100`,
-    `Source creator: ${candidate.creator}`,
-    `Outlier: ${candidate.source.outlier.toFixed(2)}x`,
-    `Cross-creator confirmations: ${candidate.confirmations}`,
-    `Source signal: ${candidate.source.url}`,
-    ``,
-    `OUR ORIGINAL ANGLE`,
-    pack.original_angle,
-    ``,
-    `SELECTED HOOK`,
-    pack.selected_hook,
-    ``,
-    `TAMIL VOICEOVER`,
-    pack.voiceover_tamil,
-    ``,
-    `UPLOAD RULE: When the Gemini video is ready, upload it to this Telegram chat with the caption ${contentId}, or reply directly to this prompt message. The bot will route it to the matching YouTube + Instagram channel.`
+    `Transcript-backed YouTube research`,
+    ``
   ].join('\n');
 
-  let firstMessage = null;
-  for (const part of chunks(head)) {
-    const m = await send(part);
-    if (!firstMessage) firstMessage = m;
+  let body = String(pack.telegram_prompt || '').trim();
+  if (!body) {
+    body = [
+      `SOURCE: ${candidate.source.url}`,
+      `COIMBATORE ANGLE: ${pack.coimbatore_angle || pack.topic || ''}`,
+      ``,
+      `GEMINI PROMPT`,
+      pack.gemini_video_prompt || '',
+      ``,
+      `TITLE: ${pack.title_tamil || ''}`,
+      `CAPTION: ${pack.caption_tamil || ''}`,
+      `HASHTAGS: ${Array.isArray(pack.hashtags) ? pack.hashtags.join(' ') : (pack.hashtags || '')}`,
+      ``,
+      `UPLOAD: Send the finished video back with caption ${contentId}`
+    ].join('\n');
   }
-  await send(`🎬 GEMINI VIDEO PROMPT\nCONTENT ID: ${contentId}\n\n${pack.gemini_video_prompt}`);
-  await send(`📝 TITLE\n${pack.title_tamil}\n\nCAPTION\n${pack.caption_tamil}\n\n${Array.isArray(pack.hashtags) ? pack.hashtags.join(' ') : pack.hashtags}`);
-  return firstMessage;
+
+  const message = `${prefix}${body}`;
+  return send(message);
 }
 
 export async function sendStatus(text) {
