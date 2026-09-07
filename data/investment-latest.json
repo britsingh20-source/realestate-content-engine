@@ -1,0 +1,143 @@
+{
+  "scannedAt": "2026-09-07T18:28:53.397Z",
+  "niche": "investment",
+  "skippedCreators": [
+    {
+      "creator": "Abrar Teli",
+      "reason": "Could not resolve channel for Abrar Teli"
+    }
+  ],
+  "creators": [
+    {
+      "creator": {
+        "key": "mayank",
+        "name": "Real Estate With Mayank",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "handle": "@realestatewithmayank",
+        "language": "English",
+        "enabled": true,
+        "resolvedChannelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "resolution": "configured"
+      },
+      "baseline": {
+        "views": 9620,
+        "velocity": 29.9905556117145,
+        "engagement": 0.02391839606049947
+      },
+      "videoCount": 6
+    },
+    {
+      "creator": {
+        "key": "sanat-thakur",
+        "name": "Sanat Thakur",
+        "searchQuery": "Sanat Thakur real estate investment India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UC2K_S2pYqmRE4H78VD3SFMg",
+        "resolvedTitle": "Kapil Yaddav",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
+    },
+    {
+      "creator": {
+        "key": "rohit-gaikwad",
+        "name": "Rohit Gaikwad",
+        "searchQuery": "Rohit Gaikwad real estate India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCkb6UrUqyplN6z76ub0xXVg",
+        "resolvedTitle": "Rohit Gaikwad - Real Estate Coach & Author",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
+    },
+    {
+      "creator": {
+        "key": "samir-jasuja",
+        "name": "Samir Jasuja / PropEquity",
+        "searchQuery": "Samir Jasuja PropEquity",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCV3woQnwayM2cCaHQqRii8w",
+        "resolvedTitle": "Samir Jasuja-PropEquity",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
+    }
+  ],
+  "candidates": [
+    {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 573039,
+        "likes": 11518,
+        "comments": 504,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 436.96427666666665,
+        "velocity": 1311.409262952487,
+        "outlier": 59.567463617463616,
+        "velocityRatio": 43.72740805242843,
+        "engagementRatio": 0.9138947323470336
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "yfgQYu8baUA",
+        "title": "This Could Be a Game Changer For Indian Real Estate",
+        "description": "China is literally inflating giant air domes over construction sites to trap dust and noise pollution, and it's a mind-blowing sight from above.\n\nAs Indian cities keep building taller and denser, this could be a total game-changer for pollution control near residential zones.\n\nWould you want to see this in your city?\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-25T13:00:33Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 52,
+        "views": 19901,
+        "likes": 424,
+        "comments": 26,
+        "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
+        "ageHours": 317.47233222222224,
+        "velocity": 62.68577756271947,
+        "outlier": 2.068711018711019,
+        "velocityRatio": 2.0901839357132155,
+        "engagementRatio": 1
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 28,
+      "priority": "candidate"
+    }
+  ]
+}
