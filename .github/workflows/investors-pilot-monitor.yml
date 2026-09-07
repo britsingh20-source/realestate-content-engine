@@ -10,6 +10,7 @@ on:
       - 'src/multiNicheMonitor.js'
       - 'src/geminiText.js'
       - 'src/telegram.js'
+      - 'src/youtubeTranscript.js'
       - 'config/investment.creators.json'
       - 'config/niches.json'
       - 'package.json'
@@ -33,7 +34,9 @@ jobs:
         with:
           node-version: '20'
       - run: npm install
-      - name: Research YouTube and send OliveTree Investors prompt to Telegram
+      - name: Install YouTube transcript extractor
+        run: python -m pip install --upgrade yt-dlp
+      - name: Research YouTube transcript and send one Coimbatore prompt to Telegram
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
