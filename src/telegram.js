@@ -19,32 +19,38 @@ async function send(text) {
 
 export async function sendContentPack(candidate, pack) {
   const contentId = candidate.contentId || 'UNASSIGNED';
-  const prefix = [
+  const hashtags = Array.isArray(pack.hashtags) ? pack.hashtags.join(' ') : (pack.hashtags || '');
+
+  // Message 1: compact research/context only. Do not mix this with the copyable Gemini prompt.
+  const summary = [
     `🌿 OLIVETREE INVESTORS — COIMBATORE`,
     `CONTENT ID: ${contentId}`,
-    `Transcript-backed YouTube research`,
-    ``
+    `Source: ${candidate.source.url}`,
+    `Coimbatore angle: ${pack.coimbatore_angle || pack.topic || ''}`,
+    ``,
+    `✅ COPY THE ENTIRE NEXT MESSAGE DIRECTLY INTO GEMINI.`
   ].join('\n');
+  const firstMessage = await send(summary);
 
-  let body = String(pack.telegram_prompt || '').trim();
-  if (!body) {
-    body = [
-      `SOURCE: ${candidate.source.url}`,
-      `COIMBATORE ANGLE: ${pack.coimbatore_angle || pack.topic || ''}`,
-      ``,
-      `GEMINI PROMPT`,
-      pack.gemini_video_prompt || '',
-      ``,
-      `TITLE: ${pack.title_tamil || ''}`,
-      `CAPTION: ${pack.caption_tamil || ''}`,
-      `HASHTAGS: ${Array.isArray(pack.hashtags) ? pack.hashtags.join(' ') : (pack.hashtags || '')}`,
-      ``,
-      `UPLOAD: Send the finished video back with caption ${contentId}`
-    ].join('\n');
-  }
+  // Message 2: prompt only, deliberately no heading/prefix/suffix so Telegram "copy all" copies only the Gemini prompt.
+  const geminiPrompt = String(pack.gemini_video_prompt || '').trim();
+  if (!geminiPrompt) throw new Error('Missing gemini_video_prompt');
+  await send(geminiPrompt);
 
-  const message = `${prefix}${body}`;
-  return send(message);
+  // Message 3: publishing metadata kept separate from the generation prompt.
+  const publishInfo = [
+    `📝 PUBLISHING DETAILS — ${contentId}`,
+    `TITLE: ${pack.title_tamil || ''}`,
+    ``,
+    `CAPTION: ${pack.caption_tamil || ''}`,
+    ``,
+    `HASHTAGS: ${hashtags}`,
+    ``,
+    `UPLOAD RULE: After Gemini generates the video, upload it back here with caption ${contentId}.`
+  ].join('\n');
+  await send(publishInfo);
+
+  return firstMessage;
 }
 
 export async function sendStatus(text) {
