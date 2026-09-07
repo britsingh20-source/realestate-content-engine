@@ -1,5 +1,103 @@
 [
   {
+    "contentId": "INV-20260907-YD4K",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-07T19:04:47.547Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 573843,
+        "likes": 11525,
+        "comments": 504,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 437.5402305555556,
+        "velocity": 1311.520541257149,
+        "outlier": 59.62624688279302,
+        "velocityRatio": 43.797078824858545,
+        "engagementRatio": 0.9130325291591117
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 6328
+    },
+    "pack": {
+      "topic": "Urban Redevelopment and Joint Development Mechanism in Coimbatore",
+      "source_script_insight": "Underutilized land can be monetized by building vertically, freeing up ground coverage and cross-subsidizing construction costs between land owners and developers.",
+      "coimbatore_angle": "How Joint Development Agreements (JDA) and vertical infill redevelopment in core Coimbatore micro-markets like RS Puram, Gandhipuram, and Peelamedu multiply property yield without upfront land acquisition costs.",
+      "voiceover_tamil": "கோயம்பத்தூரில் பழைய மனைகளை நவீன கட்டிடங்களாக மாற்றுவது எப்படி பெரும் லாபம் தருகிறது தெரியுமா? நகரின் மையப்பகுதியில் புதிதாக இடம் வாங்குவது கடினம். ஆனால் 'Joint Development' மூலம் இருக்கும் நிலத்தை மறுசீரமைப்பு செய்யலாம். நில உரிமையாளருக்கு இலவச நவீன இடம், பில்டருக்கு விற்பனை செய்ய கூடுதல் தளங்கள் - இது இருவருக்கும் வெற்றி! கிடைமட்ட இடத்தை செங்குத்தாக மாற்றுவதன் மூலம், வாகன நிறுத்துமிடம் மற்றும் திறந்தவெளிகள் உருவாகின்றன. முதலீடு செய்வதற்கு முன் 3 விஷயங்களை கவனியுங்கள்: அனுமதிக்கப்பட்ட FSI, தெளிவான வில்லங்க சான்று, மற்றும் சரியான பகிர்வு விகிதம். சரியான மறுசீரமைப்பு, சொத்தின் வாடகை வருவாயை பல மடங்கு உயர்த்துகிறது. கோவையின் ரியல் எஸ்டேட் வளர்ச்சியை அறிய OliveTree Investors-ஐ பின்தொடருங்கள்!",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "duration_seconds": 4,
+          "visual_description": "9:16 split screen graphics showing an aging single-storey building on a busy Coimbatore street vs a sleek modern 5-storey vertical commercial building. Clean dynamic text overlay in English: 'Land Monetization in Coimbatore'.",
+          "voiceover_tamil": "கோயம்பத்தூரில் பழைய மனைகளை நவீன கட்டிடங்களாக மாற்றுவது எப்படி பெரும் லாபம் தருகிறது தெரியுமா?"
+        },
+        {
+          "scene_number": 2,
+          "duration_seconds": 4,
+          "visual_description": "Animated graphic map of Coimbatore highlighting prime central micro-markets (RS Puram, Gandhipuram, Peelamedu) with pulsing green pins.",
+          "voiceover_tamil": "நகரின் மையப்பகுதியில் புதிதாக இடம் வாங்குவது கடினம். ஆனால் 'Joint Development' மூலம் இருக்கும் நிலத்தை மறுசீரமைப்பு செய்யலாம்."
+        },
+        {
+          "scene_number": 3,
+          "duration_seconds": 5,
+          "visual_description": "High-contrast motion diagram: Landowner Plot + Developer Construction = Rebuilt Space for Owner + New Marketable Floors for Developer. Win-Win icon.",
+          "voiceover_tamil": "நில உரிமையாளருக்கு இலவச நவீன இடம், பில்டருக்கு விற்பனை செய்ய கூடுதல் தளங்கள் - இது இருவருக்கும் வெற்றி!"
+        },
+        {
+          "scene_number": 4,
+          "duration_seconds": 4,
+          "visual_description": "2D architectural transformation visual showing horizontal sprawl turning into vertical high-rise density with added ground parking and green spaces.",
+          "voiceover_tamil": "கிடைமட்ட இடத்தை செங்குத்தாக மாற்றுவதன் மூலம், வாகன நிறுத்துமிடம் மற்றும் திறந்தவெளிகள் உருவாகின்றன."
+        },
+        {
+          "scene_number": 5,
+          "duration_seconds": 5,
+          "visual_description": "Clean checklist visual graphic titled 'Coimbatore JDA Investment Rules': 1. Approved FSI Ratio, 2. Clear Legal Title, 3. Equitable Share Ratio.",
+          "voiceover_tamil": "முதலீடு செய்வதற்கு முன் 3 விஷயங்களை கவனியுங்கள்: அனுமதிக்கப்பட்ட FSI, தெளிவான வில்லங்க சான்று, மற்றும் சரியான பகிர்வு விகிதம்."
+        },
+        {
+          "scene_number": 6,
+          "duration_seconds": 4,
+          "visual_description": "Upward trending rental yield chart illustration comparing old retail structure vs modern redeveloped multi-tenant complex in Peelamedu.",
+          "voiceover_tamil": "சரியான மறுசீரமைப்பு, சொத்தின் வாடகை வருவாயை பல மடங்கு உயர்த்துகிறது."
+        },
+        {
+          "scene_number": 7,
+          "duration_seconds": 4,
+          "visual_description": "Elegant OliveTree Investors branded endcard featuring Coimbatore city skyline outline and clean call-to-action graphic.",
+          "voiceover_tamil": "கோவையின் ரியல் எஸ்டேட் வளர்ச்சியை அறிய OliveTree Investors-ஐ பின்தொடருங்கள்!"
+        }
+      ],
+      "gemini_video_prompt": "A professional vertical 9:16 portrait video created for OLIVETREE INVESTORS targeting COIMBATORE ONLY. High-quality 2D motion graphics, architectural maps, and modern urban planning diagrams. Scene 1: Split visual comparing older single-storey property in Coimbatore with a modern 5-storey redeveloped building. Scene 2: Stylized map of Coimbatore highlighting RS Puram, Gandhipuram, Peelamedu. Scene 3: Clean flowchart depicting Joint Development Agreement (JDA) mechanics between landowner and developer. Scene 4: Architectural 2D visual showing vertical FSI expansion freeing up ground parking space. Scene 5: Investor checklist with three points: FSI limits, legal title, and square-foot revenue share. Scene 6: Financial graph showing rental yield growth after redevelopment. Scene 7: Premium OliveTree Investors ending logo banner. Color palette: Emerald green, deep navy, and metallic gold accents. No real faces blocking text, strict 9:16 orientation, clean motion graphics.",
+      "title_tamil": "கோவையில் Joint Development மூலம் சொத்தின் மதிப்பை உயர்த்துவது எப்படி?",
+      "caption_tamil": "கோயம்பத்தூர் மையப்பகுதிகளில் பழைய மனைகளை நவீன கட்டிடங்களாக மறுசீரமைப்பதன் மூலம் அதிக வாடகை மற்றும் மூலதன வளர்ச்சியைப் பெறலாம். பில்டர்கள் மற்றும் நில உரிமையாளர்களுக்கான 'Joint Development' கணிப்புகளைப் புரிந்துகொள்ள இந்த வீடியோவைப்பாருங்கள். #CoimbatoreRealEstate #OliveTreeInvestors #PropertyInvestment",
+      "hashtags": [
+        "#CoimbatoreRealEstate",
+        "#OliveTreeInvestors",
+        "#PropertyInvestment"
+      ],
+      "telegram_prompt": "SOURCE URL: https://www.youtube.com/watch?v=hQp5jilYjT8\n\nCOIMBATORE ANGLE:\nUnlocking prime land value in core Coimbatore micro-markets (RS Puram, Gandhipuram, Peelamedu) using Joint Development Agreements (JDA) and vertical infill strategies without upfront land purchase costs.\n\nFINAL GEMINI PROMPT:\nCreate a 9:16 portrait video for OLIVETREE INVESTORS (COIMBATORE ONLY). Focus on high-end motion graphics, infographics, vector maps, and visual checklists. \nScene 1 (0-4s): 9:16 split graphic of an old Coimbatore house vs a multi-storey modern structure with text 'Land Monetization in Coimbatore'. VO (Tamil): கோயம்பத்தூரில் பழைய மனைகளை நவீன கட்டிடங்களாக மாற்றுவது எப்படி பெரும் லாபம் தருகிறது தெரியுமா?\nScene 2 (4-8s): Graphic map highlighting RS Puram and Peelamedu. VO (Tamil): நகரின் மையப்பகுதியில் புதிதாக இடம் வாங்குவது கடினம். ஆனால் 'Joint Development' மூலம் இருக்கும் நிலத்தை மறுசீரமைப்பு செய்யலாம்.\nScene 3 (8-13s): Joint Development mechanism graphic showing landowner + developer win-win. VO (Tamil): நில உரிமையாளருக்கு இலவச நவீன இடம், பில்டருக்கு விற்பனை செய்ய கூடுதல் தளங்கள் - இது இருவருக்கும் வெற்றி!\nScene 4 (13-17s): 2D vertical FSI expansion animation freeing ground parking. VO (Tamil): கிடைமட்ட இடத்தை செங்குத்தாக மாற்றுவதன் மூலம், வாகன நிறுத்துமிடம் மற்றும் திறந்தவெளிகள் உருவாகின்றன.\nScene 5 (17-22s): Investor Checklist overlay (FSI, Clear Title, Share Ratio). VO (Tamil): முதலீடு செய்வதற்கு முன் 3 விஷயங்களை கவனியுங்கள்: அனுமதிக்கப்பட்ட FSI, தெளிவான வில்லங்க சான்று, மற்றும் சரியான பகிர்வு விகிதம்.\nScene 6 (22-26s): Bar graph comparing rental yield before and after redevelopment. VO (Tamil): சரியான மறுசீரமைப்பு, சொத்தின் வாடகை வருவாயை பல மடங்கு உயர்த்துகிறது.\nScene 7 (26-30s): OliveTree Investors branded modern end card. VO (Tamil): கோவையின் ரியல் எஸ்டேட் வளர்ச்சியை அறிய OliveTree Investors-ஐ பின்தொடருங்கள்!\n\nTITLE:\nகோவையில் Joint Development மூலம் சொத்தின் மதிப்பை உயர்த்துவது எப்படி?\n\nCAPTION:\nகோயம்பத்தூர் மையப்பகுதிகளில் பழைய மனைகளை நவீன கட்டிடங்களாக மறுசீரமைப்பதன் மூலம் அதிக வாடகை மற்றும் மூலதன வளர்ச்சியைப் பெறலாம். பில்டர்கள் மற்றும் நில உரிமையாளர்களுக்கான 'Joint Development' கணிப்புகளைப் புரிந்துகொள்ள இந்த வீடியோவைப்பாருங்கள்.\n\nHASHTAGS:\n#CoimbatoreRealEstate #OliveTreeInvestors #PropertyInvestment\n\nUPLOAD INSTRUCTION:\nUpload completed video render to social channels under Content ID INV-20260907-YD4K."
+    }
+  },
+  {
     "contentId": "INV-20260907-FUO2",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
