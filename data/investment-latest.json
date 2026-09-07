@@ -1,10 +1,18 @@
 {
-  "scannedAt": "2026-09-07T18:48:31.743Z",
+  "scannedAt": "2026-09-07T18:51:20.247Z",
   "niche": "investment",
   "skippedCreators": [
     {
+      "creator": "Rohit Gaikwad",
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_location\": \"global\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"window_start_time\": \"1788764400\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_limit_value\": \"100\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+    },
+    {
+      "creator": "Samir Jasuja / PropEquity",
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_location\": \"global\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"window_start_time\": \"1788764400\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_limit_value\": \"100\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+    },
+    {
       "creator": "Abrar Teli",
-      "reason": "Could not resolve channel for Abrar Teli"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"service\": \"youtube.googleapis.com\",\n          \"window_start_time\": \"1788764400\",\n          \"quota_location\": \"global\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     }
   ],
   "creators": [
@@ -21,7 +29,7 @@
       },
       "baseline": {
         "views": 9624,
-        "velocity": 29.950311483040757,
+        "velocity": 29.945537787542523,
         "engagement": 0.023920800040203024
       },
       "videoCount": 6
@@ -36,44 +44,6 @@
         "needsChannelIdVerification": true,
         "resolvedChannelId": "UC2K_S2pYqmRE4H78VD3SFMg",
         "resolvedTitle": "Kapil Yaddav",
-        "resolution": "youtube-search"
-      },
-      "baseline": {
-        "views": 1,
-        "velocity": 1,
-        "engagement": 0.0001
-      },
-      "videoCount": 0
-    },
-    {
-      "creator": {
-        "key": "rohit-gaikwad",
-        "name": "Rohit Gaikwad",
-        "searchQuery": "Rohit Gaikwad real estate India",
-        "language": "English",
-        "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UCkb6UrUqyplN6z76ub0xXVg",
-        "resolvedTitle": "Rohit Gaikwad - Real Estate Coach & Author",
-        "resolution": "youtube-search"
-      },
-      "baseline": {
-        "views": 1,
-        "velocity": 1,
-        "engagement": 0.0001
-      },
-      "videoCount": 0
-    },
-    {
-      "creator": {
-        "key": "samir-jasuja",
-        "name": "Samir Jasuja / PropEquity",
-        "searchQuery": "Samir Jasuja PropEquity",
-        "language": "English",
-        "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UCV3woQnwayM2cCaHQqRii8w",
-        "resolvedTitle": "Samir Jasuja-PropEquity",
         "resolution": "youtube-search"
       },
       "baseline": {
@@ -97,15 +67,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 573389,
+        "views": 573539,
         "likes": 11524,
         "comments": 504,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 437.2915952777778,
-        "velocity": 1311.2280368337972,
-        "outlier": 59.57907315045719,
-        "velocityRatio": 43.78011352490523,
-        "engagementRatio": 0.9136825453721703
+        "ageHours": 437.33840194444446,
+        "velocity": 1311.430684911263,
+        "outlier": 59.594659185369906,
+        "velocityRatio": 43.793859847019476,
+        "engagementRatio": 0.9134435862398258
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -128,10 +98,10 @@
         "likes": 424,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 317.7996508333333,
-        "velocity": 62.614920903219684,
+        "ageHours": 317.8464575,
+        "velocity": 62.605700112294,
         "outlier": 2.067643391521197,
-        "velocityRatio": 2.090626701451006,
+        "velocityRatio": 2.0906520549561893,
         "engagementRatio": 1
       },
       "confirmations": 0,

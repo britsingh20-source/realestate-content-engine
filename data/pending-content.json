@@ -1,5 +1,109 @@
 [
   {
+    "contentId": "INV-20260907-FUO2",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-07T18:57:56.231Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 573539,
+        "likes": 11524,
+        "comments": 504,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 437.33840194444446,
+        "velocity": 1311.430684911263,
+        "outlier": 59.594659185369906,
+        "velocityRatio": 43.793859847019476,
+        "engagementRatio": 0.9134435862398258
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 4176
+    },
+    "pack": {
+      "topic": "Vertical Land Consolidation and Redevelopment Checklist for Coimbatore Investors",
+      "source_script_insight": "The source video highlights Mumbai's Slum Rehabilitation Authority (SRA) model, where low-rise, high-density informal structures are consolidated vertically into high-rise towers. This frees up premium ground space, allowing developers to build luxury commercial/residential units that fund the entire project. The core educational mechanism is 'vertical consolidation' to unlock massive land value and premium utility in prime, congested city centers.",
+      "coimbatore_angle": "Applying this to Coimbatore's high-demand, congested commercial hubs like Gandhipuram, RS Puram, and Town Hall. Instead of slum redevelopment, we frame this as a 'Vertical Consolidation Checklist' for local investors and landowners. We explain how merging small, fragmented, low-rise commercial plots into a single vertical joint-venture development unlocks premium rental yields, solves the parking crisis, and maximizes Floor Space Index (FSI) legally.",
+      "voiceover_tamil": "கோயம்புத்தூரின் மையப்பகுதிகளில் இருக்கும் பழைய, சிறிய இடங்களை எப்படி பிரீமியம் சொத்தாக மாற்றுவது? தனித்தனியாக இருக்கும் சிறிய கடைகளால் பார்க்கிங் வசதியோ, அதிக வாடகையோ கிடைக்காது. ஆனால், இந்த இடங்களை ஒன்றாக இணைத்து 'Vertical Consolidation' செய்யும்போது, அதிகப்படியான FSI மற்றும் பார்க்கிங் வசதியுடன் கூடிய பிரீமியம் வணிக வளாகத்தை உருவாக்க முடியும். இதற்கான 3 முக்கிய செக்லிஸ்ட்: கூட்டு ஒப்பந்தம், சாலை அகலம், மற்றும் FSI விதிகள். பழைய வாடகையை விட பல மடங்கு கூடுதல் வருமானம் பெற இதுவே சிறந்த வழி. முக்கியமாக, சாலையின் அகலம் குறைந்தது முப்பது அடியாக இருக்க வேண்டும் என்பதை உறுதிப்படுத்துங்கள். கோயம்புத்தூரில் ஸ்மார்ட் ரியல் எஸ்டேட் முதலீடுகளுக்கு, OliveTree Investors-ஐ தொடர்பு கொள்ளுங்கள்.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "duration_seconds": 4,
+          "visual_description": "A 3D digital map of Coimbatore's congested central areas like Gandhipuram, showing tightly packed, low-rise old commercial buildings. A glowing red boundary highlights three small adjacent plots.",
+          "text_overlay": "Coimbatore-ல் பழைய இடங்களின் மதிப்பு உயரப்போகிறதா?"
+        },
+        {
+          "scene_number": 2,
+          "duration_seconds": 4,
+          "visual_description": "Split screen graphic. Left side: Three old, single-story shops with zero parking space and congested traffic. Right side: A modern, sleek multi-story commercial building with a clear basement parking entrance.",
+          "text_overlay": "தனித்தனி கடைகள் Vs நவீன வணிக வளாகம்"
+        },
+        {
+          "scene_number": 3,
+          "duration_seconds": 4,
+          "visual_description": "An animated 2D diagram showing the three small red plot boundaries merging into one single large blue boundary. An arrow points upwards indicating vertical growth.",
+          "text_overlay": "Vertical Consolidation Model"
+        },
+        {
+          "scene_number": 4,
+          "duration_seconds": 5,
+          "visual_description": "A clean architectural rendering of a modern 4-story commercial building rising up, leaving ample open space at the ground level for car parking and a wide driveway.",
+          "text_overlay": "அதிக FSI & பார்க்கிங் வசதி"
+        },
+        {
+          "scene_number": 5,
+          "duration_seconds": 5,
+          "visual_description": "A checklist graphic slides onto the screen with three points ticking off one by one: 1. Joint Venture Agreement, 2. Road Width Feasibility, 3. Local FSI Norms.",
+          "text_overlay": "3 முக்கிய செக்லிஸ்ட்"
+        },
+        {
+          "scene_number": 6,
+          "duration_seconds": 4,
+          "visual_description": "A bar chart comparing rental yields. 'Old Fragmented Shops' shows a low red bar. 'Consolidated Modern Complex' shows a high green bar with a 3x growth arrow.",
+          "text_overlay": "உயர்ந்த வாடகை வருமானம்"
+        },
+        {
+          "scene_number": 7,
+          "duration_seconds": 4,
+          "visual_description": "A top-down road diagram showing a commercial plot. A measuring tape graphic measures the road width, highlighting 'Min 30 Feet Road' in green text with a checkmark.",
+          "text_overlay": "முக்கிய விதி: 30 அடி சாலை"
+        },
+        {
+          "scene_number": 8,
+          "duration_seconds": 4,
+          "visual_description": "A professional closing slide featuring the OliveTree Investors logo, with a clean corporate background and a call-to-action button.",
+          "text_overlay": "OliveTree Investors | கோயம்புத்தூர்"
+        }
+      ],
+      "gemini_video_prompt": "Create a 9:16 vertical social video for OLIVETREE INVESTORS, focused strictly on COIMBATORE ONLY. The video must explain the vertical land consolidation checklist for commercial plots. Use high-quality 2D and 3D motion graphics, localized maps of Coimbatore commercial zones, before/after split screens, plot-merging animations, and clear checklist overlays. Do not show any real people, camera operators, or religious symbols. Maintain a professional financial tone. Embed the Tamil voiceover naturally across the 8 scenes, ensuring a fast-paced visual change every 2-3 seconds.",
+      "title_tamil": "கோயம்புத்தூரில் பழைய இடங்களை பிரீமியம் சொத்தாக மாற்றுவது எப்படி?",
+      "caption_tamil": "கோயம்புத்தூரின் மையப்பகுதிகளில் இருக்கும் பழைய, சிறிய வணிக இடங்களை 'Vertical Consolidation' மூலம் எப்படி அதிக மதிப்புள்ள சொத்தாக மாற்றலாம் என்பதை இந்த வீடியோவில் பாருங்கள்! 🏢📈",
+      "hashtags": [
+        "#CoimbatoreRealEstate",
+        "#PropertyInvestment",
+        "#OliveTreeInvestors"
+      ],
+      "telegram_prompt": "SOURCE URL: https://www.youtube.com/watch?v=hQp5jilYjT8\n\nCOIMBATORE ANGLE: Translating Mumbai's vertical slum consolidation model into a practical 'Vertical Land Consolidation Checklist' for landowners and commercial investors in congested Coimbatore hubs like Gandhipuram and RS Puram. This explains how merging small plots solves parking and unlocks premium rental yields.\n\nFINAL GEMINI PROMPT:\nCreate a 9:16 vertical social video for OLIVETREE INVESTORS, focused strictly on COIMBATORE ONLY. Use high-quality 2D/3D motion graphics, localized maps of Coimbatore commercial zones, before/after split screens, plot-merging animations, and clear checklist overlays. Do not show any real people, camera operators, or religious symbols. Maintain a professional financial tone.\n\nSCENE-BY-SCENE SCRIPT & VISUALS:\n- Scene 1 (0-4s): 3D digital map of Coimbatore's congested central areas (e.g., Gandhipuram). Red boundary highlights three small adjacent plots.\n  VO: \"கோயம்புத்தூரின் மையப்பகுதிகளில் இருக்கும் பழைய, சிறிய இடங்களை எப்படி பிரீமியம் சொத்தாக மாற்றுவது?\"\n- Scene 2 (4-8s): Split screen. Left: Old shops with zero parking. Right: Modern multi-story commercial building with basement parking.\n  VO: \"தனித்தனியாக இருக்கும் சிறிய கடைகளால் பார்க்கிங் வசதியோ, அதிக வாடகையோ கிடைக்காது.\"\n- Scene 3 (8-12s): Animated diagram showing three small red plots merging into one large blue boundary with an upward arrow.\n  VO: \"ஆனால், இந்த இடங்களை ஒன்றாக இணைத்து 'Vertical Consolidation' செய்யும்போது...\"\n- Scene 4 (12-17s): Architectural rendering of a modern 4-story commercial building with wide driveways and ground-level open space.\n  VO: \"அதிகப்படியான FSI மற்றும் பார்க்கிங் வசதியுடன் கூடிய பிரீமியம் வணிக வளாகத்தை உருவாக்க முடியும்.\"\n- Scene 5 (17-22s): Checklist graphic ticking off: 1. Joint Venture Agreement, 2. Road Width, 3. FSI Norms.\n  VO: \"இதற்கான 3 முக்கிய செக்லிஸ்ட்: கூட்டு ஒப்பந்தம், சாலை அகலம், மற்றும் FSI விதிகள்.\"\n- Scene 6 (22-26s): Bar chart comparing low rental yield of old shops vs 3x higher yield of a consolidated modern complex.\n  VO: \"பழைய வாடகையை விட பல மடங்கு கூடுதல் வருமானம் பெற இதுவே சிறந்த வழி.\"\n- Scene 7 (26-30s): Top-down road diagram highlighting 'Min 30 Feet Road' in green with a checkmark.\n  VO: \"முக்கியமாக, சாலையின் அகலம் குறைந்தது முப்பது அடியாக இருக்க வேண்டும் என்பதை உறுதிப்படுத்துங்கள்.\"\n- Scene 8 (30-34s): Clean closing slide with OliveTree Investors logo and contact details.\n  VO: \"கோயம்புத்தூரில் ஸ்மார்ட் ரியல் எஸ்டேட் முதலீடுகளுக்கு, OliveTree Investors-ஐ தொடர்பு கொள்ளுங்கள்.\"\n\nTITLE: கோயம்புத்தூரில் பழைய இடங்களை பிரீமியம் சொத்தாக மாற்றுவது எப்படி?\n\nCAPTION: கோயம்புத்தூரின் மையப்பகுதிகளில் இருக்கும் பழைய, சிறிய வணிக இடங்களை 'Vertical Consolidation' மூலம் எப்படி அதிக மதிப்புள்ள சொத்தாக மாற்றலாம் என்பதை இந்த வீடியோவில் பாருங்கள்! 🏢📈\n\nHASHTAGS:\n#CoimbatoreRealEstate #PropertyInvestment #OliveTreeInvestors\n\nUPLOAD INSTRUCTION: Upload this completed video asset under CONTENT ID: INV-20260907-FUO2."
+    }
+  },
+  {
     "contentId": "INV-20260907-2EF0",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
