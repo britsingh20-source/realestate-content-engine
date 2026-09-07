@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-07T18:28:53.397Z",
+  "scannedAt": "2026-09-07T18:29:34.968Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -21,7 +21,7 @@
       },
       "baseline": {
         "views": 9620,
-        "velocity": 29.9905556117145,
+        "velocity": 29.999603141970027,
         "engagement": 0.02391839606049947
       },
       "videoCount": 6
@@ -101,10 +101,10 @@
         "likes": 11518,
         "comments": 504,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 436.96427666666665,
-        "velocity": 1311.409262952487,
+        "ageHours": 436.97582444444447,
+        "velocity": 1311.3746068871005,
         "outlier": 59.567463617463616,
-        "velocityRatio": 43.72740805242843,
+        "velocityRatio": 43.71306515893412,
         "engagementRatio": 0.9138947323470336
       },
       "confirmations": 0,
@@ -128,10 +128,10 @@
         "likes": 424,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 317.47233222222224,
-        "velocity": 62.68577756271947,
+        "ageHours": 317.48388,
+        "velocity": 62.68349750544815,
         "outlier": 2.068711018711019,
-        "velocityRatio": 2.0901839357132155,
+        "velocityRatio": 2.0894775577131792,
         "engagementRatio": 1
       },
       "confirmations": 0,
