@@ -17,40 +17,42 @@ async function send(text) {
   return (await res.json()).result;
 }
 
+async function sendPromptDocument({ contentId, prompt, caption }) {
+  const token = required('TELEGRAM_BOT_TOKEN');
+  const chatId = required('TELEGRAM_CHAT_ID');
+  const filename = `${contentId}-Gemini-Prompt.txt`;
+
+  const form = new FormData();
+  form.append('chat_id', chatId);
+  form.append('caption', caption);
+  form.append('document', new Blob([prompt], { type: 'text/plain;charset=utf-8' }), filename);
+
+  const res = await fetch(`https://api.telegram.org/bot${token}/sendDocument`, {
+    method: 'POST',
+    body: form
+  });
+  if (!res.ok) throw new Error(`Telegram sendDocument ${res.status}: ${await res.text()}`);
+  return (await res.json()).result;
+}
+
 export async function sendContentPack(candidate, pack) {
   const contentId = candidate.contentId || 'UNASSIGNED';
-  const hashtags = Array.isArray(pack.hashtags) ? pack.hashtags.join(' ') : (pack.hashtags || '');
-
-  // Message 1: compact research/context only. Do not mix this with the copyable Gemini prompt.
-  const summary = [
-    `🌿 OLIVETREE INVESTORS — COIMBATORE`,
-    `CONTENT ID: ${contentId}`,
-    `Source: ${candidate.source.url}`,
-    `Coimbatore angle: ${pack.coimbatore_angle || pack.topic || ''}`,
-    ``,
-    `✅ COPY THE ENTIRE NEXT MESSAGE DIRECTLY INTO GEMINI.`
-  ].join('\n');
-  const firstMessage = await send(summary);
-
-  // Message 2: prompt only, deliberately no heading/prefix/suffix so Telegram "copy all" copies only the Gemini prompt.
   const geminiPrompt = String(pack.gemini_video_prompt || '').trim();
   if (!geminiPrompt) throw new Error('Missing gemini_video_prompt');
-  await send(geminiPrompt);
 
-  // Message 3: publishing metadata kept separate from the generation prompt.
-  const publishInfo = [
-    `📝 PUBLISHING DETAILS — ${contentId}`,
-    `TITLE: ${pack.title_tamil || ''}`,
+  const sourceUrl = candidate.source?.url || '';
+  const topic = pack.topic || pack.coimbatore_angle || 'Property Investment';
+  const caption = [
+    `🌿 OliveTree Investors — Coimbatore`,
+    `Topic: ${topic}`,
+    `Content ID: ${contentId}`,
+    `Source research: ${sourceUrl}`,
     ``,
-    `CAPTION: ${pack.caption_tamil || ''}`,
-    ``,
-    `HASHTAGS: ${hashtags}`,
-    ``,
-    `UPLOAD RULE: After Gemini generates the video, upload it back here with caption ${contentId}.`
+    `Open the attached Gemini prompt file and copy all the text into Gemini.`,
+    `After generation, upload the finished MP4 back to this bot with caption: ${contentId}`
   ].join('\n');
-  await send(publishInfo);
 
-  return firstMessage;
+  return sendPromptDocument({ contentId, prompt: geminiPrompt, caption });
 }
 
 export async function sendStatus(text) {
