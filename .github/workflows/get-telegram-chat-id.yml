@@ -1,0 +1,22 @@
+name: Get Telegram Chat ID
+
+on:
+  workflow_dispatch:
+
+jobs:
+  get-chat-id:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read latest Telegram chat ID
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          RESPONSE=$(curl -sS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getUpdates")
+          CHAT_ID=$(printf '%s' "$RESPONSE" | python3 -c 'import json,sys; d=json.load(sys.stdin); r=d.get("result", []); ids=[]; [ids.append(str((u.get("message") or u.get("channel_post") or u.get("edited_message") or {}).get("chat",{}).get("id"))) for u in r if (u.get("message") or u.get("channel_post") or u.get("edited_message")) and (u.get("message") or u.get("channel_post") or u.get("edited_message")).get("chat",{}).get("id") is not None]; print(ids[-1] if ids else "")')
+          if [ -z "$CHAT_ID" ]; then
+            echo "No chat ID found. Send 'hello' to the bot and run this workflow again."
+            exit 1
+          fi
+          echo "TELEGRAM_CHAT_ID=$CHAT_ID"
