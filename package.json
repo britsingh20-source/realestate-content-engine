@@ -7,6 +7,7 @@
   "scripts": {
     "start": "node src/runAllNiches.js",
     "scan": "node src/runAllNiches.js",
+    "scan:investors": "node src/runInvestorsPilot.js",
     "telegram:publish": "node src/telegramIngest.js",
     "instagram:leads": "node src/leads/server.js",
     "score": "node src/scoring/demo.js"
