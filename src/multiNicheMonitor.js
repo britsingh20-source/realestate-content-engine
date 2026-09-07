@@ -32,12 +32,20 @@ function engagement(v) {
 export async function runNicheMonitor(config) {
   const after = new Date(Date.now() - config.scanWindowDays * DAY).toISOString();
   const creators = [];
+  const skippedCreators = [];
   for (const creator of config.creators.filter(c => c.enabled)) {
-    const resolved = await resolveChannel(creator);
-    const all = await recentVideos(resolved.resolvedChannelId, after, 35);
-    const videos = all.filter(v => v.durationSeconds >= 10 && v.durationSeconds <= config.sourceVideoMaxSeconds);
-    creators.push({ creator: resolved, videos });
+    try {
+      const resolved = await resolveChannel(creator);
+      const all = await recentVideos(resolved.resolvedChannelId, after, 35);
+      const videos = all.filter(v => v.durationSeconds >= 10 && v.durationSeconds <= config.sourceVideoMaxSeconds);
+      creators.push({ creator: resolved, videos });
+    } catch (error) {
+      skippedCreators.push({ creator: creator.name, reason: error.message });
+      console.warn(`Skipping creator ${creator.name}: ${error.message}`);
+    }
   }
+
+  if (!creators.length) throw new Error(`No usable creators resolved for ${config.niche}`);
 
   const now = Date.now();
   const enriched = creators.map(group => {
@@ -86,7 +94,13 @@ export async function runNicheMonitor(config) {
   }
 
   candidates.sort((a, b) => b.viralScore - a.viralScore || b.source.outlier - a.source.outlier);
-  return { scannedAt: new Date().toISOString(), niche: config.niche, creators: enriched.map(x => ({ creator: x.creator, baseline: x.baseline, videoCount: x.videos.length })), candidates };
+  return {
+    scannedAt: new Date().toISOString(),
+    niche: config.niche,
+    skippedCreators,
+    creators: enriched.map(x => ({ creator: x.creator, baseline: x.baseline, videoCount: x.videos.length })),
+    candidates
+  };
 }
 
 export async function saveNicheReport(report) {
