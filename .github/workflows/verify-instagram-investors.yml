@@ -1,0 +1,53 @@
+name: Verify OliveTree Investors Instagram
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/verify-instagram-investors.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Verify Instagram account and publishing permissions
+        env:
+          IG_USER_ID: ${{ secrets.INSTAGRAM_OLIVETREE_INVESTORS_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_OLIVETREE_INVESTORS_ACCESS_TOKEN }}
+          META_GRAPH_VERSION: ${{ secrets.META_GRAPH_VERSION }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ -z "${IG_USER_ID:-}" ] || [ -z "${IG_ACCESS_TOKEN:-}" ] || [ -z "${META_GRAPH_VERSION:-}" ]; then
+            echo "Missing one or more Instagram/Meta secrets."
+            exit 1
+          fi
+
+          BASE="https://graph.facebook.com/${META_GRAPH_VERSION}"
+
+          PROFILE_JSON=$(curl -sS -G "${BASE}/${IG_USER_ID}" \
+            --data-urlencode "fields=id,username,name,account_type,media_count" \
+            --data-urlencode "access_token=${IG_ACCESS_TOKEN}")
+
+          printf '%s' "$PROFILE_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); err=d.get('error');
+if err:
+ print('PROFILE_API_ERROR=' + str(err.get('message',''))); raise SystemExit(1)
+print('INSTAGRAM_ID=' + str(d.get('id','')))
+print('INSTAGRAM_USERNAME=' + str(d.get('username','')))
+print('INSTAGRAM_NAME=' + str(d.get('name','')))
+print('INSTAGRAM_ACCOUNT_TYPE=' + str(d.get('account_type','')))
+print('INSTAGRAM_MEDIA_COUNT=' + str(d.get('media_count','')))"
+
+          DEBUG_JSON=$(curl -sS -G "${BASE}/debug_token" \
+            --data-urlencode "input_token=${IG_ACCESS_TOKEN}" \
+            --data-urlencode "access_token=${IG_ACCESS_TOKEN}")
+
+          printf '%s' "$DEBUG_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); data=d.get('data',{}); print('TOKEN_VALID=' + str(data.get('is_valid',False)).lower()); print('TOKEN_TYPE=' + str(data.get('type',''))); print('TOKEN_SCOPES=' + ' '.join(data.get('scopes',[]) or []))"
+
+          echo "Instagram verification succeeded. No secret values were printed."
