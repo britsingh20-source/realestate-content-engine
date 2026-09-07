@@ -1,65 +1,73 @@
-import fs from 'node:fs/promises';
-import os from 'node:os';
-import path from 'node:path';
-import { execFile } from 'node:child_process';
-import { promisify } from 'node:util';
-
-const execFileAsync = promisify(execFile);
-
-function cleanVtt(raw) {
-  const lines = String(raw || '').split(/\r?\n/);
-  const out = [];
-  let previous = '';
-  for (let line of lines) {
-    line = line.trim();
-    if (!line || line === 'WEBVTT' || line.startsWith('Kind:') || line.startsWith('Language:')) continue;
-    if (/^\d+$/.test(line)) continue;
-    if (/\d{2}:\d{2}(?::\d{2})?[\.,]\d{3}\s+-->/.test(line)) continue;
-    line = line
-      .replace(/<[^>]+>/g, ' ')
-      .replace(/&nbsp;/g, ' ')
-      .replace(/&amp;/g, '&')
-      .replace(/&quot;/g, '"')
-      .replace(/&#39;/g, "'")
-      .replace(/\s+/g, ' ')
-      .trim();
-    if (!line || line === previous) continue;
-    out.push(line);
-    previous = line;
-  }
-  return out.join(' ').replace(/\s+/g, ' ').trim();
+function required(name) {
+  const v = process.env[name];
+  if (!v) throw new Error(`Missing ${name}`);
+  return v;
 }
 
+function versionScore(name) {
+  const m = String(name).match(/gemini-(\d+)(?:\.(\d+))?/i);
+  return m ? Number(m[1]) * 100 + Number(m[2] || 0) : 0;
+}
+
+async function modelCandidates(apiKey) {
+  if (process.env.GEMINI_TEXT_MODEL) return [process.env.GEMINI_TEXT_MODEL];
+  const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?key=${apiKey}`);
+  if (!res.ok) throw new Error(`Gemini model list ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  const names = (data.models || [])
+    .filter(m => (m.supportedGenerationMethods || []).includes('generateContent'))
+    .map(m => m.name.replace(/^models\//, ''));
+  const flash = names.filter(n => /flash/i.test(n)).sort((a, b) => versionScore(b) - versionScore(a));
+  const others = names.filter(n => !/flash/i.test(n)).sort((a, b) => versionScore(b) - versionScore(a));
+  return [...flash, ...others];
+}
+
+function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
+
 export async function extractYoutubeTranscript(url) {
-  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'olive-transcript-'));
-  const output = path.join(dir, '%(id)s.%(ext)s');
-  try {
-    await execFileAsync('yt-dlp', [
-      '--skip-download',
-      '--write-subs',
-      '--write-auto-subs',
-      '--sub-langs', 'en.*,en,ta.*,ta',
-      '--sub-format', 'vtt',
-      '--no-warnings',
-      '-o', output,
-      url
-    ], { maxBuffer: 10 * 1024 * 1024, timeout: 120000 });
+  const apiKey = required('GEMINI_API_KEY');
+  const models = await modelCandidates(apiKey);
+  const instruction = `Watch and listen to this public YouTube real-estate video carefully. Produce faithful SOURCE NOTES for an editorial research system. Do not reproduce the full transcript verbatim and do not copy the creator's wording. Instead capture, in detail, what is actually said and shown:\n- opening hook and first claim\n- main argument/mechanism\n- examples and comparisons actually used\n- any numbers, places, warnings or caveats actually stated\n- chronological point-by-point flow\n- closing takeaway/CTA\n- visible presentation mechanisms (maps, charts, before/after, presenter, footage, text overlays) when observable\n\nIMPORTANT: Distinguish clearly between facts stated in the video and your interpretation. Do not add external facts. Return compact plain text research notes, about 800-1800 words maximum. These notes will be transformed into a new original Coimbatore-focused video later.`;
 
-    const files = (await fs.readdir(dir)).filter(f => f.endsWith('.vtt'));
-    if (!files.length) return null;
-
-    const preferred = files.sort((a, b) => {
-      const score = f => (/\.en(?:[.-]|\.vtt$)/i.test(f) ? 0 : /\.ta(?:[.-]|\.vtt$)/i.test(f) ? 1 : 2);
-      return score(a) - score(b);
-    })[0];
-    const raw = await fs.readFile(path.join(dir, preferred), 'utf8');
-    const text = cleanVtt(raw);
-    if (text.length < 120) return null;
-    return { text, subtitleFile: preferred, chars: text.length };
-  } catch (err) {
-    console.warn(`Transcript unavailable for ${url}: ${err.message}`);
-    return null;
-  } finally {
-    await fs.rm(dir, { recursive: true, force: true });
+  let lastError = null;
+  for (const model of models.slice(0, 6)) {
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent?key=${apiKey}`;
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{
+            role: 'user',
+            parts: [
+              { file_data: { file_uri: url } },
+              { text: instruction }
+            ]
+          }],
+          generationConfig: { temperature: 0.15 }
+        })
+      });
+      if (res.ok) {
+        const data = await res.json();
+        const text = data.candidates?.[0]?.content?.parts?.map(p => p.text || '').join('').trim() || '';
+        if (text.length >= 120) {
+          return {
+            text,
+            subtitleFile: 'gemini-youtube-video-understanding',
+            chars: text.length,
+            model,
+            method: 'gemini_youtube_url'
+          };
+        }
+        lastError = new Error(`Gemini ${model} returned insufficient YouTube analysis`);
+        break;
+      }
+      const body = await res.text();
+      lastError = new Error(`Gemini YouTube analysis ${model} ${res.status}: ${body}`);
+      if (![429, 500, 502, 503, 504].includes(res.status)) break;
+      await sleep(attempt * 5000);
+    }
   }
+  console.warn(`YouTube video understanding unavailable for ${url}: ${lastError?.message || 'unknown error'}`);
+  return null;
 }
