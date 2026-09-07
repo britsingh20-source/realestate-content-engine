@@ -3,6 +3,7 @@ import { runNicheMonitor, saveNicheReport } from './multiNicheMonitor.js';
 import { generateContentPack } from './geminiText.js';
 import { sendContentPack } from './telegram.js';
 import { addPending, makeContentId } from './contentQueue.js';
+import { extractYoutubeTranscript } from './youtubeTranscript.js';
 
 async function loadJson(path) { return JSON.parse(await fs.readFile(path, 'utf8')); }
 
@@ -16,14 +17,36 @@ async function main() {
   const report = await runNicheMonitor(config);
   await saveNicheReport(report);
 
-  const selected = report.candidates.find(isActionable) || report.candidates[0];
-  if (!selected) {
-    console.log('investment: no breakout candidate found in current scan window');
+  const ordered = [
+    ...report.candidates.filter(isActionable),
+    ...report.candidates.filter(c => !isActionable(c))
+  ];
+
+  let selected = null;
+  let transcript = null;
+  for (const candidate of ordered.slice(0, 8)) {
+    transcript = await extractYoutubeTranscript(candidate.source.url);
+    if (transcript) {
+      selected = candidate;
+      break;
+    }
+    console.log(`Skipping ${candidate.source.id}: transcript/captions unavailable`);
+  }
+
+  if (!selected || !transcript) {
+    console.log('investment: no transcript-backed breakout candidate found in current scan window');
     return;
   }
 
   const contentId = makeContentId('investment');
-  const pack = await generateContentPack({ ...selected, niche: 'investment', contentId });
+  const pack = await generateContentPack({
+    ...selected,
+    niche: 'investment',
+    contentId,
+    transcript: transcript.text,
+    transcriptMeta: { subtitleFile: transcript.subtitleFile, chars: transcript.chars }
+  });
+
   const record = {
     contentId,
     niche: 'investment',
@@ -32,12 +55,13 @@ async function main() {
     status: 'awaiting_video',
     createdAt: new Date().toISOString(),
     candidate: selected,
+    transcriptMeta: { subtitleFile: transcript.subtitleFile, chars: transcript.chars },
     pack
   };
 
   await addPending(record);
-  await sendContentPack({ ...selected, niche: 'investment', contentId, nicheLabel: 'OLIVETREE INVESTORS — YOUTUBE RESEARCH' }, pack);
-  console.log(`investment: YouTube research prompt sent to Telegram as ${contentId}`);
+  await sendContentPack({ ...selected, niche: 'investment', contentId, nicheLabel: 'OLIVETREE INVESTORS — COIMBATORE RESEARCH' }, pack);
+  console.log(`investment: transcript-backed Coimbatore prompt sent to Telegram as ${contentId}`);
 }
 
 main().catch(err => { console.error(err); process.exitCode = 1; });
