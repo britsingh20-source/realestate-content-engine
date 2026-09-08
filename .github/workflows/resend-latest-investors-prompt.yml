@@ -1,0 +1,24 @@
+name: Resend Latest OliveTree Investors Prompt
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/resend-latest-investors-prompt.yml'
+  workflow_dispatch:
+
+jobs:
+  resend:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - name: Resend latest ready Gemini prompt to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node src/resendLatestPrompt.js
