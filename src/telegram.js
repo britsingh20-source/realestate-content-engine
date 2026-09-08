@@ -4,6 +4,10 @@ function required(name) {
   return v;
 }
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 async function send(text) {
   const token = required('TELEGRAM_BOT_TOKEN');
   const chatId = required('TELEGRAM_CHAT_ID');
@@ -21,18 +25,42 @@ async function sendPromptDocument({ contentId, prompt, caption }) {
   const token = required('TELEGRAM_BOT_TOKEN');
   const chatId = required('TELEGRAM_CHAT_ID');
   const filename = `${contentId}-Gemini-Prompt.txt`;
+  const endpoint = `https://api.telegram.org/bot${token}/sendDocument`;
 
-  const form = new FormData();
-  form.append('chat_id', chatId);
-  form.append('caption', caption);
-  form.append('document', new Blob([prompt], { type: 'text/plain;charset=utf-8' }), filename);
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    const form = new FormData();
+    form.append('chat_id', chatId);
+    form.append('caption', caption);
+    form.append('document', new Blob([prompt], { type: 'text/plain;charset=utf-8' }), filename);
 
-  const res = await fetch(`https://api.telegram.org/bot${token}/sendDocument`, {
-    method: 'POST',
-    body: form
-  });
-  if (!res.ok) throw new Error(`Telegram sendDocument ${res.status}: ${await res.text()}`);
-  return (await res.json()).result;
+    const res = await fetch(endpoint, { method: 'POST', body: form });
+    if (res.ok) return (await res.json()).result;
+
+    const bodyText = await res.text();
+    let retryAfter = null;
+    try {
+      const parsed = JSON.parse(bodyText);
+      retryAfter = Number(parsed?.parameters?.retry_after || 0) || null;
+    } catch {}
+
+    if (res.status === 429 && attempt < 4) {
+      const waitSeconds = retryAfter || (attempt * 5);
+      console.log(`Telegram rate limited; retrying sendDocument in ${waitSeconds}s (attempt ${attempt + 1}/4)`);
+      await sleep((waitSeconds + 1) * 1000);
+      continue;
+    }
+
+    if ([500, 502, 503, 504].includes(res.status) && attempt < 4) {
+      const waitSeconds = attempt * 5;
+      console.log(`Telegram temporary error ${res.status}; retrying sendDocument in ${waitSeconds}s (attempt ${attempt + 1}/4)`);
+      await sleep(waitSeconds * 1000);
+      continue;
+    }
+
+    throw new Error(`Telegram sendDocument ${res.status}: ${bodyText}`);
+  }
+
+  throw new Error('Telegram sendDocument failed after retries');
 }
 
 export async function sendContentPack(candidate, pack) {
