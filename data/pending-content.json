@@ -1,5 +1,124 @@
 [
   {
+    "contentId": "INV-20260908-776P",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-08T21:17:54.478Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 588166,
+        "likes": 11727,
+        "comments": 510,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 463.75419361111113,
+        "velocity": 1268.271011028779,
+        "outlier": 60.87414613951563,
+        "velocityRatio": 45.87017375852812,
+        "engagementRatio": 0.9080712568065779
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 4921
+    },
+    "pack": {
+      "topic": "Coimbatore Urban Land Optimization & Micro-Market Value Growth",
+      "source_script_insight": "The source demonstrates how structured urban land optimization and modern density planning unlock hidden land potential, driving exponential value appreciation for surrounding real estate.",
+      "coimbatore_angle": "Applying urban land optimization principles to Coimbatore's expanding micro-markets—showing how structured plot utilization and infrastructure density systematically elevate residential property values across the city.",
+      "core_takeaway": "Smart land optimization and infrastructure integration drive maximum long-term real estate value in expanding Coimbatore corridors.",
+      "voiceover_tamil": "கோவையின் நிலமதிப்பை உயர்த்தும் ரகசியம் என்ன? சரியான Urban Planning மற்றும் நிலத்தை முழுமையாகப் பயன்படுத்தும் முறைதான்! உள்கட்டமைப்பு வசதிகள் இணையம்போது, சுற்றியுள்ள இடங்களின் மதிப்பு பல்மடங்கு உயர்கிறது! ஸ்மார்ட் முதலீட்டிற்கு OliveTree Investors!",
+      "scenes": [
+        {
+          "scene": 1,
+          "start_sec": 0,
+          "end_sec": 1.3,
+          "purpose": "Visual Hook - Low drone sweep over land plot near Coimbatore bypass.",
+          "visual": "Low-altitude forward drone glide at 15 meters altitude capturing a prime residential land plot in Coimbatore with brown soil, coconut palms, and a newly laid 30-foot asphalt road under bright morning sun.",
+          "on_screen_text": "Land Value Secret",
+          "voiceover_tamil": "கோவையின் நிலமதிப்பை உயர்த்தும் ரகசியம் என்ன?"
+        },
+        {
+          "scene": 2,
+          "start_sec": 1.3,
+          "end_sec": 2.8,
+          "purpose": "Core Mechanism - Structured layout planning and boundary demarcation.",
+          "visual": "Eye-level 30mm stabilized tracking shot moving along concrete layout boundary posts marking clearly surveyed plot lines with lush green vegetation in the background.",
+          "on_screen_text": "Smart Planning",
+          "voiceover_tamil": "சரியான Urban Planning மற்றும்..."
+        },
+        {
+          "scene": 3,
+          "start_sec": 2.8,
+          "end_sec": 4.2,
+          "purpose": "Optimization Detail - Highlighting land efficiency and access routes.",
+          "visual": "Low-angle forward push showing a freshly laid blacktop tar road, concrete storm-water drainage edges, and electricity distribution poles.",
+          "on_screen_text": "Land Optimization",
+          "voiceover_tamil": "...நிலத்தை முழுமையாகப் பயன்படுத்தும் முறைதான்!"
+        },
+        {
+          "scene": 4,
+          "start_sec": 4.2,
+          "end_sec": 5.7,
+          "purpose": "Infrastructure Synergy - Connecting layout to major municipal corridors.",
+          "visual": "Slow panning camera shot at eye-level looking from the internal layout road toward a bustling Coimbatore arterial road with moving two-wheelers and cars.",
+          "on_screen_text": "Infrastructure",
+          "voiceover_tamil": "உள்கட்டமைப்பு வசதிகள் இணையம்போது..."
+        },
+        {
+          "scene": 5,
+          "start_sec": 5.7,
+          "end_sec": 7.1,
+          "purpose": "Appreciation Signal - Modern South Indian villa development taking shape.",
+          "visual": "Eye-level lateral slide showing contemporary G+1 South Indian residential houses built on optimized plots with clean compound walls.",
+          "on_screen_text": "Value Growth",
+          "voiceover_tamil": "...சுற்றியுள்ள இடங்களின் மதிப்பு..."
+        },
+        {
+          "scene": 6,
+          "start_sec": 7.1,
+          "end_sec": 8.5,
+          "purpose": "Macro Growth - Visualizing neighborhood transformation and residential density.",
+          "visual": "Elevated 25-meter drone tilt revealing a thriving, organized residential enclave framed by coconut trees and clear blue Coimbatore skies.",
+          "on_screen_text": "Value Multiplies",
+          "voiceover_tamil": "...பல்மடங்கு உயர்கிறது!"
+        },
+        {
+          "scene": 7,
+          "start_sec": 8.5,
+          "end_sec": 10,
+          "purpose": "Outro & Brand Call-to-Action - High-end real layout view with clean branding overlay.",
+          "visual": "Low-angle static-to-gentle forward tracking shot along a pristine residential site with a subtle transparent 'OliveTree Investors' logo graphic overlay.",
+          "on_screen_text": "OliveTree Investors",
+          "voiceover_tamil": "ஸ்மார்ட் முதலீட்டிற்கு OliveTree Investors!"
+        }
+      ],
+      "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10.0 SECONDS (Non-negotiable hard stop at 10.0s).\n- Aspect Ratio: Native Portrait 9:16 (Full-screen vertical composition, no black bars, no pillarboxing, no cropped landscape frames).\n- Target Audience / Context: OLIVETREE INVESTORS — COIMBATORE ONLY.\n\nB. REALISM LOCK\n- 100% Photorealistic real-world South Indian property footage. NOT 3D architectural render, NOT cartoon animation, NOT game engine visual, NOT CGI motion graphics, NOT glossy stock illustration.\n- Setting: Genuine Coimbatore, Tamil Nadu suburban and residential development environments. Authentic reddish-brown soil, real dark asphalt tar roads, stone drainage channels, white concrete survey boundary posts, concrete EB utility poles with overhead wiring, native coconut trees, neem foliage, standard modern G+1 South Indian homes, natural golden sunlight, atmospheric depth, realistic sky exposures, accurate shadow directions.\n\nC. CONTENT INTENT\n- Educational real-estate lesson for Coimbatore property buyers explaining how urban land optimization and layout infrastructure boost plot values across expanding micro-markets.\n\nD. CAMERA + IMAGE QUALITY\n- Filmed like high-end 4K smartphone/mirrorless footage on a 3-axis motorized gimbal or smooth low drone.\n- Natural 24mm to 35mm equivalent field of view. Realistic physical depth of field, sharp textures (concrete, asphalt, soil, leaf details), stable geometry, no unnatural fisheye distortion, no rapid whip pans, no speed ramping, no fake lens flare, no ultra-saturated fantasy color grading.\n\nE. EXACT 7-SHOT SEQUENCE PLAN (0.0s to 10.0s)\n\nShot 1 (0.0s - 1.3s):\n- Location: Expanding residential zone in suburban Coimbatore.\n- Visual: Low-altitude drone glide (15m height) moving smoothly forward over a clean residential plot with rich brown soil, coconut palm trees along the perimeter, and a newly laid 30ft asphalt road.\n- Camera: 24mm equivalent lens, smooth forward translation, low angle overlooking terrain.\n- Lighting: Bright early morning sunlight casting crisp, long shadows.\n- Overlay Text: 'Land Value Secret'\n- Tamil VO: 'கோவையின் நிலமதிப்பை உயர்த்தும் ரகசியம் என்ன?'\n\nShot 2 (1.3s - 2.8s):\n- Location: Surveyed layout boundary in Coimbatore.\n- Visual: Eye-level tracking shot moving laterally along concrete boundary stones with yellow surveyed paint, separating an optimized plot from lush native greenery.\n- Camera: 35mm lens, handheld gimbal lateral slide at walking pace.\n- Lighting: Direct sunlight showing concrete textures and dirt ground.\n- Overlay Text: 'Smart Planning'\n- Tamil VO: 'சரியான Urban Planning மற்றும்...'\n\nShot 3 (2.8s - 4.2s):\n- Location: Newly paved interior layout road.\n- Visual: Low-angle forward push along a freshly laid black asphalt road with neat concrete curb drains and concrete EB utility poles on the side.\n- Camera: 28mm lens, low height (0.8m above ground), forward track.\n- Lighting: Natural clear sunlight with sharp contrast on dark road asphalt.\n- Overlay Text: 'Land Optimization'\n- Tamil VO: '...நிலத்தை முழுமையாகப் பயன்படுத்தும் முறைதான்!'\n\nShot 4 (4.2s - 5.7s):\n- Location: Junction connecting private layout to main Coimbatore road corridor.\n- Visual: Eye-level pan shot moving from the quiet paved layout road toward a main road with moderate local auto and scooter traffic moving across the background frame.\n- Camera: 35mm lens, smooth horizontal pan from left to right.\n- Lighting: Natural ambient daytime exposure.\n- Overlay Text: 'Infrastructure'\n- Tamil VO: 'உள்கட்டமைப்பு வசதிகள் இணையம்போது...'\n\nShot 5 (5.7s - 7.1s):\n- Location: Modern residential neighborhood in Coimbatore.\n- Visual: Slow lateral camera movement highlighting contemporary G+1 South Indian individual houses built on structured plots with neat compound gates and parked two-wheelers.\n- Camera: 28mm lens, eye-level lateral glide.\n- Lighting: Afternoon sun highlighting clean exterior wall plaster.\n- Overlay Text: 'Value Growth'\n- Tamil VO: '...சுற்றியுள்ள இடங்களின் மதிப்பு...'\n\nShot 6 (7.1s - 8.5s):\n- Location: Aerial view of thriving layout enclave.\n- Visual: Elevated drone tilt (25m height) looking down at an organized grid of residential plots, modern houses, and paved roads surrounded by green canopy.\n- Camera: 24mm lens, aerial camera slowly descending and tilting upward slightly.\n- Lighting: Bright clear skylight, vivid real-world colors.\n- Overlay Text: 'Value Multiplies'\n- Tamil VO: '...பல்மடங்கு உயர்கிறது!'\n\nShot 7 (8.5s - 10.0s):\n- Location: Premium completed layout entry road in Coimbatore.\n- Visual: Low-angle ground-level forward track along a spotless plot access road framed by coconut palms under clear skies. Elegant, minimal, low-opacity 'OliveTree Investors' text overlay centered on screen.\n- Camera: 28mm lens, forward push-in motion.\n- Lighting: Warm late-afternoon golden glow.\n- Overlay Text: 'OliveTree Investors'\n- Tamil VO: 'ஸ்மார்ட் முதலீட்டிற்கு OliveTree Investors!'\n\nF. MOTION GRAPHICS LIMIT\n- Only subtle, minimal, semi-transparent 1-to-2 word lower-third text overlays in clean sans-serif typography on top of real footage. NO full-screen graphics, NO animated icons, NO 3D diagrams, NO whiteboard illustrations.\n\nG. FINAL REAL SCENE\n- Absolutely NO artificial end card graphic frame. Scene 7 must be a real physical ground footage shot of a premium Coimbatore land layout with a minimal logo text overlay.\n\nH. NEGATIVE PROMPT / STRICT BAN LIST\n- BAN 2D/3D cartoon animation, anime, architectural CAD visual, sketch animation, corporate motion graphic, game engine visuals.\n- BAN unreal plastic CGI surfaces, fake blue sky textures, hyper-saturated fantasy color grading, floaty camera paths, impossible wall clips.\n- BAN fake city landmarks, non-Tamil Nadu architectural styles, religious symbols, unverified numerical claims.\n- BAN landscape framing, black side bars, letterboxing, blurred side panels.\n- BAN presenter talking directly to camera, uncanny human faces, camera crew in reflection, duplicated people.",
+      "title_tamil": "கோவையில் நில மதிப்பு உயரும் ரகசியம்! | OliveTree Investors",
+      "caption_tamil": "கோவையின் வளர்ந்து வரும் பகுதிகளில் நில மதிப்பு எவ்வாறு உயர்கிறது? சரியான urban planning மற்றும் land optimization மூலமாக உங்கள் முதலீட்டை எவ்வாறு பெருக்குவது என்று தெரிந்துகொள்ளுங்கள். 🎯✨\n\n#CoimbatoreRealEstate #OliveTreeInvestors #TamilNaduProperty",
+      "hashtags": [
+        "#CoimbatoreRealEstate",
+        "#OliveTreeInvestors",
+        "#TamilNaduProperty"
+      ]
+    }
+  },
+  {
     "contentId": "INV-20260908-HN27",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
