@@ -1,5 +1,124 @@
 [
   {
+    "contentId": "INV-20260908-YK7M",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-08T23:30:31.061Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 589564,
+        "likes": 11736,
+        "comments": 510,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 465.9464483333333,
+        "velocity": 1265.3042041823483,
+        "outlier": 61.01252199110007,
+        "velocityRatio": 46.03988762237684,
+        "engagementRatio": 0.9072351672668083
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 3606
+    },
+    "pack": {
+      "topic": "Urban Density Transition: Identifying High-Growth Layouts in Emerging Coimbatore Corridors",
+      "source_script_insight": "The source breaks down urban densification and land consolidation mechanisms where horizontal footprints transition into structured, high-value vertical and planned developments, unlocking immense land equity.",
+      "coimbatore_angle": "In Coimbatore's expanding belts, raw fragmented peripheral plots rapidly transform into organized residential layouts and gated villa corridors. Investors must spot early layout consolidation and infrastructure indicators before commercial densities peak.",
+      "core_takeaway": "Invest where organized infrastructure and layout planning consolidate raw land into high-demand residential pockets.",
+      "voiceover_tamil": "கோவையில் நில வளர்ச்சி எப்படி நடக்குது தெரியுமா? முறையான திட்டமிடல் மற்றும் அடிப்படை வசதிகள் வரும்போது நிலத்தின் மதிப்பு பல மடங்கு உயரும். சரியான இடங்களை முன்கூட்டியே தேர்வு செய்யுங்கள்.",
+      "scenes": [
+        {
+          "scene": 1,
+          "start_sec": 0,
+          "end_sec": 1.4,
+          "purpose": "Attention Hook / Visual Juxtaposition",
+          "visual": "Low-altitude forward drone shot tracking over a clean newly laid asphalt residential layout road, bordered by white concrete boundary corner stones and lush green coconut trees in Coimbatore.",
+          "on_screen_text": "Land Growth",
+          "voiceover_tamil": "கோவையில் நில வளர்ச்சி"
+        },
+        {
+          "scene": 2,
+          "start_sec": 1.4,
+          "end_sec": 2.8,
+          "purpose": "Infrastructure Ground Reality",
+          "visual": "Eye-level stabilized tracking shot showcasing clean concrete drainage kerbs, pre-installed electricity poles with neat wiring, and clear red-gravel plot demarcations under morning sunlight.",
+          "on_screen_text": "Planned Infra",
+          "voiceover_tamil": "எப்படி நடக்குது தெரியுமா?"
+        },
+        {
+          "scene": 3,
+          "start_sec": 2.8,
+          "end_sec": 4.2,
+          "purpose": "Transition from Raw to Developed",
+          "visual": "Wide cinematic drone glide showing transitioning land parcels: raw open land evolving into systematically laid out DTCP-style plotted plots with tree saplings along the pathway.",
+          "on_screen_text": "Smart Layouts",
+          "voiceover_tamil": "முறையான திட்டமிடல்"
+        },
+        {
+          "scene": 4,
+          "start_sec": 4.2,
+          "end_sec": 5.6,
+          "purpose": "Community & Living Value",
+          "visual": "Slow smooth push-in shot at street level showing modern, newly constructed independent single-storey villas with parked family vehicles along a paved 30-foot layout street.",
+          "on_screen_text": "High Demand",
+          "voiceover_tamil": "அடிப்படை வசதிகள் வரும்போது"
+        },
+        {
+          "scene": 5,
+          "start_sec": 5.6,
+          "end_sec": 7,
+          "purpose": "Value Appreciation Driver",
+          "visual": "Low-angle side tracking shot of high-quality paver-block pedestrian pathways, green avenue plantations, and durable compound wall fencing under natural daylight.",
+          "on_screen_text": "Value Surge",
+          "voiceover_tamil": "நிலத்தின் மதிப்பு பல மடங்கு உயரும்."
+        },
+        {
+          "scene": 6,
+          "start_sec": 7,
+          "end_sec": 8.4,
+          "purpose": "Investor Selection Logic",
+          "visual": "Elevated dynamic forward tracking shot revealing connectivity to a wide arterial tar road connecting Coimbatore's vibrant peripheral suburbs.",
+          "on_screen_text": "Early Choice",
+          "voiceover_tamil": "சரியான இடங்களை"
+        },
+        {
+          "scene": 7,
+          "start_sec": 8.4,
+          "end_sec": 10,
+          "purpose": "Final Real Scene & Strategic Action",
+          "visual": "Crisp wide panoramic shot of an active, well-maintained residential development site with clear skies, realistic mountain silhouettes on the distant horizon, and sleek minimal branding.",
+          "on_screen_text": "OliveTree Investors",
+          "voiceover_tamil": "முன்கூட்டியே தேர்வு செய்யுங்கள்."
+        }
+      ],
+      "gemini_video_prompt": "GEMINI VIDEO PRODUCTION PROMPT: ULTRA-PHOTOREALISTIC COIMBATORE REAL ESTATE INVESTMENT INSIGHT\n\n1. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10.0 seconds total.\n- Aspect Ratio: Native Portrait 9:16 (vertical mobile format 1080x1920).\n- Brand: OliveTree Investors.\n- Geography & Target: Exclusively Coimbatore, Tamil Nadu, India.\n\n2. REALISM & VISUAL FIDELITY LOCK (CRITICAL)\n- Absolute 100% photorealistic physical-world camera footage. NOT an animation, NOT 3D architectural render, NOT cartoon, NOT whiteboard explainer, NOT game-engine visual, NOT corporate illustration.\n- Authentic Coimbatore physical environment: genuine red/brown porous topsoil, black-tar asphalt roadways with clean crushed aggregate edges, standard concrete layout boundary corner stones painted white with numbered markers, standard Tamil Nadu TANGEDCO concrete electricity poles with genuine distribution cables, concrete drainage gutters, indigenous coconut palms, neem trees, bougainvillea, and genuine South Indian contemporary residential villas.\n- Lighting: Natural bright South Indian morning sunlight, authentic sky exposure with faint atmospheric haze, sharp realistic cast shadows, accurate ground reflections, zero oversaturated color grading.\n\n3. CONTENT INTENT & THEMATIC MECHANISM\n- Translating urban densification and land consolidation mechanics into a Coimbatore property layout framework. Explaining how infrastructure installation (proper roads, drainage, EB poles) transforms peripheral land into high-yield gated communities.\n\n4. CAMERA & TECHNICAL SPECIFICATIONS\n- Style: Shot on iPhone 15 Pro / Sony FX3 stabilized gimbal rig & low-altitude DJI drone.\n- Focal Lengths: 24mm to 35mm equivalent wide-angle lenses for stable perspective without fisheye distortion.\n- Camera Dynamics: Controlled forward dolly pushes, stabilized walking eye-level tracks, and smooth low-altitude aerial glides. No snap zooms, no whip pans, no 360-degree spins, no morphing transitions.\n\n5. EXACT 7-SHOT SEQUENCE TIMELINE (10 SECONDS TOTAL)\n\n[Shot 1: 0.0s – 1.4s] Low Drone Glide (Layout Hook)\n- Visual: Low-altitude drone gliding forward at 4 meters height above a freshly laid black asphalt layout road in a Coimbatore peripheral corridor. Clear white boundary stones mark planned plots on red-loam soil. Lush coconut groves visible in the background under soft morning sun.\n- Motion Overlay: Tiny, elegant text overlay: 'Land Growth'.\n- VO (Tamil): 'கோவையில் நில வளர்ச்சி'\n\n[Shot 2: 1.4s – 2.8s] Eye-Level Stabilized Track (Infrastructure)\n- Visual: Eye-level tracking shot walking beside precast concrete storm-water drainage channels and durable standard concrete electricity poles with real wiring spanning cleanly along modern residential plot divisions.\n- Motion Overlay: Minimal text: 'Planned Infra'.\n- VO (Tamil): 'எப்படி நடக்குது தெரியுமா?'\n\n[Shot 3: 2.8s – 4.2s] Dynamic Wide Aerial (Consolidation)\n- Visual: Elevated 45-degree angle aerial shot capturing organized plotted layouts side-by-side with expanding greenery. Distinct geometric site boundaries with newly planted avenue saplings.\n- Motion Overlay: Minimal text: 'Smart Layouts'.\n- VO (Tamil): 'முறையான திட்டமிடல்'\n\n[Shot 4: 4.2s – 5.6s] Ground-Level Forward Dolly (Community Emergence)\n- Visual: Stabilized eye-level push along a clean 30-foot avenue showing newly built contemporary South Indian 2-storey villas with compound gates, paved driveways, and a parked scooter.\n- Motion Overlay: Minimal text: 'High Demand'.\n- VO (Tamil): 'அடிப்படை வசதிகள் வரும்போது'\n\n[Shot 5: 5.6s – 7.0s] Low-Angle Lateral Tracking (Quality Execution)\n- Visual: Low-angle tracking shot focusing on interlocking paver-block pedestrian pathways, clean kerb stones, and well-built perimeter boundary walls with clear sunlight glints.\n- Motion Overlay: Minimal text: 'Value Surge'.\n- VO (Tamil): 'நிலத்தின் மதிப்பு பல மடங்கு உயரும்.'\n\n[Shot 6: 7.0s – 8.4s] High-Angle Connecting Glide (Connectivity Corridor)\n- Visual: Smooth forward-moving aerial glide revealing the community access road merging seamlessly into a wide, busy arterial Coimbatore outer ring/connector road.\n- Motion Overlay: Minimal text: 'Early Choice'.\n- VO (Tamil): 'சரியான இடங்களை'\n\n[Shot 7: 8.4s – 10.0s] Wide Scenic Real-World Conclusion (Final Real Scene)\n- Visual: Beautiful wide cinematic eye-level view of a peaceful, premium developed Coimbatore residential layout against distant subtle Western Ghats hill outlines in natural daylight. No artificial end-card graphic.\n- Motion Overlay: Discreet, premium brand text: 'OliveTree Investors'.\n- VO (Tamil): 'முன்கூட்டியே தேர்வு செய்யுங்கள்.'\n\n6. STRICT NEGATIVE INSTRUCTIONS\n- DO NOT generate cartoons, 3D animated renders, CGI characters, or motion graphic explainers.\n- DO NOT create fake landmarks, non-existent skyscrapers, Mumbai/Chennai architecture, or fantasy futuristic buildings.\n- DO NOT use full-screen text slides, generic stock graphics, or artificial corporate title cards.\n- DO NOT show warped road geometry, floating streetlights, unrealistic camera speeds, or fisheye distortion.\n- Ensure 100% natural, physically accurate South Indian real-estate visual realism throughout all 10 seconds.",
+      "title_tamil": "கோவையில் நிலத்தின் மதிப்பு உயர்வது எப்படி? | Property Investment Guide",
+      "caption_tamil": "கோவையின் முன்னணி வளர்ச்சி பகுதிகளில் சரியான உட்கட்டமைப்பு உள்ள திட்டங்களை தேர்வு செய்வதன் மூலம் உங்கள் நில முதலீட்டின் மதிப்பை உயர்த்துங்கள். #OliveTreeInvestors",
+      "hashtags": [
+        "#CoimbatoreRealEstate",
+        "#LandInvestmentTamil",
+        "#OliveTreeInvestors"
+      ]
+    }
+  },
+  {
     "contentId": "INV-20260908-776P",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
