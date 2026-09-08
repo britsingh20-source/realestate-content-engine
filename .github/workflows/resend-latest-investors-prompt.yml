@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/resend-latest-investors-prompt.yml'
+      - 'src/resendLatestPrompt.js'
+      - 'src/telegram.js'
   workflow_dispatch:
 
 jobs:
@@ -17,7 +19,7 @@ jobs:
         with:
           node-version: '20'
       - run: npm install
-      - name: Resend latest ready Gemini prompt to Telegram
+      - name: Build Property-Monitor-level detailed prompt and send to Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
