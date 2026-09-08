@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-08T21:16:17.097Z",
+  "scannedAt": "2026-09-08T23:23:09.203Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -20,9 +20,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 9662,
-        "velocity": 27.64914337811907,
-        "engagement": 0.02386646736422521
+        "views": 9663,
+        "velocity": 27.483209399703856,
+        "engagement": 0.023852205955582115
       },
       "videoCount": 6
     },
@@ -97,15 +97,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 588166,
-        "likes": 11727,
+        "views": 589555,
+        "likes": 11736,
         "comments": 510,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 463.75419361111113,
-        "velocity": 1268.271011028779,
-        "outlier": 60.87414613951563,
-        "velocityRatio": 45.87017375852812,
-        "engagementRatio": 0.9080712568065779
+        "ageHours": 465.8686672222222,
+        "velocity": 1265.4961397495717,
+        "outlier": 61.0115906033323,
+        "velocityRatio": 46.046155721653385,
+        "engagementRatio": 0.9071135054642696
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -124,14 +124,14 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20070,
+        "views": 20082,
         "likes": 427,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 344.26224916666666,
-        "velocity": 58.29857920402876,
-        "outlier": 2.0772096874353134,
-        "velocityRatio": 2.108513034445942,
+        "ageHours": 346.3767227777778,
+        "velocity": 57.977337042027074,
+        "outlier": 2.0782365724930147,
+        "velocityRatio": 2.1095548266881745,
         "engagementRatio": 1
       },
       "confirmations": 0,
