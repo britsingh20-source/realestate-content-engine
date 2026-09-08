@@ -1,5 +1,124 @@
 [
   {
+    "contentId": "INV-20260908-LO44",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-08T02:32:00.203Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 577545,
+        "likes": 11550,
+        "comments": 504,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 444.99807111111113,
+        "velocity": 1297.8595582626544,
+        "outlier": 59.898879900435595,
+        "velocityRatio": 44.40043070488154,
+        "engagementRatio": 0.9109996012533783
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 4373
+    },
+    "pack": {
+      "topic": "Infrastructure-Driven Land Value Unlock in Coimbatore",
+      "source_script_insight": "Systematic spatial planning and modern infrastructure convert underutilized land into high-value, organized urban developments.",
+      "coimbatore_angle": "In Coimbatore, transitioning from unplanned parcels to structured gated layouts with wide roads and EB lines directly unlocks secure residential value.",
+      "core_takeaway": "Invest in well-planned layouts with complete infrastructure for sustainable growth in Coimbatore.",
+      "voiceover_tamil": "கோவையில் நிலத்தின் மதிப்பு எப்போது உயரும்? முறையான சாலைகள் மற்றும் உள்கட்டமைப்பு உள்ள திட்டமிட்ட மனைகளே நிலையான வளர்ச்சியை தரும்!",
+      "scenes": [
+        {
+          "scene": 1,
+          "start_sec": 0,
+          "end_sec": 1.5,
+          "purpose": "Visual hook comparing raw land with modern planned layout",
+          "visual": "Cinematic low-angle drone sweeping over a newly developed residential plotted layout in Coimbatore with fresh blacktop roads and coconut tree fringes.",
+          "on_screen_text": "Land Value Secret",
+          "voiceover_tamil": "கோவையில் நிலத்தின் மதிப்பு"
+        },
+        {
+          "scene": 2,
+          "start_sec": 1.5,
+          "end_sec": 3,
+          "purpose": "Highlighting infrastructure quality",
+          "visual": "Crisp ground-level camera track showing concrete curbstones, installed streetlights, and neatly aligned EB utility poles along a wide 30-foot road.",
+          "on_screen_text": "Planned Infrastructure",
+          "voiceover_tamil": "எப்போது உயரும்?"
+        },
+        {
+          "scene": 3,
+          "start_sec": 3,
+          "end_sec": 4.5,
+          "purpose": "Focus on clearly demarcated residential plots",
+          "visual": "Clear view of clean, leveled residential plots with yellow boundary boundary stones and fenced perimeters in a sunny Coimbatore suburb.",
+          "on_screen_text": "Clear Demarcation",
+          "voiceover_tamil": "முறையான சாலைகள்"
+        },
+        {
+          "scene": 4,
+          "start_sec": 4.5,
+          "end_sec": 6,
+          "purpose": "Showcasing emerging residential construction",
+          "visual": "Active construction of an elegant contemporary independent villa inside the gated layout, with masons working on brickwork under clear blue skies.",
+          "on_screen_text": "Active Development",
+          "voiceover_tamil": "மற்றும் உள்கட்டமைப்பு உள்ள"
+        },
+        {
+          "scene": 5,
+          "start_sec": 6,
+          "end_sec": 7.5,
+          "purpose": "Displaying livable modern community feel",
+          "visual": "Finished modern single-storey home with a parked scooter, neat paving stones, and avenue saplings along the pathway.",
+          "on_screen_text": "Gated Communities",
+          "voiceover_tamil": "திட்டமிட்ட மனைகளே"
+        },
+        {
+          "scene": 6,
+          "start_sec": 7.5,
+          "end_sec": 8.8,
+          "purpose": "Highlighting buyer confidence and family livability",
+          "visual": "A south Indian family walking together along the paved layout road, looking at available corner plots with satisfaction.",
+          "on_screen_text": "Secure Investment",
+          "voiceover_tamil": "நிலையான வளர்ச்சியை"
+        },
+        {
+          "scene": 7,
+          "start_sec": 8.8,
+          "end_sec": 10,
+          "purpose": "Real-world visual conclusion with brand overlay",
+          "visual": "Elevated panoramic sunset drone shot of the entire organized layout surrounded by lush Coimbatore greenery, with a subtle OliveTree Investors logo overlay.",
+          "on_screen_text": "OliveTree Investors",
+          "voiceover_tamil": "தரும்!"
+        }
+      ],
+      "gemini_video_prompt": "Create an EXACTLY 10-second vertical 9:16 photorealistic live-action video about Coimbatore property investment for OliveTree Investors. The video must contain EXACTLY 7 fast, realistic real-estate scenes with NO cartoon, NO 2D animation, NO 3D gaming render, and NO full-screen graphic card. At least 90% must look like genuine camera/drone footage shot in Coimbatore, Tamil Nadu. Scene 1 (0.0-1.5s): Drone gliding over a freshly laid residential layout in Coimbatore with blacktop roads. On-screen text: 'Land Value Secret'. Scene 2 (1.5-3.0s): Ground tracking shot of wide roads, concrete curbs, and EB poles. On-screen text: 'Planned Infrastructure'. Scene 3 (3.0-4.5s): Clean plotted residential land with boundary corner stones. On-screen text: 'Clear Demarcation'. Scene 4 (4.5-6.0s): Villa under construction inside the layout. On-screen text: 'Active Development'. Scene 5 (6.0-7.5s): Modern finished house with avenue trees. On-screen text: 'Gated Communities'. Scene 6 (7.5-8.8s): Real Tamil family walking along layout street. On-screen text: 'Secure Investment'. Scene 7 (8.8-10.0s): Real sunset aerial drone view of the layout with minimal subtle 'OliveTree Investors' text overlay. Natural sunlight, vivid photorealism, strict portrait 9:16 aspect ratio.",
+      "title_tamil": "கோவையில் நிலத்தின் மதிப்பு எப்படி உயர்கிறது?",
+      "caption_tamil": "முறையான உள்கட்டமைப்பு மற்றும் திட்டமிட்ட மனைகளே கோவையின் எதிர்கால வளர்ச்சிக்கு அடிப்படை. #CoimbatoreRealEstate #LandInvestment #OliveTreeInvestors",
+      "hashtags": [
+        "#CoimbatoreRealEstate",
+        "#LandInvestment",
+        "#OliveTreeInvestors"
+      ]
+    }
+  },
+  {
     "contentId": "INV-20260907-VXAK",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
