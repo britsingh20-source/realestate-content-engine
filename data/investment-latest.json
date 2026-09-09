@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-09T11:35:08.919Z",
+  "scannedAt": "2026-09-09T16:37:05.985Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -20,9 +20,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 9675,
-        "velocity": 26.510433528590088,
-        "engagement": 0.023875968992248062
+        "views": 9686,
+        "velocity": 26.149786134725034,
+        "engagement": 0.02384885401610572
       },
       "videoCount": 6
     },
@@ -97,15 +97,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 594762,
-        "likes": 11833,
-        "comments": 514,
+        "views": 596799,
+        "likes": 11875,
+        "comments": 515,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 478.0685883333333,
-        "velocity": 1244.0934512629017,
-        "outlier": 61.47410852713178,
-        "velocityRatio": 46.928446112403755,
-        "engagementRatio": 0.9056711192607567
+        "ageHours": 483.1011066666667,
+        "velocity": 1235.350099108308,
+        "outlier": 61.61459838942804,
+        "velocityRatio": 47.241307930539904,
+        "engagementRatio": 0.9066974763465542
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -124,15 +124,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20155,
-        "likes": 432,
+        "views": 20185,
+        "likes": 433,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 358.5766438888889,
-        "velocity": 56.20834581252139,
-        "outlier": 2.083204134366925,
-        "velocityRatio": 2.1202348785395637,
-        "engagementRatio": 1.0057766594606088
+        "ageHours": 363.6091622222222,
+        "velocity": 55.512902580996574,
+        "outlier": 2.083935577121619,
+        "velocityRatio": 2.122881705226623,
+        "engagementRatio": 1.00750096241798
       },
       "confirmations": 0,
       "peerMatches": [],
