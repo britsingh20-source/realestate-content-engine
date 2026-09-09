@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-09T16:46:58.554Z",
+  "scannedAt": "2026-09-09T20:55:05.250Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -20,9 +20,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 9686,
-        "velocity": 26.137111204029317,
-        "engagement": 0.02384885401610572
+        "views": 9691,
+        "velocity": 25.845945721525986,
+        "engagement": 0.02383654937570942
       },
       "videoCount": 6
     },
@@ -97,15 +97,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 596842,
-        "likes": 11875,
+        "views": 599190,
+        "likes": 11910,
         "comments": 515,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 483.26570944444444,
-        "velocity": 1235.0183104986309,
-        "outlier": 61.61903778649597,
-        "velocityRatio": 47.25152297275452,
-        "engagementRatio": 0.9066321525397797
+        "ageHours": 487.4009027777778,
+        "velocity": 1229.3575916357927,
+        "outlier": 61.829532555979775,
+        "velocityRatio": 47.56481364161936,
+        "engagementRatio": 0.9059961106223561
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -124,15 +124,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20185,
+        "views": 20206,
         "likes": 433,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 363.773765,
-        "velocity": 55.48778373283736,
-        "outlier": 2.083935577121619,
-        "velocityRatio": 2.122950133995042,
-        "engagementRatio": 1.00750096241798
+        "ageHours": 367.9089583333333,
+        "velocity": 54.92119597069701,
+        "outlier": 2.0850273449592405,
+        "velocityRatio": 2.1249443360455365,
+        "engagementRatio": 1.0069734119521312
       },
       "confirmations": 0,
       "peerMatches": [],
