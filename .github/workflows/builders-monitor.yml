@@ -11,6 +11,7 @@ on:
       - 'src/telegram.js'
       - 'src/youtubeTranscript.js'
       - 'src/multiNicheMonitor.js'
+      - 'src/contentQueue.js'
       - 'config/construction.creators.json'
       - 'config/niches.json'
       - 'package.json'
