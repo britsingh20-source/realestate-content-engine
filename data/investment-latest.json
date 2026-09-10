@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-09T23:22:05.960Z",
+  "scannedAt": "2026-09-10T04:40:46.224Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -20,9 +20,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 9694,
-        "velocity": 25.67167856443863,
-        "engagement": 0.023829172684134516
+        "views": 9704,
+        "velocity": 25.29799256226279,
+        "engagement": 0.023804616652926627
       },
       "videoCount": 6
     },
@@ -97,15 +97,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 600536,
-        "likes": 11919,
-        "comments": 513,
+        "views": 602102,
+        "likes": 11941,
+        "comments": 514,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 489.8510997222222,
-        "velocity": 1225.9562147365666,
-        "outlier": 61.94924695688054,
-        "velocityRatio": 47.75520274840178,
-        "engagementRatio": 0.9045947092458876
+        "ageHours": 495.16228416666667,
+        "velocity": 1215.969025212224,
+        "outlier": 62.046784830997524,
+        "velocityRatio": 48.06583060768602,
+        "engagementRatio": 0.9048471616342177
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -124,15 +124,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20218,
+        "views": 20224,
         "likes": 433,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 370.3591552777778,
-        "velocity": 54.59025303380455,
-        "outlier": 2.0856199711161545,
-        "velocityRatio": 2.126477740704693,
-        "engagementRatio": 1.0066872817886767
+        "ageHours": 375.6703397222222,
+        "velocity": 53.83443370843173,
+        "outlier": 2.084089035449299,
+        "velocityRatio": 2.1280120774775217,
+        "engagementRatio": 1.0074267768096883
       },
       "confirmations": 0,
       "peerMatches": [],
