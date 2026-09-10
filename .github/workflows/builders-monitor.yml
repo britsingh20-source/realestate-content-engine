@@ -1,0 +1,55 @@
+name: OliveTree Builders YouTube Research
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/builders-monitor.yml'
+      - 'src/runBrandPilot.js'
+      - 'src/geminiNicheText.js'
+      - 'src/telegram.js'
+      - 'src/youtubeTranscript.js'
+      - 'src/multiNicheMonitor.js'
+      - 'config/construction.creators.json'
+      - 'config/niches.json'
+      - 'package.json'
+  schedule:
+    - cron: '7 1,7,13,19 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: realestate-content-state
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - name: Analyze source videos and send Builders prompts to Telegram
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_TEXT_MODEL: ${{ secrets.GEMINI_TEXT_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: npm run scan:builders
+      - name: Persist Builders research state
+        if: always()
+        run: |
+          git config user.name "realestate-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update OliveTree Builders research state"
+            git pull --rebase origin main
+            git push origin main
+          fi
