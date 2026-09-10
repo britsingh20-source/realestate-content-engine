@@ -1,10 +1,22 @@
 {
-  "scannedAt": "2026-09-10T16:56:52.578Z",
+  "scannedAt": "2026-09-10T21:29:50.646Z",
   "niche": "construction",
   "skippedCreators": [
     {
+      "creator": "Civiconcepts / Bhushan Mahajan",
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"window_start_time\": \"1789023600\",\n          \"quota_location\": \"global\",\n          \"quota_limit_value\": \"100\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+    },
+    {
+      "creator": "Buildofy",
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"window_start_time\": \"1789023600\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+    },
+    {
       "creator": "Nemmadi Home Inspection",
-      "reason": "Could not resolve channel for Nemmadi Home Inspection"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_location\": \"global\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"quota_limit_value\": \"100\",\n          \"consumer\": \"projects/9212714057\",\n          \"window_start_time\": \"1789023600\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+    },
+    {
+      "creator": "Brick&Bolt",
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"window_start_time\": \"1789023600\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit_value\": \"100\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_location\": \"global\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     }
   ],
   "creators": [
@@ -21,68 +33,11 @@
         "resolution": "youtube-search"
       },
       "baseline": {
-        "views": 227.5,
+        "views": 228,
         "velocity": 1,
         "engagement": 0.01926993865030675
       },
       "videoCount": 17
-    },
-    {
-      "creator": {
-        "key": "civiconcepts",
-        "name": "Civiconcepts / Bhushan Mahajan",
-        "searchQuery": "Civiconcepts Bhushan Mahajan construction India",
-        "language": "English",
-        "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UC93fHoH7WbSN9E1vv8riq8A",
-        "resolvedTitle": "Civiconcepts - Bhushan Mahajan",
-        "resolution": "youtube-search"
-      },
-      "baseline": {
-        "views": 5614,
-        "velocity": 5.697836426767624,
-        "engagement": 0.010153188457427858
-      },
-      "videoCount": 2
-    },
-    {
-      "creator": {
-        "key": "buildofy",
-        "name": "Buildofy",
-        "searchQuery": "Buildofy India architecture construction",
-        "language": "English",
-        "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UCbr9s1iYnD4SRszBxzEPELg",
-        "resolvedTitle": "Buildofy",
-        "resolution": "youtube-search"
-      },
-      "baseline": {
-        "views": 13266,
-        "velocity": 26.398863818889257,
-        "engagement": 0.028013029315960912
-      },
-      "videoCount": 12
-    },
-    {
-      "creator": {
-        "key": "brick-bolt",
-        "name": "Brick&Bolt",
-        "searchQuery": "Brick and Bolt construction India",
-        "language": "English",
-        "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UCZIsO0XIk0B78rcrLEqhJOA",
-        "resolvedTitle": "Brick & Bolt",
-        "resolution": "youtube-search"
-      },
-      "baseline": {
-        "views": 565,
-        "velocity": 1,
-        "engagement": 0.017543859649122806
-      },
-      "videoCount": 8
     }
   ],
   "candidates": [
@@ -98,19 +53,19 @@
         "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
         "channelTitle": "Civil Guruji WB",
         "durationSeconds": 12,
-        "views": 1465,
+        "views": 1466,
         "likes": 9,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5ftYbg_wITY",
-        "ageHours": 304.9390477777778,
-        "velocity": 4.804238783704764,
-        "outlier": 6.43956043956044,
-        "velocityRatio": 4.804238783704764,
-        "engagementRatio": 0.3188045806155079
+        "ageHours": 309.4885125,
+        "velocity": 4.736847866041554,
+        "outlier": 6.4298245614035086,
+        "velocityRatio": 4.736847866041554,
+        "engagementRatio": 0.31858711500799397
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 56,
+      "viralScore": 55,
       "priority": "priority"
     },
     {
@@ -129,43 +84,16 @@
         "likes": 8,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=4a6wzd3cBLA",
-        "ageHours": 749.1257144444445,
-        "velocity": 2.7885840249779883,
-        "outlier": 9.182417582417582,
-        "velocityRatio": 2.7885840249779883,
+        "ageHours": 753.6751791666667,
+        "velocity": 2.7717510908476415,
+        "outlier": 9.162280701754385,
+        "velocityRatio": 2.7717510908476415,
         "engagementRatio": 0.19873356123683597
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 45,
       "priority": "priority"
-    },
-    {
-      "niche": "construction",
-      "creator": "Brick&Bolt",
-      "creatorKey": "brick-bolt",
-      "source": {
-        "id": "F37Qnxa4RSw",
-        "title": "Modern 3 BHK House Plan | 30×40 West Facing Floor Plan Tour",
-        "description": "This thoughtfully planned G+1 residence on a 30×40 west-facing plot features 3 spacious bedrooms, open living spaces, ample natural light, and functional layouts perfect for modern family living.\n\nFrom a practical ground floor to a private first floor and an open terrace ready for future possibilities, every detail is designed with comfort in mind.\n\nWould you build a home like this? Let us know in the comments!\n\n#floorplan #homedesigninspo #houseplan #architecture #fyp",
-        "publishedAt": "2026-07-30T13:44:29Z",
-        "channelId": "UCZIsO0XIk0B78rcrLEqhJOA",
-        "channelTitle": "Brick & Bolt",
-        "durationSeconds": 82,
-        "views": 2522,
-        "likes": 48,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=F37Qnxa4RSw",
-        "ageHours": 1011.2065477777778,
-        "velocity": 2.494050306084681,
-        "outlier": 4.463716814159292,
-        "velocityRatio": 2.494050306084681,
-        "engagementRatio": 1.084853291038858
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 45,
-      "priority": "strong"
     },
     {
       "niche": "construction",
@@ -183,10 +111,10 @@
         "likes": 15,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=nFuZaggoEKY",
-        "ageHours": 736.9379366666667,
-        "velocity": 1.6147899854126566,
-        "outlier": 5.230769230769231,
-        "velocityRatio": 1.6147899854126566,
+        "ageHours": 741.4874013888889,
+        "velocity": 1.6048822916896455,
+        "outlier": 5.219298245614035,
+        "velocityRatio": 1.6048822916896455,
         "engagementRatio": 0.6541298467811193
       },
       "confirmations": 0,
@@ -210,10 +138,10 @@
         "likes": 8,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=XGLmu3oF-8k",
-        "ageHours": 990.0332144444444,
-        "velocity": 1.8544832367369295,
-        "outlier": 8.07032967032967,
-        "velocityRatio": 1.8544832367369295,
+        "ageHours": 994.5826791666667,
+        "velocity": 1.846000376296854,
+        "outlier": 8.052631578947368,
+        "velocityRatio": 1.846000376296854,
         "engagementRatio": 0.22611895938112767
       },
       "confirmations": 0,
@@ -237,10 +165,10 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=MFVFvmDpKfI",
-        "ageHours": 322.04043666666666,
-        "velocity": 2.853678902911271,
-        "outlier": 4.039560439560439,
-        "velocityRatio": 2.853678902911271,
+        "ageHours": 326.5899013888889,
+        "velocity": 2.813926566901697,
+        "outlier": 4.030701754385965,
+        "velocityRatio": 2.813926566901697,
         "engagementRatio": 0.16940468284429422
       },
       "confirmations": 0,
@@ -264,10 +192,10 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=gyFtcDVkxSQ",
-        "ageHours": 1016.3543255555555,
-        "velocity": 1.1738032396801057,
-        "outlier": 5.243956043956044,
-        "velocityRatio": 1.1738032396801057,
+        "ageHours": 1020.9037902777778,
+        "velocity": 1.1685724074698522,
+        "outlier": 5.232456140350878,
+        "velocityRatio": 1.1685724074698522,
         "engagementRatio": 0.1739959804793589
       },
       "confirmations": 0,
@@ -291,10 +219,10 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=0ppRhMESvlI",
-        "ageHours": 316.9401588888889,
-        "velocity": 1.67223996434546,
-        "outlier": 2.32967032967033,
-        "velocityRatio": 1.67223996434546,
+        "ageHours": 321.4896236111111,
+        "velocity": 1.6485757582058476,
+        "outlier": 2.324561403508772,
+        "velocityRatio": 1.6485757582058476,
         "engagementRatio": 0.48956887903744145
       },
       "confirmations": 0,
@@ -318,10 +246,10 @@
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=JJg9H-a3EBg",
-        "ageHours": 362.78627,
-        "velocity": 1.3782219486972316,
-        "outlier": 2.197802197802198,
-        "velocityRatio": 1.3782219486972316,
+        "ageHours": 367.33573472222224,
+        "velocity": 1.3611526261611817,
+        "outlier": 2.192982456140351,
+        "velocityRatio": 1.3611526261611817,
         "engagementRatio": 0.7265202164915632
       },
       "confirmations": 0,
