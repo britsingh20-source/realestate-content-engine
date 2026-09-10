@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-10T11:19:24.193Z",
+  "scannedAt": "2026-09-10T11:32:29.867Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -21,7 +21,7 @@
       },
       "baseline": {
         "views": 9712,
-        "velocity": 24.876148389282655,
+        "velocity": 24.860998389523186,
         "engagement": 0.02378500823723229
       },
       "videoCount": 6
@@ -97,15 +97,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 604544,
+        "views": 604580,
         "likes": 11977,
         "comments": 515,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 501.80616444444445,
-        "velocity": 1204.7360969933436,
-        "outlier": 62.24711696869852,
-        "velocityRatio": 48.42936607953255,
-        "engagementRatio": 0.9045777868824662
+        "ageHours": 502.02440722222224,
+        "velocity": 1204.284077232885,
+        "outlier": 62.250823723229,
+        "velocityRatio": 48.440696482261515,
+        "engagementRatio": 0.9045239233733726
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -124,15 +124,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20283,
+        "views": 20284,
         "likes": 433,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 382.31422,
-        "velocity": 53.053218894133735,
-        "outlier": 2.088447281713344,
-        "velocityRatio": 2.1326942605387638,
-        "engagementRatio": 1.0053244426857797
+        "ageHours": 382.53246277777777,
+        "velocity": 53.02556507938376,
+        "outlier": 2.088550247116969,
+        "velocityRatio": 2.1328815620586488,
+        "engagementRatio": 1.0052748802502303
       },
       "confirmations": 0,
       "peerMatches": [],
