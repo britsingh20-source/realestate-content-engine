@@ -1,5 +1,5 @@
 import fs from 'node:fs/promises';
-import { findPending, markPublished } from './contentQueue.js';
+import { findPending, markPublished, savePublishProgress } from './contentQueue.js';
 import { uploadVideoToR2 } from './storage/r2.js';
 import { publishYouTubeShort } from './publish/youtube.js';
 import { publishInstagramReel } from './publish/instagram.js';
@@ -38,6 +38,10 @@ async function telegramFile(fileId) {
   return Buffer.from(await res.arrayBuffer());
 }
 
+function platformSucceeded(result) {
+  return !!result && !result.error;
+}
+
 async function handleMessage(message, niches) {
   const video = pickVideo(message);
   if (!video) return;
@@ -46,7 +50,7 @@ async function handleMessage(message, niches) {
     await sendStatus('Video received, but I could not identify its CONTENT ID. Upload it with the CONTENT ID as caption or reply directly to the original prompt message.');
     return;
   }
-  const pending = await findPending(contentId);
+  let pending = await findPending(contentId);
   if (!pending) {
     await sendStatus(`Video received for ${contentId}, but no pending content record was found.`);
     return;
@@ -60,23 +64,42 @@ async function handleMessage(message, niches) {
   if (!route) throw new Error(`Unknown niche route ${pending.niche}`);
   const bytes = await telegramFile(video.fileId);
   const key = `social-ready/${pending.niche}/${contentId}.mp4`;
-  const publicUrl = await uploadVideoToR2({ bytes, contentType: video.mimeType, key });
+  const publicUrl = pending.publishResult?.stagedVideo || await uploadVideoToR2({ bytes, contentType: video.mimeType, key });
 
   const title = pending.pack?.title_tamil || pending.pack?.selected_hook || contentId;
   const hashtags = Array.isArray(pending.pack?.hashtags) ? pending.pack.hashtags.join(' ') : (pending.pack?.hashtags || '');
   const caption = `${pending.pack?.caption_tamil || ''}\n\n${hashtags}`.trim();
 
-  const results = {};
-  try {
-    results.youtube = await publishYouTubeShort({ prefix: route.youtubeSecretPrefix, bytes, contentType: video.mimeType, title, description: caption });
-  } catch (e) { results.youtube = { error: e.message }; }
-  try {
-    results.instagram = await publishInstagramReel({ prefix: route.instagramSecretPrefix, videoUrl: publicUrl, caption });
-  } catch (e) { results.instagram = { error: e.message }; }
+  const results = { ...(pending.publishResult || {}), stagedVideo: publicUrl };
 
-  const success = !results.youtube?.error || !results.instagram?.error;
-  if (success) await markPublished(contentId, { ...results, stagedVideo: publicUrl });
-  await sendStatus(`${contentId} routed to ${route.label}.\nYouTube: ${results.youtube?.url || results.youtube?.error || 'unknown'}\nInstagram: ${results.instagram?.mediaId || results.instagram?.error || 'unknown'}`);
+  if (!platformSucceeded(results.youtube)) {
+    try {
+      results.youtube = await publishYouTubeShort({ prefix: route.youtubeSecretPrefix, bytes, contentType: video.mimeType, title, description: caption });
+    } catch (e) {
+      results.youtube = { error: e.message };
+    }
+    await savePublishProgress(contentId, { youtube: results.youtube, stagedVideo: publicUrl });
+  }
+
+  pending = await findPending(contentId) || pending;
+  if (!platformSucceeded(pending.publishResult?.instagram)) {
+    try {
+      results.instagram = await publishInstagramReel({ prefix: route.instagramSecretPrefix, videoUrl: publicUrl, caption });
+    } catch (e) {
+      results.instagram = { error: e.message };
+    }
+    await savePublishProgress(contentId, { instagram: results.instagram, stagedVideo: publicUrl });
+  } else {
+    results.instagram = pending.publishResult.instagram;
+  }
+
+  const youtubeOk = platformSucceeded(results.youtube);
+  const instagramOk = platformSucceeded(results.instagram);
+  if (youtubeOk && instagramOk) {
+    await markPublished(contentId, { ...results, stagedVideo: publicUrl });
+  }
+
+  await sendStatus(`${contentId} routed to ${route.label}.\nYouTube: ${results.youtube?.url || results.youtube?.error || 'unknown'}\nInstagram: ${results.instagram?.mediaId || results.instagram?.error || 'unknown'}\nStatus: ${youtubeOk && instagramOk ? 'published on both platforms' : 'partial; safe to retry without duplicating successful platform'}`);
 }
 
 async function main() {
@@ -92,9 +115,14 @@ async function main() {
   for (const u of updates) {
     nextOffset = Math.max(nextOffset, u.update_id + 1);
     if (String(u.message?.chat?.id || '') !== chatId) continue;
-    await handleMessage(u.message, niches);
+    try {
+      await handleMessage(u.message, niches);
+    } catch (e) {
+      await saveOffset(nextOffset);
+      throw e;
+    }
+    await saveOffset(nextOffset);
   }
-  if (nextOffset !== offset) await saveOffset(nextOffset);
 }
 
 main().catch(async e => {
