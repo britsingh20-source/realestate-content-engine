@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-10T12:58:32.036Z",
+  "scannedAt": "2026-09-10T16:56:52.578Z",
   "niche": "construction",
   "skippedCreators": [
     {
@@ -25,7 +25,7 @@
         "velocity": 1,
         "engagement": 0.01926993865030675
       },
-      "videoCount": 18
+      "videoCount": 17
     },
     {
       "creator": {
@@ -40,9 +40,9 @@
         "resolution": "youtube-search"
       },
       "baseline": {
-        "views": 5613,
-        "velocity": 5.719882308697107,
-        "engagement": 0.010154997327632281
+        "views": 5614,
+        "velocity": 5.697836426767624,
+        "engagement": 0.010153188457427858
       },
       "videoCount": 2
     },
@@ -59,9 +59,9 @@
         "resolution": "youtube-search"
       },
       "baseline": {
-        "views": 13250,
-        "velocity": 26.76765159255452,
-        "engagement": 0.02805172035941267
+        "views": 13266,
+        "velocity": 26.398863818889257,
+        "engagement": 0.028013029315960912
       },
       "videoCount": 12
     },
@@ -78,7 +78,7 @@
         "resolution": "youtube-search"
       },
       "baseline": {
-        "views": 564,
+        "views": 565,
         "velocity": 1,
         "engagement": 0.017543859649122806
       },
@@ -98,15 +98,15 @@
         "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
         "channelTitle": "Civil Guruji WB",
         "durationSeconds": 12,
-        "views": 1462,
+        "views": 1465,
         "likes": 9,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5ftYbg_wITY",
-        "ageHours": 300.966675,
-        "velocity": 4.857680671788662,
-        "outlier": 6.426373626373627,
-        "velocityRatio": 4.857680671788662,
-        "engagementRatio": 0.31945876238147686
+        "ageHours": 304.9390477777778,
+        "velocity": 4.804238783704764,
+        "outlier": 6.43956043956044,
+        "velocityRatio": 4.804238783704764,
+        "engagementRatio": 0.3188045806155079
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -129,10 +129,10 @@
         "likes": 8,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=4a6wzd3cBLA",
-        "ageHours": 745.1533416666666,
-        "velocity": 2.8034498178959835,
+        "ageHours": 749.1257144444445,
+        "velocity": 2.7885840249779883,
         "outlier": 9.182417582417582,
-        "velocityRatio": 2.8034498178959835,
+        "velocityRatio": 2.7885840249779883,
         "engagementRatio": 0.19873356123683597
       },
       "confirmations": 0,
@@ -152,15 +152,15 @@
         "channelId": "UCZIsO0XIk0B78rcrLEqhJOA",
         "channelTitle": "Brick & Bolt",
         "durationSeconds": 82,
-        "views": 2520,
+        "views": 2522,
         "likes": 48,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=F37Qnxa4RSw",
-        "ageHours": 1007.234175,
-        "velocity": 2.501900811695552,
-        "outlier": 4.468085106382978,
-        "velocityRatio": 2.501900811695552,
-        "engagementRatio": 1.0857142857142859
+        "ageHours": 1011.2065477777778,
+        "velocity": 2.494050306084681,
+        "outlier": 4.463716814159292,
+        "velocityRatio": 2.494050306084681,
+        "engagementRatio": 1.084853291038858
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -183,10 +183,10 @@
         "likes": 15,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=nFuZaggoEKY",
-        "ageHours": 732.9655638888889,
-        "velocity": 1.6235414849317442,
+        "ageHours": 736.9379366666667,
+        "velocity": 1.6147899854126566,
         "outlier": 5.230769230769231,
-        "velocityRatio": 1.6235414849317442,
+        "velocityRatio": 1.6147899854126566,
         "engagementRatio": 0.6541298467811193
       },
       "confirmations": 0,
@@ -206,42 +206,15 @@
         "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
         "channelTitle": "Civil Guruji WB",
         "durationSeconds": 31,
-        "views": 1835,
+        "views": 1836,
         "likes": 8,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=XGLmu3oF-8k",
-        "ageHours": 986.0608416666666,
-        "velocity": 1.8609399364226182,
-        "outlier": 8.065934065934066,
-        "velocityRatio": 1.8609399364226182,
-        "engagementRatio": 0.22624218497207105
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 40,
-      "priority": "priority"
-    },
-    {
-      "niche": "construction",
-      "creator": "Civil Guruji",
-      "creatorKey": "civil-guruji",
-      "source": {
-        "id": "b0omdEnQFGI",
-        "title": "How to cut Aluminium sheets quick and efficiently?? 🤔 #trending #skills",
-        "description": "Sheets cutting techniques #shorts #video",
-        "publishedAt": "2026-07-27T13:44:36Z",
-        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
-        "channelTitle": "Civil Guruji WB",
-        "durationSeconds": 16,
-        "views": 1750,
-        "likes": 12,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=b0omdEnQFGI",
-        "ageHours": 1079.2322305555556,
-        "velocity": 1.62152310731042,
-        "outlier": 7.6923076923076925,
-        "velocityRatio": 1.62152310731042,
-        "engagementRatio": 0.35584663664892885
+        "ageHours": 990.0332144444444,
+        "velocity": 1.8544832367369295,
+        "outlier": 8.07032967032967,
+        "velocityRatio": 1.8544832367369295,
+        "engagementRatio": 0.22611895938112767
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -264,15 +237,15 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=MFVFvmDpKfI",
-        "ageHours": 318.0680638888889,
-        "velocity": 2.889318684698365,
+        "ageHours": 322.04043666666666,
+        "velocity": 2.853678902911271,
         "outlier": 4.039560439560439,
-        "velocityRatio": 2.889318684698365,
+        "velocityRatio": 2.853678902911271,
         "engagementRatio": 0.16940468284429422
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 40,
+      "viralScore": 39,
       "priority": "strong"
     },
     {
@@ -291,10 +264,10 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=gyFtcDVkxSQ",
-        "ageHours": 1012.3819527777778,
-        "velocity": 1.1784089954652408,
+        "ageHours": 1016.3543255555555,
+        "velocity": 1.1738032396801057,
         "outlier": 5.243956043956044,
-        "velocityRatio": 1.1784089954652408,
+        "velocityRatio": 1.1738032396801057,
         "engagementRatio": 0.1739959804793589
       },
       "confirmations": 0,
@@ -318,10 +291,10 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=0ppRhMESvlI",
-        "ageHours": 312.96778611111114,
-        "velocity": 1.6934650258600008,
+        "ageHours": 316.9401588888889,
+        "velocity": 1.67223996434546,
         "outlier": 2.32967032967033,
-        "velocityRatio": 1.6934650258600008,
+        "velocityRatio": 1.67223996434546,
         "engagementRatio": 0.48956887903744145
       },
       "confirmations": 0,
@@ -345,10 +318,10 @@
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=JJg9H-a3EBg",
-        "ageHours": 358.81389722222224,
-        "velocity": 1.3934800292596743,
+        "ageHours": 362.78627,
+        "velocity": 1.3782219486972316,
         "outlier": 2.197802197802198,
-        "velocityRatio": 1.3934800292596743,
+        "velocityRatio": 1.3782219486972316,
         "engagementRatio": 0.7265202164915632
       },
       "confirmations": 0,
