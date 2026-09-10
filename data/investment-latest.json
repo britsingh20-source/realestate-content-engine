@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-10T16:32:40.723Z",
+  "scannedAt": "2026-09-10T20:50:45.917Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -20,9 +20,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 9716,
-        "velocity": 24.529697586734702,
-        "engagement": 0.02377521613832853
+        "views": 9725,
+        "velocity": 24.264469077038857,
+        "engagement": 0.023753213367609254
       },
       "videoCount": 6
     },
@@ -97,15 +97,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 606166,
-        "likes": 12005,
+        "views": 608103,
+        "likes": 12020,
         "comments": 516,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 507.02742277777776,
-        "velocity": 1195.5290242075785,
-        "outlier": 62.38843145327295,
-        "velocityRatio": 48.738025406970486,
-        "engagementRatio": 0.9046104882360957
+        "ageHours": 511.32886583333334,
+        "velocity": 1189.2600645749774,
+        "outlier": 62.52987146529563,
+        "velocityRatio": 49.01240825831043,
+        "engagementRatio": 0.9036027610183633
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -124,15 +124,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20309,
+        "views": 20368,
         "likes": 433,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 387.53547833333334,
-        "velocity": 52.40552448860306,
-        "outlier": 2.09026348291478,
-        "velocityRatio": 2.1364113562061684,
-        "engagementRatio": 1.0044509300996571
+        "ageHours": 391.83692138888887,
+        "velocity": 51.980808566493515,
+        "outlier": 2.09439588688946,
+        "velocityRatio": 2.1422602901986534,
+        "engagementRatio": 1.002469071253439
       },
       "confirmations": 0,
       "peerMatches": [],
