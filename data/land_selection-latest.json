@@ -1,0 +1,59 @@
+{
+  "scannedAt": "2026-09-10T12:58:11.465Z",
+  "niche": "land_selection",
+  "skippedCreators": [
+    {
+      "creator": "Nemmadi Home Inspection",
+      "reason": "Could not resolve channel for Nemmadi Home Inspection"
+    },
+    {
+      "creator": "Civiconcepts / Bhushan Mahajan",
+      "reason": "Could not resolve channel for Civiconcepts / Bhushan Mahajan"
+    },
+    {
+      "creator": "Harry Dutt",
+      "reason": "Could not resolve channel for Harry Dutt"
+    }
+  ],
+  "creators": [
+    {
+      "creator": {
+        "key": "paul-kuriakose",
+        "name": "Paul Kuriakose",
+        "searchQuery": "Paul Kuriakose property plot buying India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UC46bBqt3sf_0jpb0_EV3_sA",
+        "resolvedTitle": "Baiju N Nair",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
+    },
+    {
+      "creator": {
+        "key": "search-my-property",
+        "name": "Search My Property / Hardeep Singh",
+        "searchQuery": "Search My Property Hardeep Singh land buying India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCVmEbEQUGXHVm-O9pqa3JWg",
+        "resolvedTitle": "Harsh Beniwal",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
+    }
+  ],
+  "candidates": []
+}

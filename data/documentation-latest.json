@@ -1,0 +1,59 @@
+{
+  "scannedAt": "2026-09-10T12:58:09.756Z",
+  "niche": "documentation",
+  "skippedCreators": [
+    {
+      "creator": "Search My Property / Hardeep Singh",
+      "reason": "Could not resolve channel for Search My Property / Hardeep Singh"
+    },
+    {
+      "creator": "Kanooni Sawaal / Adv. Hardeep Sodhi",
+      "reason": "Could not resolve channel for Kanooni Sawaal / Adv. Hardeep Sodhi"
+    },
+    {
+      "creator": "Manish Patni / RealtyInvestMart",
+      "reason": "Could not resolve channel for Manish Patni / RealtyInvestMart"
+    }
+  ],
+  "creators": [
+    {
+      "creator": {
+        "key": "property-cibil",
+        "name": "Property CIBIL / PropEd",
+        "searchQuery": "Property CIBIL PropEd property legal India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCtD_snTpaEdHrkBFJuYhGzQ",
+        "resolvedTitle": "Matrix Finance & Assets",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 53,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 4
+    },
+    {
+      "creator": {
+        "key": "indialaw",
+        "name": "IndiaLaw LLP",
+        "searchQuery": "IndiaLaw LLP property law RERA India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCKVzEsK99FNRMvr7Mzsi5cA",
+        "resolvedTitle": "Law Times India",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
+    }
+  ],
+  "candidates": []
+}
