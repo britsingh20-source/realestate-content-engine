@@ -1,5 +1,140 @@
 [
   {
+    "contentId": "INV-20260910-6KNW",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-10T12:43:08.424Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 604676,
+        "likes": 11980,
+        "comments": 515,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 503.1692838888889,
+        "velocity": 1201.7347230073092,
+        "outlier": 62.260708401976935,
+        "velocityRatio": 48.492584536887875,
+        "engagementRatio": 0.9045889095370141
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 4709
+    },
+    "pack": {
+      "subject_classification": "land footprint optimization",
+      "source_evidence_points": [
+        "Horizontal informal sprawl consumes massive prime footprint, locking intrinsic land equity.",
+        "Vertical consolidation clears ground coverage, freeing high-value central land.",
+        "Freed prime ground footprint cross-subsidizes development and creates high-market-value commercial and residential supply.",
+        "Dense vertical utilization on prime footprints yields far higher economic output per square foot than distant horizontal land expansion."
+      ],
+      "topic": "Coimbatore Land Footprint Optimization: Why Vertical Efficiency Beats Horizontal Sprawl in Prime Urban Belts",
+      "source_script_insight": "The Mumbai SRA case study reveals that the true constraint in appreciating real estate is not the absence of land, but the inefficient horizontal sprawl of low-density footprints. Consolidating ground footprint vertically unlocks prime urban equity that horizontal expanse can never match.",
+      "coimbatore_angle": "In Coimbatore's high-demand central corridors—such as RS Puram, Gandhipuram, Race Course, and the Avinashi Road commercial belt—land parcel sizes are tightly constrained and costly. Rather than chasing distant agricultural plots on the far periphery with low absorption, smart investors prioritize micro-market footprint optimization and vertical FSI efficiency, unlocking higher rental yields and prime land appreciation on compact footprints.",
+      "visual_strategy": "The visuals strictly avoid the generic empty-plot-to-house progression. Instead, the sequence uses urban spatial physical evidence: tight ground-level street congestion versus vertical airspace clearance, architectural site plans showing ground-coverage ratios, FSI calculation notes on a surveyor's desk, and vertical architectural facades on active Coimbatore commercial roads, proving the economic power of footprint optimization.",
+      "generic_sequence_avoided": true,
+      "core_takeaway": "Real estate wealth in central Coimbatore is created by optimizing ground footprint and maximizing vertical utility, not by chasing distant horizontal acreage.",
+      "voiceover_tamil": "அதிக நிலம் வாங்குவதை விட, குறைந்த பரப்பளவில் செங்குத்து பயன்பாடுதான் நகர மையத்தில் உண்மையான நில மதிப்பை பல மடங்கு உயர்த்தும். OliveTree உடன் முதலீடு செய்யுங்கள்.",
+      "scenes": [
+        {
+          "scene": 1,
+          "start_sec": 0,
+          "end_sec": 1.4,
+          "evidence_point": "Horizontal informal sprawl consumes massive prime footprint, locking intrinsic land equity.",
+          "purpose": "Hook the viewer with the core physical tension of constrained ground land in urban Coimbatore.",
+          "visual": "Eye-level handheld push-in along a congested, narrow urban commercial street in core Coimbatore, showing old single-storey horizontal structures eating up valuable street frontage.",
+          "on_screen_text": "நிலப்பற்றாக்குறை?",
+          "voiceover_tamil": "அதிக நிலம் வாங்குவதை விட,"
+        },
+        {
+          "scene": 2,
+          "start_sec": 1.4,
+          "end_sec": 2.8,
+          "evidence_point": "Vertical consolidation clears ground coverage, freeing high-value central land.",
+          "purpose": "Show the engineering principle: ground footprint consolidation on an architectural site layout.",
+          "visual": "Top-down macro shot of a real site blueprint on a desk with a metal scale and highlighter, contrasting 80% horizontal ground coverage with a tight 30% vertical tower footprint.",
+          "on_screen_text": "Footprint vs FSI",
+          "voiceover_tamil": "குறைந்த பரப்பளவில்"
+        },
+        {
+          "scene": 3,
+          "start_sec": 2.8,
+          "end_sec": 4.2,
+          "evidence_point": "Vertical consolidation clears ground coverage, freeing high-value central land.",
+          "purpose": "Provide photorealistic evidence of freed ground space in an active Coimbatore plot.",
+          "visual": "Restrained downward drone shot over a compact prime Coimbatore property where vertical construction leaves wide, paved ground access and dedicated setback parking.",
+          "on_screen_text": "நில மதிப்பு",
+          "voiceover_tamil": "செங்குத்து பயன்பாடுதான்"
+        },
+        {
+          "scene": 4,
+          "start_sec": 4.2,
+          "end_sec": 5.6,
+          "evidence_point": "Freed prime ground footprint cross-subsidizes development and creates high-market-value commercial and residential supply.",
+          "purpose": "Demonstrate the financial metric: rental yield comparison between horizontal shed vs vertical asset.",
+          "visual": "Close-up of an investor's hand holding an assessment sheet showing Coimbatore guideline values and commercial rental yield multipliers beside an active smartphone calculator.",
+          "on_screen_text": "Prime Yield",
+          "voiceover_tamil": "நகர மையத்தில்"
+        },
+        {
+          "scene": 5,
+          "start_sec": 5.6,
+          "end_sec": 7,
+          "evidence_point": "Dense vertical utilization on prime footprints yields far higher economic output per square foot than distant horizontal land expansion.",
+          "purpose": "Show the physical reality of a vertical multi-tier modern building on an urban Coimbatore road.",
+          "visual": "Low-angle upward pan against crisp Coimbatore daylight, capturing a clean-lined modern multi-storey commercial building maximizing vertical FSI on a tight parcel.",
+          "on_screen_text": "Vertical Gain",
+          "voiceover_tamil": "உண்மையான நில மதிப்பை"
+        },
+        {
+          "scene": 6,
+          "start_sec": 7,
+          "end_sec": 8.5,
+          "evidence_point": "Dense vertical utilization on prime footprints yields far higher economic output per square foot than distant horizontal land expansion.",
+          "purpose": "Show the functional payoff: active business integration and high tenant footfall on optimized ground space.",
+          "visual": "Eye-level medium tracking shot showing free-flowing vehicular access and operational ground-floor commercial entry on a Coimbatore urban arterial road.",
+          "on_screen_text": "Open Equity",
+          "voiceover_tamil": "பல மடங்கு உயர்த்தும்."
+        },
+        {
+          "scene": 7,
+          "start_sec": 8.5,
+          "end_sec": 10,
+          "evidence_point": "Dense vertical utilization on prime footprints yields far higher economic output per square foot than distant horizontal land expansion.",
+          "purpose": "Final proof and payoff: real investor inspecting high-efficiency urban asset with subtle branding.",
+          "visual": "Medium shot of an astute investor standing on the terrace of an optimized urban Coimbatore property, overlooking the city tree-canopy and skyline under natural morning light.",
+          "on_screen_text": "OliveTree Investors",
+          "voiceover_tamil": "OliveTree உடன் முதலீடு செய்யுங்கள்."
+        }
+      ],
+      "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\nTotal Duration: Exactly 10.0 seconds. Aspect Ratio: Strict native 9:16 vertical portrait composition. Frame Rate: 30 fps. Target audience: Coimbatore, Tamil Nadu investors only.\n\nB. REALISM LOCK\n100% photorealistic live-action documentary footage. No 3D architectural renders, no cartoon animations, no CGI walkthroughs, no video game assets. Natural Coimbatore daylight, realistic atmospheric haze, correct southern Indian architectural textures, genuine asphalt road surfaces, real red soil in garden setbacks, authentic Kongu city ambiance.\n\nC. SOURCE SUBJECT LOCK\nSubject: Land Footprint Optimization (Derived from Mumbai Slum Redevelopment model: horizontal land clearance converted into vertical efficiency to liberate prime ground equity).\nCoimbatore Application: Demonstrating why prime compact plots in Coimbatore (RS Puram, Race Course, Gandhipuram, Avinashi Road corridor) deliver superior ROI through vertical FSI utilization compared to low-density horizontal sprawl on distant fringes.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\nStrictly ban the generic 'empty plot -> foundation -> villa -> happy family' sequence. The physical evidence must strictly center on spatial density: narrow ground-level parcel bottlenecks, architectural cadastral drawings showing ground coverage ratios vs vertical FSI, yield assessment printouts, and real vertical structures integrated into active Coimbatore streetscapes.\n\nE. CAMERA + IMAGE QUALITY\nCinematic mirrorless 4K footage, stabilized handheld and subtle dolly movements. Natural focal lengths (24mm, 35mm, 50mm). Authentic exposure without blown-out skies; sharp physical details, natural shadows under tropical Tamil Nadu sunlight.\n\nF. EXACT 7-SHOT PLAN (10.0 SECONDS TOTAL):\n\nShot 1 (0.00s - 1.40s) | Congested Urban Parcel Bottleneck\n- Location: Active commercial street in core Coimbatore (e.g., Cross Cut Road or Sukrawarpettai periphery).\n- Action: Slow handheld forward push through an older tight street lined with single-storey aging tiled shops, illustrating locked ground space.\n- Foreground: Asphalt street with passing two-wheeler; Background: Dense low-rise shopfronts.\n- Camera: Eye-level 35mm, natural ambient daylight.\n- Overlay Text: \"நிலப்பற்றாக்குறை?\"\n- Tamil VO: \"அதிக நிலம் வாங்குவதை விட,\"\n\nShot 2 (1.40s - 2.80s) | Cadastral FSI Layout Inspection\n- Location: Professional real estate desk in Coimbatore.\n- Action: Top-down macro focus on a detailed site plan blueprint where an engineer's hand runs a steel ruler between a sprawling 80% ground-coverage footprint and a compact vertical footprint.\n- Foreground: Steel scale and yellow highlighter; Background: Approved layout plan.\n- Camera: Static top-down 50mm macro, soft warm interior desk lighting.\n- Overlay Text: \"Footprint vs FSI\"\n- Tamil VO: \"குறைந்த பரப்பளவில்\"\n\nShot 3 (2.80s - 4.20s) | Ground Area Liberation Evidence\n- Location: Prime residential/commercial parcel in Coimbatore.\n- Action: Vertical downward drone shot showing a modern multi-storey footprint occupying minimal ground area, leaving extensive paved vehicle turnaround and open landscape.\n- Foreground: Crisp paved driveway with native neem trees; Background: Clean building perimeter.\n- Camera: Slow descending vertical drone, neutral mid-morning sun.\n- Overlay Text: \"நில மதிப்பு\"\n- Tamil VO: \"செங்குத்து பயன்பாடுதான்\"\n\nShot 4 (4.20s - 5.60s) | Financial Yield Document Validation\n- Location: Real estate advisory office table.\n- Action: Close-up over an investor's shoulder examining a printed commercial yield calculation sheet comparing horizontal vs vertical rental return per square foot in Coimbatore.\n- Foreground: Document paper texture, thumb holding corner; Background: Phone calculator showing yield figure.\n- Camera: Over-the-shoulder 50mm, shallow depth of field.\n- Overlay Text: \"Prime Yield\"\n- Tamil VO: \"நகர மையத்தில்\"\n\nShot 5 (5.60s - 7.00s) | Modern Vertical Asset Elevation\n- Location: Avinashi Road or Race Course edge, Coimbatore.\n- Action: Low-angle upward tilt capturing a sleek contemporary 5-storey glass-and-granite commercial building towering cleanly against a clear blue sky.\n- Foreground: Manicured roadside curb; Background: Vertical architectural facade with modern louvers.\n- Camera: Low-angle stabilized tilt-up, sharp 28mm lens.\n- Overlay Text: \"Vertical Gain\"\n- Tamil VO: \"உண்மையான நில மதிப்பை\"\n\nShot 6 (7.00s - 8.50s) | Operational Frontage & Fluid Access\n- Location: Urban Coimbatore commercial property entrance.\n- Action: Eye-level smooth tracking shot showing wide unobstructed entry gates, parked premium cars, and smooth street ingress made possible by compact building footprint.\n- Foreground: Clean granite entryway; Background: Urban traffic moving steadily on the main road.\n- Camera: Smooth Ronin gimbal eye-level track, golden hour warm rim light.\n- Overlay Text: \"Open Equity\"\n- Tamil VO: \"பல மடங்கு உயர்த்தும்.\"\n\nShot 7 (8.50s - 10.00s) | The Strategic Payoff & Decision\n- Location: Open terrace of an urban Coimbatore property.\n- Action: Medium shot from behind an investor dressed in professional semi-formal attire, looking out over Coimbatore's lush green city canopy and distant Nilgiri foothills outline under sunset.\n- Foreground: Investor silhouette and glass railing; Background: Coimbatore cityscape with lush coconut and rain tree tops.\n- Camera: Static medium 35mm, warm natural sunset glow.\n- Overlay Text: \"OliveTree Investors\"\n- Tamil VO: \"OliveTree உடன் முதலீடு செய்யுங்கள்.\"\n\nG. MOTION GRAPHICS LIMIT\nMicro-minimal typographic overlays only. Max 2-3 words per scene. Clean sans-serif white typography with subtle drop shadow. No full-screen graphics, no animated charts.\n\nH. FINAL REAL SCENE LOCK\nFinal frame is Shot 7: a live-action shot of an investor viewing the Coimbatore skyline from a real building terrace. No standalone graphical end-card.\n\nI. NEGATIVE PROMPT / FIXED RULES\nStrictly forbid: cartoons, anime, 3D CGI architecture rendering, artificial green screens, fake blue-sky CGI replacement, plastic-looking building models, impossible fly-through camera moves, fisheye distortion, distorted hands or faces, fake non-Indian landmarks, snowy mountains, Hindi or English shop signs, blurred landscape pillarboxing.",
+      "title_tamil": "கோவையில் நிலப்பரப்பை விட செங்குத்து பயன்பாடே அதிக லாபம் தரும் ரகசியம்!",
+      "caption_tamil": "கோவையின் முக்கிய நகரப் பகுதிகளில் அதிக நிலம் வாங்குவதை விட, குறைந்த இடத்தில் செங்குத்து பயன்பாட்டை (FSI Optimization) அதிகரிப்பதே பல மடங்கு சொத்து மதிப்பை உயர்த்தும். நில முதலீட்டின் புதிய பார்வையை அறிந்துகொள்ளுங்கள். #CoimbatoreRealEstate #OliveTreeInvestors #LandInvestment",
+      "hashtags": [
+        "#CoimbatoreRealEstate",
+        "#OliveTreeInvestors",
+        "#LandInvestment"
+      ]
+    }
+  },
+  {
     "contentId": "INV-20260910-3W36",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
