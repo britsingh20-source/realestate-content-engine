@@ -1,0 +1,134 @@
+{
+  "contentId": "INV-20260910-5V8L",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-10T21:01:13.201Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "hQp5jilYjT8",
+      "title": "How Slum Redevelopment Is Changing Mumbai",
+      "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-08-20T13:31:02Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 79,
+      "views": 608103,
+      "likes": 12020,
+      "comments": 516,
+      "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+      "ageHours": 511.4700975,
+      "velocity": 1188.931675521852,
+      "outlier": 62.54273372415921,
+      "velocityRatio": 49.0286886832811,
+      "engagementRatio": 0.9034169301163544
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 60,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4290
+  },
+  "pack": {
+    "subject_classification": "Urban Land Monetization & Cross-Subsidization",
+    "source_evidence_points": [
+      "Vertical rehousing frees up footprint area on high-value urban land parcels.",
+      "High-end open market developments cross-subsidize low-income housing or public infrastructure at zero cost to occupants.",
+      "Cross-subsidized high-density development models render dense urban land projects financially viable."
+    ],
+    "topic": "Evaluating Cross-Subsidization & Spatial Efficiency in Coimbatore Real Estate",
+    "source_script_insight": "The Mumbai slum rehabilitation source illustrates how vertical density and cross-subsidization unlock immense value from constrained urban land, allowing high-margin commercial/luxury sales to fund essential public rehousing.",
+    "coimbatore_angle": "Teaching Coimbatore property investors how to evaluate urban redevelopment and high-density mixed-use land models in core commercial pockets like Gandhipuram, Ukkadam, and Town Hall using cross-subsidization principles.",
+    "visual_strategy": "The visuals strictly avoid residential sales cliches. Instead, they feature real density metrics: architectural site density blueprints, macro financial allocation ledgers, high-density vertical construction shots, aerial spatial footprint comparisons, and real Coimbatore street-level density visuals.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Cross-subsidization and vertical spatial efficiency maximize land yield in high-density urban corridors.",
+    "voiceover_tamil": "நகர்ப்புற நிலத்தின் முழு மதிப்பையும் உயர்த்த குறுக்கு-மானிய வளர்ச்சி திட்டம் உதவுகிறது. அடர்த்தியான இடங்களில் செங்குத்து கட்டுமானம் தரை பரப்பை மிச்சப்படுத்துகிறது. உயர்தர விற்பனை மூலம் அடிப்படை வசதிகள் சாத்தியமாகின்றன. கோவை நகர்ப்புற முதலீட்டின் இந்த மாதிரியை புரிந்துகொள்ளுங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Vertical rehousing frees up footprint area on high-value urban land parcels.",
+        "purpose": "Introduce the core tension of high-density urban land limits in Coimbatore.",
+        "visual": "Macro top-down shot of a digital urban density map of core Coimbatore on a field tablet held over a physical site desk.",
+        "on_screen_text": "Land Density Model",
+        "voiceover_tamil": "நகர்ப்புற நிலத்தின் முழு மதிப்பையும் உயர்த்த"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Cross-subsidized high-density development models render dense urban land projects financially viable.",
+        "purpose": "Show the cross-subsidization conceptual blueprint.",
+        "visual": "Architectural elevation blueprint showing a split development layout: high-density vertical unit alongside commercial footprint.",
+        "on_screen_text": "Cross-Subsidization",
+        "voiceover_tamil": "குறுக்கு-மானிய மாதிரி திட்டம் உதவுகிறது."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Vertical rehousing frees up footprint area on high-value urban land parcels.",
+        "purpose": "Demonstrate vertical construction efficiency freeing ground space.",
+        "visual": "Low-angle eye-level shot looking up at a multi-storey RCC vertical concrete structure under construction in a dense Coimbatore neighborhood.",
+        "on_screen_text": "Vertical Density",
+        "voiceover_tamil": "அடர்த்தியான இடங்களில் செங்குத்து கட்டுமானம்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Vertical rehousing frees up footprint area on high-value urban land parcels.",
+        "purpose": "Visualize freed land footprint achieved through vertical concentration.",
+        "visual": "Restrained drone perspective showing the clear ground footprint created around a vertical multi-level structure in central Coimbatore.",
+        "on_screen_text": "Freed Ground Footprint",
+        "voiceover_tamil": "தரை பரப்பை மிச்சப்படுத்துகிறது."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "High-end open market developments cross-subsidize low-income housing or public infrastructure at zero cost to occupants.",
+        "purpose": "Show the financial mechanism balancing premium sales vs social infrastructure allocation.",
+        "visual": "Close-up hand-held shot of an investment ledger sheet with highlighted line items contrasting premium unit yields against baseline unit costs.",
+        "on_screen_text": "Financial Feasibility",
+        "voiceover_tamil": "உயர்தர விற்பனை மூலம்"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Cross-subsidized high-density development models render dense urban land projects financially viable.",
+        "purpose": "Illustrate practical urban integration in a bustling street environment.",
+        "visual": "Real street-level panning shot of a modernized, high-density urban corridor road in Coimbatore with commercial activity.",
+        "on_screen_text": "Urban Unlocking",
+        "voiceover_tamil": "அடிப்படை வசதிகள் சாத்தியமாகின்றன."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "Cross-subsidized high-density development models render dense urban land projects financially viable.",
+        "purpose": "Final proof shot delivering the localized investment takeaway with subtle brand presence.",
+        "visual": "Elevated view of a prime commercial arterial corridor in Coimbatore with clean afternoon lighting and subtle text overlay.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "கோவை நகர்ப்புற முதலீட்டின் இந்த மாதிரியை புரிந்துகொள்ளுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "Production Prompt for Gemini Video Generation:\n\n### A. MANDATORY OUTPUT FORMAT LOCK\n- Exact Duration: 10.0 seconds\n- Aspect Ratio: Native Portrait 9:16 vertical composition only.\n- Target Platform: Mobile social video feeds targeting Coimbatore, Tamil Nadu.\n- Client/Brand: OliveTree Investors.\n\n### B. REALISM LOCK\n- 100% Ultra-photorealistic real-world footage filmed in or accurately matching Coimbatore, Tamil Nadu.\n- Crisp, natural afternoon sunlight, authentic tropical sky exposure, natural airborne dust, realistic concrete textures, asphalt sheen, realistic vegetation movement.\n- Absolutely zero CGI, zero 3D architectural visualization renders, zero cartoon graphics, zero unrealistically glossy surfaces, zero plastic textures.\n\n### C. SOURCE SUBJECT LOCK\n- Subject: Urban Land Monetization & Cross-Subsidization Mechanism.\n- Core Principles: 1. Vertical density frees up prime ground footprint. 2. Premium space sales cross-subsidize base-tier development or infrastructure. 3. Enables high-density financial feasibility in constrained urban cores.\n- Application Layer: Coimbatore urban core spatial evaluation (Gandhipuram, Ukkadam, Town Hall corridor dynamics).\n\n### D. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus exclusively on urban spatial density physical evidence: land maps, elevation density blueprints, raw structural concrete frameworks, ground footprint clearings, financial allocation ledgers, and busy Coimbatore street scene real footage.\n- FORBIDDEN DEFAULT STORY: Do not show an empty residential plot, generic house elevation, family key handover, worker holding brick, or standard villa montage.\n\n### E. CAMERA + IMAGE QUALITY\n- Handheld real camera movement, stable drone framing, macro documentary depth of field.\n- Native vertical framing (9:16), balanced dynamic range, realistic shadows, natural color balance suited to South Indian ambient lighting.\n\n### F. EXACT 7-SHOT PLAN (Total 10.0 Seconds)\n\n1. Shot 1 (0.0s - 1.4s)\n- Location: Site office in urban Coimbatore.\n- Visual: Close-up macro view looking down at a field tablet displaying a color-coded urban density map of core Coimbatore streets.\n- Camera: Top-down static macro shot with gentle hand micro-shake.\n- Lighting: Natural daylight coming through an office window.\n- Text Overlay: \"Land Density Model\"\n- Voiceover Tamil: \"நகர்ப்புற நிலத்தின் முழு மதிப்பையும் உயர்த்த\"\n\n2. Shot 2 (1.4s - 2.8s)\n- Location: Architect workspace desk.\n- Visual: Focus on a physical paper blueprint detailing a split high-density multi-storey architectural elevation.\n- Camera: Slow upward tilt from the legend section to the structural height diagram.\n- Lighting: Warm ambient indoor lighting with clean shadows.\n- Text Overlay: \"Cross-Subsidization\"\n- Voiceover Tamil: \"குறுக்கு-மானிய மாதிரி திட்டம் உதவுகிறது.\"\n\n3. Shot 3 (2.8s - 4.2s)\n- Location: Active modern commercial construction site in Coimbatore.\n- Visual: Low-angle perspective looking up at concrete columns and floor plates of a multi-storey high-density build.\n- Camera: Static low-angle upward tilt.\n- Lighting: Direct clear afternoon sunlight with strong natural geometric shadows.\n- Text Overlay: \"Vertical Density\"\n- Voiceover Tamil: \"அடர்த்தியான இடங்களில் செங்குத்து கட்டுமானம்\"\n\n4. Shot 4 (4.2s - 5.6s)\n- Location: High-density urban parcel along a main Coimbatore road.\n- Visual: High-angle drone perspective showing how vertical massing leaves open surrounding ground footprint and access roads.\n- Camera: Slow vertical descent, 90-degree downward angle.\n- Lighting: Natural daylight with realistic atmosphere and subtle haze.\n- Text Overlay: \"Freed Ground Footprint\"\n- Voiceover Tamil: \"தரை பரப்பை மிச்சப்படுத்துகிறது.\"\n\n5. Shot 5 (5.6s - 7.0s)\n- Location: Financial office desk setup.\n- Visual: Close-up hand shot holding a pen over a financial evaluation printout showing capital allocation columns labeled in INR.\n- Camera: Macro focus on line items with organic finger tap on the paper.\n- Lighting: Natural indoor studio daylight.\n- Text Overlay: \"Financial Feasibility\"\n- Voiceover Tamil: \"உயர்தர விற்பனை மூலம்\"\n\n6. Shot 6 (7.0s - 8.4s)\n- Location: Urban commercial street in Coimbatore (e.g., Gandhipuram commercial stretch).\n- Visual: Street-level documentary view of modern multi-storey buildings lining a clean asphalt road with local traffic movement.\n- Camera: Eye-level smooth lateral pan.\n- Lighting: Bright overcast daylight with authentic environment reflections.\n- Text Overlay: \"Urban Unlocking\"\n- Voiceover Tamil: \"அடிப்படை வசதிகள் சாத்தியமாகின்றன.\"\n\n7. Shot 7 (8.4s - 10.0s)\n- Location: Elevated panoramic perspective of Coimbatore urban skyline.\n- Visual: Real view over dense modern urban roofscape and green tree pockets under natural sky with subtle brand overlay.\n- Camera: Very slow forward push.\n- Lighting: Late afternoon sun glow with rich depth.\n- Text Overlay: \"OliveTree Investors\"\n- Voiceover Tamil: \"கோவை நகர்ப்புற முதலீட்டின் இந்த மாதிரியை புரிந்துகொள்ளுங்கள்!\"\n\n### G. MOTION-GRAPHICS LIMIT\n- Minimal graphic overlays only (simple white typography, clean transparent dark background backing, 1-3 words maximum).\n- No 3D floating arrows, animated icons, cartoon money symbols, or glowing laser lines.\n\n### H. FINAL REAL SCENE\n- Ends on a real, high-quality cityscape shot of Coimbatore (Shot 7) with a small, elegant 'OliveTree Investors' brand overlay.\n- No standalone animated logo bumper or black title end card.\n\n### I. NEGATIVE PROMPT / FIXED RULES\n- DO NOT generate 3D architectural renders, toon/anime graphics, game-engine graphics, plastic surfaces, or hyper-saturated fake skies.\n- DO NOT generate residential key handovers, generic happy families, plot sales boards, or generic house construction montages.\n- NO horizontal landscape videos cropped into portrait canvas; NO black side bars or blurred video margins.\n- NO exaggerated camera fly-throughs, 360-degree spins, fisheye distortions, speed ramps, or whip pans.\n- NO fake landmarks, non-Indian road vehicles, or duplicated crowd assets.",
+    "title_tamil": "கோவையில் நகர்ப்புற நிலத்தின் முழு மதிப்பை பெருக்குவது எப்படி?",
+    "caption_tamil": "குறுக்கு-மானிய வளர்ச்சி திட்டம் (Cross-Subsidization) அடர்த்தியான நகர்ப்புற நிலங்களில் செங்குத்து கட்டுமானம் மூலம் தரை பரப்பை மிச்சப்படுத்தி, நிலத்தின் முழு நிதியியல் மதிப்பையும் உயர்த்துகிறது. கோவை நகர்ப்புற முதலீட்டாளர்களுக்கான முக்கியமான பாடம். #CoimbatoreRealEstate #UrbanInvestment #OliveTreeInvestors",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#UrbanInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
