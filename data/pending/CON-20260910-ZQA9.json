@@ -1,0 +1,129 @@
+{
+  "contentId": "CON-20260910-ZQA9",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-10T13:01:24.471Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "5ftYbg_wITY",
+      "title": "Crankshaft vs Camshaft: Working Principle, Differences & Functions Explained #automobile",
+      "description": "Engineering knowledge 👌 #mechine",
+      "publishedAt": "2026-08-29T00:00:32Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 12,
+      "views": 1462,
+      "likes": 9,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=5ftYbg_wITY",
+      "ageHours": 300.966675,
+      "velocity": 4.857680671788662,
+      "outlier": 6.426373626373627,
+      "velocityRatio": 4.857680671788662,
+      "engagementRatio": 0.31945876238147686
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 56,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2941,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.6-flash"
+  },
+  "pack": {
+    "topic": "Difference between Plinth Beam and Lintel Beam in Residential Construction",
+    "source_script_insight": "The source video uses a clear visual comparison between two crucial mechanical shafts in an engine (lower rotating crankshaft vs upper valve-actuating camshaft). The construction equivalent is comparing lower structural beams (plinth beam tying foundation at bottom) with upper structural beams (lintel beam supporting openings over doors/windows), showing how each carries different loads to keep the house stable.",
+    "coimbatore_angle": "In Coimbatore's common clay and red loam soil conditions (e.g., Saravanampatti and Kovaipudur areas), structural foundation beams must withstand soil movement, while lintel beams prevent diagonal cracks over brick masonry openings.",
+    "core_takeaway": "Plinth beams bind the lower foundation and distribute total wall weight, while lintel beams bridge door and window openings to prevent structural cracks.",
+    "voiceover_tamil": "பிளின்த் பீம், லின்டெல் பீம் — வித்தியாசம் தெரியுமா? கீழே உள்ள பிளின்த் பீம் அஸ்திவாரத்தை பிணைக்கிறது! சுவரின் எடையை சீராக பரப்புகிறது. மேலே உள்ள லின்டெல் பீம் கதவு இடைவெளியைத் தாங்குகிறது! ஜன்னல் சட்டங்களில் விரிசல் வராமல் தடுக்கிறது. இரண்டும் வீட்டின் பலத்திற்கு மிக முக்கியம்! சரியான அமைப்போடு கட்டுங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook - Introduce structural beam comparison",
+        "visual": "A low-angle dynamic tilt up from ground level red soil on an active residential construction site in Coimbatore, revealing brick masonry walls.",
+        "camera": "Eye-level fast upward tilt, 24mm lens feel, sharp focus on brickwork and concrete shuttering.",
+        "on_screen_text": "PLINTH vs LINTEL?",
+        "voiceover_tamil": "பிளின்த் பீம், லின்டெல் பீம் — வித்தியாசம் தெரியுமா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Detail lower structural beam (Plinth Beam)",
+        "visual": "Close-up pan across a freshly poured concrete plinth beam running along red soil ground with TMT steel rebar visible at the corner.",
+        "camera": "Low dynamic tracking shot moving parallel to ground plinth beam, natural bright midday sun.",
+        "on_screen_text": "PLINTH BEAM (அடி பீம்)",
+        "voiceover_tamil": "கீழே உள்ள பிளின்த் பீம் அஸ்திவாரத்தை பிணைக்கிறது!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Function of Plinth Beam",
+        "visual": "Medium shot of brick wall masonry built directly over the solid cured plinth beam, showing weight load distribution down to the foundation.",
+        "camera": "Static medium shot with subtle handheld micro-jitter, warm sunlight hitting red bricks and mortar.",
+        "on_screen_text": "LOAD DISTRIBUTION",
+        "voiceover_tamil": "சுவரின் எடையை சீராக பரப்புகிறது."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Detail upper beam (Lintel Beam)",
+        "visual": "Camera tilts up to door opening height showing reinforced concrete lintel beam cast above a door frame opening in red brick wall.",
+        "camera": "Smooth vertical pan from door frame to lintel concrete beam, 35mm lens, natural shadows.",
+        "on_screen_text": "LINTEL BEAM (மேல் பீம்)",
+        "voiceover_tamil": "மேலே உள்ள லின்டெல் பீம் கதவு இடைவெளியைத் தாங்குகிறது!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Function of Lintel Beam",
+        "visual": "Close-up of clean lintel beam edge above a window opening, showing neat concrete plastering without any cracks in masonry above.",
+        "camera": "Slight push-in close-up on lintel beam over window brick opening.",
+        "on_screen_text": "NO CRACKS",
+        "voiceover_tamil": "ஜன்னல் சட்டங்களில் விரிசல் வராமல் தடுக்கிறது."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "purpose": "Combined structural alignment benefit",
+        "visual": "Wide angle view of the dual beam setup: showing plinth beam at bottom and lintel beam at top frame simultaneously on a multi-story Coimbatore home frame.",
+        "camera": "Wide angle 16mm gimbal pull-back shot showing full residential elevation structure.",
+        "on_screen_text": "STRONG STRUCTURE",
+        "voiceover_tamil": "இரண்டும் வீட்டின் பலத்திற்கு மிக முக்கியம்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "purpose": "Takeaway & Brand visual call-out",
+        "visual": "Completed modern Coimbatore home exterior with flawless finish, bright daylight, subtle overlay text branding.",
+        "camera": "Slow steady forward pan toward house entrance, vibrant green lawn and clear sky.",
+        "on_screen_text": "OLIVETREE BUILDERS",
+        "voiceover_tamil": "சரியான அமைப்போடு கட்டுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "Production-grade prompt for OliveTree Builders, COIMBATORE ONLY. EXACTLY 10 SECONDS TOTAL, EXACTLY 7 SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE, 90%+ real-looking visuals, native portrait 9:16 aspect ratio. Visual style: Raw real-world residential site construction in Tamil Nadu with bright natural daylight, red soil, TMT rebar, concrete mix texture, and red clay brick masonry.\n\nSCENE 1 (0.0s - 1.4s): Ground level shot in active construction site in Coimbatore. Camera tilts up briskly from red soil ground showing laid brick walls. Text overlay: 'PLINTH vs LINTEL?'. Tamil VO: 'பிளின்த் பீம், லின்டெல் பீம் — வித்தியாசம் தெரியுமா?'\n\nSCENE 2 (1.4s - 2.8s): Low angle tracking shot of freshly poured continuous concrete plinth beam along foundation trench. Real steel rebar ties visible. Text overlay: 'PLINTH BEAM (அடி பீம்)'. Tamil VO: 'கீழே உள்ள பிளின்த் பீம் அஸ்திவாரத்தை பிணைக்கிறது!'\n\nSCENE 3 (2.8s - 4.2s): Medium shot showing brick masonry built over the cured concrete plinth beam. Bright outdoor daylight casting hard realistic shadows. Text overlay: 'LOAD DISTRIBUTION'. Tamil VO: 'சுவரின் எடையை சீராக பரப்புகிறது.'\n\nSCENE 4 (4.2s - 5.6s): Smooth upward camera tilt to door frame opening, showing reinforced lintel beam resting above the doorway span. Text overlay: 'LINTEL BEAM (மேல் பீம்)'. Tamil VO: 'மேலே உள்ள லின்டெல் பீம் கதவு இடைவெளியைத் தாங்குகிறது!'\n\nSCENE 5 (5.6s - 7.0s): Close-up push-in on clean lintel concrete beam above window opening in red clay brick structure. Text overlay: 'NO CRACKS'. Tamil VO: 'ஜன்னல் சட்டங்களில் விரிசல் வராமல் தடுக்கிறது.'\n\nSCENE 6 (7.0s - 8.4s): Wide-angle 16mm lens pull-back shot showing full wall frame highlighting lower plinth beam and upper lintel beam in vertical alignment on building. Text overlay: 'STRONG STRUCTURE'. Tamil VO: 'இரண்டும் வீட்டின் பலத்திற்கு மிக முக்கியம்!'\n\nSCENE 7 (8.4s - 10.0s): Real-world finished modern house exterior in Coimbatore under clear blue sky, green palm foliage, clean concrete finish. Text overlay: 'OLIVETREE BUILDERS'. Tamil VO: 'சரியான அமைப்போடு கட்டுங்கள்!'\n\nCONTINUITY & QUALITY RULES: Maintain consistent natural sun direction, authentic Tamil Nadu red soil, actual TMT steel textures, sharp 4K smartphone gimbal visual aesthetic. No visual glitches, smooth scene cuts every 1.4s.\n\nNEGATIVE PROMPT: toon, cartoon, anime, 3D animated model, glossy CGI render, video game style, flat graphic vector, plastic texture, fake futuristic city, floating houses, full screen end logo card, landscape video, letterboxing, side blur bars, fake landmarks, random presenter face, camera crew visual.",
+    "title_tamil": "பிளின்த் பீம் vs லின்டெல் பீம்: வித்தியாசம் என்ன? | Coimbatore House Construction Tips",
+    "caption_tamil": "வீட்டின் அஸ்திவாரத்தையும் சுவர்களையும் பலப்படுத்த பிளின்த் பீம் மற்றும் லின்டெல் பீம் எவ்வாறு செயல்படுகின்றன என்று பாருங்கள்! 🏗️ 🏠 #CoimbatoreConstruction #OliveTreeBuilders #CivilTipsTamil",
+    "hashtags": [
+      "#CoimbatoreConstruction",
+      "#OliveTreeBuilders",
+      "#CivilTipsTamil"
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "scannedAt": "2026-09-10T12:58:32.036Z",
+  "niche": "construction",
+  "skippedCreators": [
+    {
+      "creator": "Nemmadi Home Inspection",
+      "reason": "Could not resolve channel for Nemmadi Home Inspection"
+    }
+  ],
+  "creators": [
+    {
+      "creator": {
+        "key": "civil-guruji",
+        "name": "Civil Guruji",
+        "searchQuery": "Civil Guruji construction India Shorts",
+        "language": "English/Hindi mix",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "resolvedTitle": "Civil Guruji WB",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 227.5,
+        "velocity": 1,
+        "engagement": 0.01926993865030675
+      },
+      "videoCount": 18
+    },
+    {
+      "creator": {
+        "key": "civiconcepts",
+        "name": "Civiconcepts / Bhushan Mahajan",
+        "searchQuery": "Civiconcepts Bhushan Mahajan construction India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UC93fHoH7WbSN9E1vv8riq8A",
+        "resolvedTitle": "Civiconcepts - Bhushan Mahajan",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 5613,
+        "velocity": 5.719882308697107,
+        "engagement": 0.010154997327632281
+      },
+      "videoCount": 2
+    },
+    {
+      "creator": {
+        "key": "buildofy",
+        "name": "Buildofy",
+        "searchQuery": "Buildofy India architecture construction",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCbr9s1iYnD4SRszBxzEPELg",
+        "resolvedTitle": "Buildofy",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 13250,
+        "velocity": 26.76765159255452,
+        "engagement": 0.02805172035941267
+      },
+      "videoCount": 12
+    },
+    {
+      "creator": {
+        "key": "brick-bolt",
+        "name": "Brick&Bolt",
+        "searchQuery": "Brick and Bolt construction India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCZIsO0XIk0B78rcrLEqhJOA",
+        "resolvedTitle": "Brick & Bolt",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 564,
+        "velocity": 1,
+        "engagement": 0.017543859649122806
+      },
+      "videoCount": 8
+    }
+  ],
+  "candidates": [
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "5ftYbg_wITY",
+        "title": "Crankshaft vs Camshaft: Working Principle, Differences & Functions Explained #automobile",
+        "description": "Engineering knowledge 👌 #mechine",
+        "publishedAt": "2026-08-29T00:00:32Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 12,
+        "views": 1462,
+        "likes": 9,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=5ftYbg_wITY",
+        "ageHours": 300.966675,
+        "velocity": 4.857680671788662,
+        "outlier": 6.426373626373627,
+        "velocityRatio": 4.857680671788662,
+        "engagementRatio": 0.31945876238147686
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 56,
+      "priority": "priority"
+    },
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "4a6wzd3cBLA",
+        "title": "First payment then work 😀 #automation",
+        "description": "",
+        "publishedAt": "2026-08-10T11:49:20Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 16,
+        "views": 2089,
+        "likes": 8,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=4a6wzd3cBLA",
+        "ageHours": 745.1533416666666,
+        "velocity": 2.8034498178959835,
+        "outlier": 9.182417582417582,
+        "velocityRatio": 2.8034498178959835,
+        "engagementRatio": 0.19873356123683597
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 45,
+      "priority": "priority"
+    },
+    {
+      "niche": "construction",
+      "creator": "Brick&Bolt",
+      "creatorKey": "brick-bolt",
+      "source": {
+        "id": "F37Qnxa4RSw",
+        "title": "Modern 3 BHK House Plan | 30×40 West Facing Floor Plan Tour",
+        "description": "This thoughtfully planned G+1 residence on a 30×40 west-facing plot features 3 spacious bedrooms, open living spaces, ample natural light, and functional layouts perfect for modern family living.\n\nFrom a practical ground floor to a private first floor and an open terrace ready for future possibilities, every detail is designed with comfort in mind.\n\nWould you build a home like this? Let us know in the comments!\n\n#floorplan #homedesigninspo #houseplan #architecture #fyp",
+        "publishedAt": "2026-07-30T13:44:29Z",
+        "channelId": "UCZIsO0XIk0B78rcrLEqhJOA",
+        "channelTitle": "Brick & Bolt",
+        "durationSeconds": 82,
+        "views": 2520,
+        "likes": 48,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=F37Qnxa4RSw",
+        "ageHours": 1007.234175,
+        "velocity": 2.501900811695552,
+        "outlier": 4.468085106382978,
+        "velocityRatio": 2.501900811695552,
+        "engagementRatio": 1.0857142857142859
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 45,
+      "priority": "strong"
+    },
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "nFuZaggoEKY",
+        "title": "When you travel by Indian railways #indianinfrastructure 🛤",
+        "description": "Railway 🛤 #travel",
+        "publishedAt": "2026-08-11T00:00:36Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 23,
+        "views": 1190,
+        "likes": 15,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=nFuZaggoEKY",
+        "ageHours": 732.9655638888889,
+        "velocity": 1.6235414849317442,
+        "outlier": 5.230769230769231,
+        "velocityRatio": 1.6235414849317442,
+        "engagementRatio": 0.6541298467811193
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 41,
+      "priority": "priority"
+    },
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "XGLmu3oF-8k",
+        "title": "Easy sheet molding trick #trending #shorts",
+        "description": "Duct installation work",
+        "publishedAt": "2026-07-31T10:54:53Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 31,
+        "views": 1835,
+        "likes": 8,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=XGLmu3oF-8k",
+        "ageHours": 986.0608416666666,
+        "velocity": 1.8609399364226182,
+        "outlier": 8.065934065934066,
+        "velocityRatio": 1.8609399364226182,
+        "engagementRatio": 0.22624218497207105
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 40,
+      "priority": "priority"
+    },
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "b0omdEnQFGI",
+        "title": "How to cut Aluminium sheets quick and efficiently?? 🤔 #trending #skills",
+        "description": "Sheets cutting techniques #shorts #video",
+        "publishedAt": "2026-07-27T13:44:36Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 16,
+        "views": 1750,
+        "likes": 12,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=b0omdEnQFGI",
+        "ageHours": 1079.2322305555556,
+        "velocity": 1.62152310731042,
+        "outlier": 7.6923076923076925,
+        "velocityRatio": 1.62152310731042,
+        "engagementRatio": 0.35584663664892885
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 40,
+      "priority": "priority"
+    },
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "MFVFvmDpKfI",
+        "title": "Why Height Work test #industrial  #safety",
+        "description": "",
+        "publishedAt": "2026-08-28T06:54:27Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 51,
+        "views": 919,
+        "likes": 3,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=MFVFvmDpKfI",
+        "ageHours": 318.0680638888889,
+        "velocity": 2.889318684698365,
+        "outlier": 4.039560439560439,
+        "velocityRatio": 2.889318684698365,
+        "engagementRatio": 0.16940468284429422
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 40,
+      "priority": "strong"
+    },
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "gyFtcDVkxSQ",
+        "title": "Amazing Duct Sheet designing techniques #ducting #construction #shorts",
+        "description": "Duct insulation working skill #trending #job #workers",
+        "publishedAt": "2026-07-30T08:35:37Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 34,
+        "views": 1193,
+        "likes": 4,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=gyFtcDVkxSQ",
+        "ageHours": 1012.3819527777778,
+        "velocity": 1.1784089954652408,
+        "outlier": 5.243956043956044,
+        "velocityRatio": 1.1784089954652408,
+        "engagementRatio": 0.1739959804793589
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 37,
+      "priority": "priority"
+    },
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "0ppRhMESvlI",
+        "title": "Viral tractor stunt #trending #shorts",
+        "description": "What a skill of tractor operator,  you never Seen",
+        "publishedAt": "2026-08-28T12:00:28Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 11,
+        "views": 530,
+        "likes": 5,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=0ppRhMESvlI",
+        "ageHours": 312.96778611111114,
+        "velocity": 1.6934650258600008,
+        "outlier": 2.32967032967033,
+        "velocityRatio": 1.6934650258600008,
+        "engagementRatio": 0.48956887903744145
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 25,
+      "priority": "candidate"
+    },
+    {
+      "niche": "construction",
+      "creator": "Civil Guruji",
+      "creatorKey": "civil-guruji",
+      "source": {
+        "id": "JJg9H-a3EBg",
+        "title": "world’s tallest self-propelled straight-boom aerial work platform #heavyequipment",
+        "description": "it has built the world’s tallest self-propelled straight-boom aerial work platform.\nThe monster AWP has a maximum working height of 270 feet, with a rated load capacity of three levels: 507 pounds, 661 pounds and 1,001 pounds.",
+        "publishedAt": "2026-08-26T14:09:42Z",
+        "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+        "channelTitle": "Civil Guruji WB",
+        "durationSeconds": 11,
+        "views": 500,
+        "likes": 7,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=JJg9H-a3EBg",
+        "ageHours": 358.81389722222224,
+        "velocity": 1.3934800292596743,
+        "outlier": 2.197802197802198,
+        "velocityRatio": 1.3934800292596743,
+        "engagementRatio": 0.7265202164915632
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 24,
+      "priority": "candidate"
+    }
+  ]
+}
