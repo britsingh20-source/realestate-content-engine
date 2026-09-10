@@ -63,15 +63,22 @@ async function sendPromptDocument({ contentId, prompt, caption }) {
   throw new Error('Telegram sendDocument failed after retries');
 }
 
+function fallbackBrandLabel(niche) {
+  if (niche === 'documentation' || niche === 'land_selection') return 'OliveTree SafeBuy';
+  if (niche === 'construction') return 'OliveTree Builders';
+  return 'OliveTree Investors';
+}
+
 export async function sendContentPack(candidate, pack) {
   const contentId = candidate.contentId || 'UNASSIGNED';
   const geminiPrompt = String(pack.gemini_video_prompt || '').trim();
   if (!geminiPrompt) throw new Error('Missing gemini_video_prompt');
 
   const sourceUrl = candidate.source?.url || '';
-  const topic = pack.topic || pack.coimbatore_angle || 'Property Investment';
+  const topic = pack.topic || pack.coimbatore_angle || 'Property Education';
+  const brandLabel = candidate.brandLabel || fallbackBrandLabel(candidate.niche);
   const caption = [
-    `🌿 OliveTree Investors — Coimbatore`,
+    `🌿 ${brandLabel} — Coimbatore`,
     `Topic: ${topic}`,
     `Content ID: ${contentId}`,
     `Source research: ${sourceUrl}`,
