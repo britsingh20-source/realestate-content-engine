@@ -1,5 +1,140 @@
 [
   {
+    "contentId": "INV-20260910-3W36",
+    "niche": "investment",
+    "label": "PROPERTY INVESTMENT",
+    "brand": "olivetree_investors",
+    "status": "awaiting_video",
+    "createdAt": "2026-09-10T12:30:26.322Z",
+    "candidate": {
+      "niche": "investment",
+      "creator": "Real Estate With Mayank",
+      "creatorKey": "mayank",
+      "source": {
+        "id": "hQp5jilYjT8",
+        "title": "How Slum Redevelopment Is Changing Mumbai",
+        "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+        "publishedAt": "2026-08-20T13:31:02Z",
+        "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+        "channelTitle": "Real Estate With Mayank",
+        "durationSeconds": 79,
+        "views": 604636,
+        "likes": 11980,
+        "comments": 515,
+        "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+        "ageHours": 502.96007833333334,
+        "velocity": 1202.1550537442092,
+        "outlier": 62.25658978583196,
+        "velocityRatio": 48.48131618642427,
+        "engagementRatio": 0.9046487530732598
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 60,
+      "priority": "priority"
+    },
+    "transcriptMeta": {
+      "subtitleFile": "gemini-youtube-video-understanding",
+      "chars": 4327
+    },
+    "pack": {
+      "subject_classification": "land_use_efficiency_and_cross_subsidization",
+      "source_evidence_points": [
+        "Horizontal inefficient land usage locks high-value urban real estate without yielding optimal returns.",
+        "Vertical densification unlocks hidden land equity while serving existing occupants on a smaller footprint.",
+        "Cross-subsidization through premium multi-use developments finances structural infrastructure costs.",
+        "Urban sites gain massive valuation upside when floor-space index (FSI) and vertical planning are maximized."
+      ],
+      "topic": "Coimbatore Urban Infill & Land Use Efficiency",
+      "source_script_insight": "The Mumbai slum redevelopment model demonstrates that land value isn't created by merely buying raw acreage, but by vertical densification and cross-subsidization—converting low-density horizontal usage into high-yield vertical space.",
+      "coimbatore_angle": "In tight Coimbatore commercial and residential cores like Gandhipuram, Ukkadam, or Town Hall where land availability is capped, evaluating properties through FSI efficiency, mixed-use cross-subsidization potential, and vertical densification yields superior long-term returns compared to sprawling edge plots.",
+      "visual_strategy": "Use micro-analytical visual evidence comparing cramped horizontal urban footprints with high-density vertical building models in Coimbatore urban environments. Focus on architectural site blueprints, FSI ratio calculations on smartphones, elevation density shots, and financial yield comparisons instead of generic house-buying montages.",
+      "generic_sequence_avoided": true,
+      "core_takeaway": "Maximize ROI in space-constrained Coimbatore urban real estate by investing in high-FSI, vertically optimized, mixed-use properties.",
+      "voiceover_tamil": "கோவை நகர்ப்புற நிலங்களில் முழு மதிப்பை பெற, FSI மற்றும் Vertical Planning திறனை சரியாக கணக்கிட்டு முதலீடு செய்யுங்கள்!",
+      "scenes": [
+        {
+          "scene": 1,
+          "start_sec": 0,
+          "end_sec": 1.4,
+          "evidence_point": "Horizontal inefficient land usage locks high-value urban real estate without yielding optimal returns.",
+          "purpose": "Establish the central tension: low-density horizontal space in prime city centers underutilizes valuable land.",
+          "visual": "Eye-level 9:16 vertical shot of a low-rise, high-density crowded commercial street corner near Town Hall Coimbatore, capturing horizontal land lockup.",
+          "on_screen_text": "நில பயன்பாடு",
+          "voiceover_tamil": "கோவை நகர்ப்புற"
+        },
+        {
+          "scene": 2,
+          "start_sec": 1.4,
+          "end_sec": 2.8,
+          "evidence_point": "Vertical densification unlocks hidden land equity while serving existing occupants on a smaller footprint.",
+          "purpose": "Demonstrate the shift from horizontal spread to vertical optimization.",
+          "visual": "Top-down downward tilt showing an architectural drone grid map of a Coimbatore commercial block overlaying high FSI potential.",
+          "on_screen_text": "FSI பயன்பாடு",
+          "voiceover_tamil": "நிலங்களில் முழு மதிப்பை"
+        },
+        {
+          "scene": 3,
+          "start_sec": 2.8,
+          "end_sec": 4.2,
+          "evidence_point": "Cross-subsidization through premium multi-use developments finances structural infrastructure costs.",
+          "purpose": "Show the cross-subsidization layout concept on paper.",
+          "visual": "Macro camera shot inspecting a detailed 2D building elevation cross-section sheet on a wooden desk, highlighting commercial vs residential floor division.",
+          "on_screen_text": "வெர்டிகல் பிளானிங்",
+          "voiceover_tamil": "பெற,"
+        },
+        {
+          "scene": 4,
+          "start_sec": 4.2,
+          "end_sec": 5.6,
+          "evidence_point": "Urban sites gain massive valuation upside when floor-space index (FSI) and vertical planning are maximized.",
+          "purpose": "Prove financial efficiency with actual yield metrics.",
+          "visual": "Close-up of a hand tapping a phone calculator next to a Coimbatore urban plot survey sheet, comparing FSI yield returns.",
+          "on_screen_text": "கணக்கீடு",
+          "voiceover_tamil": "FSI மற்றும் Vertical"
+        },
+        {
+          "scene": 5,
+          "start_sec": 5.6,
+          "end_sec": 7,
+          "evidence_point": "Vertical densification unlocks hidden land equity while serving existing occupants on a smaller footprint.",
+          "purpose": "Show real-world application of vertical commercial integration.",
+          "visual": "Low-angle upward pan of a sleek multi-tier modern glass and stone commercial building on Avinashi Road, Coimbatore under bright sunlight.",
+          "on_screen_text": "அடர்த்தி உயர்வு",
+          "voiceover_tamil": "Planning திறனை"
+        },
+        {
+          "scene": 6,
+          "start_sec": 7,
+          "end_sec": 8.5,
+          "evidence_point": "Cross-subsidization through premium multi-use developments finances structural infrastructure costs.",
+          "purpose": "Highlight local urban traffic and footfall driving high-density value.",
+          "visual": "Eye-level tracking shot along a busy Coimbatore road with modern multi-story commercial infill structures framing the background.",
+          "on_screen_text": "வருவாய் திறன்",
+          "voiceover_tamil": "சரியாக கணக்கிட்டு"
+        },
+        {
+          "scene": 7,
+          "start_sec": 8.5,
+          "end_sec": 10,
+          "evidence_point": "Urban sites gain massive valuation upside when floor-space index (FSI) and vertical planning are maximized.",
+          "purpose": "Deliver final investment decision proof with subtle branding overlay.",
+          "visual": "Close-up of hands marking an urban site blueprint overlay with high ROI green highlight; subtle text 'OliveTree Investors' appears at top corner.",
+          "on_screen_text": "ஸ்மார்ட் முதலீடு",
+          "voiceover_tamil": "முதலீடு செய்யுங்கள்!"
+        }
+      ],
+      "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: Exactly 10.0 seconds.\n- Aspect Ratio: Native Portrait 9:16 full vertical screen composition.\n- Visual Continuity: Strictly real-world photorealistic footage set exclusively in Coimbatore, Tamil Nadu. No landscape cropping, no black sidebars.\n\nB. REALISM LOCK\n- Ultra-photorealistic 4K physical footage. Captured on cinematic mirrorless camera with prime lenses.\n- Authentic Coimbatore urban atmospheric parameters: natural direct sunlight, subtle dust haze in air, tropical palm greenery accents, realistic street architecture, natural Indian skin tones, authentic road conditions and concrete surface textures.\n- ABSOLUTELY NO 3D renders, architectural animations, cartoon explainer visuals, plastic surfaces, or CGI floating graphics.\n\nC. SOURCE SUBJECT LOCK\n- Topic: Urban Land Use Efficiency & Cross-Subsidization (derived from source lesson on vertical redevelopment unlocking land value).\n- Evidence Points:\n  1. Inefficient horizontal space locks urban value.\n  2. FSI optimization and vertical planning unlock multi-fold equity.\n  3. Mixed-use cross-subsidization maximizes revenue from small footprints.\n  4. Strategic urban infill outperforms sprawling suburban edge land in long-term yield.\n- Coimbatore Specifics: Real urban corridors of Coimbatore (Town Hall, Gandhipuram, Avinashi Road urban infill character).\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus exclusively on physical evidence of density, structural planning, site blueprints, FSI financial calculations, and high-density vertical urban buildings.\n- FORBIDDEN: Do NOT show generic empty plots, family buying home scenes, construction workers framing a house, or symbolic financial growth charts.\n\nE. CAMERA + IMAGE QUALITY\n- Cinematic 4K mirrorless look, natural focal length (35mm/50mm), optical depth of field, real sun flare, realistic shadows and concrete material textures. Micro-stabilized handheld and smooth tracking motions.\n\nF. EXACT 7-SHOT PLAN\n- Shot 1 (0.0s - 1.4s): Eye-level 9:16 vertical shot of a low-rise, densely populated commercial street corner in Town Hall, Coimbatore. Sunlight casting sharp realistic shadows. On-screen text: 'நில பயன்பாடு'. Voiceover: 'கோவை நகர்ப்புற'.\n- Shot 2 (1.4s - 2.8s): High-angle camera tilt looking down at a detailed urban masterplan map of a Coimbatore block with architectural FSI grid overlays. On-screen text: 'FSI பயன்பாடு'. Voiceover: 'நிலங்களில் முழு மதிப்பை'.\n- Shot 3 (2.8s - 4.2s): Macro close-up shot of architectural elevation blueprints on a dark wood table showing vertical mixed-use space allocation (retail ground, offices above). On-screen text: 'வெர்டிகல் பிளானிங்'. Voiceover: 'பெற,'.\n- Shot 4 (4.2s - 5.6s): Extreme close-up of a smartphone calculator sitting next to an Indian land survey document showing high rental yield metrics. On-screen text: 'கணக்கீடு'. Voiceover: 'FSI மற்றும் Vertical'.\n- Shot 5 (5.6s - 7.0s): Low-angle tilt-up of a modern 6-story vertical glass and granite commercial building located on Avinashi Road, Coimbatore under morning sunlight. On-screen text: 'அடர்த்தி உயர்வு'. Voiceover: 'Planning திறனை'.\n- Shot 6 (7.0s - 8.5s): Smooth tracking shot of busy Coimbatore street traffic flowing past modern vertical infill commercial developments. Real urban movement. On-screen text: 'வருவாய் திறன்'. Voiceover: 'சரியாக கணக்கிட்டு'.\n- Shot 7 (8.5s - 10.0s): Close-up of investor's hands highlighting key density metric on a site plan with a pen. Small minimal text overlay at top: 'OliveTree Investors'. On-screen text: 'ஸ்மார்ட் முதலீடு'. Voiceover: 'முதலீடு செய்யுங்கள்!'.\n\nG. MOTION-GRAPHICS LIMIT\n- Only crisp, minimal 1-2 word Tamil text overlays in clean sans-serif typography on top of raw photographic footage. No graphic-dominant scenes.\n\nH. FINAL REAL SCENE\n- Concludes on a real physical document interaction (Shot 7) with a subtle OliveTree Investors mark. No artificial end card.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Ban all toon, 3D explainer style, unreal architectural visualization, plastic materials, fake skylines, duplicated individuals, landscape framing, black bars, speed ramps, whip pans, religious iconography, fabricated city names, or non-Coimbatore aesthetic elements.",
+      "title_tamil": "கோவை நகர்புற நிலத்தின் முழு திறனை பெற வழி!",
+      "caption_tamil": "கோவையின் முன்னணி நகர்ப்புற நிலங்களில் FSI மற்றும் Vertical Planning மூலம் அதிக வருவாய் பெறலாம். ஸ்மார்ட் முதலீட்டாளராக சிந்தியுங்கள்! #CoimbatoreRealEstate #OliveTreeInvestors #PropertyInvestment",
+      "hashtags": [
+        "#CoimbatoreRealEstate",
+        "#OliveTreeInvestors",
+        "#PropertyInvestment"
+      ]
+    }
+  },
+  {
     "contentId": "INV-20260910-MN55",
     "niche": "investment",
     "label": "PROPERTY INVESTMENT",
