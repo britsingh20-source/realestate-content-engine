@@ -16,7 +16,7 @@ async function main() {
     const config = await loadJson(meta.creatorConfig);
     const report = await runNicheMonitor(config);
     await saveNicheReport(report);
-    const used = await usedSourceIds({ brand: meta.brand });
+    const used = await usedSourceIds();
     const selected = report.candidates.filter(isActionable).find(candidate => !used.has(String(candidate.source?.id || '')));
     if (!selected) {
       console.log(`${niche}: no actionable breakout`);
