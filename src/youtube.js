@@ -27,10 +27,19 @@ export async function resolveChannel(creator) {
 }
 
 export async function recentVideos(channelId, publishedAfter, maxResults = 25) {
-  const search = await yt('search', {
-    part: 'snippet', channelId, type: 'video', order: 'date', maxResults: String(Math.min(maxResults, 50)), publishedAfter
+  // Reading a channel's uploads playlist costs only a few quota units; search.list
+  // costs 100 units per call and exhausted the project's daily quota.
+  const channel = await yt('channels', { part: 'contentDetails', id: channelId, maxResults: '1' });
+  const uploadsId = channel.items?.[0]?.contentDetails?.relatedPlaylists?.uploads;
+  if (!uploadsId) throw new Error(`Could not find uploads playlist for channel ${channelId}`);
+  const playlist = await yt('playlistItems', {
+    part: 'contentDetails', playlistId: uploadsId, maxResults: String(Math.min(maxResults, 50))
   });
-  const ids = (search.items || []).map(x => x.id.videoId).filter(Boolean);
+  const cutoff = new Date(publishedAfter).getTime();
+  const ids = (playlist.items || [])
+    .filter(x => new Date(x.contentDetails?.videoPublishedAt || 0).getTime() >= cutoff)
+    .map(x => x.contentDetails?.videoId)
+    .filter(Boolean);
   if (!ids.length) return [];
   const details = await yt('videos', { part: 'snippet,statistics,contentDetails', id: ids.join(',') });
   return (details.items || []).map(v => ({
