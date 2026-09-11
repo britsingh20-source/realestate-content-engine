@@ -26,11 +26,22 @@ async function sendPromptDocument({ contentId, prompt, caption }) {
   const chatId = required('TELEGRAM_CHAT_ID');
   const filename = `${contentId}-Gemini-Prompt.txt`;
   const endpoint = `https://api.telegram.org/bot${token}/sendDocument`;
+  const keyboard = {
+    inline_keyboard: [
+      [
+        {
+          text: '📋 Copy VIDEO ID',
+          copy_text: { text: contentId }
+        }
+      ]
+    ]
+  };
 
   for (let attempt = 1; attempt <= 4; attempt++) {
     const form = new FormData();
     form.append('chat_id', chatId);
     form.append('caption', caption);
+    form.append('reply_markup', JSON.stringify(keyboard));
     form.append('document', new Blob([prompt], { type: 'text/plain;charset=utf-8' }), filename);
 
     const res = await fetch(endpoint, { method: 'POST', body: form });
@@ -106,11 +117,11 @@ export async function sendContentPack(candidate, pack) {
     `Topic: ${topic}`,
     sourceUrl ? `Source research: ${sourceUrl}` : null,
     ``,
+    `Tap “📋 Copy VIDEO ID” below to copy the ID instantly.`,
     `1. Open the attached TXT file.`,
     `2. Copy the Gemini prompt into Gemini.`,
     `3. After generation, upload the MP4 back to this bot.`,
-    `4. Use ONLY this exact caption on the video:`,
-    `${contentId}`
+    `4. Use this exact VIDEO ID with the upload.`
   ].filter(v => v !== null).join('\n');
 
   return sendPromptDocument({ contentId, prompt: promptFile, caption });
