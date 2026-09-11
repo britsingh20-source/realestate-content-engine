@@ -17,7 +17,7 @@ async function main() {
   const report = await runNicheMonitor(config);
   await saveNicheReport(report);
 
-  const used = await usedSourceIds({ brand: meta.brand });
+  const used = await usedSourceIds();
   const fresh = report.candidates.filter(candidate => !used.has(String(candidate.source?.id || '')));
   const ordered = [
     ...fresh.filter(isActionable),
