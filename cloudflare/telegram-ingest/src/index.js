@@ -3,13 +3,15 @@ export default {
     if (request.method !== 'POST') return new Response('Not found', { status: 404 });
 
     const url = new URL(request.url);
-    if (url.pathname !== `/telegram/${env.WEBHOOK_SECRET}`) {
+    if (!env.WEBHOOK_SECRET || url.pathname !== `/telegram/${env.WEBHOOK_SECRET}`) {
       return new Response('Not found', { status: 404 });
     }
 
     let update;
     try { update = await request.json(); }
     catch { return new Response('Bad request', { status: 400 }); }
+
+    if (!Number.isSafeInteger(update?.update_id)) return new Response('Bad request', { status: 400 });
 
     const message = update?.message;
     const chatId = String(message?.chat?.id || '');
@@ -19,10 +21,9 @@ export default {
 
     const updateKey = `update:${update.update_id}`;
     if (await env.PAIRING_STATE.get(updateKey)) return new Response('ok');
-    await env.PAIRING_STATE.put(updateKey, '1', { expirationTtl: 86400 });
 
     const text = String(message.caption || message.text || '').trim();
-    const explicit = extractContentId(text);
+    const explicit = extractContentId(text) || extractContentId(message.reply_to_message?.text || message.reply_to_message?.caption);
     const attachment = videoAttachment(message);
 
     if (!attachment) {
@@ -65,14 +66,17 @@ export default {
     );
 
     if (!dispatched.ok) {
-      const detail = (await dispatched.text()).slice(0, 300);
+      console.error(JSON.stringify({ event: 'dispatch_failed', update_id: update.update_id, status: dispatched.status }));
       await telegram(env, 'sendMessage', {
         chat_id: chatId,
-        text: `⚠️ Upload received and paired to ${contentId}, but publishing could not start. GitHub dispatch returned ${dispatched.status}. Nothing was reposted. ${detail}`,
+        text: `⚠️ Upload received and paired to ${contentId}, but publishing could not start. GitHub dispatch returned ${dispatched.status}. Telegram will retry this upload.`,
       });
       return new Response('dispatch failed', { status: 502 });
     }
 
+    // Record completion only after GitHub accepts the dispatch so failures remain retryable.
+    await env.PAIRING_STATE.put(updateKey, '1', { expirationTtl: 86400 });
+    console.log(JSON.stringify({ event: 'dispatch_accepted', update_id: update.update_id, content_id: contentId }));
     await env.PAIRING_STATE.delete(`pending-id:${chatId}`);
     await telegram(env, 'sendMessage', {
       chat_id: chatId,
