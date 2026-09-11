@@ -68,7 +68,6 @@ export async function runNicheMonitor(config) {
   const candidates = [];
   for (const group of enriched) {
     for (const v of group.videos) {
-      if (v.outlier < config.breakoutMultipliers.candidate) continue;
       const peerMatches = [];
       for (const peer of enriched.filter(x => x.creator.key !== group.creator.key)) {
         let best = null;
