@@ -4,7 +4,7 @@
   "label": "CONSTRUCTION KNOWLEDGE",
   "brand": "olivetree_builders",
   "brandLabel": "OliveTree Builders",
-  "status": "awaiting_video",
+  "status": "superseded",
   "createdAt": "2026-09-10T13:01:24.471Z",
   "candidate": {
     "niche": "construction",
@@ -125,5 +125,7 @@
       "#OliveTreeBuilders",
       "#CivilTipsTamil"
     ]
-  }
+  },
+  "supersededAt": "2026-09-11T18:38:58.399Z",
+  "supersededReason": "Rejected: repeated prompt derived from an off-topic automobile source."
 }
