@@ -30,6 +30,29 @@ export function makeContentId(niche) {
   return `${prefix}-${day}-${rand}`;
 }
 
+async function readAllRecords() {
+  let files = [];
+  try { files = (await fs.readdir(RECORD_DIR)).filter(name => name.endsWith('.json')); }
+  catch {}
+  const records = [];
+  for (const name of files) {
+    try { records.push(JSON.parse(await fs.readFile(`${RECORD_DIR}/${name}`, 'utf8'))); }
+    catch {}
+  }
+  return [...records, ...(await readLegacy())];
+}
+
+export async function usedSourceIds({ brand, niche } = {}) {
+  const ids = new Set();
+  for (const item of await readAllRecords()) {
+    if (brand && item.brand !== brand) continue;
+    if (niche && item.niche !== niche) continue;
+    const id = item.candidate?.source?.id;
+    if (id) ids.add(String(id));
+  }
+  return ids;
+}
+
 export async function addPending(item) {
   await writeRecord(item);
 }
