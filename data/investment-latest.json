@@ -1,22 +1,10 @@
 {
-  "scannedAt": "2026-09-10T20:59:14.351Z",
+  "scannedAt": "2026-09-11T11:18:41.604Z",
   "niche": "investment",
   "skippedCreators": [
     {
-      "creator": "Sanat Thakur",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_location\": \"global\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"quota_limit_value\": \"100\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"window_start_time\": \"1789023600\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
-    },
-    {
-      "creator": "Rohit Gaikwad",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_location\": \"global\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_limit_value\": \"100\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
-    },
-    {
-      "creator": "Samir Jasuja / PropEquity",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_location\": \"global\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"window_start_time\": \"1789023600\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
-    },
-    {
       "creator": "Abrar Teli",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/9212714057\",\n          \"quota_location\": \"global\",\n          \"window_start_time\": \"1789023600\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_limit_value\": \"100\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+      "reason": "Could not resolve channel for Abrar Teli"
     }
   ],
   "creators": [
@@ -32,11 +20,68 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 9723,
-        "velocity": 24.249713942018612,
-        "engagement": 0.023758099352051837
+        "views": 9730,
+        "velocity": 23.369475941988117,
+        "engagement": 0.023783889595771754
       },
       "videoCount": 6
+    },
+    {
+      "creator": {
+        "key": "sanat-thakur",
+        "name": "Sanat Thakur",
+        "searchQuery": "Sanat Thakur real estate investment India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UC2K_S2pYqmRE4H78VD3SFMg",
+        "resolvedTitle": "Kapil Yaddav",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
+    },
+    {
+      "creator": {
+        "key": "rohit-gaikwad",
+        "name": "Rohit Gaikwad",
+        "searchQuery": "Rohit Gaikwad real estate India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCkb6UrUqyplN6z76ub0xXVg",
+        "resolvedTitle": "Rohit Gaikwad - Real Estate Coach & Author",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
+    },
+    {
+      "creator": {
+        "key": "samir-jasuja",
+        "name": "Samir Jasuja / PropEquity",
+        "searchQuery": "Samir Jasuja PropEquity",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCV3woQnwayM2cCaHQqRii8w",
+        "resolvedTitle": "Samir Jasuja-PropEquity",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
     }
   ],
   "candidates": [
@@ -52,15 +97,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 608103,
-        "likes": 12020,
-        "comments": 516,
+        "views": 611829,
+        "likes": 12065,
+        "comments": 519,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 511.4700975,
-        "velocity": 1188.931675521852,
-        "outlier": 62.54273372415921,
-        "velocityRatio": 49.0286886832811,
-        "engagementRatio": 0.9034169301163544
+        "ageHours": 525.7943344444444,
+        "velocity": 1163.627981359784,
+        "outlier": 62.88067831449126,
+        "velocityRatio": 49.79264337156506,
+        "engagementRatio": 0.900446268348992
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -79,15 +124,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20352,
-        "likes": 433,
+        "views": 20434,
+        "likes": 434,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 391.97815305555554,
-        "velocity": 51.92126102271696,
-        "outlier": 2.0931811169392165,
-        "velocityRatio": 2.1411081857238146,
-        "engagementRatio": 1.0030508504859919
+        "ageHours": 406.30239,
+        "velocity": 50.292591190516994,
+        "outlier": 2.100102774922919,
+        "velocityRatio": 2.1520632861157107,
+        "engagementRatio": 1
       },
       "confirmations": 0,
       "peerMatches": [],
