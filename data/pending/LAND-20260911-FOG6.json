@@ -1,0 +1,131 @@
+{
+  "contentId": "LAND-20260911-FOG6",
+  "niche": "land_selection",
+  "label": "SMART LAND SELECTION",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-11T16:48:04.412Z",
+  "candidate": {
+    "niche": "land_selection",
+    "creator": "Civiconcepts / Bhushan Mahajan",
+    "creatorKey": "civiconcepts",
+    "source": {
+      "id": "uwLmZjxyDdA",
+      "title": "बारिश में छत से पानी टपक रहा है? | Roof Leakage Solution | Waterproofing Tips by Civil Engineer",
+      "description": "क्या आपकी छत से बारिश में पानी टपकता है या सीलन आती है? इस वीडियो में एक अनुभवी Civil Engineer बताएंगे Roof Leakage के असली कारण, Crack Repair, Waterproofing और Roof Drainage के सही तरीके। ये आसान टिप्स अपनाकर अपनी छत को लंबे समय तक सुरक्षित रखें।\n\n\nroof leakage,roof waterproofing,roof repair,civil engineer,roof seepage,ceiling leakage,waterproofing tips,terrace waterproofing,roof crack repair,water leakage solution,सीलन,छत से पानी,roof leakage solution,home maintenance,civil engineering,rain leakage,waterproof roof,roof dampness,छत की लीकेज,बारिश में छत\n\n\n\n* बारिश में छत से पानी क्यों टपकता है\n* छत की लीकेज कैसे बंद करें\n* Roof leakage solution at home\n* Roof waterproofing ka sahi tarika\n* Waterproofing tips by Civil Engineer\n* Terrace waterproofing step by step\n* Ceiling seepage repair Hindi\n* Ghar ki chhat se pani tapak raha hai\n* Roof crack repair process\n* Best waterproof coating for roof\n* Monsoon roof maintenance tips\n* Concrete roof leakage repair\n* Chhat ki seepage ka permanent solution\n* Civil engineering waterproofing guide\n* Ghar ki chhat waterproof kaise kare\n* Rain water leakage repair\n* Roof leakage treatment India\n* Roof drainage cleaning tips\n* Waterproofing chemical use kaise kare\n* Ceiling dampness solution H",
+      "publishedAt": "2026-07-31T15:39:42Z",
+      "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
+      "channelTitle": "Civiconcepts - Bhushan Mahajan",
+      "durationSeconds": 59,
+      "views": 5633,
+      "likes": 57,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=uwLmZjxyDdA",
+      "ageHours": 1009.0766616666667,
+      "velocity": 5.5823310695701895,
+      "outlier": 1.5067540457402702,
+      "velocityRatio": 1.5492133867901126,
+      "engagementRatio": 0.7086808481947208
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 20,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3407,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.7-flash"
+  },
+  "pack": {
+    "topic": "Coimbatore Vacant Plot Rain & Drainage Site Inspection",
+    "source_script_insight": "Superficial surface inspection masks structural water issues; thoroughly assessing site slope, low-lying level, and drainage runoff pathways prevents catastrophic future waterlogging.",
+    "coimbatore_angle": "Inspecting vacant layout plots in fast-expanding Coimbatore localities during monsoon conditions to verify elevation, natural slope, and municipal storm-drain outlet access.",
+    "core_takeaway": "Always inspect land slope and water runoff paths during monsoon weather before finalizing a land purchase in Coimbatore.",
+    "voiceover_tamil": "மழைக் காலத்தில் இடம் வாங்கும்போது... மேற்பரப்பு நிலத்தை மட்டும் பார்க்காதீங்க! நிலத்தின் சாய்வு மற்றும் பள்ளங்களைச் சரிபார்க்கவும். மழைநீர் வடிகால் பாதை சரியாக இருக்கிறதா? வரைபடமும் நிலத்தின் வடிகால் பாதையும் ஒத்துப் போக வேண்டும். வாங்கும் முன்பே நீர் தேங்கும் அபாயத்தைக் கண்டறியுங்கள். பாதுகாப்பான நிலத் தேர்வுக்கு OliveTree SafeBuy!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Attention-grabbing hook demonstrating land waterlogging issue",
+        "visual": "Smartphone ground-level tilt shot of rainwater pooling along the red-painted survey corner stone of a vacant plot in Coimbatore suburban layout.",
+        "camera": "Low angle ground tilt up, 24mm lens, slight handheld movement.",
+        "on_screen_text": "மழைக்கால நிலப் பார்வை",
+        "voiceover_tamil": "மழைக் காலத்தில் இடம் வாங்கும்போது..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Highlight mistake of judging dry plot surface without seeing wet conditions",
+        "visual": "Handheld eye-level view of buyer looking across a vacant plot with visible damp mud patches and natural low-lying slope drop.",
+        "camera": "Eye-level pan across plot, 35mm lens, natural daylight under overcast light rain.",
+        "on_screen_text": "மேற்பரப்பு மட்டும் போதாது!",
+        "voiceover_tamil": "மேற்பரப்பு நிலத்தை மட்டும் பார்க்காதீங்க!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.3,
+        "purpose": "Demonstrate slope and elevation check",
+        "visual": "Close-up of a surveyor measuring tape and digital spirit level placed against concrete plot boundary marker to measure terrain slope.",
+        "camera": "Extreme close-up macro feel, 50mm lens, steady camera focus.",
+        "on_screen_text": "சாய்வு & பள்ளம்",
+        "voiceover_tamil": "நிலத்தின் சாய்வு மற்றும் பள்ளங்களைச் சரிபார்க்கவும்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.7,
+        "purpose": "Inspect storm drainage infrastructure along access road",
+        "visual": "Gimbal tracking shot along the tar access road showing concrete roadside storm water drain pipe cut-out free of silt debris.",
+        "camera": "Low tracking push-in, 28mm lens, smooth gimbal motion.",
+        "on_screen_text": "வடிகால் இணைப்பு",
+        "voiceover_tamil": "மழைநீர் வடிகால் பாதை சரியாக இருக்கிறதா?"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "purpose": "Cross-check physical layout with layout approval sketch",
+        "visual": "Over-the-shoulder medium shot holding a laminated layout map against the actual open site showing drain reservation lines.",
+        "camera": "Over-the-shoulder medium shot, 35mm lens, shallow depth of field.",
+        "on_screen_text": "வரைபட ஒப்பீடு",
+        "voiceover_tamil": "வரைபடமும் நிலத்தின் வடிகால் பாதையும் ஒத்துப் போக வேண்டும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.5,
+        "purpose": "Risk prevention check prior to agreement",
+        "visual": "Wide angle view of a well-drained suburban Coimbatore residential plot with clear road access and visible EB line poles.",
+        "camera": "High-angle 45-degree drone-style slow drop, 24mm equivalent.",
+        "on_screen_text": "நீர் தேங்கல் பரிசோதனை",
+        "voiceover_tamil": "வாங்கும் முன்பே நீர் தேங்கும் அபாயத்தைக் கண்டறியுங்கள்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Brand call to action and closing trust signal",
+        "visual": "Real daylight shot of buyer reviewing field survey boundary document on clip board at site with clear green foliage and road view behind.",
+        "camera": "Medium chest-level static shot, 50mm portrait lens, warm natural lighting.",
+        "on_screen_text": "OliveTree SafeBuy",
+        "voiceover_tamil": "பாதுகாப்பான நிலத் தேர்வுக்கு OliveTree SafeBuy!"
+      }
+    ],
+    "gemini_video_prompt": "Production Shot List for OliveTree SafeBuy (COIMBATORE ONLY). EXACTLY 10 SECONDS TOTAL, EXACTLY 7 SCENES, PHOTOREALISTIC LIVE-ACTION REAL FOOTAGE ONLY. 90%+ real-looking visuals in native 9:16 portrait format. No 3D render, no toon animation, no corporate motion graphics explainer visual style.\n\nScene 1 (0.0s - 1.4s): Ground-level close-up shot outdoors in a vacant suburban residential layout in Coimbatore during overcast monsoon weather. Raindrops hitting wet soil near a fresh yellow-and-red painted stone boundary marker embedded in damp earth. Small rainwater puddle pooling nearby. Text overlay: 'மழைக்கால நிலப் பார்வை'. Audio: 'மழைக் காலத்தில் இடம் வாங்கும்போது...'\n\nScene 2 (1.4s - 2.8s): Eye-level handheld slow pan across a 4-cent vacant residential plot in Saravanampatti area, showing natural ground elevation variations, damp patches, and surrounding green coconut trees in background. Text overlay: 'மேற்பரப்பு மட்டும் போதாது!'. Audio: 'மேற்பரப்பு நிலத்தை மட்டும் பார்க்காதீங்க!'\n\nScene 3 (2.8s - 4.3s): Macro detail shot of yellow measuring tape extending down to measure natural ground dip depth next to concrete plot marker post. Realistic wet mud texture, real grit, realistic natural overcast daylight. Text overlay: 'சாய்வு & பள்ளம்'. Audio: 'நிலத்தின் சாய்வு மற்றும் பள்ளங்களைச் சரிபார்க்கவும்.'\n\nScene 4 (4.3s - 5.7s): Low-angle gimbal forward tracking shot moving alongside a 30-foot layout access road, showing a concrete storm water drainage channel with water flowing smoothly. Real red soil edges, asphalt texture, real roadside EB electric distribution pole in background. Text overlay: 'வடிகால் இணைப்பு'. Audio: 'மழைநீர் வடிகால் பாதை சரியாக இருக்கிறதா?'\n\nScene 5 (5.7s - 7.1s): Over-the-shoulder medium shot of hands holding a printed DTCP plot layout diagram against the background view of the vacant site, pointing at marked drainage corridor lines. Natural paper texture, realistic sunlight filtered through light clouds. Text overlay: 'வரைபட ஒப்பீடு'. Audio: 'வரைபடமும் நிலத்தின் வடிகால் பாதையும் ஒத்துப் போக வேண்டும்.'\n\nScene 6 (7.1s - 8.5s): High-angle wide site perspective shot dropping slowly over a clean, well-drained plotted land parcel in Coimbatore, showing clean access roads, clear boundary stones, and nearby residential houses in distance. Text overlay: 'நீர் தேங்கல் பரிசோதனை'. Audio: 'வாங்கும் முன்பே நீர் தேங்கும் அபாயத்தைக் கண்டறியுங்கள்.'\n\nScene 7 (8.5s - 10.0s): Medium shot outdoors on real site in overcast daylight, clip board with property verification checklist being checked off with blue pen. Background shows clear plot layout and distant Western Ghats hills backdrop. Text overlay overlaying real footage: 'OliveTree SafeBuy'. Audio: 'பாதுகாப்பான நிலத் தேர்வுக்கு OliveTree SafeBuy!'\n\nVisual Continuity Rules: Consistent overcast monsoon daylight setting across all shots, authentic Coimbatore suburban scenery (coconut palm fringes, red soil, asphalt layout roads), hyper-realistic skin tones, real document paper textures. Overlays are minimalistic white transparent Tamil text boxes.\n\nNEGATIVE PROMPT: 3D render, cartoon, 2D animation, corporate motion graphic, fake floating text cards, glossy futuristic cityscape, fake CGI house models, unrealistic lighting, landscape aspect ratio, black bars, blurred sidebars, non-Tamil Nadu locations, exaggerated architectural models.",
+    "title_english": "Inspect Coimbatore Land Slope & Drainage Before Buying",
+    "caption_english": "Buying a vacant plot during monsoon in Coimbatore? Don't just judge the ground when it looks dry in summer. Water stagnation and improper layout slope can lead to severe flooding, foundation dampness, and costly retaining wall expenses later.\n\nAlways inspect the plot elevation, verify roadside storm drain connections, and cross-check natural drainage channels with layout maps during site visits.\n\nEnsure complete peace of mind with verified land inspections in Coimbatore through OliveTree SafeBuy.",
+    "title_tamil": "கோவையில் நிலம் வாங்கும் முன் வடிகால் சோதனை மிக முக்கியம்!",
+    "caption_tamil": "கோவையில் மனை வாங்குவதற்கு முன் மழைக்காலத்தில் நிலத்தின் சாய்வு மற்றும் நீர் தேங்கும் அபாயங்களை நேரில் சரிபார்ப்பது அவசியம். பாதுகாப்பான நிலத் தேர்வுக்கு OliveTree SafeBuy தொடர்பு கொள்ளுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#LandBuyingTips",
+      "#OliveTreeSafeBuy"
+    ]
+  }
+}

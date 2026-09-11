@@ -1,59 +1,114 @@
 {
-  "scannedAt": "2026-09-11T11:45:34.030Z",
+  "scannedAt": "2026-09-11T16:44:17.982Z",
   "niche": "land_selection",
   "skippedCreators": [
     {
       "creator": "Nemmadi Home Inspection",
-      "reason": "Could not resolve channel for Nemmadi Home Inspection"
-    },
-    {
-      "creator": "Civiconcepts / Bhushan Mahajan",
-      "reason": "Could not resolve channel for Civiconcepts / Bhushan Mahajan"
-    },
-    {
-      "creator": "Harry Dutt",
-      "reason": "Could not resolve channel for Harry Dutt"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_location\": \"global\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"quota_limit_value\": \"100\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"service\": \"youtube.googleapis.com\",\n          \"consumer\": \"projects/9212714057\",\n          \"window_start_time\": \"1789110000\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     }
   ],
   "creators": [
     {
       "creator": {
-        "key": "paul-kuriakose",
-        "name": "Paul Kuriakose",
-        "searchQuery": "Paul Kuriakose property plot buying India",
+        "key": "civiconcepts",
+        "name": "Civiconcepts / Bhushan Mahajan",
+        "searchQuery": "Civiconcepts Bhushan Mahajan plot planning India",
         "language": "English",
         "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UC46bBqt3sf_0jpb0_EV3_sA",
-        "resolvedTitle": "Baiju N Nair",
-        "resolution": "youtube-search"
+        "needsChannelIdVerification": false,
+        "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
+        "resolvedChannelId": "UC93fHoH7WbSN9E1vv8riq8A",
+        "resolution": "configured"
       },
       "baseline": {
-        "views": 1,
-        "velocity": 1,
-        "engagement": 0.0001
+        "views": 3738.5,
+        "velocity": 3.6033325797271103,
+        "engagement": 0.014278559911707157
       },
-      "videoCount": 0
-    },
-    {
-      "creator": {
-        "key": "search-my-property",
-        "name": "Search My Property / Hardeep Singh",
-        "searchQuery": "Search My Property Hardeep Singh land buying India",
-        "language": "English",
-        "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UCVmEbEQUGXHVm-O9pqa3JWg",
-        "resolvedTitle": "Harsh Beniwal",
-        "resolution": "youtube-search"
-      },
-      "baseline": {
-        "views": 1,
-        "velocity": 1,
-        "engagement": 0.0001
-      },
-      "videoCount": 0
+      "videoCount": 3
     }
   ],
-  "candidates": []
+  "candidates": [
+    {
+      "niche": "land_selection",
+      "creator": "Civiconcepts / Bhushan Mahajan",
+      "creatorKey": "civiconcepts",
+      "source": {
+        "id": "uwLmZjxyDdA",
+        "title": "बारिश में छत से पानी टपक रहा है? | Roof Leakage Solution | Waterproofing Tips by Civil Engineer",
+        "description": "क्या आपकी छत से बारिश में पानी टपकता है या सीलन आती है? इस वीडियो में एक अनुभवी Civil Engineer बताएंगे Roof Leakage के असली कारण, Crack Repair, Waterproofing और Roof Drainage के सही तरीके। ये आसान टिप्स अपनाकर अपनी छत को लंबे समय तक सुरक्षित रखें।\n\n\nroof leakage,roof waterproofing,roof repair,civil engineer,roof seepage,ceiling leakage,waterproofing tips,terrace waterproofing,roof crack repair,water leakage solution,सीलन,छत से पानी,roof leakage solution,home maintenance,civil engineering,rain leakage,waterproof roof,roof dampness,छत की लीकेज,बारिश में छत\n\n\n\n* बारिश में छत से पानी क्यों टपकता है\n* छत की लीकेज कैसे बंद करें\n* Roof leakage solution at home\n* Roof waterproofing ka sahi tarika\n* Waterproofing tips by Civil Engineer\n* Terrace waterproofing step by step\n* Ceiling seepage repair Hindi\n* Ghar ki chhat se pani tapak raha hai\n* Roof crack repair process\n* Best waterproof coating for roof\n* Monsoon roof maintenance tips\n* Concrete roof leakage repair\n* Chhat ki seepage ka permanent solution\n* Civil engineering waterproofing guide\n* Ghar ki chhat waterproof kaise kare\n* Rain water leakage repair\n* Roof leakage treatment India\n* Roof drainage cleaning tips\n* Waterproofing chemical use kaise kare\n* Ceiling dampness solution H",
+        "publishedAt": "2026-07-31T15:39:42Z",
+        "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
+        "channelTitle": "Civiconcepts - Bhushan Mahajan",
+        "durationSeconds": 59,
+        "views": 5633,
+        "likes": 57,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=uwLmZjxyDdA",
+        "ageHours": 1009.0766616666667,
+        "velocity": 5.5823310695701895,
+        "outlier": 1.5067540457402702,
+        "velocityRatio": 1.5492133867901126,
+        "engagementRatio": 0.7086808481947208
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 20,
+      "priority": "candidate"
+    },
+    {
+      "niche": "land_selection",
+      "creator": "Civiconcepts / Bhushan Mahajan",
+      "creatorKey": "civiconcepts",
+      "source": {
+        "id": "3pyMS646SuE",
+        "title": "From Foundation to Luxury Home | Satisfying Timelapse 🏠✨#shorts",
+        "description": "",
+        "publishedAt": "2026-07-26T09:30:14Z",
+        "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
+        "channelTitle": "Civiconcepts - Bhushan Mahajan",
+        "durationSeconds": 51,
+        "views": 1844,
+        "likes": 32,
+        "comments": 1,
+        "url": "https://www.youtube.com/watch?v=3pyMS646SuE",
+        "ageHours": 1135.2344394444444,
+        "velocity": 1.6243340898840313,
+        "outlier": 0.49324595425972984,
+        "velocityRatio": 0.45078661320988755,
+        "engagementRatio": 1.2913191518052793
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 12,
+      "priority": "candidate"
+    },
+    {
+      "niche": "land_selection",
+      "creator": "Civiconcepts / Bhushan Mahajan",
+      "creatorKey": "civiconcepts",
+      "source": {
+        "id": "pVAvvGS4YxU",
+        "title": "Empty House to Luxury Home 🏡 | Living Room, Bedroom & Kitchen Transformation Timelapse #shorts",
+        "description": "Watch an empty house transform into a stunning luxury home! See the living room, bedroom, and modular kitchen come to life step by step in a satisfying interior design timelapse. Perfect inspiration for modern home renovation and décor lovers. #InteriorDesign #HomeMakeover #LuxuryHome #Timelapse #Shorts\n\n\n\nhome transformation,empty house,luxury home,interior design,home makeover,living room design,bedroom design,modular kitchen,kitchen design,modern home,home renovation,timelapse,3d animation,AI video,architecture,home decor,dream home,house design,viral shorts,youtube shorts",
+        "publishedAt": "2026-08-04T16:06:38Z",
+        "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
+        "channelTitle": "Civiconcepts - Bhushan Mahajan",
+        "durationSeconds": 29,
+        "views": 866,
+        "likes": 11,
+        "comments": 1,
+        "url": "https://www.youtube.com/watch?v=pVAvvGS4YxU",
+        "ageHours": 912.6277727777777,
+        "velocity": 0.9489082250523057,
+        "outlier": 0.23164370736926576,
+        "velocityRatio": 0.26334183816143025,
+        "engagementRatio": 1.051334829067931
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 8,
+      "priority": "candidate"
+    }
+  ]
 }
