@@ -72,9 +72,14 @@ async function handleMessage(message, niches) {
   const key = `social-ready/${pending.niche}/${contentId}.mp4`;
   const publicUrl = pending.publishResult?.stagedVideo || await uploadVideoToR2({ bytes, contentType: video.mimeType, key });
 
-  const title = pending.pack?.title_tamil || pending.pack?.selected_hook || contentId;
+  const title = pending.pack?.title_english || pending.pack?.topic || pending.pack?.selected_hook || contentId;
   const hashtags = Array.isArray(pending.pack?.hashtags) ? pending.pack.hashtags.join(' ') : (pending.pack?.hashtags || '');
-  const caption = `${pending.pack?.caption_tamil || ''}\n\n${hashtags}`.trim();
+  const legacyEnglishCaption = [
+    pending.pack?.topic,
+    pending.pack?.core_takeaway,
+    'Follow OliveTree for clear, practical property insights.'
+  ].filter(Boolean).join('\n\n');
+  const caption = `${pending.pack?.caption_english || legacyEnglishCaption}\n\n${hashtags}`.trim();
 
   const results = { ...(pending.publishResult || {}), stagedVideo: publicUrl };
 
