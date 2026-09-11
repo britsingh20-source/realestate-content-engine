@@ -3,7 +3,7 @@
   "niche": "investment",
   "label": "PROPERTY INVESTMENT",
   "brand": "olivetree_investors",
-  "status": "awaiting_video",
+  "status": "superseded",
   "createdAt": "2026-09-10T16:37:16.941Z",
   "candidate": {
     "niche": "investment",
@@ -130,5 +130,7 @@
       "#PropertyInvestment",
       "#OliveTreeInvestors"
     ]
-  }
+  },
+  "supersededAt": "2026-09-11T18:39:19.222Z",
+  "supersededReason": "Rejected: duplicate prompt for a YouTube source already used and published."
 }
