@@ -23,7 +23,13 @@ function extractContentId(message) {
 
 function pickVideo(message) {
   if (message.video) return { fileId: message.video.file_id, mimeType: message.video.mime_type || 'video/mp4' };
-  if (message.document && String(message.document.mime_type || '').startsWith('video/')) return { fileId: message.document.file_id, mimeType: message.document.mime_type };
+  if (message.document) {
+    const mime = String(message.document.mime_type || '').toLowerCase();
+    const name = String(message.document.file_name || '').toLowerCase();
+    if (mime.startsWith('video/') || name.endsWith('.mp4')) {
+      return { fileId: message.document.file_id, mimeType: message.document.mime_type || 'video/mp4' };
+    }
+  }
   return null;
 }
 
@@ -47,7 +53,7 @@ async function handleMessage(message, niches) {
   if (!video) return;
   const contentId = extractContentId(message);
   if (!contentId) {
-    await sendStatus('Video received, but I could not identify its CONTENT ID. Upload it with the CONTENT ID as caption or reply directly to the original prompt message.');
+    await sendStatus('Video received, but I could not identify its VIDEO ID. Upload it with the VIDEO ID as caption or send the VIDEO ID first and then the MP4.');
     return;
   }
   let pending = await findPending(contentId);
@@ -102,11 +108,21 @@ async function handleMessage(message, niches) {
   await sendStatus(`${contentId} routed to ${route.label}.\nYouTube: ${results.youtube?.url || results.youtube?.error || 'unknown'}\nInstagram: ${results.instagram?.mediaId || results.instagram?.error || 'unknown'}\nStatus: ${youtubeOk && instagramOk ? 'published on both platforms' : 'partial; safe to retry without duplicating successful platform'}`);
 }
 
-async function main() {
-  const niches = await loadJson('config/niches.json');
-  const token = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = String(process.env.TELEGRAM_CHAT_ID || '');
-  if (!token || !chatId) throw new Error('Missing Telegram credentials');
+async function processWebhookDispatch(niches, chatId) {
+  const raw = String(process.env.TELEGRAM_UPDATE_JSON || '').trim();
+  if (!raw) return false;
+
+  const update = JSON.parse(raw);
+  const message = update?.message;
+  if (!message) throw new Error('Cloudflare dispatch did not contain a Telegram message');
+  if (String(message.chat?.id || '') !== chatId) throw new Error('Cloudflare dispatch chat ID does not match TELEGRAM_CHAT_ID');
+
+  await handleMessage(message, niches);
+  console.log(`Processed Cloudflare Telegram webhook update ${update.update_id ?? 'unknown'}`);
+  return true;
+}
+
+async function processLegacyPolling(niches, token, chatId) {
   const offset = await readOffset();
   const res = await fetch(`https://api.telegram.org/bot${token}/getUpdates?offset=${offset}&timeout=0&allowed_updates=message`);
   if (!res.ok) throw new Error(`Telegram getUpdates ${res.status}: ${await res.text()}`);
@@ -114,7 +130,10 @@ async function main() {
   let nextOffset = offset;
   for (const u of updates) {
     nextOffset = Math.max(nextOffset, u.update_id + 1);
-    if (String(u.message?.chat?.id || '') !== chatId) continue;
+    if (String(u.message?.chat?.id || '') !== chatId) {
+      await saveOffset(nextOffset);
+      continue;
+    }
     try {
       await handleMessage(u.message, niches);
     } catch (e) {
@@ -123,6 +142,16 @@ async function main() {
     }
     await saveOffset(nextOffset);
   }
+}
+
+async function main() {
+  const niches = await loadJson('config/niches.json');
+  const token = process.env.TELEGRAM_BOT_TOKEN;
+  const chatId = String(process.env.TELEGRAM_CHAT_ID || '');
+  if (!token || !chatId) throw new Error('Missing Telegram credentials');
+
+  if (await processWebhookDispatch(niches, chatId)) return;
+  await processLegacyPolling(niches, token, chatId);
 }
 
 main().catch(async e => {
