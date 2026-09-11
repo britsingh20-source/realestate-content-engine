@@ -3,12 +3,53 @@
   "scanWindowDays": 60,
   "baselineVideoCount": 12,
   "sourceVideoMaxSeconds": 90,
-  "breakoutMultipliers": { "candidate": 2, "strong": 3, "priority": 5 },
+  "breakoutMultipliers": {
+    "candidate": 2,
+    "strong": 3,
+    "priority": 5
+  },
   "creators": [
-    {"key":"nemmadi","name":"Nemmadi Home Inspection","searchQuery":"Nemmadi Home Inspection India plot site inspection","language":"English","enabled":true,"needsChannelIdVerification":true},
-    {"key":"civiconcepts","name":"Civiconcepts / Bhushan Mahajan","searchQuery":"Civiconcepts Bhushan Mahajan plot planning India","language":"English","enabled":true,"needsChannelIdVerification":true},
-    {"key":"harry-dutt","name":"Harry Dutt","searchQuery":"Harry Dutt plot selection architecture India","language":"English","enabled":true,"needsChannelIdVerification":true},
-    {"key":"paul-kuriakose","name":"Paul Kuriakose","searchQuery":"Paul Kuriakose property plot buying India","language":"English","enabled":true,"needsChannelIdVerification":true},
-    {"key":"search-my-property","name":"Search My Property / Hardeep Singh","searchQuery":"Search My Property Hardeep Singh land buying India","language":"English","enabled":true,"needsChannelIdVerification":true}
+    {
+      "key": "nemmadi",
+      "name": "Nemmadi Home Inspection",
+      "searchQuery": "Nemmadi Home Inspection India plot site inspection",
+      "language": "English",
+      "enabled": true,
+      "needsChannelIdVerification": false,
+      "channelId": "UCMCS2BYIVl4OmOi-G3XukzA"
+    },
+    {
+      "key": "civiconcepts",
+      "name": "Civiconcepts / Bhushan Mahajan",
+      "searchQuery": "Civiconcepts Bhushan Mahajan plot planning India",
+      "language": "English",
+      "enabled": true,
+      "needsChannelIdVerification": false,
+      "channelId": "UC93fHoH7WbSN9E1vv8riq8A"
+    },
+    {
+      "key": "harry-dutt",
+      "name": "Harry Dutt",
+      "searchQuery": "Harry Dutt plot selection architecture India",
+      "language": "English",
+      "enabled": false,
+      "needsChannelIdVerification": true
+    },
+    {
+      "key": "paul-kuriakose",
+      "name": "Paul Kuriakose",
+      "searchQuery": "Paul Kuriakose property plot buying India",
+      "language": "English",
+      "enabled": false,
+      "needsChannelIdVerification": true
+    },
+    {
+      "key": "search-my-property",
+      "name": "Search My Property / Hardeep Singh",
+      "searchQuery": "Search My Property Hardeep Singh land buying India",
+      "language": "English",
+      "enabled": false,
+      "needsChannelIdVerification": true
+    }
   ]
 }
