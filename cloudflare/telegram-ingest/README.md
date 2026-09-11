@@ -1,6 +1,6 @@
 # OliveTree event-driven Telegram publishing
 
-This Worker copies the proven Coimbatore Property Monitor trigger pattern into the multi-brand realestate-content-engine.
+This Worker mirrors the Coimbatore Property Monitor trigger pattern for the multi-brand realestate-content-engine.
 
 ## Live flow
 
@@ -14,24 +14,34 @@ This Worker copies the proven Coimbatore Property Monitor trigger pattern into t
 8. YouTube and Instagram progress are stored separately, so retrying does not duplicate a platform that already succeeded.
 9. Telegram receives start, success, partial-failure, or error feedback.
 
-## Target
+## Publishing target
 
-Normal target: publishing starts immediately and completes in roughly 1–3 minutes.
-Operational target: complete within 10 minutes after the MP4 is uploaded to Telegram, subject to YouTube/Meta API response time.
+- Normal target: 1–3 minutes after MP4 upload.
+- Operational target: under 10 minutes, subject to YouTube/Meta API response time.
 
-## Required Cloudflare Worker configuration
+## Required Worker bindings
 
-Create a KV namespace and replace `REPLACE_WITH_KV_NAMESPACE_ID` in `wrangler.toml`.
+### KV
 
-Set these Worker secrets/variables:
+Create one KV namespace and bind it as:
 
-- `WEBHOOK_SECRET`
+- `PAIRING_STATE`
+
+Replace `REPLACE_WITH_KV_NAMESPACE_ID` in `wrangler.toml` with the created namespace ID.
+
+### Existing values that are reused
+
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
-- `GITHUB_TOKEN`
-- `GITHUB_REPOSITORY` is already set to `britsingh20-source/realestate-content-engine`
 
-The GitHub token used by the Worker should be a fine-grained token with access only to this repository and permission to trigger repository dispatch / Actions.
+These do not need to be regenerated. The same values already used by the project are copied into the Cloudflare Worker secrets/variables.
+
+### Worker-only secret values
+
+- `WEBHOOK_SECRET` — private random path secret used only for the Telegram webhook URL.
+- `GITHUB_DISPATCH_TOKEN` — repository-scoped GitHub token used only to send the `telegram-content-upload` repository dispatch.
+
+`GITHUB_REPOSITORY` is already configured as `britsingh20-source/realestate-content-engine`.
 
 ## Deploy
 
@@ -41,11 +51,11 @@ npx wrangler kv namespace create PAIRING_STATE
 npx wrangler secret put WEBHOOK_SECRET
 npx wrangler secret put TELEGRAM_BOT_TOKEN
 npx wrangler secret put TELEGRAM_CHAT_ID
-npx wrangler secret put GITHUB_TOKEN
+npx wrangler secret put GITHUB_DISPATCH_TOKEN
 npx wrangler deploy
 ```
 
-After deploy, register the Telegram webhook using the deployed Worker URL and the same `WEBHOOK_SECRET`:
+After deploy, register Telegram to the Worker URL:
 
 ```bash
 curl --request POST "https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/setWebhook" \
@@ -57,10 +67,16 @@ curl --request POST "https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/setWebhook
 ## Test sequence
 
 1. Copy the VIDEO ID from the Telegram prompt.
-2. Send only the VIDEO ID to the bot.
-3. Confirm Telegram replies `VIDEO ID saved`.
+2. Send only the VIDEO ID to the bot, or place it directly in the MP4 caption.
+3. If sent separately, confirm Telegram replies `VIDEO ID saved`.
 4. Upload the generated MP4 within 15 minutes.
 5. Confirm Telegram replies that social publishing has started.
-6. Confirm YouTube and Instagram publish status is returned.
+6. Confirm YouTube and Instagram status is returned.
 
-The ID may also be put directly in the MP4 caption, in which case step 2 is not required.
+## Brand routing
+
+- `INV-*` and `BUY-*` → OliveTree Investors
+- `DOC-*` and `LAND-*` → OliveTree SafeBuy
+- `CON-*` → OliveTree Builders
+
+The social credentials for each brand remain isolated by the prefixes already defined in `config/niches.json`.
