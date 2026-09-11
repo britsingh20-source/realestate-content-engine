@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260911-AS2J",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-11T23:24:06.303Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "yfgQYu8baUA",
+      "title": "This Could Be a Game Changer For Indian Real Estate",
+      "description": "China is literally inflating giant air domes over construction sites to trap dust and noise pollution, and it's a mind-blowing sight from above.\n\nAs Indian cities keep building taller and denser, this could be a total game-changer for pollution control near residential zones.\n\nWould you want to see this in your city?\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-08-25T13:00:33Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 52,
+      "views": 20502,
+      "likes": 436,
+      "comments": 26,
+      "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
+      "ageHours": 418.3697888888889,
+      "velocity": 49.004494455609326,
+      "outlier": 2.1944875568637947,
+      "velocityRatio": 2.1897297159568283,
+      "engagementRatio": 1.0500306972326154
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 29,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 7311
+  },
+  "pack": {
+    "subject_classification": "construction quality",
+    "source_evidence_points": [
+      "Containment of site dust and particulate pollution protects surrounding neighborhood air quality and asset value.",
+      "Acoustic and environmental buffering prevents site shutdowns, civic complaints, and legal disputes.",
+      "All-weather work protection ensures continuous site operations, preventing schedule slippage and cost overruns.",
+      "Integrated environmental controls and structured site safety indicate high developer execution reliability."
+    ],
+    "topic": "Coimbatore Real Estate: Assessing Developer Site Execution & Environmental Containment",
+    "source_script_insight": "Enclosing site activity and controlling dust, noise, and weather exposure ensures uninterrupted execution and prevents neighborhood devaluation during construction.",
+    "coimbatore_angle": "In Coimbatore's expanding growth corridors like Saravanampatti and Peelamedu, evaluating how developers manage site dust, monsoon rain protection, and noise containment is a critical indicator of delivery timelines and investment safety.",
+    "visual_strategy": "Exclusively real-world, high-resolution physical evidence of site management in Coimbatore: red soil dust control misting systems, perimeter green shade-netting, heavy tarpaulins over steel rebar, clean public tarmac borders, and site checklist documents. Avoid generic villa or family footage completely.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Developers with strict dust, weather, and environmental site controls deliver projects on schedule and preserve long-term neighborhood property value in Coimbatore.",
+    "voiceover_tamil": "கோவையில் சொத்து வாங்கும் முன், கட்டுமான இடத்தின் தூசி மற்றும் சுற்றுச்சூழல் பாதுகாப்பு முறைகளை கவனியுங்கள். சரியான தளம் மேலாண்மை திட்ட தாமதத்தை தடுக்கும், உங்களின் முதலீட்டு மதிப்பு பாதுகாப்பாகும்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Containment of site dust and particulate pollution protects surrounding neighborhood air quality and asset value.",
+        "purpose": "Establish central tension: uncontained red soil dust drifting toward neighboring road in Coimbatore.",
+        "visual": "Close-up eye-level shot of dry red soil dust blowing across an unshielded excavation boundary next to a paved Coimbatore street with coconut palms in the soft background.",
+        "on_screen_text": "Site Dust Risk",
+        "voiceover_tamil": "கோவையில் சொத்து வாங்கும் முன்..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Containment of site dust and particulate pollution protects surrounding neighborhood air quality and asset value.",
+        "purpose": "Demonstrate visual proof of proper site containment netting.",
+        "visual": "Medium eye-level shot of a high green shade-net dust barrier securely installed along a Coimbatore project boundary wall, successfully trapping red earth particles.",
+        "on_screen_text": "Dust Barriers",
+        "voiceover_tamil": "...கட்டுமான இடத்தின்..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Integrated environmental controls and structured site safety indicate high developer execution reliability.",
+        "purpose": "Show active environmental dust suppression mechanism on site.",
+        "visual": "Macro close-up shot of an industrial water-misting nozzle spraying fine water fog over blue-metal aggregate to prevent dust escape on an active site.",
+        "on_screen_text": "Dust Control",
+        "voiceover_tamil": "...தூசி மற்றும் சுற்றுச்சூழல்..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "All-weather work protection ensures continuous site operations, preventing schedule slippage and cost overruns.",
+        "purpose": "Show weather-proofing measures keeping structural work uninterrupted during rain.",
+        "visual": "Eye-level shot of heavy waterproof tarpaulin canopy shielding tied steel rebar foundation cages during a light Coimbatore overcast drizzle.",
+        "on_screen_text": "Weather Shield",
+        "voiceover_tamil": "...பாதுகாப்பு முறைகளை கவனியுங்கள்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Acoustic and environmental buffering prevents site shutdowns, civic complaints, and legal disputes.",
+        "purpose": "Show neighborhood cleanliness and boundary maintenance.",
+        "visual": "Low-angle smooth tracking shot along a clean asphalt public road in Coimbatore directly adjacent to a tidy, well-contained construction site perimeter.",
+        "on_screen_text": "Clean Border",
+        "voiceover_tamil": "...சரியான தளம் மேலாண்மை..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Integrated environmental controls and structured site safety indicate high developer execution reliability.",
+        "purpose": "Show practical investor evaluation tool in action.",
+        "visual": "Close-up insert shot of hands holding a printed site assessment checklist on a wooden clipboard, checking off 'Environmental & Dust Protection' near site gate.",
+        "on_screen_text": "Quality Check",
+        "voiceover_tamil": "...திட்ட தாமதத்தை தடுக்கும்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "Containment of site dust and particulate pollution protects surrounding neighborhood air quality and asset value.",
+        "purpose": "Final proof and brand reassurance on an organized, compliant Coimbatore project site.",
+        "visual": "Ground-level steady shot of an organized, well-managed Coimbatore real estate project entrance, bathed in warm morning sunlight under clear sky with clean concrete walls.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "...உங்களின் முதலீட்டு மதிப்பு பாதுகாப்பாகும்!"
+      }
+    ],
+    "gemini_video_prompt": "### A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: Exactly 10.0 seconds total.\n- Orientation: Native Portrait 9:16 vertical video format (1080x1920 style composition).\n- Composition: Full-screen vertical presentation. Absolutely NO landscape letterboxing, NO black bars, NO blurred background sidebars, NO horizontal framing mounted inside portrait canvas.\n- Structure: Exactly 7 fast-cut scenes, each lasting roughly 1.0 to 1.6 seconds.\n- Audio Language Target: Tamil voiceover synchronized to fast visual evidence.\n\n### B. REALISM LOCK\n- Render Style: 100% Ultra-photorealistic live-action real-world cinematic footage.\n- Environment: Set exclusively in authentic Coimbatore, Tamil Nadu urban/suburban real estate development environments.\n- Atmosphere & Lighting: Natural South Indian tropical daylight, authentic sun exposure, realistic dust scattering, accurate atmospheric haze, true physical shadows, realistic moisture on rebar and soil textures.\n- Materials: Real Coimbatore red soil, blue-metal granite gravel, galvanized rebar, green high-density shade nets, heavy-duty blue tarpaulins, asphalt roads, real concrete curb edges.\n- ABSOLUTELY NO 3D CAD renders, NO architectural visualization style, NO plastic CGI materials, NO cartoon explainer graphics, NO video game engine aesthetics.\n\n### C. SOURCE SUBJECT LOCK\n- Topic: Construction Site Environmental Containment & Developer Execution Quality in Coimbatore.\n- Core Educational Insight: Dust, noise, and weather mitigation during active site preparation directly protects project timelines, prevents community disputes, and safeguards neighboring property value.\n- Coimbatore Specific Application: Evaluating developer site discipline (shade netting, dust misting, weather coverings, pristine roadside boundaries) in high-growth corridors like Saravanampatti and Peelamedu before buying.\n- Mandatory Subject Evidence Points:\n  1. Fine particulate/dust containment prevents neighborhood devaluation.\n  2. Water misting and site safety controls demonstrate high developer capability.\n  3. Weather protection (tarps/covers) avoids monsoon delays and structural rebar corrosion.\n  4. Tidy boundary maintenance avoids civic shutdowns and legal hassles.\n\n### D. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Primary Visual Focus: Physical site boundary management, environmental dust controls, weather tarpaulins, site audit documents, and clean public access borders.\n- FORBIDDEN DEFAULT STORY: Do NOT show generic empty land plots, generic floor plans, generic house construction, generic happy families entering houses, or generic keys handover.\n- Camera Grammar: Sharp macro close-ups for physical details (misting nozzle, rebar under tarp, checklist entries); low-angle tracking for roadside border conditions; eye-level observation for perimeter barriers.\n\n### E. CAMERA + IMAGE QUALITY\n- Hardware feel: Handheld mirrorless 35mm / 50mm natural depth of field or steady gimbal tracking shot.\n- Clarity: Crisp 4K physical detail, clear textures on red earth and green mesh, stable camera geometry with zero warping or AI distortion.\n- Color Profile: Natural warm South Indian solar tones, rich earth reds, natural foliage green, un-stylized natural color grade.\n\n### F. EXACT 7-SHOT PLAN\n\n- Shot 1 (0.0s – 1.4s):\n  - Location: Excavation boundary along a tarmac road in Coimbatore.\n  - Visual: Eye-level close-up shot of dry red soil dust kicking up into the air near an unshielded excavation curb. Soft-focus background shows native coconut trees and power lines.\n  - Camera Movement: Micro push-in.\n  - Overlay Text: \"Site Dust Risk\"\n  - Tamil VO: \"கோவையில் சொத்து வாங்கும் முன்...\"\n\n- Shot 2 (1.4s – 2.8s):\n  - Location: Active project perimeter wall in Coimbatore.\n  - Visual: Medium eye-level shot of a tall green high-density shade-net dust screen mounted along a brick boundary wall, physically blocking red soil dust from crossing into the street.\n  - Camera Movement: Static observational shot.\n  - Overlay Text: \"Dust Barriers\"\n  - Tamil VO: \"...கட்டுமான இடத்தின்...\"\n\n- Shot 3 (2.8s – 4.2s):\n  - Location: Aggregate storage zone on a Coimbatore site.\n  - Visual: Extreme close-up macro shot of a brass water-misting nozzle releasing a fine spray of fog over blue-metal gravel, suppressing floating dust particles immediately.\n  - Camera Movement: High frame-rate slow motion mist capture.\n  - Overlay Text: \"Dust Control\"\n  - Tamil VO: \"...தூசி மற்றும் சுற்றுச்சூழல்...\"\n\n- Shot 4 (4.2s – 5.6s):\n  - Location: Foundation pit on an active site.\n  - Visual: Eye-level shot of heavy waterproof blue tarpaulins firmly strapped over assembled steel rebar foundation cages during a overcast sky drizzle in Coimbatore.\n  - Camera Movement: Slight side tilt tracking the rain drops hitting the blue tarp.\n  - Overlay Text: \"Weather Shield\"\n  - Tamil VO: \"...பாதுகாப்பு முறைகளை கவனியுங்கள்.\"\n\n- Shot 5 (5.6s – 7.0s):\n  - Location: Public access road outside project entrance.\n  - Visual: Low-angle smooth tracking shot moving along a clean, dust-free black asphalt road edge directly adjacent to a neatly managed project wall.\n  - Camera Movement: Forward low-angle slider motion.\n  - Overlay Text: \"Clean Border\"\n  - Tamil VO: \"...சரியான தளம் மேலாண்மை...\"\n\n- Shot 6 (7.0s – 8.4s):\n  - Location: Site office entry gate in Coimbatore.\n  - Visual: Close-up insert shot of clean hands holding a wooden clipboard with a physical paper checklist titled 'Site Quality Audit', marking a green tick next to 'Dust & Environmental Control'.\n  - Camera Movement: Static locked-off top-down close-up.\n  - Overlay Text: \"Quality Check\"\n  - Tamil VO: \"...திட்ட தாமதத்தை தடுக்கும்.\"\n\n- Shot 7 (8.4s – 10.0s):\n  - Location: Main entrance gate of a clean, well-managed real estate development in Coimbatore.\n  - Visual: Ground-level steady shot showing clean concrete entrance pillars, organized access drive, bright morning sun, clear sky, and neat signage.\n  - Camera Movement: Slow steady pull-back to establish complete project order.\n  - Overlay Text: \"OliveTree Investors\"\n  - Tamil VO: \"...உங்களின் முதலீட்டு மதிப்பு பாதுகாப்பாகும்!\"\n\n### G. MOTION-GRAPHICS LIMIT\n- Minimalist, crisp, 1-to-2 word high-contrast white text with subtle dark outline overlay per scene.\n- No full-screen motion graphic overlays, no 2D icons, no floating glowing arrows or animated charts.\n\n### H. FINAL REAL SCENE\n- Scene 7 is a real-world physical location shot in Coimbatore demonstrating project execution discipline, featuring simple 'OliveTree Investors' text overlay. NO dedicated animated end card or transition card.\n\n### I. NEGATIVE PROMPT / FIXED RULES\n- DO NOT generate: 2D/3D explainer graphics, architectural renders, glowing blue holographic screens, animated characters, generic housing promos, happy family holding keys, empty land plots without subject relevance, floating 3D text, CGI air domes, fake skyscrapers, Chennai or Bengaluru landmarks, exaggerated camera zoom-bursts, landscape black letterboxes, or duplicated human figures.",
+    "title_english": "Coimbatore Property Tips: Why Site Containment Protects Your Investment",
+    "caption_english": "Before investing in Coimbatore real estate, look beyond brochures and inspect how developers manage their active construction sites. Uncontained red soil dust, lack of monsoon weather protection, and noisy, unbuffered operations lead to project delays, civic disputes, and neighborhood devaluation. Developers using high dust netting, water misting systems, and structured weather protection complete projects on schedule and preserve long-term asset value in growth hubs like Saravanampatti and Peelamedu. Protect your capital by verifying site execution standards first with OliveTree Investors.",
+    "title_tamil": "கோவை சொத்து முதலீடு: தளம் மேலாண்மை ஏன் அவசியம்?",
+    "caption_tamil": "கோவையில் ரியல் எஸ்டேட் முதலீடு செய்வதற்கு முன், கட்டுமான இடத்தின் பராமரிப்பு மற்றும் சுற்றுச்சூழல் பாதுகாப்பு முறைகளை ஆராயுங்கள். தூசி மேலாண்மை மற்றும் மழை பாதுகாப்பு உள்ள திட்டங்கள் மட்டுமே குறித்த நேரத்தில் நிறைவடையும். மேலதிக தகவல்களுக்கு OliveTree Investors உடன் இணையுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
