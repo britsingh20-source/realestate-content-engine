@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-11T11:18:41.604Z",
+  "scannedAt": "2026-09-11T11:33:47.137Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -21,8 +21,8 @@
       },
       "baseline": {
         "views": 9730,
-        "velocity": 23.369475941988117,
-        "engagement": 0.023783889595771754
+        "velocity": 23.35410282245709,
+        "engagement": 0.023793204739058063
       },
       "videoCount": 6
     },
@@ -97,19 +97,19 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 611829,
-        "likes": 12065,
+        "views": 611871,
+        "likes": 12064,
         "comments": 519,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 525.7943344444444,
-        "velocity": 1163.627981359784,
-        "outlier": 62.88067831449126,
-        "velocityRatio": 49.79264337156506,
-        "engagementRatio": 0.900446268348992
+        "ageHours": 526.0458711111111,
+        "velocity": 1163.1514162588323,
+        "outlier": 62.88499486125385,
+        "velocityRatio": 49.805013924163966,
+        "engagementRatio": 0.8999632665517939
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 60,
+      "viralScore": 59,
       "priority": "priority"
     },
     {
@@ -124,14 +124,14 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20434,
+        "views": 20426,
         "likes": 434,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 406.30239,
-        "velocity": 50.292591190516994,
-        "outlier": 2.100102774922919,
-        "velocityRatio": 2.1520632861157107,
+        "ageHours": 406.55392666666665,
+        "velocity": 50.24179736123239,
+        "outlier": 2.0992805755395683,
+        "velocityRatio": 2.151304965263763,
         "engagementRatio": 1
       },
       "confirmations": 0,
