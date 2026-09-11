@@ -1,12 +1,7 @@
 {
-  "scannedAt": "2026-09-11T08:07:52.977Z",
+  "scannedAt": "2026-09-11T12:06:59.719Z",
   "niche": "construction",
-  "skippedCreators": [
-    {
-      "creator": "Nemmadi Home Inspection",
-      "reason": "Could not resolve channel for Nemmadi Home Inspection"
-    }
-  ],
+  "skippedCreators": [],
   "creators": [
     {
       "creator": {
@@ -23,7 +18,7 @@
       "baseline": {
         "views": 229,
         "velocity": 1,
-        "engagement": 0.019255966594418524
+        "engagement": 0.01924205020409161
       },
       "videoCount": 17
     },
@@ -40,9 +35,9 @@
         "resolution": "youtube-search"
       },
       "baseline": {
-        "views": 5628,
-        "velocity": 5.625357689800533,
-        "engagement": 0.010127931769722815
+        "views": 5631,
+        "velocity": 5.606025612165996,
+        "engagement": 0.010122535961640916
       },
       "videoCount": 2
     },
@@ -59,11 +54,30 @@
         "resolution": "youtube-search"
       },
       "baseline": {
-        "views": 13303,
-        "velocity": 24.77023200789979,
-        "engagement": 0.027890142644241004
+        "views": 13362,
+        "velocity": 24.503122975276554,
+        "engagement": 0.02761382799325464
       },
       "videoCount": 12
+    },
+    {
+      "creator": {
+        "key": "nemmadi",
+        "name": "Nemmadi Home Inspection",
+        "searchQuery": "Nemmadi Home Inspection construction defects India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+        "resolvedTitle": "Nemmadi. In",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1036,
+        "velocity": 1.52810358722156,
+        "engagement": 0.006812039283757464
+      },
+      "videoCount": 14
     },
     {
       "creator": {
@@ -78,9 +92,9 @@
         "resolution": "youtube-search"
       },
       "baseline": {
-        "views": 566,
+        "views": 570,
         "velocity": 1,
-        "engagement": 0.017543859649122806
+        "engagement": 0.017391304347826087
       },
       "videoCount": 8
     }
@@ -98,19 +112,19 @@
         "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
         "channelTitle": "Civil Guruji WB",
         "durationSeconds": 12,
-        "views": 1468,
+        "views": 1469,
         "likes": 9,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5ftYbg_wITY",
-        "ageHours": 320.12249194444445,
-        "velocity": 4.585744635071639,
-        "outlier": 6.4104803493449785,
-        "velocityRatio": 4.585744635071639,
-        "engagementRatio": 0.31838392327252724
+        "ageHours": 324.1076963888889,
+        "velocity": 4.532444049824052,
+        "outlier": 6.414847161572053,
+        "velocityRatio": 4.532444049824052,
+        "engagementRatio": 0.3183972955638072
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 55,
+      "viralScore": 54,
       "priority": "priority"
     },
     {
@@ -129,11 +143,11 @@
         "likes": 8,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=4a6wzd3cBLA",
-        "ageHours": 764.3091586111111,
-        "velocity": 2.7331871880170757,
+        "ageHours": 768.2943630555556,
+        "velocity": 2.7190099269919332,
         "outlier": 9.12227074235808,
-        "velocityRatio": 2.7331871880170757,
-        "engagementRatio": 0.1988777615505856
+        "velocityRatio": 2.7190099269919332,
+        "engagementRatio": 0.19902159552501794
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -152,15 +166,15 @@
         "channelId": "UCZIsO0XIk0B78rcrLEqhJOA",
         "channelTitle": "Brick & Bolt",
         "durationSeconds": 82,
-        "views": 2522,
+        "views": 2523,
         "likes": 48,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=F37Qnxa4RSw",
-        "ageHours": 1026.3899919444445,
-        "velocity": 2.457155681362595,
-        "outlier": 4.455830388692579,
-        "velocityRatio": 2.457155681362595,
-        "engagementRatio": 1.084853291038858
+        "ageHours": 1030.375196388889,
+        "velocity": 2.4486226074174224,
+        "outlier": 4.426315789473684,
+        "velocityRatio": 2.4486226074174224,
+        "engagementRatio": 1.0939357907253269
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -183,11 +197,11 @@
         "likes": 15,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=nFuZaggoEKY",
-        "ageHours": 752.1213808333333,
-        "velocity": 1.5821914259125398,
+        "ageHours": 756.1065852777778,
+        "velocity": 1.5738521832379213,
         "outlier": 5.1965065502183405,
-        "velocityRatio": 1.5821914259125398,
-        "engagementRatio": 0.6546044809020588
+        "velocityRatio": 1.5738521832379213,
+        "engagementRatio": 0.655077909220214
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -206,20 +220,47 @@
         "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
         "channelTitle": "Civil Guruji WB",
         "durationSeconds": 31,
-        "views": 1841,
+        "views": 1844,
         "likes": 8,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=XGLmu3oF-8k",
-        "ageHours": 1005.2166586111111,
-        "velocity": 1.8314459716014604,
-        "outlier": 8.039301310043669,
-        "velocityRatio": 1.8314459716014604,
-        "engagementRatio": 0.22566846489906206
+        "ageHours": 1009.2018630555556,
+        "velocity": 1.827186480231943,
+        "outlier": 8.052401746724891,
+        "velocityRatio": 1.827186480231943,
+        "engagementRatio": 0.22546426955084733
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 40,
       "priority": "priority"
+    },
+    {
+      "niche": "construction",
+      "creator": "Nemmadi Home Inspection",
+      "creatorKey": "nemmadi",
+      "source": {
+        "id": "nJkslTrMmYc",
+        "title": "Transformer Yard Fence Earthing Not Done | A Serious Electrical Safety Issue?",
+        "description": "Transformer yard fence earthing is an important electrical safety requirement. If the transformer yard fencing is not properly earthed, it can create a serious safety risk.\n\n\nBook Now: https://nemmadi.in/quote-for-rwa/\n\n#transformeryard #earthing #electricalsafety #transformer #electricalinspection #rwaaudit  #buildinginspection #nemmadi",
+        "publishedAt": "2026-09-07T05:28:42Z",
+        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+        "channelTitle": "Nemmadi. In",
+        "durationSeconds": 17,
+        "views": 2076,
+        "likes": 5,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=nJkslTrMmYc",
+        "ageHours": 102.63825194444445,
+        "velocity": 20.226377209967367,
+        "outlier": 2.003861003861004,
+        "velocityRatio": 13.236260538294738,
+        "engagementRatio": 0.3535619425663906
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 39,
+      "priority": "candidate"
     },
     {
       "niche": "construction",
@@ -237,15 +278,15 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=MFVFvmDpKfI",
-        "ageHours": 337.22388083333334,
-        "velocity": 2.728157916119508,
+        "ageHours": 341.2090852777778,
+        "velocity": 2.69629397250964,
         "outlier": 4.0174672489082965,
-        "velocityRatio": 2.728157916119508,
-        "engagementRatio": 0.1693433331029239
+        "velocityRatio": 2.69629397250964,
+        "engagementRatio": 0.16946580695044666
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 39,
+      "viralScore": 38,
       "priority": "strong"
     },
     {
@@ -264,11 +305,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=gyFtcDVkxSQ",
-        "ageHours": 1031.5377697222223,
-        "velocity": 1.156525756997979,
+        "ageHours": 1035.5229741666667,
+        "velocity": 1.152074874012392,
         "outlier": 5.209606986899563,
-        "velocityRatio": 1.156525756997979,
-        "engagementRatio": 0.17412223129889912
+        "velocityRatio": 1.152074874012392,
+        "engagementRatio": 0.17424816137961546
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -291,11 +332,38 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=0ppRhMESvlI",
-        "ageHours": 332.1236030555556,
-        "velocity": 1.5988023588651048,
+        "ageHours": 336.1088075,
+        "velocity": 1.5798455385611994,
         "outlier": 2.3187772925764194,
-        "velocityRatio": 1.5988023588651048,
-        "engagementRatio": 0.48900146407623973
+        "velocityRatio": 1.5798455385611994,
+        "engagementRatio": 0.4893551236484963
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 24,
+      "priority": "candidate"
+    },
+    {
+      "niche": "construction",
+      "creator": "Nemmadi Home Inspection",
+      "creatorKey": "nemmadi",
+      "source": {
+        "id": "2x1MLvmDPQQ",
+        "title": "Leakage Coming From Inside the Dado Tile? | Home Inspection",
+        "description": "Leakage observed from inside the dado tile can be a sign of moisture ingress or a plumbing-related issue behind the tiled surface. Such issues should be inspected carefully before they lead to further damage.\n\nhome inspection helps identify construction defects, dampness, leakage, and other issues before they become expensive to repair.\n\nBook Now: https://nemmadi.in/quote-for-b2c/\n\n#homeinspection #dadoleakage #tileleakage #waterleakage #dampness #bathroomleakage #propertyinspection #constructiondefects #homeinspectionindia #waterproofing",
+        "publishedAt": "2026-08-11T04:30:33Z",
+        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+        "channelTitle": "Nemmadi. In",
+        "durationSeconds": 19,
+        "views": 2234,
+        "likes": 5,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=2x1MLvmDPQQ",
+        "ageHours": 751.6074186111111,
+        "velocity": 2.97229636733521,
+        "outlier": 2.1563706563706564,
+        "velocityRatio": 1.9450882729354237,
+        "engagementRatio": 0.3285562187859566
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -314,15 +382,15 @@
         "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
         "channelTitle": "Civil Guruji WB",
         "durationSeconds": 11,
-        "views": 501,
+        "views": 502,
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=JJg9H-a3EBg",
-        "ageHours": 377.9697141666667,
-        "velocity": 1.3255030263590981,
-        "outlier": 2.1877729257641922,
-        "velocityRatio": 1.3255030263590981,
-        "engagementRatio": 0.7255961844197139
+        "ageHours": 381.9549186111111,
+        "velocity": 1.314291230560414,
+        "outlier": 2.1921397379912664,
+        "velocityRatio": 1.314291230560414,
+        "engagementRatio": 0.7246744998412195
       },
       "confirmations": 0,
       "peerMatches": [],

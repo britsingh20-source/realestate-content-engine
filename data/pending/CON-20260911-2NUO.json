@@ -1,0 +1,129 @@
+{
+  "contentId": "CON-20260911-2NUO",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-11T12:10:12.854Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "5ftYbg_wITY",
+      "title": "Crankshaft vs Camshaft: Working Principle, Differences & Functions Explained #automobile",
+      "description": "Engineering knowledge 👌 #mechine",
+      "publishedAt": "2026-08-29T00:00:32Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 12,
+      "views": 1469,
+      "likes": 9,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=5ftYbg_wITY",
+      "ageHours": 324.1076963888889,
+      "velocity": 4.532444049824052,
+      "outlier": 6.414847161572053,
+      "velocityRatio": 4.532444049824052,
+      "engagementRatio": 0.3183972955638072
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 54,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2986,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.6-flash"
+  },
+  "pack": {
+    "topic": "Residential Beam Mechanics: Plinth Beam vs Lintel Beam",
+    "source_script_insight": "The source video uses spatial vertical panning and graphic callout tags to distinguish between lower engine components (crankshaft) and upper components (camshaft). This visual structure translates to showing lower structural elements (plinth beam at ground) and upper structural elements (lintel beam above openings) linked by vertical columns in a house framework.",
+    "coimbatore_angle": "Residential individual house construction sites across Coimbatore suburbs like Vadavalli and Saravanampatti, focusing on basic structural alignment checks during column and beam concrete shuttering.",
+    "core_takeaway": "Understanding the visual positioning and functions of the lower plinth beam versus the upper lintel beam ensures proper structural load transfer in your Coimbatore home.",
+    "voiceover_tamil": "வீட்டின் அடித்தள பிளின்த் பீம் எடையைத் தாங்கும். மேல் லிண்டல் பீம் சுமை பகிர்ந்தளிக்கும்! சரியான தூண் இணைப்பு அவசியம். ஆலிவ் ட்ரீ பில்டர்ஸ் கோவை!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Visual Hook comparing lower and upper beam positions on a Coimbatore residential house structure.",
+        "visual": "Eye-level shot of an active residential framed construction site in Vadavalli, Coimbatore. Bright sunlight revealing red brick walling and exposed concrete frame.",
+        "camera": "Eye-level steady push-in shot using 35mm lens feel, natural depth of field.",
+        "on_screen_text": "பீம் வித்தியாசம்?",
+        "voiceover_tamil": "வீட்டின் அடித்தள பிளின்த் பீம் எடையைத் தாங்கும்."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Focus on lower structural element (Plinth Beam).",
+        "visual": "Low-angle close shot of a freshly cast concrete plinth beam at soil level, showing rough concrete aggregate texture and cured moisture.",
+        "camera": "Low angle tilt down, crisp focus on lower beam edge.",
+        "on_screen_text": "பிளின்த் பீம் (கீழே)",
+        "voiceover_tamil": "மேல் லிண்டல் பீம்"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Vertical tracking transition up the reinforced concrete column.",
+        "visual": "Smooth vertical pan following the tied steel rebar cage of a vertical column rising from ground beam up toward upper wall level.",
+        "camera": "Smooth upward vertical pan tracking movement, wide angle feel.",
+        "on_screen_text": "இணைப்பு தூண்",
+        "voiceover_tamil": "சுமை பகிர்ந்தளிக்கும்!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Focus on upper structural element (Lintel Beam).",
+        "visual": "Close-up of a wooden shuttering box for a lintel beam placed horizontally directly over a door frame opening on site.",
+        "camera": "Slight upward angle, tracking shot along the lintel beam line.",
+        "on_screen_text": "லிண்டல் பீம் (மேலே)",
+        "voiceover_tamil": "சரியான தூண்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Demonstrating structural connectivity inspection on site.",
+        "visual": "Site supervisor in yellow safety helmet holding a spirit level tool against the column shuttering corner.",
+        "camera": "Medium close-up shot, handheld natural camera movement.",
+        "on_screen_text": "சீரான அமைப்பு",
+        "voiceover_tamil": "இணைப்பு அவசியம்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Quality site detail showing curing and solid masonry construction.",
+        "visual": "Sunlit red brick wall wet from water curing, with clear horizontal concrete lintel band visible.",
+        "camera": "Slow lateral pan right, rich texture of clay bricks and wet concrete.",
+        "on_screen_text": "தரமான சோதனை",
+        "voiceover_tamil": "ஆலிவ் ட்ரீ"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Concluding shot with final branded takeaway overlay.",
+        "visual": "Wide angle sunlit view of a complete two-story independent house structure nearing completion in Coimbatore with palm tree background.",
+        "camera": "Slight low-angle upward tilt, static framing.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "பில்டர்ஸ் கோவை!"
+      }
+    ],
+    "gemini_video_prompt": "PRODUCTION SHOT LIST FOR OLIVETREE BUILDERS (COIMBATORE ONLY). EXACTLY 10 SECONDS TOTAL, EXACTLY 7 DISTINCT SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE ONLY. 90%+ real-looking visuals in native 9:16 vertical portrait aspect ratio. No cartoon, no 3D animation render, no glossy full-screen motion graphics end card. Shot on mobile gimbal in natural Tamil Nadu bright afternoon daylight.\n\n[SCENE 1: 0.0s - 1.4s]\n- Setting: Active residential construction site in Vadavalli, Coimbatore, India.\n- Visual: Real live-action view of an ongoing G+1 independent house frame. Red clay bricks and exposed gray concrete columns. A site supervisor with high-vis vest stands near the entrance.\n- Camera: Eye-level camera gently pushing forward using a 35mm lens focal length. Natural shadows, slight dust in air.\n- Motion Graphics Overlay: Small transparent yellow text badge at center bottom reading \"பீம் வித்தியாசம்?\"\n- Voiceover: \"வீட்டின் அடித்தள பிளின்த் பீம் எடையைத் தாங்கும்.\"\n\n[SCENE 2: 1.4s - 2.8s]\n- Setting: Soil ground level at the same Coimbatore construction site.\n- Visual: Close-up realistic shot of a concrete plinth beam poured at soil surface level, showing coarse aggregate concrete texture, soil moisture, and wooden formwork edges.\n- Camera: Low-angle tilt down focused sharply on the plinth beam edge with shallow depth of field.\n- Motion Graphics Overlay: Green pointer arrow pointing to the beam with text overlay \"பிளின்த் பீம் (கீழே)\".\n- Voiceover: \"மேல் லிண்டல் பீம்\"\n\n[SCENE 3: 2.8s - 4.2s]\n- Setting: Vertical concrete column section on site.\n- Visual: Real live-action upward tracking along an RCC vertical column reinforced with TMT steel rebar stirrups connecting the ground beam up to wall height.\n- Camera: Smooth upward vertical tilt movement following the steel column line.\n- Motion Graphics Overlay: Subtle vertical white dashed line overlay labeled \"இணைப்பு தூண்\".\n- Voiceover: \"சுமை பகிர்ந்தளிக்கும்!\"\n\n[SCENE 4: 4.2s - 5.6s]\n- Setting: Door frame height level inside the framed building.\n- Visual: High detail shot of wooden shuttering plates and TMT rebar for a horizontal lintel beam placed directly over a door opening.\n- Camera: Slightly tilted upward angle, tracking horizontally along the lintel beam alignment.\n- Motion Graphics Overlay: Yellow bounding box outline around the lintel with text \"லிண்டல் பீம் (மேலே)\".\n- Voiceover: \"சரியான தூண்\"\n\n[SCENE 5: 5.6s - 7.0s]\n- Setting: Column shuttering corner on site.\n- Visual: Handheld shot of a construction worker checking vertical alignment of shuttering timber using a metal spirit level tool.\n- Camera: Medium close-up, natural handheld movement with organic focus shift.\n- Motion Graphics Overlay: Small green checkmark icon with overlay text \"சீரான அமைப்பு\".\n- Voiceover: \"இணைப்பு அவசியம்.\"\n\n[SCENE 6: 7.0s - 8.5s]\n- Setting: Outer brick wall of the house in bright sunlight.\n- Visual: Fresh red clay brick masonry wall showing glistening water drops from curing, with a dark wet concrete lintel beam line visible.\n- Camera: Slow lateral pan right revealing real masonry textures and mortar joints.\n- Motion Graphics Overlay: Minimal white text badge reading \"தரமான சோதனை\".\n- Voiceover: \"ஆலிவ் ட்ரீ\"\n\n[SCENE 7: 8.5s - 10.0s]\n- Setting: Exterior view of a modern two-story Coimbatore home under construction with coconut palms in background.\n- Visual: Clear sunlit real-world exterior shot of the framed house structure, clean blue sky with soft clouds.\n- Camera: Static low-angle framing capturing the solid structural framework.\n- Motion Graphics Overlay: Elegant semi-transparent bottom overlay card reading \"OliveTree Builders - Coimbatore\".\n- Voiceover: \"பில்டர்ஸ் கோவை!\"\n\nCONTINUITY & STYLE RULES:\n- Maintain consistent lighting: Bright Coimbatore afternoon sunlight, harsh realistic shadows, real dust particles, real building materials.\n- Color Palette: Terrakotta red clay brick, cement gray concrete, metallic steel rebar, rich green coconut fronds, blue sky.\n- Text Overlays: Short, concise Tamil phrases, max 3 words per screen, high contrast sans-serif font.\n\nNEGATIVE PROMPT: Cartoon, 3D animated model, CAD render, unreal engine, plastic CGI, floating houses, fake futuristic architecture, non-Tamil Nadu environment, corporate studio presentation, text full-screen slides, blurred sidebars, 16:9 widescreen letterboxing, fake glowing neon lights, studio host.",
+    "title_tamil": "பிளின்த் பீம் vs லிண்டல் பீம்! கோவை வீடுகளுக்கான முக்கிய தகவல்!",
+    "caption_tamil": "உங்கள் கனவு இல்லத்தின் பிளின்த் பீம் மற்றும் லிண்டல் பீம் அமைப்பது எப்படி? சரியான வழிகாட்டுதலுக்கு OliveTree Builders-ஐ தொடர்பு கொள்ளுங்கள்! 🏗️🏡 #Coimbatore #OliveTreeBuilders #HomeConstruction",
+    "hashtags": [
+      "#Coimbatore",
+      "#OliveTreeBuilders",
+      "#HomeConstruction"
+    ]
+  }
+}
