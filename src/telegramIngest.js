@@ -65,6 +65,10 @@ async function handleMessage(message, niches) {
     await sendStatus(`${contentId} was already published. Duplicate upload ignored.`);
     return;
   }
+  if (pending.status === 'superseded') {
+    await sendStatus(`${contentId} is a retired duplicate prompt and will not be published. Please use a new active VIDEO ID.`);
+    return;
+  }
 
   const route = niches[pending.niche];
   if (!route) throw new Error(`Unknown niche route ${pending.niche}`);
