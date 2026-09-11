@@ -3,7 +3,7 @@
   "niche": "investment",
   "label": "PROPERTY INVESTMENT",
   "brand": "olivetree_investors",
-  "status": "awaiting_video",
+  "status": "published",
   "createdAt": "2026-09-10T12:43:08.424Z",
   "candidate": {
     "niche": "investment",
@@ -134,12 +134,16 @@
   },
   "publishResult": {
     "youtube": {
-      "error": "YouTube initiate 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Media type 'application/binary' is not supported. \",\n    \"errors\": [\n      {\n        \"message\": \"Media type 'application/binary' is not supported. \",\n        \"domain\": \"global\",\n        \"reason\": \"badRequest\"\n      }\n    ],\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      "platform": "youtube",
+      "videoId": "52RuPA8bThs",
+      "url": "https://youtube.com/shorts/52RuPA8bThs"
     },
     "stagedVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/investment/INV-20260910-6KNW.mp4",
     "instagram": {
-      "error": "Instagram create 400: {\"error\":{\"message\":\"Unsupported post request. Object with ID '17841433606768969' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AyJU82ny5Mxb4UlevTEXDXn\"}}"
+      "platform": "instagram",
+      "mediaId": "18006547298995841"
     }
   },
-  "updatedAt": "2026-09-11T14:14:16.540Z"
+  "updatedAt": "2026-09-11T14:40:54.820Z",
+  "publishedAt": "2026-09-11T14:40:54.821Z"
 }
