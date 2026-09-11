@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260911-4Z5V",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-11T16:42:21.681Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "hQp5jilYjT8",
+      "title": "How Slum Redevelopment Is Changing Mumbai",
+      "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-08-20T13:31:02Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 79,
+      "views": 613355,
+      "likes": 12091,
+      "comments": 519,
+      "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+      "ageHours": 531.1025608333333,
+      "velocity": 1154.8711025561756,
+      "outlier": 65.70487412961971,
+      "velocityRatio": 50.80672868191803,
+      "engagementRatio": 0.9425949143354043
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 60,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2713
+  },
+  "pack": {
+    "subject_classification": "urban land optimization and high-density redevelopment potential",
+    "source_evidence_points": [
+      "Dense, low-rise underutilized urban land restricts overall spatial economic efficiency",
+      "Vertical consolidation unlocks core city land footprint for high-value utilization",
+      "Redevelopment balances density, modern amenities, and structural efficiency in prime zones",
+      "Elevated vertical positions grant access to prime city views and enhanced asset positioning"
+    ],
+    "topic": "Urban Infill Optimization and High-Density Redevelopment Principles in Coimbatore",
+    "source_script_insight": "The SRA model proves that high-density vertical redevelopment unlocks exponential value from tightly packed urban land while modernizing structural utility.",
+    "coimbatore_angle": "Evaluating dense inner-city Coimbatore pockets (such as old commercial/residential infill zones) for vertical redevelopment feasibility and structural efficiency.",
+    "visual_strategy": "Direct structural visual contrast between tight low-rise urban infills and vertical modern construction frames in Coimbatore, using architectural angles, physical blueprints, and upper-storey views to demonstrate urban land optimization.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Identifying underutilized urban infill sites with high vertical redevelopment potential creates superior long-term asset value in expanding cities.",
+    "voiceover_tamil": "அடர்ந்த நகர்ப்புற நிலங்களை செங்குத்தாக மறுசீரமைக்கும் போது, சொத்தின் மதிப்பும் பயனும் பல மடங்கு உயர்கிறது. கோவை முதலீட்டில் இந்த திறனை கவனியுங்கள்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Dense, low-rise underutilized urban land restricts overall spatial economic efficiency",
+        "purpose": "Establish central tension of dense urban space constraints in Coimbatore city center.",
+        "visual": "Low-angle eye-level pan along a dense, narrow Coimbatore inner-street with older low-rise brick structures and overhead shadow line under harsh midday sun.",
+        "on_screen_text": "அடர்ந்த இடங்கள்",
+        "voiceover_tamil": "அடர்ந்த நகர்ப்புற நிலங்களை"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Vertical consolidation unlocks core city land footprint for high-value utilization",
+        "purpose": "Demonstrate the shift from ground horizontal restriction to vertical expansion.",
+        "visual": "Upward tilt movement looking up between narrow rooftop gap, rising smoothly to reveal an adjacent modern multi-storey concrete frame structure rising high against clear sky.",
+        "on_screen_text": "செங்குத்து வளர்ச்சி",
+        "voiceover_tamil": "செங்குத்தாக மறுசீரமைக்கும் போது,"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Vertical consolidation unlocks core city land footprint for high-value utilization",
+        "purpose": "Provide concrete technical evidence of floor-area optimization.",
+        "visual": "Macro close-up shot of a hand holding a tablet displaying an architectural density overlay blueprint over a Coimbatore urban plot boundary.",
+        "on_screen_text": "இட பயன்பாடு",
+        "voiceover_tamil": "சொத்தின் மதிப்பும்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Redevelopment balances density, modern amenities, and structural efficiency in prime zones",
+        "purpose": "Show real-world construction execution of high-density vertical development.",
+        "visual": "Eye-level medium shot of fresh reinforced concrete columns and shuttering work of a mid-rise urban building in Coimbatore, framed by mature green tree branches.",
+        "on_screen_text": "மதிப்பு உயர்வு",
+        "voiceover_tamil": "பயனும் பல மடங்கு"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Redevelopment balances density, modern amenities, and structural efficiency in prime zones",
+        "purpose": "Inspect structural compliance and road access around the redevelopment site.",
+        "visual": "Over-the-shoulder view of an investor looking down an expanded multi-meter paved access corridor adjacent to a newly built urban residential frame.",
+        "on_screen_text": "அணுகல் பாதை",
+        "voiceover_tamil": "உயர்கிறது."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Elevated vertical positions grant access to prime city views and enhanced asset positioning",
+        "purpose": "Show upper-level premium view asset value payoff.",
+        "visual": "High-angle balcony view overlooking the modernizing Coimbatore residential skyline with hazy distant Western Ghats silhouette under bright realistic daylight.",
+        "on_screen_text": "நகர பார்வை",
+        "voiceover_tamil": "கோவை முதலீட்டில் இந்த"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Elevated vertical positions grant access to prime city views and enhanced asset positioning",
+        "purpose": "Deliver final grounded takeaway and subtle brand closure.",
+        "visual": "Ground-level crisp architectural shot looking up at the clean finished glass and granite entryway of a modern redeveloped building in Coimbatore.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "திறனை கவனியுங்கள்."
+      }
+    ],
+    "gemini_video_prompt": "PRODUCTION PROMPT FOR GEMINI VIDEO GENERATION\n\nA. MANDATORY OUTPUT FORMAT LOCK\n- Exact duration: 10.0 seconds total.\n- Native vertical aspect ratio: 9:16 portrait composition.\n- Full screen frame utilization with zero black bars, zero letterboxing, zero side blur fillers.\n\nB. REALISM LOCK\n- Photorealistic 4K real-world cinematography captured on high-end camera gear (e.g., Sony FX6 / Arri Alexa Mini LF aesthetic).\n- Location context: Authentic Coimbatore / Tamil Nadu urban environment, realistic lighting, genuine architectural textures, true daylight behavior, natural shadows, and organic atmosphere.\n- Absolute ban on CGI, 3D renderings, cartoon animations, plastic textures, false architectural pre-viz, or game engine visual aesthetics.\n\nC. SOURCE SUBJECT LOCK\n- Core Subject: Urban Land Optimization & High-Density Redevelopment Potential.\n- Derived Lesson: High-density vertical redevelopment of underutilized tight urban land maximizes floor space efficiency, unlocks strategic value, and enhances asset capitalization.\n- Coimbatore Context: Real-world assessment of dense inner-city infill pockets and redevelopment potential without inventing specific fake project facts or unrealistic appreciation numbers.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus on structural contrast: tight ground-level urban lanes versus vertical elevation gains.\n- Physical details required: real concrete shuttering, blueprint land overlays on tablets, urban access road geometry, high-balcony cityscape framing.\n- Forbidden sequence: Do NOT use generic empty plot -> villa construction -> happy family sequence.\n\nE. CAMERA + IMAGE QUALITY\n- Cinematic natural sunlight, 35mm / 50mm equivalent focal lengths, shallow depth of field where relevant, true skin tones, stable physical camera movements (slow tilts, clean tracking, static macro).\n\nF. EXACT 7-SHOT PLAN\n\nShot 1 (0.0s - 1.4s):\n- Location: Narrow urban street in core Coimbatore.\n- Framing: Low-angle eye-level smooth forward tracking shot.\n- Subject: Dense low-rise brick buildings with tight access lanes, cast under sharp afternoon solar shadow.\n- Text Overlay: 'அடர்ந்த இடங்கள்'\n- Audio Segment: 'அடர்ந்த நகர்ப்புற நிலங்களை'\n\nShot 2 (1.4s - 2.8s):\n- Location: Urban renewal site border.\n- Framing: Vertical slow upward tilt.\n- Subject: Looking up between tight existing rooftops rising toward a towering multi-storey modern concrete frame under open sky.\n- Text Overlay: 'செங்குத்து வளர்ச்சி'\n- Audio Segment: 'செங்குத்தாக மறுசீரமைக்கும் போது,'\n\nShot 3 (2.8s - 4.2s):\n- Location: Site inspection desk outdoors.\n- Framing: Macro close-up on hands.\n- Subject: Hands holding a digital screen displaying site plan geometry overlays and floor-area ratio calculations for an urban plot.\n- Text Overlay: 'இட பயன்பாடு'\n- Audio Segment: 'சொத்தின் மதிப்பும்'\n\nShot 4 (4.2s - 5.6s):\n- Location: Active modern construction site in Coimbatore.\n- Framing: Eye-level static medium shot.\n- Subject: Fresh concrete structural columns, timber formwork, natural green foliage framing the background sky.\n- Text Overlay: 'மதிப்பு உயர்வு'\n- Audio Segment: 'பயனும் பல மடங்கு'\n\nShot 5 (5.6s - 7.0s):\n- Location: Adjacent newly laid access road.\n- Framing: Over-the-shoulder medium shot.\n- Subject: Investor standing near a widened paved access lane looking toward a completed mid-rise structure.\n- Text Overlay: 'அணுகல் பாதை'\n- Audio Segment: 'உயர்கிறது.'\n\nShot 6 (7.0s - 8.5s):\n- Location: High upper-floor balcony.\n- Framing: High-angle wide panning shot.\n- Subject: Broad view of Coimbatore cityscape with green patches and subtle hill contours under warm atmospheric haze.\n- Text Overlay: 'நகர பார்வை'\n- Audio Segment: 'கோவை முதலீட்டில் இந்த'\n\nShot 7 (8.5s - 10.0s):\n- Location: Modern building entrance.\n- Framing: Ground-level looking up slightly, clean static shot.\n- Subject: Architectural entrance of a finished urban redeveloped building with clean glass and stone exterior.\n- Text Overlay: 'OliveTree Investors'\n- Audio Segment: 'திறனை கவனியுங்கள்.'\n\nG. MOTION-GRAPHICS LIMIT\n- Minimal typography overlays, clean white sans-serif Tamil font with high contrast stroke. No heavy graphics or cartoon callouts.\n\nH. FINAL REAL SCENE\n- Finish directly on Shot 7 real-world architectural shot with subtle bottom text: 'OliveTree Investors'. No digital end cards or logo animations.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Strict prohibition of: 3D architectural render visuals, cartoon explainer style, false location signboards, morphing frame transitions, landscape framing cropped into 9:16, exaggerated speed ramps, fake financial claims, exaggerated return percentages, religious icons, or duplicated people.",
+    "title_english": "Unlocking Land Value Through Urban Redevelopment in Coimbatore",
+    "caption_english": "Dense urban pockets in growing cities hold hidden investment potential. When low-rise, tight infill parcels undergo modern high-density redevelopment, land efficiency and overall property value soar. For smart real estate investors in Coimbatore, identifying old urban zones with high-density vertical potential is key to securing high-yield assets. Rather than looking only at peripheral land, evaluate structural renewal potential right in core commercial and residential corridors. OliveTree Investors helps you analyze site geometry, road access, and structural potential to make grounded, profitable decisions in Coimbatore's evolving skyline.",
+    "title_tamil": "கோவையில் நகர்ப்புற நில மறுசீரமைப்பு மூலம் உயர் மதிப்பு!",
+    "caption_tamil": "நகரத்தின் மையப்பகுதியில் உள்ள குறைந்த பயன்பாட்டு இடங்களை செங்குத்தாக மறுசீரமைக்கும் போது சொத்தின் மதிப்பு பல மடங்கு உயர்கிறது. கோவையின் வளர்ச்சி அடர்ந்த பகுதிகளை ஸ்மார்ட் முதலீடாக மாற்றுகிறது. ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ் வழங்கும் ஆலோசனைகளுடன் சரியான சொத்து தேர்வு செய்யுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}

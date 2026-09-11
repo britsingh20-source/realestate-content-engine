@@ -1,10 +1,14 @@
 {
-  "scannedAt": "2026-09-11T16:27:15.361Z",
+  "scannedAt": "2026-09-11T16:37:11.219Z",
   "niche": "investment",
   "skippedCreators": [
     {
+      "creator": "Samir Jasuja / PropEquity",
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"window_start_time\": \"1789110000\",\n          \"quota_location\": \"global\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+    },
+    {
       "creator": "Abrar Teli",
-      "reason": "Could not resolve channel for Abrar Teli"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit_value\": \"100\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"quota_location\": \"global\",\n          \"service\": \"youtube.googleapis.com\",\n          \"window_start_time\": \"1789110000\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     }
   ],
   "creators": [
@@ -21,7 +25,7 @@
       },
       "baseline": {
         "views": 9335,
-        "velocity": 22.73986753722867,
+        "velocity": 22.7306723443344,
         "engagement": 0.02270882409038308
       },
       "videoCount": 7
@@ -63,25 +67,6 @@
         "engagement": 0.0001
       },
       "videoCount": 0
-    },
-    {
-      "creator": {
-        "key": "samir-jasuja",
-        "name": "Samir Jasuja / PropEquity",
-        "searchQuery": "Samir Jasuja PropEquity",
-        "language": "English",
-        "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UCV3woQnwayM2cCaHQqRii8w",
-        "resolvedTitle": "Samir Jasuja-PropEquity",
-        "resolution": "youtube-search"
-      },
-      "baseline": {
-        "views": 1,
-        "velocity": 1,
-        "engagement": 0.0001
-      },
-      "videoCount": 0
     }
   ],
   "candidates": [
@@ -97,15 +82,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 613276,
-        "likes": 12089,
+        "views": 613355,
+        "likes": 12091,
         "comments": 519,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 530.9370447222223,
-        "velocity": 1155.0823324465073,
-        "outlier": 65.69641135511516,
-        "velocityRatio": 50.79547321704752,
-        "engagementRatio": 0.942572727762113
+        "ageHours": 531.1025608333333,
+        "velocity": 1154.8711025561756,
+        "outlier": 65.70487412961971,
+        "velocityRatio": 50.80672868191803,
+        "engagementRatio": 0.9425949143354043
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -124,19 +109,19 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 82,
-        "views": 320,
-        "likes": 10,
+        "views": 343,
+        "likes": 11,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=Oh1LE-8VokY",
-        "ageHours": 3.225655833333333,
-        "velocity": 99.20463202961052,
-        "outlier": 0.03427959292983396,
-        "velocityRatio": 4.362586187769002,
-        "engagementRatio": 1.6513404591425238
+        "ageHours": 3.3911719444444444,
+        "velocity": 101.14497454542715,
+        "outlier": 0.036743438671665775,
+        "velocityRatio": 4.449713277866919,
+        "engagementRatio": 1.6689932726027454
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 40,
+      "viralScore": 41,
       "priority": "candidate"
     },
     {
@@ -155,10 +140,10 @@
         "likes": 436,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 411.4451002777778,
-        "velocity": 49.75147349228401,
+        "ageHours": 411.6106163888889,
+        "velocity": 49.73146752041008,
         "outlier": 2.192822710230316,
-        "velocityRatio": 2.187852387918847,
+        "velocityRatio": 2.187857304309153,
         "engagementRatio": 1.0498018486390512
       },
       "confirmations": 0,
@@ -182,10 +167,10 @@
         "likes": 248,
         "comments": 5,
         "url": "https://www.youtube.com/watch?v=MFWPG5PIsFk",
-        "ageHours": 387.2651002777778,
-        "velocity": 23.082379469743667,
+        "ageHours": 387.4306163888889,
+        "velocity": 23.072518334553493,
         "outlier": 0.9575790037493305,
-        "velocityRatio": 1.0150621779988056,
+        "velocityRatio": 1.0150389739925267,
         "engagementRatio": 1.270972408423824
       },
       "confirmations": 0,
@@ -209,10 +194,10 @@
         "likes": 228,
         "comments": 2,
         "url": "https://www.youtube.com/watch?v=5cxb3Ekazfk",
-        "ageHours": 434.4709336111111,
-        "velocity": 22.39735560471367,
+        "ageHours": 434.6364497222222,
+        "velocity": 22.388826354115306,
         "outlier": 1.0424209962506694,
-        "velocityRatio": 0.9849378220011944,
+        "velocityRatio": 0.9849610260074732,
         "engagementRatio": 1.049870822515166
       },
       "confirmations": 0,
@@ -236,10 +221,10 @@
         "likes": 28,
         "comments": 2,
         "url": "https://www.youtube.com/watch?v=sMMWnFhSOTU",
-        "ageHours": 218.95260027777778,
-        "velocity": 6.7731554597596375,
+        "ageHours": 219.1181163888889,
+        "velocity": 6.768039194750948,
         "outlier": 0.15886448848419926,
-        "velocityRatio": 0.2978537781133042,
+        "velocityRatio": 0.29774918630763136,
         "engagementRatio": 0.9501981513609488
       },
       "confirmations": 0,
@@ -263,10 +248,10 @@
         "likes": 29,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=KRVQAl2mTJY",
-        "ageHours": 915.9448225,
-        "velocity": 2.1944553324881095,
+        "ageHours": 916.1103386111112,
+        "velocity": 2.194058854359513,
         "outlier": 0.21531869309051954,
-        "velocityRatio": 0.09650255565013507,
+        "velocityRatio": 0.09652415120516135,
         "engagementRatio": 0.6353416028541716
       },
       "confirmations": 0,
