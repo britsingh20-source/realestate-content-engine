@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260911-EY9R",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-11T21:08:59.816Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "Oh1LE-8VokY",
+      "title": "MLCP Sounds Great... Until You Need Your Car",
+      "description": "Multi-Level Car Parking (MLCP) may help developers accommodate more cars, but is it always convenient for residents?\n\nImagine needing your car urgently, only to find it parked several floors below, or even inside a separate parking tower.\n\nThis reel explains the hidden inconvenience of multi-level car parking.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-09-11T13:13:43Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 82,
+      "views": 732,
+      "likes": 31,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=Oh1LE-8VokY",
+      "ageHours": 7.839331944444444,
+      "velocity": 93.37530355743536,
+      "outlier": 0.07835161894567835,
+      "velocityRatio": 4.14923443223128,
+      "engagementRatio": 1.9887548953682974
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 41,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4845
+  },
+  "pack": {
+    "subject_classification": "layout design & livability",
+    "source_evidence_points": [
+      "Separate MLCP blocks force residents into a tedious multi-step routine: elevator down, walk ~100m, second elevator up in parking tower.",
+      "Carrying heavy groceries, small children, or traveling in bad monsoon weather drastically increases parking friction.",
+      "Developers favor standalone MLCP structures to cut construction costs and speed up project completion at the resident's expense.",
+      "Direct tower-to-basement parking provides immediate elevator access and eliminates critical delays during medical emergencies."
+    ],
+    "topic": "Apartment MLCP vs Basement Parking Impact on Daily Living",
+    "source_script_insight": "Separate multi-level parking structures create daily walking friction and delays, saving developers money while transferring long-term operational hassle to apartment owners.",
+    "coimbatore_angle": "In rapidly expanding Coimbatore residential hubs like Saravanampatti, Trichy Road, and Avinashi Road, homebuyers frequently evaluate floor plans and clubhouse amenities but fail to verify whether parking is directly under their block or in a distant standalone MLCP tower.",
+    "visual_strategy": "Expose the functional friction of standalone parking through real-world visual evidence: rain dripping across an open modern Coimbatore apartment courtyard, carrying groceries across wet paving, waiting at a secondary parking elevator, contrasting directly against seamless direct tower basement access.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Always verify whether an apartment project offers direct tower basement parking or a standalone MLCP block before signing your booking contract in Coimbatore.",
+    "voiceover_tamil": "வீட்டிலிருந்து காரை எடுக்க 100 மீட்டர் மழையில் നടந்து, தனி பில்டிங் லிஃப்ட் ஏற வேண்டுமா? பில்டர் செலவைக் குறைக்கவே MLCP! அவசர நேரத்திற்கு இது பெருந் தொல்லை. Direct Basement Parking இருக்கான்னு புக்கிங் முன் செக் பண்ணுங்க!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Separate MLCP blocks force residents into a tedious multi-step routine: walk ~100m across grounds.",
+        "purpose": "Establish central friction immediately with distance and atmospheric challenge.",
+        "visual": "Eye-level 9:16 portrait view under an apartment tower overhang in Coimbatore during monsoon drizzle; across a 100-meter paved open courtyard sits a separate 7-story concrete parking structure.",
+        "on_screen_text": "தனி Park Block?",
+        "voiceover_tamil": "வீட்டிலிருந்து காரை எடுக்க..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Carrying heavy groceries or traveling in bad monsoon weather drastically increases parking friction.",
+        "purpose": "Visualize real daily physical hassle with heavy cargo in rain.",
+        "visual": "Tracking medium shot following a resident carrying heavy cloth grocery bags, walking across wet paved pathway toward the separate multi-story parking deck in overcast light.",
+        "on_screen_text": "100m நடை",
+        "voiceover_tamil": "...100 மீட்டர் மழையில் നടந்து,"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Separate MLCP forces taking a second elevator inside the separate parking building.",
+        "purpose": "Show the secondary delay step inside the standalone structure.",
+        "visual": "Static eye-level shot inside the bare concrete elevator lobby of the separate parking tower, resident standing and waiting for the second lift indicator light.",
+        "on_screen_text": "இரண்டாவது Lift",
+        "voiceover_tamil": "தனி பில்டிங் லிஃப்ட் ஏற வேண்டுமா?"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Developers favor standalone MLCP structures to cut construction costs and speed up project completion.",
+        "purpose": "Reveal developer incentive using architectural layout drawing evidence.",
+        "visual": "Close-up macro shot of a project site brochure on a wooden table, a highlighter pen marking a detached 'MLCP Block' separated from main residential blocks.",
+        "on_screen_text": "Builder லாபம்",
+        "voiceover_tamil": "பில்டர் செலவைக் குறைக்கவே MLCP!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Direct tower-to-basement parking provides immediate access and avoids critical delays during medical emergencies.",
+        "purpose": "Demonstrate high-stress delay impact.",
+        "visual": "Fast tilt shot from a car key remote unlocking indicator lights on a sedan parked high up on a dimly lit 5th floor parking deck ramp.",
+        "on_screen_text": "தாமதம் ஆபத்து",
+        "voiceover_tamil": "அவசர நேரத்திற்கு இது பெருந் தொல்லை."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Direct tower-to-basement parking provides immediate elevator access.",
+        "purpose": "Show ideal physical contrast with direct basement layout.",
+        "visual": "Smooth camera panning as a residential lift door opens directly into a well-lit basement parking garage, stepping right beside a parked car under the same block.",
+        "on_screen_text": "Direct Basement",
+        "voiceover_tamil": "Direct Basement Parking இருக்கான்னு..."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "Pre-purchase layout inspection prevents long-term parking inconvenience.",
+        "purpose": "Deliver clear actionable advice and subtle branding.",
+        "visual": "Close-up of hands reviewing an apartment inspection checklist document under warm sunlight; small 'OliveTree Investors' text cleanly placed at bottom center.",
+        "on_screen_text": "Check Parking Layout",
+        "voiceover_tamil": "...புக்கிங் முன் செக் பண்ணுங்க!"
+      }
+    ],
+    "gemini_video_prompt": "### A. MANDATORY OUTPUT FORMAT LOCK\n- Exact Video Length: 10.0 seconds.\n- Aspect Ratio: Native 9:16 Vertical Portrait format (1080x1920 spatial framing).\n- Target Audience / Setting: COIMBATORE, TAMIL NADU ONLY.\n- Brand Context: OLIVETREE INVESTORS educational real-estate content.\n- Scene Count: EXACTLY 7 distinct camera shots across 10 seconds.\n\n### B. REALISM LOCK\n- Photorealistic physical-world camera footage only.\n- ABSOLUTELY NO 3D renders, architectural animations, cartoon explainer graphics, fake digital city skylines, or CGI motion graphics.\n- Authentic Tamil Nadu physical environments: Coimbatore residential architecture, realistic monsoon lighting, overcast concrete textures, natural foliage, realistic rain droplets, accurate shadows, and organic human movement.\n\n### C. SOURCE SUBJECT LOCK\n- Subject: Layout Design & Livability (Multi-Level Car Parking / MLCP vs Direct Basement Parking).\n- Source Evidence Points Covered:\n  1. Separate MLCP blocks force a long, multi-step commute (elevator down, walk 100m+, elevator up in parking tower).\n  2. Bad monsoon rain and heavy luggage amplify parking friction significantly.\n  3. Developers choose standalone MLCP to cut construction costs and speed delivery.\n  4. Direct podium/basement parking under the living tower eliminates daily delay and health/emergency risk.\n- Coimbatore Context: Gated communities and high-rise apartments in Saravanampatti, Avinashi Road, and Trichy Road.\n\n### D. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Visual Evidence: Show the physical distance across a rain-slicked apartment complex courtyard, secondary elevator waiting, architectural layout drawing highlighting detached MLCP, car key unlock delay in elevated ramp, contrasting against seamless direct elevator-to-basement access.\n- FORBIDDEN DEFAULT STORY: Do NOT show generic empty plot, construction workers, or happy family entering a house. Focus strictly on parking access friction.\n\n### E. CAMERA + IMAGE QUALITY\n- Premium 4K mobile camera / mirrorless aesthetic.\n- Natural focal lengths (24mm to 50mm equivalent), realistic depth of field, authentic shadow falloff, no synthetic color grading or blown-out highlights.\n- Stabilized handheld or micro-gimbal camera movement.\n\n### F. EXACT 7-SHOT PLAN\n\n**Shot 1 (0.0s - 1.4s)**\n- Location: Modern apartment building ground floor portico, Coimbatore.\n- Visual: Looking across a rain-soaked 100-meter central open courtyard toward a detached 7-story open-air parking building during soft monsoon drizzle.\n- Framing: Eye-level vertical 9:16 portrait composition.\n- Visual Overlay: Short text 'தனி Park Block?'\n- Voiceover (Tamil): 'வீட்டிலிருந்து காரை எடுக்க...'\n\n**Shot 2 (1.4s - 2.8s)**\n- Location: Paved outdoor walking path inside apartment complex.\n- Visual: Medium tracking shot behind a resident in casual south Indian wear carrying heavy cloth shopping bags walking through gentle drizzle toward the distant parking block.\n- Framing: Low-angle tracking shot.\n- Visual Overlay: Short text '100m நடை'\n- Voiceover (Tamil): '...100 மீட்டர் மழையில் നടந்து,'\n\n**Shot 3 (2.8s - 4.2s)**\n- Location: Ground floor lobby of standalone concrete MLCP structure.\n- Visual: Resident standing near a exposed concrete lift well, pressing the elevator call button inside the separate parking building.\n- Framing: Medium close-up, eye level.\n- Visual Overlay: Short text 'இரண்டாவது Lift'\n- Voiceover (Tamil): 'தனி பில்டிங் லிஃப்ட் ஏற வேண்டுமா?'\n\n**Shot 4 (4.2s - 5.6s)**\n- Location: Bright indoor desk setup.\n- Visual: Macro shot of an apartment site layout plan brochure; a hand highlights a separate block labeled 'MLCP' situated away from residential towers.\n- Framing: Top-down macro insert.\n- Visual Overlay: Short text 'Builder லாபம்'\n- Voiceover (Tamil): 'பில்டர் செலவைக் குறைக்கவே MLCP!'\n\n**Shot 5 (5.6s - 7.0s)**\n- Location: 5th floor upper ramp of a multi-level parking deck.\n- Visual: Close-up of a car key remote being clicked; amber headlights flash on a silver sedan parked deep inside the upper parking deck floor.\n- Framing: Low angle close-up.\n- Visual Overlay: Short text 'தாமதம் ஆபத்து'\n- Voiceover (Tamil): 'அவசர நேரத்திற்கு இது பெருந் தொல்லை.'\n\n**Shot 6 (7.0s - 8.4s)**\n- Location: Direct basement parking structure beneath residential tower.\n- Visual: Elevator doors open smoothly revealing clean basement parking area; resident walks out directly next to their parked vehicle under bright LED strip lights.\n- Framing: Eye-level interior elevator exit shot.\n- Visual Overlay: Short text 'Direct Basement'\n- Voiceover (Tamil): 'Direct Basement Parking இருக்கான்னு...'\n\n**Shot 7 (8.4s - 10.0s)**\n- Location: Bright daylight desk setup in Coimbatore.\n- Visual: A hand holding a pen checking off 'Direct Tower Parking' on a printed homebuyer checklist; subtle 'OliveTree Investors' text overlay at bottom center.\n- Framing: Close-up angled view.\n- Visual Overlay: Short text 'Check Parking Layout' + 'OliveTree Investors'\n- Voiceover (Tamil): '...புக்கிங் முன் செக் பண்ணுங்க!'\n\n### G. MOTION-GRAPHICS LIMIT\n- Text overlays must be minimalist (1-3 words), clean sans-serif font, white with slight dark drop shadow, non-obtrusive, positioned in upper or lower third.\n\n### H. FINAL REAL SCENE\n- Ends on Shot 7 with real physical checklist verification. No separate full-screen graphic end card.\n\n### I. NEGATIVE PROMPT / FIXED RULES\n- STRICTLY FORBID: Animated cartoon/2D/3D explainer graphics, architectural renders, fake skylines, non-Coimbatore landscapes, landscape 16:9 aspect ratio, black bars, blurred sidebar paddings, duplicated people, exaggerated speed ramps, religious iconography, unverified price/return claims.",
+    "title_english": "Why Separate MLCP Parking Can Ruin Apartment Living in Coimbatore",
+    "caption_english": "When buying a high-rise apartment in Coimbatore, buyers often compare square footage and clubhouse facilities, but overlook parking accessibility. Separate Multi-Level Car Parking (MLCP) blocks save developers construction time and money, but force residents to walk 100+ meters across open courtyards—even in heavy monsoon rain—and take two separate elevators just to reach their car. In emergency situations, this extra step causes severe friction. Always double-check if your unit has direct basement or podium parking before signing. OliveTree Investors helps you inspect functional livability beyond marketing brochures.",
+    "title_tamil": "கோவை அபார்ட்மென்டில் MLCP பார்க்கிங் உண்மையிலேயே நல்லதா?",
+    "caption_tamil": "கோவை அபார்ட்மென்ட் வாங்கும்போது பார்க்கிங் அமைப்பு உங்க டவருக்கு கீழேயே இருக்கா இல்ல தனி பில்டிங்கான்னு செக் பண்ணுங்க. OliveTree Investors வழங்கும் பயனுள்ள வழிகாட்டி.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#ApartmentBuyingTips",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
