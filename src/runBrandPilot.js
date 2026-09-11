@@ -12,18 +12,20 @@ function isActionable(c) {
 }
 
 function sourceMatchesNiche(niche, candidate, sourceNotes) {
-  const text = `${candidate.source?.title || ''} ${candidate.source?.description || ''} ${sourceNotes?.text || ''}`.toLowerCase();
+  const title = String(candidate.source?.title || '').toLowerCase();
+  const text = `${title} ${candidate.source?.description || ''} ${sourceNotes?.text || ''}`.toLowerCase();
   const has = re => re.test(text);
+  const titleHas = re => re.test(title);
   if (niche === 'documentation') {
-    return has(/sale deed|encumbrance|\bec\b|patta|property title|rera|approval|legal|ownership|registration|document|survey number|power of attorney|litigation/);
+    return titleHas(/sale deed|encumbrance|patta|title|rera|approval|legal|ownership|registration|document|survey number|power of attorney|litigation|due diligence/);
   }
   if (niche === 'land_selection') {
-    const landEvidence = has(/\bplot\b|\bland\b|site selection|soil|boundary|access road|road width|ground drainage|surface drainage|flood|slope|survey stone|frontage/);
+    const landEvidence = titleHas(/\bplot\b|\bland\b|site selection|soil|boundary|access road|road width|drainage|flood|slope|survey|frontage/);
     const buildingDefect = has(/roof|ceiling|terrace|wall damp|waterproofing|plaster|slab leakage/);
     return landEvidence && !buildingDefect;
   }
   if (niche === 'construction') {
-    return has(/beam|column|slab|concrete|steel|foundation|plinth|lintel|brick|waterproof|roof|ceiling|wall|construction/);
+    return titleHas(/beam|column|slab|concrete|steel|foundation|plinth|lintel|brick|waterproof|roof|ceiling|wall|construction|masonry|curing/);
   }
   return true;
 }
