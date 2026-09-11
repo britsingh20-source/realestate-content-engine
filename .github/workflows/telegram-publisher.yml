@@ -4,12 +4,6 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [telegram-content-upload]
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/telegram-publisher.yml'
-      - 'src/telegramIngest.js'
-      - 'src/contentQueue.js'
 
 permissions:
   contents: write
