@@ -75,7 +75,7 @@ export async function generateNicheContentPack(candidate) {
         if (!String(pack.title_english || '').trim() || !String(pack.caption_english || '').trim()) throw new Error('Gemini omitted English social metadata');
         if (/[\u0B80-\u0BFF]/.test(`${pack.title_english} ${pack.caption_english}`)) throw new Error('English social metadata contains Tamil text');
         const prompt = String(pack.gemini_video_prompt || '').trim();
-        if (prompt.length < 2200) throw new Error(`Gemini prompt too short: ${prompt.length} chars`);
+        if (prompt.length < 1500) throw new Error(`Gemini prompt too short: ${prompt.length} chars`);
         return pack;
       }
       const body = await res.text();
