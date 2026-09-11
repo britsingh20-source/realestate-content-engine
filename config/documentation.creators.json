@@ -3,12 +3,52 @@
   "scanWindowDays": 60,
   "baselineVideoCount": 12,
   "sourceVideoMaxSeconds": 90,
-  "breakoutMultipliers": { "candidate": 2, "strong": 3, "priority": 5 },
+  "breakoutMultipliers": {
+    "candidate": 2,
+    "strong": 3,
+    "priority": 5
+  },
   "creators": [
-    {"key":"property-cibil","name":"Property CIBIL / PropEd","searchQuery":"Property CIBIL PropEd property legal India","language":"English","enabled":true,"needsChannelIdVerification":true},
-    {"key":"indialaw","name":"IndiaLaw LLP","searchQuery":"IndiaLaw LLP property law RERA India","language":"English","enabled":true,"needsChannelIdVerification":true},
-    {"key":"search-my-property","name":"Search My Property / Hardeep Singh","searchQuery":"Search My Property Hardeep Singh property documents India","language":"English","enabled":true,"needsChannelIdVerification":true},
-    {"key":"kanooni-sawaal","name":"Kanooni Sawaal / Adv. Hardeep Sodhi","searchQuery":"Kanooni Sawaal Hardeep Sodhi property law","language":"English","enabled":true,"needsChannelIdVerification":true},
-    {"key":"realtyinvestmart","name":"Manish Patni / RealtyInvestMart","searchQuery":"Manish Patni RealtyInvestMart RERA property law","language":"English","enabled":true,"needsChannelIdVerification":true}
+    {
+      "key": "property-cibil",
+      "name": "Property CIBIL / PropEd",
+      "searchQuery": "Property CIBIL PropEd property legal India",
+      "language": "English",
+      "enabled": false,
+      "needsChannelIdVerification": true
+    },
+    {
+      "key": "indialaw",
+      "name": "IndiaLaw LLP",
+      "searchQuery": "IndiaLaw LLP property law RERA India",
+      "language": "English",
+      "enabled": true,
+      "needsChannelIdVerification": false,
+      "channelId": "UCLjjVLU0pjnX6dmivTVSTUg"
+    },
+    {
+      "key": "search-my-property",
+      "name": "Search My Property / Hardeep Singh",
+      "searchQuery": "Search My Property Hardeep Singh property documents India",
+      "language": "English",
+      "enabled": false,
+      "needsChannelIdVerification": true
+    },
+    {
+      "key": "kanooni-sawaal",
+      "name": "Kanooni Sawaal / Adv. Hardeep Sodhi",
+      "searchQuery": "Kanooni Sawaal Hardeep Sodhi property law",
+      "language": "English",
+      "enabled": false,
+      "needsChannelIdVerification": true
+    },
+    {
+      "key": "realtyinvestmart",
+      "name": "Manish Patni / RealtyInvestMart",
+      "searchQuery": "Manish Patni RealtyInvestMart RERA property law",
+      "language": "English",
+      "enabled": false,
+      "needsChannelIdVerification": true
+    }
   ]
 }
