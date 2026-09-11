@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260911-OG44",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-11T14:54:09.631Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "hQp5jilYjT8",
+      "title": "How Slum Redevelopment Is Changing Mumbai",
+      "description": "Slum rehabilitation is changing Mumbai’s skyline. With 40+ storey towers being built in places where dense settlements once stood.\n\nBut this isn’t just about construction. It’s about creating a potential win-win model for residents, developers and the city.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-08-20T13:31:02Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 79,
+      "views": 612758,
+      "likes": 12079,
+      "comments": 519,
+      "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
+      "ageHours": 529.2302666666667,
+      "velocity": 1157.8287157675788,
+      "outlier": 65.6514705094552,
+      "velocityRatio": 50.71280437893673,
+      "engagementRatio": 0.9417780495136705
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 60,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 6010
+  },
+  "pack": {
+    "subject_classification": "portfolio strategy / land consolidation and joint development",
+    "source_evidence_points": [
+      "Consolidating horizontal low-rise structures into vertical high-rise developments significantly reduces the land footprint.",
+      "Cross-subsidization model: High-value market-sale components pay for the development of rehabilitated/original owner spaces.",
+      "Value unlock: Vertical development on prime, underutilized central land creates a win-win-win for land owners, developers, and investors."
+    ],
+    "topic": "Unlocking Prime Coimbatore Land Value Through Vertical Joint Development",
+    "source_script_insight": "The video demonstrates how Mumbai's SRA model uses vertical consolidation and cross-subsidization to turn low-value, high-footprint informal settlements into high-value vertical assets, freeing up prime land for luxury development. The underlying investment lesson is that vertical consolidation on prime land dramatically multiplies land value and utility.",
+    "coimbatore_angle": "In Coimbatore's premium central localities like RS Puram, Gandhipuram, and Avinashi Road, horizontal low-rise commercial or residential properties often underutilize highly valuable land. By applying the joint-development (JDA) and vertical consolidation principle, investors and landowners can consolidate older, low-density structures into modern multi-storey spaces, unlocking premium rental yields and capital appreciation without massive upfront land acquisition costs.",
+    "visual_strategy": "The visual strategy focuses on the physical evidence of land-use efficiency and vertical transformation in Coimbatore. Instead of generic luxury homes, we show the stark contrast between old, low-density, single-storey structures and modern, multi-storey vertical developments on the same busy Coimbatore streets. We use real-world physical markers: architectural blueprints overlaid on old plots, legal JDA stamp papers, active vertical construction sites showing structural columns, and high-density commercial spaces with active foot traffic to prove the financial viability of vertical consolidation.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "To maximize returns in land-locked prime areas of Coimbatore, look for underutilized, low-density horizontal properties ripe for vertical joint development rather than buying expensive vacant plots.",
+    "voiceover_tamil": "கோயம்புத்தூரின் மையப்பகுதியில் இருக்கும் பழைய இடங்களை, கூட்டு மேம்பாட்டு முறையில் அடுக்குமாடி கட்டிடங்களாக மாற்றும்போது, நிலத்தின் மதிப்பு பல மடங்கு உயர்கிறது! ஸ்மார்ட்டாக முதலீடு செய்யுங்கள்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Consolidating horizontal low-rise structures into vertical high-rise developments significantly reduces the land footprint.",
+        "purpose": "Establish the tension of underutilized, low-density horizontal land in prime Coimbatore.",
+        "visual": "A low-angle, eye-level shot of an old, single-storey brick commercial building with a faded Tamil signboard on a busy, sun-drenched street in RS Puram, Coimbatore. Busy traffic of scooters and cars passes by in soft focus.",
+        "on_screen_text": "Underutilized Land",
+        "voiceover_tamil": "கோயம்புத்தூரின் மையப்பகுதியில் இருக்கும்..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Consolidating horizontal low-rise structures into vertical high-rise developments significantly reduces the land footprint.",
+        "purpose": "Introduce the vertical consolidation solution visually.",
+        "visual": "A close-up of an architect's hand overlaying a modern, multi-storey vertical blueprint sketch directly over a physical photo of the old single-storey building on a wooden desk.",
+        "on_screen_text": "Vertical Shift",
+        "voiceover_tamil": "பழைய இடங்களை..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Cross-subsidization model: High-value market-sale components pay for the development of rehabilitated/original owner spaces.",
+        "purpose": "Show the physical contrast of vertical development in the same locality.",
+        "visual": "A smooth, slow-panning shot from an old low-rise shopfront to a newly constructed 5-storey modern glass-and-concrete commercial complex right next to it on Avinashi Road, Coimbatore.",
+        "on_screen_text": "JDA Model",
+        "voiceover_tamil": "கூட்டு மேம்பாட்டு முறையில்..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Value unlock: Vertical development on prime, underutilized central land creates a win-win-win for land owners, developers, and investors.",
+        "purpose": "Demonstrate active value creation and structural transformation.",
+        "visual": "A mid-shot of a construction site in Gandhipuram, showing concrete pillars rising vertically against a clear blue Coimbatore sky, with green safety nets fluttering in the breeze.",
+        "on_screen_text": "Unlocking Value",
+        "voiceover_tamil": "அடுக்குமாடி கட்டிடங்களாக மாற்றும்போது..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Value unlock: Vertical development on prime, underutilized central land creates a win-win-win for land owners, developers, and investors.",
+        "purpose": "Show the legal and financial alignment of the Joint Development Agreement.",
+        "visual": "An over-the-shoulder close-up of a pen signing a legal Joint Development Agreement document on a table, with the words 'Government of Tamil Nadu' and 'Coimbatore' clearly visible on the stamp paper.",
+        "on_screen_text": "Secure JDA",
+        "voiceover_tamil": "நிலத்தின் மதிப்பு..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Value unlock: Vertical development on prime, underutilized central land creates a win-win-win for land owners, developers, and investors.",
+        "purpose": "Show the premium, high-yield outcome of vertical consolidation.",
+        "visual": "An eye-level shot of a bustling, modern multi-tenant commercial building in Coimbatore with premium retail brands on the ground floor and offices above, showcasing high occupancy.",
+        "on_screen_text": "High Yields",
+        "voiceover_tamil": "பல மடங்கு உயர்கிறது!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Value unlock: Vertical development on prime, underutilized central land creates a win-win-win for land owners, developers, and investors.",
+        "purpose": "Deliver the final investor payoff and call to action with minimal branding.",
+        "visual": "A close-up of an investor's hand scrolling through a rental income dashboard on a tablet, with the modern Coimbatore commercial building visible through a clean office window in the background. Small 'OliveTree Investors' logo on top right.",
+        "on_screen_text": "Invest Smartly",
+        "voiceover_tamil": "ஸ்மார்ட்டாக முதலீடு செய்யுங்கள்."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: Exactly 10 seconds.\n- Aspect Ratio: Native portrait 9:16, full-screen vertical composition.\n\nB. REALISM LOCK\n- This is a photorealistic, real-world video. Absolutely no 2D/3D animation, cartoon explainer graphics, architectural renders, or CGI-looking surfaces.\n- The setting must look authentically like Coimbatore, Tamil Nadu, with local architectural styles, natural bright sunlight, realistic dust/haze, and natural vegetation movement.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Land consolidation and vertical Joint Development Agreement (JDA) efficiency.\n- The video must demonstrate how underutilized, low-density horizontal properties in prime Coimbatore can be vertically consolidated to unlock massive premium value, mimicking the cross-subsidization and land-liberation mechanics of vertical redevelopment.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- The camera must capture physical evidence of land-use efficiency: old low-rise structures, architectural blueprints, legal stamp papers, active vertical concrete construction, and completed high-density commercial buildings.\n- Avoid the generic plot-to-house construction sequence. Focus entirely on the contrast between horizontal underutilization and vertical optimization.\n\nE. CAMERA + IMAGE QUALITY\n- High-quality mirrorless camera footage with natural depth of field, realistic exposure, sharp textures, and stable camera movements. No impossible drone fly-throughs or hyper-lapses.\n\nF. EXACT 7-SHOT PLAN\n\n- Shot 1 (0.0 - 1.4s):\n  - Location: RS Puram, Coimbatore.\n  - Subject: An old, single-storey, slightly weathered commercial building with a faded Tamil signboard.\n  - Camera: Eye-level, static shot. Busy street traffic of scooters passes in soft focus in the foreground.\n  - Lighting: Bright, natural afternoon sunlight casting realistic shadows.\n  - Text Overlay: 'Underutilized Land'\n  - Tamil VO: 'கோயம்புத்தூரின் மையப்பகுதியில் இருக்கும்...'\n\n- Shot 2 (1.4 - 2.8s):\n  - Location: Indoor office desk.\n  - Subject: An architect's hand placing a translucent blueprint of a modern multi-storey building directly over a physical photo of the old single-storey building.\n  - Camera: Close-up, top-down angle, shallow depth of field.\n  - Text Overlay: 'Vertical Shift'\n  - Tamil VO: 'பழைய இடங்களை...'\n\n- Shot 3 (2.8 - 4.2s):\n  - Location: Avinashi Road, Coimbatore.\n  - Subject: A physical contrast on the street. A slow, smooth pan from an old, low-density shopfront to a newly built, premium 5-storey glass-and-concrete commercial complex right next to it.\n  - Camera: Eye-level, slow horizontal pan.\n  - Text Overlay: 'JDA Model'\n  - Tamil VO: 'கூட்டு மேம்பாட்டு முறையில்...'\n\n- Shot 4 (4.2 - 5.6s):\n  - Location: Active construction site in Gandhipuram, Coimbatore.\n  - Subject: Vertical concrete pillars and steel reinforcement bars rising against a clear blue sky. Green safety nets are visible.\n  - Camera: Low-angle shot looking up, static and stable.\n  - Text Overlay: 'Unlocking Value'\n  - Tamil VO: 'அடுக்குமாடி கட்டிடங்களாக மாற்றும்போது...'\n\n- Shot 5 (5.6 - 7.0s):\n  - Location: Wooden office table.\n  - Subject: A close-up of a fountain pen signing a legal Joint Development Agreement document. The Tamil Nadu Government emblem and the word 'Coimbatore' are visible on the stamp paper.\n  - Camera: Macro close-up, sharp focus on the pen tip and text.\n  - Text Overlay: 'Secure JDA'\n  - Tamil VO: 'நிலத்தின் மதிப்பு...'\n\n- Shot 6 (7.0 - 8.5s):\n  - Location: Premium commercial hub in Coimbatore.\n  - Subject: A completed, modern multi-storey commercial building with active foot traffic entering retail stores on the ground floor.\n  - Camera: Mid-shot, eye-level, capturing natural movement of people.\n  - Text Overlay: 'High Yields'\n  - Tamil VO: 'பல மடங்கு உயர்கிறது!'\n\n- Shot 7 (8.5 - 10.0s):\n  - Location: Modern office interior.\n  - Subject: An investor's hand scrolling through a rental yield dashboard on a tablet. Through the clean glass window in the background, the completed vertical commercial building is visible.\n  - Camera: Over-the-shoulder close-up.\n  - Text Overlay: 'Invest Smartly' (with a small, elegant 'OliveTree Investors' logo at the bottom).\n  - Tamil VO: 'ஸ்மார்ட்டாக முதலீடு செய்யுங்கள்.'\n\nG. MOTION-GRAPHICS LIMIT\n- Only clean, minimalist, non-distracting text overlays. No cartoon graphics or heavy transitions.\n\nH. FINAL REAL SCENE\n- No generic end card. The video ends on the realistic investor-payoff shot with the tablet and the building view.\n\nI. NEGATIVE PROMPT\n- No 3D architectural renders, no cartoon animations, no fake non-Coimbatore landmarks, no landscape framing, no black bars, no generic happy family shots, no floating graphics, no distorted text.",
+    "title_english": "How Vertical Consolidation Multiplies Land Value in Coimbatore",
+    "caption_english": "Are you holding onto underutilized, low-density land in prime Coimbatore? Traditional horizontal development often leaves massive capital locked up. By adopting a vertical consolidation and Joint Development Agreement (JDA) strategy—similar to high-density urban redevelopment models—you can unlock premium commercial and residential space on your existing footprint. This approach allows landowners and investors to maximize rental yields and capital appreciation in high-demand areas like RS Puram and Avinashi Road without massive upfront acquisition costs. Partner with OliveTree Investors to discover smart, high-yield development strategies in Coimbatore. DM us to analyze your property's vertical potential today!",
+    "title_tamil": "கோவையில் கூட்டு மேம்பாடு மூலம் நிலத்தின் மதிப்பை பெருக்குவது எப்படி?",
+    "caption_tamil": "கோயம்புத்தூரின் முதன்மையான இடங்களில் உள்ள உங்கள் பழைய இடங்களை வெறும் சாதாரண நிலமாகவே வைத்திருக்கிறீர்களா? நவீன கூட்டு மேம்பாட்டு (JDA) முறை மூலம், உங்கள் குறைந்த பரப்பளவு கொண்ட நிலத்தையும் அடுக்குமாடி வணிக வளாகங்களாக மாற்றி, அதன் மதிப்பை பல மடங்கு பெருக்க முடியும். ஆர்.எஸ்.புரம், அவினாசி சாலை போன்ற பகுதிகளில் உள்ள உங்கள் சொத்துக்களின் முழுமையான மதிப்பை மீட்டெடுக்க OliveTree Investors உங்களுக்கு வழிகாட்டுகிறது. உங்கள் சொத்தின் வளர்ச்சி வாய்ப்புகளைப் பற்றி அறிய உடனே எங்களைத் தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#JointDevelopment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}

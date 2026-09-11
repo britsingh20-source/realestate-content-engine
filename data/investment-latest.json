@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-11T11:33:47.137Z",
+  "scannedAt": "2026-09-11T14:44:50.961Z",
   "niche": "investment",
   "skippedCreators": [
     {
@@ -20,11 +20,11 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 9730,
-        "velocity": 23.35410282245709,
-        "engagement": 0.023793204739058063
+        "views": 9333.5,
+        "velocity": 22.831092264510545,
+        "engagement": 0.02272987066956171
       },
-      "videoCount": 6
+      "videoCount": 7
     },
     {
       "creator": {
@@ -97,19 +97,19 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 611871,
-        "likes": 12064,
+        "views": 612758,
+        "likes": 12079,
         "comments": 519,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 526.0458711111111,
-        "velocity": 1163.1514162588323,
-        "outlier": 62.88499486125385,
-        "velocityRatio": 49.805013924163966,
-        "engagementRatio": 0.8999632665517939
+        "ageHours": 529.2302666666667,
+        "velocity": 1157.8287157675788,
+        "outlier": 65.6514705094552,
+        "velocityRatio": 50.71280437893673,
+        "engagementRatio": 0.9417780495136705
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 59,
+      "viralScore": 60,
       "priority": "priority"
     },
     {
@@ -124,19 +124,19 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20426,
-        "likes": 434,
+        "views": 20442,
+        "likes": 435,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 406.55392666666665,
-        "velocity": 50.24179736123239,
-        "outlier": 2.0992805755395683,
-        "velocityRatio": 2.151304965263763,
-        "engagementRatio": 1
+        "ageHours": 409.7383222222222,
+        "velocity": 49.890378544853924,
+        "outlier": 2.190175175443296,
+        "velocityRatio": 2.185194556915934,
+        "engagementRatio": 1.0481142186105092
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 28,
+      "viralScore": 29,
       "priority": "candidate"
     }
   ]
