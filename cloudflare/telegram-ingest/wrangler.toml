@@ -1,0 +1,13 @@
+name = "olivetree-content-telegram-ingest"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "PAIRING_STATE"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[vars]
+GITHUB_REPOSITORY = "britsingh20-source/realestate-content-engine"
+# Add TELEGRAM_CHAT_ID as a Worker secret or variable.
+# Add TELEGRAM_BOT_TOKEN, WEBHOOK_SECRET and GITHUB_TOKEN with wrangler secret put.
