@@ -1,14 +1,10 @@
 {
-  "scannedAt": "2026-09-10T21:09:35.312Z",
+  "scannedAt": "2026-09-11T08:07:31.272Z",
   "niche": "documentation",
   "skippedCreators": [
     {
-      "creator": "IndiaLaw LLP",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_limit_value\": \"100\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"window_start_time\": \"1789023600\",\n          \"quota_location\": \"global\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"quota_unit\": \"1/d/{project}\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
-    },
-    {
       "creator": "Search My Property / Hardeep Singh",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"window_start_time\": \"1789023600\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+      "reason": "Could not resolve channel for Search My Property / Hardeep Singh"
     },
     {
       "creator": "Kanooni Sawaal / Adv. Hardeep Sodhi",
@@ -16,7 +12,7 @@
     },
     {
       "creator": "Manish Patni / RealtyInvestMart",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_limit_value\": \"100\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"window_start_time\": \"1789023600\",\n          \"consumer\": \"projects/9212714057\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"quota_unit\": \"1/d/{project}\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+      "reason": "Could not resolve channel for Manish Patni / RealtyInvestMart"
     }
   ],
   "creators": [
@@ -38,6 +34,25 @@
         "engagement": 0.0001
       },
       "videoCount": 4
+    },
+    {
+      "creator": {
+        "key": "indialaw",
+        "name": "IndiaLaw LLP",
+        "searchQuery": "IndiaLaw LLP property law RERA India",
+        "language": "English",
+        "enabled": true,
+        "needsChannelIdVerification": true,
+        "resolvedChannelId": "UCKVzEsK99FNRMvr7Mzsi5cA",
+        "resolvedTitle": "Law Times India",
+        "resolution": "youtube-search"
+      },
+      "baseline": {
+        "views": 1,
+        "velocity": 1,
+        "engagement": 0.0001
+      },
+      "videoCount": 0
     }
   ],
   "candidates": []
