@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import { runNicheMonitor, saveNicheReport } from './multiNicheMonitor.js';
 import { generateContentPack } from './geminiText.js';
 import { sendContentPack } from './telegram.js';
-import { addPending, makeContentId } from './contentQueue.js';
+import { addPending, makeContentId, usedSourceIds } from './contentQueue.js';
 import { extractYoutubeTranscript } from './youtubeTranscript.js';
 
 async function loadJson(path) { return JSON.parse(await fs.readFile(path, 'utf8')); }
@@ -17,9 +17,11 @@ async function main() {
   const report = await runNicheMonitor(config);
   await saveNicheReport(report);
 
+  const used = await usedSourceIds({ brand: meta.brand });
+  const fresh = report.candidates.filter(candidate => !used.has(String(candidate.source?.id || '')));
   const ordered = [
-    ...report.candidates.filter(isActionable),
-    ...report.candidates.filter(c => !isActionable(c))
+    ...fresh.filter(isActionable),
+    ...fresh.filter(c => !isActionable(c))
   ];
 
   let selected = null;
