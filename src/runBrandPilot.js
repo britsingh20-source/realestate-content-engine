@@ -2,13 +2,30 @@ import fs from 'node:fs/promises';
 import { runNicheMonitor, saveNicheReport } from './multiNicheMonitor.js';
 import { generateNicheContentPack } from './geminiNicheText.js';
 import { sendContentPack } from './telegram.js';
-import { addPending, makeContentId } from './contentQueue.js';
+import { addPending, makeContentId, usedSourceIds } from './contentQueue.js';
 import { extractYoutubeTranscript } from './youtubeTranscript.js';
 
 async function loadJson(path) { return JSON.parse(await fs.readFile(path, 'utf8')); }
 
 function isActionable(c) {
   return c.viralScore >= 75 || (c.confirmations >= 1 && c.source.outlier >= 2) || c.source.outlier >= 3;
+}
+
+function sourceMatchesNiche(niche, candidate, sourceNotes) {
+  const text = `${candidate.source?.title || ''} ${candidate.source?.description || ''} ${sourceNotes?.text || ''}`.toLowerCase();
+  const has = re => re.test(text);
+  if (niche === 'documentation') {
+    return has(/sale deed|encumbrance|\bec\b|patta|property title|rera|approval|legal|ownership|registration|document|survey number|power of attorney|litigation/);
+  }
+  if (niche === 'land_selection') {
+    const landEvidence = has(/\bplot\b|\bland\b|site selection|soil|boundary|access road|road width|ground drainage|surface drainage|flood|slope|survey stone|frontage/);
+    const buildingDefect = has(/roof|ceiling|terrace|wall damp|waterproofing|plaster|slab leakage/);
+    return landEvidence && !buildingDefect;
+  }
+  if (niche === 'construction') {
+    return has(/beam|column|slab|concrete|steel|foundation|plinth|lintel|brick|waterproof|roof|ceiling|wall|construction/);
+  }
+  return true;
 }
 
 async function processNiche(niche, meta) {
@@ -22,20 +39,27 @@ async function processNiche(niche, meta) {
   }
   await saveNicheReport(report);
 
+  const used = await usedSourceIds({ brand: meta.brand });
+  const fresh = report.candidates.filter(candidate => !used.has(String(candidate.source?.id || '')));
   const ordered = [
-    ...report.candidates.filter(isActionable),
-    ...report.candidates.filter(c => !isActionable(c))
+    ...fresh.filter(isActionable),
+    ...fresh.filter(c => !isActionable(c))
   ];
 
   let selected = null;
   let sourceNotes = null;
   for (const candidate of ordered.slice(0, 8)) {
     sourceNotes = await extractYoutubeTranscript(candidate.source.url);
-    if (sourceNotes) {
-      selected = candidate;
-      break;
+    if (!sourceNotes) {
+      console.log(`${niche}: skipping ${candidate.source.id}; source-video analysis unavailable`);
+      continue;
     }
-    console.log(`${niche}: skipping ${candidate.source.id}; source-video analysis unavailable`);
+    if (!sourceMatchesNiche(niche, candidate, sourceNotes)) {
+      console.log(`${niche}: skipping ${candidate.source.id}; source subject does not match niche`);
+      continue;
+    }
+    selected = candidate;
+    break;
   }
 
   if (!selected || !sourceNotes) {
