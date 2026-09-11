@@ -2,18 +2,20 @@ name: Telegram Social Publisher
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [telegram-content-upload]
   push:
     branches: [main]
     paths:
       - '.github/workflows/telegram-publisher.yml'
-  schedule:
-    - cron: '*/5 * * * *'
+      - 'src/telegramIngest.js'
+      - 'src/contentQueue.js'
 
 permissions:
   contents: write
 
 concurrency:
-  group: realestate-content-state
+  group: telegram-social-publisher
   cancel-in-progress: false
 
 jobs:
@@ -26,10 +28,11 @@ jobs:
         with:
           node-version: '20'
       - run: npm install
-      - name: Process Telegram video uploads
+      - name: Process Telegram video upload
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_UPDATE_JSON: ${{ github.event_name == 'repository_dispatch' && toJson(github.event.client_payload.update) || '' }}
           R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -48,7 +51,7 @@ jobs:
           INSTAGRAM_OLIVETREE_BUILDERS_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_OLIVETREE_BUILDERS_ACCESS_TOKEN }}
           META_GRAPH_VERSION: ${{ secrets.META_GRAPH_VERSION }}
         run: npm run telegram:publish
-      - name: Persist Telegram offset and publish state
+      - name: Persist publish state
         if: always()
         run: |
           git config user.name "realestate-content-bot"
