@@ -4,7 +4,7 @@
   "label": "SMART LAND SELECTION",
   "brand": "olivetree_safebuy",
   "brandLabel": "OliveTree SafeBuy",
-  "status": "awaiting_video",
+  "status": "superseded",
   "createdAt": "2026-09-11T16:48:04.412Z",
   "candidate": {
     "niche": "land_selection",
@@ -127,5 +127,7 @@
       "#LandBuyingTips",
       "#OliveTreeSafeBuy"
     ]
-  }
+  },
+  "supersededAt": "2026-09-11T18:39:54.268Z",
+  "supersededReason": "Rejected: roof-leakage source was incorrectly converted into a land-surface concept."
 }
