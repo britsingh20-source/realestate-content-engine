@@ -4,7 +4,7 @@
   "label": "CONSTRUCTION KNOWLEDGE",
   "brand": "olivetree_builders",
   "brandLabel": "OliveTree Builders",
-  "status": "awaiting_video",
+  "status": "superseded",
   "createdAt": "2026-09-10T16:58:51.521Z",
   "candidate": {
     "niche": "construction",
@@ -125,5 +125,7 @@
       "#CoimbatoreConstruction",
       "#HouseDesignCoimbatore"
     ]
-  }
+  },
+  "supersededAt": "2026-09-11T18:38:53.182Z",
+  "supersededReason": "Rejected: repeated prompt derived from an off-topic automobile source."
 }
