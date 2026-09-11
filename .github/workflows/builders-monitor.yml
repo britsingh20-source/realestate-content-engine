@@ -2,19 +2,6 @@ name: OliveTree Builders YouTube Research
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/builders-monitor.yml'
-      - 'src/runBrandPilot.js'
-      - 'src/geminiNicheText.js'
-      - 'src/telegram.js'
-      - 'src/youtubeTranscript.js'
-      - 'src/multiNicheMonitor.js'
-      - 'src/contentQueue.js'
-      - 'config/construction.creators.json'
-      - 'config/niches.json'
-      - 'package.json'
   schedule:
     - cron: '7 1,7,13,19 * * *'
 
