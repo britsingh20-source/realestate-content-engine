@@ -69,6 +69,25 @@ function fallbackBrandLabel(niche) {
   return 'OliveTree Investors';
 }
 
+function buildPromptFile({ contentId, brandLabel, topic, sourceUrl, geminiPrompt }) {
+  return [
+    '============================================================',
+    `VIDEO ID: ${contentId}`,
+    `BRAND: ${brandLabel}`,
+    `TOPIC: ${topic}`,
+    sourceUrl ? `SOURCE: ${sourceUrl}` : null,
+    '============================================================',
+    '',
+    'COPY ONLY THE GEMINI VIDEO PROMPT BELOW INTO GEMINI:',
+    '',
+    geminiPrompt,
+    '',
+    '============================================================',
+    `RETURN VIDEO TO TELEGRAM WITH THIS EXACT VIDEO ID: ${contentId}`,
+    '============================================================'
+  ].filter(v => v !== null).join('\n');
+}
+
 export async function sendContentPack(candidate, pack) {
   const contentId = candidate.contentId || 'UNASSIGNED';
   const geminiPrompt = String(pack.gemini_video_prompt || '').trim();
@@ -77,17 +96,24 @@ export async function sendContentPack(candidate, pack) {
   const sourceUrl = candidate.source?.url || '';
   const topic = pack.topic || pack.coimbatore_angle || 'Property Education';
   const brandLabel = candidate.brandLabel || fallbackBrandLabel(candidate.niche);
+  const promptFile = buildPromptFile({ contentId, brandLabel, topic, sourceUrl, geminiPrompt });
+
   const caption = [
     `🌿 ${brandLabel} — Coimbatore`,
-    `Topic: ${topic}`,
-    `Content ID: ${contentId}`,
-    `Source research: ${sourceUrl}`,
+    `VIDEO ID`,
+    `${contentId}`,
     ``,
-    `Open the attached Gemini prompt file and copy all the text into Gemini.`,
-    `After generation, upload the finished MP4 back to this bot with caption: ${contentId}`
-  ].join('\n');
+    `Topic: ${topic}`,
+    sourceUrl ? `Source research: ${sourceUrl}` : null,
+    ``,
+    `1. Open the attached TXT file.`,
+    `2. Copy the Gemini prompt into Gemini.`,
+    `3. After generation, upload the MP4 back to this bot.`,
+    `4. Use ONLY this exact caption on the video:`,
+    `${contentId}`
+  ].filter(v => v !== null).join('\n');
 
-  return sendPromptDocument({ contentId, prompt: geminiPrompt, caption });
+  return sendPromptDocument({ contentId, prompt: promptFile, caption });
 }
 
 export async function sendStatus(text) {
