@@ -27,7 +27,7 @@ function pickVideo(message) {
     const mime = String(message.document.mime_type || '').toLowerCase();
     const name = String(message.document.file_name || '').toLowerCase();
     if (mime.startsWith('video/') || name.endsWith('.mp4')) {
-      return { fileId: message.document.file_id, mimeType: message.document.mime_type || 'video/mp4' };
+      return { fileId: message.document.file_id, mimeType: mime.startsWith('video/') ? mime : 'video/mp4' };
     }
   }
   return null;
