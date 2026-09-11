@@ -25,7 +25,6 @@ export default {
     const explicit = extractContentId(text);
     const attachment = videoAttachment(message);
 
-    // Allow the user to send/copy the VIDEO ID first, then the MP4.
     if (!attachment) {
       if (!explicit) return new Response('ok');
       await env.PAIRING_STATE.put(`pending-id:${chatId}`, explicit, { expirationTtl: 900 });
@@ -45,7 +44,6 @@ export default {
       return new Response('ok');
     }
 
-    // Normalize the Telegram message passed to GitHub so the publisher always sees the exact ID.
     message.caption = `VIDEO ID: ${contentId}`;
 
     const dispatched = await fetch(
@@ -53,15 +51,15 @@ export default {
       {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${env.GITHUB_TOKEN}`,
+          'Authorization': `Bearer ${env.GITHUB_DISPATCH_TOKEN}`,
           'Accept': 'application/vnd.github+json',
           'X-GitHub-Api-Version': '2022-11-28',
-          'User-Agent': 'realestate-content-telegram-worker',
+          'User-Agent': 'olivetree-content-telegram-worker',
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
           event_type: 'telegram-content-upload',
-          client_payload: { update },
+          client_payload: { update, content_id: contentId, source: 'cloudflare-telegram-webhook' },
         }),
       },
     );
