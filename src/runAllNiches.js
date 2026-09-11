@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import { runNicheMonitor, saveNicheReport } from './multiNicheMonitor.js';
 import { generateContentPack } from './geminiText.js';
 import { sendContentPack } from './telegram.js';
-import { addPending, makeContentId } from './contentQueue.js';
+import { addPending, makeContentId, usedSourceIds } from './contentQueue.js';
 
 async function loadJson(path) { return JSON.parse(await fs.readFile(path, 'utf8')); }
 
@@ -16,7 +16,8 @@ async function main() {
     const config = await loadJson(meta.creatorConfig);
     const report = await runNicheMonitor(config);
     await saveNicheReport(report);
-    const selected = report.candidates.filter(isActionable)[0];
+    const used = await usedSourceIds({ brand: meta.brand });
+    const selected = report.candidates.filter(isActionable).find(candidate => !used.has(String(candidate.source?.id || '')));
     if (!selected) {
       console.log(`${niche}: no actionable breakout`);
       continue;
