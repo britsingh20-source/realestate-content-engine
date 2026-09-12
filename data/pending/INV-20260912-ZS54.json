@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260912-ZS54",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-12T23:08:03.080Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "SeVl1RTO-z8",
+      "title": "Assam me hume itne Pyaare bacche mile #assam #quran #islam",
+      "description": "#assam",
+      "publishedAt": "2026-09-02T10:30:02Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 32,
+      "views": 1588,
+      "likes": 112,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=SeVl1RTO-z8",
+      "ageHours": 252.597555,
+      "velocity": 6.286680011609772,
+      "outlier": 1.4482444140446877,
+      "velocityRatio": 1.5046434065943621,
+      "engagementRatio": 2.4705831990491918
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 26,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2378
+  },
+  "pack": {
+    "subject_classification": "pre-closing verification",
+    "source_evidence_points": [
+      "Conscious intention and verification must precede the physical handshake/deal sign-off.",
+      "Mutual clarity and verified terms before exchange protect both parties from immediate and future risks.",
+      "A disciplined verification habit executed consistently during every transaction prevents long-term asset disputes."
+    ],
+    "topic": "Pre-Closing Verification Checklist Before Token Advance in Coimbatore Real Estate",
+    "source_script_insight": "The source video emphasizes making a conscious positive intention (Niyyat) right at the moment of shaking hands so that mutual benefit and protection occur immediately before hands part. In real estate, this translates to establishing a strict verification habit right before exchanging advance token payments or shaking hands on a deal.",
+    "coimbatore_angle": "In Coimbatore's active residential and plot markets, buyers often hand over token advances based on verbal trust. A disciplined Coimbatore investor completes encumbrance checks and boundary verifications before shaking hands or transferring advance funds.",
+    "visual_strategy": "Show physical, macro-focused evidence of pre-closing due diligence—inspecting EC documents on a desk, measuring plot survey points on site, reviewing draft terms, and deliberate hands withholding payment until document check is complete. End on a quiet, verified document sign-off.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never seal a property handshake without completing pre-advance document verification.",
+    "voiceover_tamil": "முன்பணம் கொடுக்கும் முன், தெளிவான ஒப்பந்த விதிமுறைகளை சரிபார்ப்பது அவசியம். சரியான ஆவண ஆய்வு உங்களை பாதுகாக்கும். தெளிவான முடிவே சிறந்த முதலீடு!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Conscious intention and verification must precede the physical handshake/deal sign-off.",
+        "purpose": "Establish central tension—a buyer pausing a cheque leaf right above a table before signing.",
+        "visual": "Close-up of a pen held deliberately over a cheque book on a teak desk, pausing before touching paper. Natural sunlight from an office window in Coimbatore.",
+        "on_screen_text": "PAUSE ADVANCE",
+        "voiceover_tamil": "முன்பணம் கொடுக்கும் முன்,"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Mutual clarity and verified terms before exchange protect both parties from immediate and future risks.",
+        "purpose": "Show immediate evidence review—inspecting an Encumbrance Certificate (EC) document.",
+        "visual": "Macro top-down shot of index finger sliding down an Encumbrance Certificate (EC) stamp with green pen tick marks next to survey numbers.",
+        "on_screen_text": "CHECK EC FIRST",
+        "voiceover_tamil": "தெளிவான ஒப்பந்த..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Mutual clarity and verified terms before exchange protect both parties from immediate and future risks.",
+        "purpose": "Physical verification—survey tape aligned with physical boundary marker stone.",
+        "visual": "Eye-level ground shot of a yellow measuring tape pulling tight against a granite survey boundary stone on a sunny Coimbatore plot.",
+        "on_screen_text": "VERIFY BOUNDARY",
+        "voiceover_tamil": "விதிமுறைகளை சரிபார்ப்பது..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Conscious intention and verification must precede the physical handshake/deal sign-off.",
+        "purpose": "Show verified draft agreement review between two parties across a table.",
+        "visual": "Medium close-up of a printed Tamil Nadu sale agreement draft resting on a desk, with key clauses highlighted neatly in light yellow.",
+        "on_screen_text": "READ CLAUSES",
+        "voiceover_tamil": "மிகவும் முக்கியம்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "A disciplined verification habit executed consistently during every transaction prevents long-term asset disputes.",
+        "purpose": "Digital record double-check on smartphone.",
+        "visual": "Close-up handheld shot of a smartphone screen showing the TN Patta/Chitta portal verification confirmation screen.",
+        "on_screen_text": "PATTA CONFIRMED",
+        "voiceover_tamil": "சரியான ஆவண ஆய்வு..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Conscious intention and verification must precede the physical handshake/deal sign-off.",
+        "purpose": "The deliberate, confident handshake after full verification is complete.",
+        "visual": "Eye-level shot of two individuals completing a calm, confident professional handshake across a clean wooden meeting desk in Coimbatore.",
+        "on_screen_text": "VERIFIED DEAL",
+        "voiceover_tamil": "உங்களை பாதுகாக்கும்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "A disciplined verification habit executed consistently during every transaction prevents long-term asset disputes.",
+        "purpose": "Final payoff and brand note overlay.",
+        "visual": "Wide static view of a verified property file folder neatly closed on a desk with mild morning daylight. Small text overlay at bottom.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "தெளிவான முடிவே சிறந்த முதலீடு!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10 seconds.\n- Aspect Ratio: Native Portrait 9:16 vertical video.\n- Target Audience: Property buyers in Coimbatore, Tamil Nadu.\n- Brand: OliveTree Investors.\n\nB. REALISM LOCK\n- Ultra-photorealistic real-world documentary footage. No animation, 2D/3D render, cartoon, motion graphics explainer style, architectural 3D visualization, or stock footage look.\n- All settings, textures, documents, lighting, and human hands must reflect authentic Tamil Nadu corporate/property environments.\n\nC. SOURCE SUBJECT LOCK\n- Subject Classification: Pre-Closing Verification.\n- Core Mechanism: Pausing to complete disciplined verification (EC check, Patta cross-verification, physical boundary check) *before* executing advance payment or shaking hands on a property deal in Coimbatore.\n- Source Evidence Points:\n  1. Conscious intention and verification must precede the physical handshake/deal sign-off.\n  2. Mutual clarity and verified terms before exchange protect both parties from immediate and future risks.\n  3. Disciplined verification habit executed consistently during every transaction prevents long-term asset disputes.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus on physical proof of diligence: cheque pen pause, Encumbrance Certificate tick marks, survey boundary stone measurement, Patta phone check, and verified deal handshake.\n- FORBIDDEN DEFAULT STORY: Do NOT show generic empty plot to house construction to happy family moving in. Every shot must demonstrate active pre-closing verification.\n\nE. CAMERA + IMAGE QUALITY\n- 4K resolution look, natural sunlight, realistic depth of field, sharp macro focus on document details, steady handheld and subtle pan camera movements.\n\nF. EXACT 7-SHOT PLAN\n- Shot 1 (0.0 - 1.4s): Close-up of a pen held deliberately over a cheque leaf on a solid teak desk in a Coimbatore office, pausing mid-air before signing. Text: 'PAUSE ADVANCE'. Tamil VO: 'முன்பணம் கொடுக்கும் முன்,'\n- Shot 2 (1.4 - 2.8s): Macro top-down shot of a hand sliding an index finger along a official Tamil Nadu Encumbrance Certificate document with clear green ink checkmarks. Text: 'CHECK EC FIRST'. Tamil VO: 'தெளிவான ஒப்பந்த...'\n- Shot 3 (2.8 - 4.2s): Low-angle ground shot of yellow surveyor tape pulled taut against a granite boundary stone marked with survey numbers on red soil site. Text: 'VERIFY BOUNDARY'. Tamil VO: 'விதிமுறைகளை சரிபார்ப்பது...'\n- Shot 4 (4.2 - 5.6s): Medium shot of printed Tamil Nadu legal agreement draft on desk, key clauses highlighted clearly. Text: 'READ CLAUSES'. Tamil VO: 'மிகவும் முக்கியம்.'\n- Shot 5 (5.6 - 7.0s): Close-up of hand holding smartphone showing official e-Services Patta verification green status screen. Text: 'PATTA CONFIRMED'. Tamil VO: 'சரியான ஆவண ஆய்வு...'\n- Shot 6 (7.0 - 8.4s): Eye-level shot of two professional individuals executing a calm, solid handshake over the verified documents on desk. Text: 'VERIFIED DEAL'. Tamil VO: 'உங்களை பாதுகாக்கும்.'\n- Shot 7 (8.4 - 10.0s): Static close-up of a closed property folder titled 'Verified Property Records' on desk in soft morning sunlight. Minimal bottom overlay text: 'OliveTree Investors'. Tamil VO: 'தெளிவான முடிவே சிறந்த முதலீடு!'\n\nG. MOTION-GRAPHICS LIMIT\n- Only subtle, crisp white typography text overlays (1-2 words). No dominant graphic transitions or cartoon callouts.\n\nH. FINAL REAL SCENE\n- No separate graphic end card. Ends naturally on Shot 7 with subtle branding overlay.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Ban 3D renderings, cartoon/anime visuals, generic house building sequences, exaggerated motion graphics, fake landmarks, duplicated subjects, blurred sidebars, landscape letterboxing, and unverified ROI numbers.",
+    "title_english": "The 5-Minute Verification Before Shaking Hands on a Coimbatore Property Deal",
+    "caption_english": "Before you hand over a token advance or shake hands on a property deal in Coimbatore, complete your pre-closing due diligence. Verifying the Encumbrance Certificate (EC), cross-checking the digital Patta, and measuring physical boundary stones protect your capital from unforeseen legal friction. A disciplined verification habit before signing ensures long-term peace of mind and asset security. Make verified documentation your non-negotiable step for every real estate investment in Coimbatore. Partner with OliveTree Investors for structured, verified property acquisitions.",
+    "title_tamil": "கோவையில் நிலம் வாங்கும் முன் செய்ய வேண்டிய முக்கிய சரிபார்ப்பு!",
+    "caption_tamil": "கோவையில் சொத்து வாங்குவதற்கு முன்பணம் கொடுக்கும் முன், ஆவணங்களை சரியாக சரிபார்ப்பது அவசியம். வில்லங்க சான்றிதழ் (EC), பட்டா மற்றும் எல்லைக் கற்களை சரிபார்ப்பதன் மூலம் உங்கள் முதலீட்டைப் பாதுகாக்கலாம். தெளிவான ஆய்வுக்கு பின் ஒப்பந்தம் செய்வதே பாதுகாப்பானது. OliveTree Investors உடன் இணைந்து பாதுகாப்பான முதலீடுகளை தேர்வு செய்யுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
