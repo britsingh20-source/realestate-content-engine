@@ -1,4 +1,4 @@
-name: Verify OliveTree Investors YouTube OAuth
+name: Verify YouTube OAuth
 
 on:
   workflow_dispatch:
@@ -11,54 +11,40 @@ permissions:
   contents: read
 
 jobs:
-  verify:
+  verify-investors:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Verify OAuth and connected YouTube channel
+      - name: Verify Investors OAuth
         env:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_OLIVETREE_INVESTORS_REFRESH_TOKEN }}
-          EXPECTED_CHANNEL_ID: UCag2aE2ZsU_9FI77GRlgIDg
         shell: bash
         run: |
           set -euo pipefail
+          TOKEN_JSON=$(curl -sS -X POST https://oauth2.googleapis.com/token -H 'Content-Type: application/x-www-form-urlencoded' --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" --data-urlencode "grant_type=refresh_token")
+          ACCESS_TOKEN=$(printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))")
+          test -n "$ACCESS_TOKEN" || { echo "Investors OAuth token exchange failed."; printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('error','unknown'), d.get('error_description',''))"; exit 1; }
+          MINE_JSON=$(curl -sS -H "Authorization: Bearer ${ACCESS_TOKEN}" 'https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true')
+          printf '%s' "$MINE_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); items=d.get('items',[]); print('CONNECTED_CHANNELS=' + str(len(items))); [print(i.get('snippet',{}).get('title','') + ' (' + i.get('id','') + ')') for i in items]"
+          echo "Investors OAuth verified; no secret values printed."
 
-          if [ -z "${YOUTUBE_CLIENT_ID:-}" ] || [ -z "${YOUTUBE_CLIENT_SECRET:-}" ] || [ -z "${YOUTUBE_REFRESH_TOKEN:-}" ]; then
-            echo "Missing one or more required YouTube OAuth secrets."
-            exit 1
-          fi
-
-          TOKEN_JSON=$(curl -sS -X POST https://oauth2.googleapis.com/token \
-            -H 'Content-Type: application/x-www-form-urlencoded' \
-            --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" \
-            --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
-            --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
-            --data-urlencode "grant_type=refresh_token")
-
-          ACCESS_TOKEN=$(printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('access_token',''))")
-          if [ -z "$ACCESS_TOKEN" ]; then
-            echo "OAuth token exchange failed."
-            printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); print('Error:', d.get('error','unknown')); print('Description:', d.get('error_description',''))"
-            exit 1
-          fi
-
-          echo "OAuth token exchange succeeded."
-
-          TOKENINFO=$(curl -sS "https://oauth2.googleapis.com/tokeninfo?access_token=${ACCESS_TOKEN}")
-          printf '%s' "$TOKENINFO" | python3 -c "import sys,json; d=json.load(sys.stdin); print('GRANTED_SCOPES=' + d.get('scope','')); print('TOKEN_EXPIRES_IN=' + str(d.get('expires_in','')))"
-
-          EXPECTED_JSON=$(curl -sS \
-            -H "Authorization: Bearer ${ACCESS_TOKEN}" \
-            "https://www.googleapis.com/youtube/v3/channels?part=snippet&id=${EXPECTED_CHANNEL_ID}")
-
-          printf '%s' "$EXPECTED_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); err=d.get('error'); print('KNOWN_CHANNEL_API_ERROR=' + (str(err.get('message','')) if err else 'none')); items=d.get('items',[]); print('KNOWN_CHANNEL_VISIBLE=' + ('yes' if items else 'no')); [print('KNOWN_CHANNEL_NAME=' + i.get('snippet',{}).get('title','')) for i in items]"
-
-          MINE_JSON=$(curl -sS \
-            -H "Authorization: Bearer ${ACCESS_TOKEN}" \
-            'https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true')
-
-          printf '%s' "$MINE_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); err=d.get('error'); print('MINE_API_ERROR=' + (str(err.get('message','')) if err else 'none')); items=d.get('items',[]); print('MINE_CHANNEL_COUNT=' + str(len(items))); [print('CONNECTED_CHANNEL_NAME=' + i.get('snippet',{}).get('title','')) or print('CONNECTED_CHANNEL_ID=' + i.get('id','')) for i in items]"
-
-          echo "Diagnostic completed. No secret values were printed."
+  verify-builders:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Verify Builders OAuth
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_OLIVETREE_BUILDERS_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_OLIVETREE_BUILDERS_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_OLIVETREE_BUILDERS_REFRESH_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          TOKEN_JSON=$(curl -sS -X POST https://oauth2.googleapis.com/token -H 'Content-Type: application/x-www-form-urlencoded' --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" --data-urlencode "grant_type=refresh_token")
+          ACCESS_TOKEN=$(printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))")
+          test -n "$ACCESS_TOKEN" || { echo "Builders OAuth token exchange failed."; printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('error','unknown'), d.get('error_description',''))"; exit 1; }
+          MINE_JSON=$(curl -sS -H "Authorization: Bearer ${ACCESS_TOKEN}" 'https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true')
+          printf '%s' "$MINE_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); items=d.get('items',[]); print('CONNECTED_CHANNELS=' + str(len(items))); [print(i.get('snippet',{}).get('title','') + ' (' + i.get('id','') + ')') for i in items]"
+          echo "Builders OAuth verified; no secret values printed."
