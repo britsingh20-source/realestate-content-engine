@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260912-ORTO",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-12T04:47:03.473Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "MFWPG5PIsFk",
+      "title": "The Land Buying Mistake That Can Cost Crores!",
+      "description": "If you're buying land near a river, stream or water body, there are important flood-line and development restrictions you need to understand before making a purchase.\n\nA few metres can make a massive difference to what you can and cannot do with your land.\n\nBefore you buy land, don't just look at the view. Check the restrictions.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-08-26T13:11:21Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 53,
+      "views": 8973,
+      "likes": 249,
+      "comments": 5,
+      "url": "https://www.youtube.com/watch?v=MFWPG5PIsFk",
+      "ageHours": 399.5639483333333,
+      "velocity": 22.456981009994276,
+      "outlier": 0.9586538461538462,
+      "velocityRatio": 1.014464057080406,
+      "engagementRatio": 1.2762890122713693
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 17,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5863
+  },
+  "pack": {
+    "subject_classification": "legal risk",
+    "source_evidence_points": [
+      "Water bodies have mandatory statutory setback/buffer zones where all construction is legally prohibited.",
+      "Relying only on physical site appearance without checking official flood lines and channel maps leads to buying unbuildable land.",
+      "Official PWD/Master Plan maps demarcate restricted buffer lines that override private property boundaries."
+    ],
+    "topic": "Waterbody Setback & Buffer Zone Due Diligence in Coimbatore Property Buying",
+    "source_script_insight": "Scenic waterfront property can become legally useless for construction if statutory buffer zones and flood line restrictions are ignored during pre-purchase due diligence.",
+    "coimbatore_angle": "In Coimbatore, land situated near Noyyal river channels, PWD irrigation tanks, or local natural drainage streams (kulams and canal pathways) is subject to strict state setback laws and DTCP master plan restrictions. Buyers must inspect government survey sketches rather than just ground conditions.",
+    "visual_strategy": "The visuals focus strictly on legal verification physical evidence: official survey maps, measuring tapes near natural drainage channels, PWD setback drawings, and DTCP master plan documents. This avoids standard decorative house or plot clips, grounding the video entirely in statutory compliance evidence.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Always verify official PWD channel maps and DTCP master plan setback lines before purchasing property near any Coimbatore water body.",
+    "voiceover_tamil": "நீர்நிலை அருகே நிலம் வாங்குகிறீர்களா? சட்டப்பூர்வ ஃபஃபர் மண்டல விதிகளை கவனிக்காவிட்டால், அங்கு கட்டடம் கட்ட முடியாது! வெறும் இடத்தை மட்டும் பார்க்காமல், அரசு வரைபடங்களைச் சரிபார்க்கவும். பாதுகாப்பான முதலீட்டிற்கு ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Scenic waterfront property can mask non-buildable legal restrictions.",
+        "purpose": "Hook viewer with immediate tension between attractive visual site conditions and hidden boundary restrictions.",
+        "visual": "Macro tilt shot of an official survey document unrolling over a real field desk, showing a natural stream line drawn in blue next to plot boundaries.",
+        "on_screen_text": "Waterfront Land?",
+        "voiceover_tamil": "நீர்நிலை அருகே நிலம் வாங்குகிறீர்களா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Water bodies have mandatory statutory setback/buffer zones where all construction is legally prohibited.",
+        "purpose": "Introduce the legal setback rule visually using authentic document markers.",
+        "visual": "Extreme close-up finger tracing a red highlighted statutory buffer line on a Coimbatore PWD drainage alignment map.",
+        "on_screen_text": "Buffer Zone Rule",
+        "voiceover_tamil": "சட்டப்பூர்வ ஃபஃபர் மண்டல விதிகளை"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Relying only on physical site appearance without checking official flood lines leads to unbuildable land.",
+        "purpose": "Demonstrate the spatial risk at a physical site location in Coimbatore.",
+        "visual": "Low-angle eye-level shot of a yellow measuring tape extended along the ground from a natural roadside channel bank toward lush plot grass.",
+        "on_screen_text": "No Construction Zone",
+        "voiceover_tamil": "கவனிக்காவிட்டால்,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Official PWD/Master Plan maps demarcate restricted buffer lines that override private property boundaries.",
+        "purpose": "Show the hard consequence of statutory restrictions on building approval.",
+        "visual": "Top-down view of a land survey sheet overlaid with a rejected setback clearance stamp mark in red ink.",
+        "on_screen_text": "Permit Denied",
+        "voiceover_tamil": "அங்கு கட்டடம் கட்ட முடியாது!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Visual site inspection alone is insufficient to identify non-buildable buffer zones.",
+        "purpose": "Show practical field verification context in a real Coimbatore suburban setting.",
+        "visual": "Medium shot of an investor in smart casual attire holding a site plan map next to a natural drainage culvert along a Coimbatore bypass road.",
+        "on_screen_text": "Check Official Maps",
+        "voiceover_tamil": "வெறும் இடத்தை மட்டும் பார்க்காமல்,"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Checking master plan blueprints prevents acquiring legally unbuildable parcels.",
+        "purpose": "Illustrate correct due-diligence action using verified DTCP/LPA layout approval paperwork.",
+        "visual": "Close-up of high-precision DTCP blueprint map being checked with a ruler showing full compliance setback distance.",
+        "on_screen_text": "Verify Setbacks",
+        "voiceover_tamil": "அரசு வரைபடங்களைச் சரிபார்க்கவும்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Proper due diligence guarantees clear-title, legally buildable land investments.",
+        "purpose": "Deliver clear subject payoff with minimal brand trust visual.",
+        "visual": "Clean eye-level shot of verified, legally compliant plot survey stone with crisp sunlight, featuring subtle logo overlay.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "பாதுகாப்பான முதலீட்டிற்கு ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Exact duration: 10.0 seconds total.\n- Aspect ratio: Native portrait 9:16 vertical video frame filling 100% of the canvas.\n- Frame rate: 30 fps, continuous photorealistic camera motion.\n- Target Audience & Location: Coimbatore, Tamil Nadu ONLY for OliveTree Investors.\n\nB. REALISM LOCK\n- Absolute photorealism requirement. Captured on 35mm cinema lens, realistic dynamic range, soft natural sunlight exposure, authentic South Indian environmental textures.\n- Zero CGI, zero 3D architectural renders, zero cartoon graphics, zero animated explainers.\n- Natural soil, authentic red clay soil textures, real Coimbatore coconut palm backdrops, authentic Tamil Nadu government layout maps and survey blueprints.\n\nC. SOURCE SUBJECT LOCK\n- Primary Subject: Legal Risk & Statutory Setback Rules (Waterbody Buffer Zones).\n- Core Evidence Points: Statutory buffer zones prohibit building near water bodies; physical visual verification of land is insufficient; government PWD and DTCP alignment maps dictate buildable area.\n- Application: Specific to property buyers in Coimbatore evaluating plots near Noyyal channels, roadside culverts, and PWD irrigation tanks.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus exclusively on the physical evidence of legal compliance: paper survey blueprints, field measuring tools, statutory marking stones, and actual stream bank boundaries.\n- FORBIDDEN DEFAULT STORY: Do NOT show generic empty plots, CGI house assembly, completed villas, moving families, construction workers, or generic happy investors.\n\nE. CAMERA + IMAGE QUALITY\n- Handheld physical feel with subtle optical stabilization.\n- Crisp optical focus on document ink, paper textures, survey marks, and natural landscape lighting.\n- Color Palette: Earthy greens, warm Tamil Nadu sunshine, true paper off-whites, crisp crimson red line accents on technical drawings.\n\nF. EXACT 7-SHOT PLAN\n\n- Shot 1 (0.0s - 1.4s):\n  - Location: Real property field setting near suburban Coimbatore.\n  - Subject: An official government land survey map unrolling over a wooden clipboard on a site table.\n  - Framing: High-angle macro tilt down.\n  - Details: Crisp line art on blueprint paper depicting a water channel alongside plot numbers.\n  - Text Overlay: 'Waterfront Land?' (minimal white sans-serif, top center).\n  - Tamil VO: 'நீர்நிலை அருகே நிலம் வாங்குகிறீர்களா?'\n\n- Shot 2 (1.4s - 2.8s):\n  - Location: Office desk environment with natural window side-lighting.\n  - Subject: Close-up of a hand using a red marker to trace a 15-meter statutory setback line on a local PWD drainage layout blueprint.\n  - Framing: Macro extreme close-up on paper texture.\n  - Text Overlay: 'Buffer Zone Rule'\n  - Tamil VO: 'சட்டப்பூர்வ ஃபஃபர் மண்டல விதிகளை'\n\n- Shot 3 (2.8s - 4.2s):\n  - Location: Agricultural fringe near Coimbatore bypass road.\n  - Subject: Ground-level tracking shot along a extended yellow professional survey tape stretching from a small stream bank into lush green land.\n  - Framing: Low-angle linear tracking shot.\n  - Text Overlay: 'No Construction Zone'\n  - Tamil VO: 'கவனிக்காவிட்டால்,'\n\n- Shot 4 (4.2s - 5.6s):\n  - Location: Legal review table environment.\n  - Subject: Top-down view of a local municipal master plan document with a clear red setback restriction boundary overlay.\n  - Framing: Direct overhead static shot.\n  - Text Overlay: 'Permit Denied'\n  - Tamil VO: 'அங்கு கட்டடம் கட்ட முடியாது!'\n\n- Shot 5 (5.6s - 7.0s):\n  - Location: Suburban Coimbatore open land with distant Coconut trees.\n  - Subject: Real estate buyer standing near a roadside PWD channel wall, comparing physical ground boundaries with a folded layout plan.\n  - Framing: Eye-level medium shot.\n  - Text Overlay: 'Check Official Maps'\n  - Tamil VO: 'வெறும் இடத்தை மட்டும் பார்க்காமல்,'\n\n- Shot 6 (7.0s - 8.5s):\n  - Location: Document inspection setting.\n  - Subject: Precision scale ruler measuring valid building setback distances on a certified DTCP layout plan.\n  - Framing: Close-up focus pull from ruler edge to official approval seal.\n  - Text Overlay: 'Verify Setbacks'\n  - Tamil VO: 'அரசு வரைபடங்களைச் சரிபார்க்கவும்.'\n\n- Shot 7 (8.5s - 10.0s):\n  - Location: Verified DTCP approved layout plot in Coimbatore.\n  - Subject: Clean yellow survey stone firmly planted in soil with clear site boundaries in background bathed in golden afternoon light.\n  - Framing: Ground-level steady shot.\n  - Text Overlay: 'OliveTree Investors' (bottom center, elegant clean typography).\n  - Tamil VO: 'பாதுகாப்பான முதலீட்டிற்கு ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்!'\n\nG. MOTION-GRAPHICS LIMIT\n- Only subtle text overlays (1-3 words) directly rendered over real footage. No full-screen motion graphics or animated vector charts.\n\nH. FINAL REAL SCENE\n- Concludes directly on Scene 7 real-world plot mark under warm sun with subtle OliveTree Investors text overlay. No synthetic end card.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Strict prohibition: 2D/3D animation, explainers, architectural render visualizers, plastic surfaces, fake city skylines, floating text boxes, camera whip-pans, generic stock family scenes,Chennai/Bengaluru references, exaggerated financial charts, camera crew reflections.",
+    "title_english": "The Land Buying Mistake Near Water Bodies in Coimbatore",
+    "caption_english": "Buying land near a stream or PWD water channel in Coimbatore looks scenic, but statutory buffer zones can make the plot legally unbuildable. Master plan regulations and local drainage setback rules prohibit structural construction within designated buffer corridors. Never rely solely on visual site inspections or verbal promises. Always verify official PWD channel alignment drawings and DTCP layout approvals before making an advance payment. Ensure your land investment is 100% buildable and legally secure with OliveTree Investors.",
+    "title_tamil": "நீர்நிலை அருகே நிலம் வாங்கும் போது இதைக் கவனியுங்கள்!",
+    "caption_tamil": "கோவையில் குளம், கால்வாய் அல்லது நீர்நிலைகளின் அருகே நிலம் வாங்குவதற்கு முன் சட்டப்பூர்வ ஃபஃபர் மண்டல விதிகளை சரிபார்ப்பது அவசியம். அரசு வரைபடங்களில் குறிப்பிடப்பட்டுள்ள தூரம் வரை கட்டடம் கட்ட அனுமதி கிடைக்காது. வெறும் இடத்தை மட்டும் பார்க்காமல், PWD மற்றும் DTCP வரைபடங்களைச் சரிபார்த்துப் பாதுகாப்பாக முதலீடு செய்யுங்கள். உங்கள் பாதுகாப்பான முதலீட்டிற்கு ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyDueDiligence",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
