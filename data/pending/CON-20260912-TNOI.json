@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260912-TNOI",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-12T11:40:39.673Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "gyFtcDVkxSQ",
+      "title": "Amazing Duct Sheet designing techniques #ducting #construction #shorts",
+      "description": "Duct insulation working skill #trending #job #workers",
+      "publishedAt": "2026-07-30T08:35:37Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 34,
+      "views": 1193,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=gyFtcDVkxSQ",
+      "ageHours": 1058.9569216666666,
+      "velocity": 1.1265802938634806,
+      "outlier": 5.209606986899563,
+      "velocityRatio": 1.1265802938634806,
+      "engagementRatio": 0.17424816137961546
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 37,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3141,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.7-flash"
+  },
+  "pack": {
+    "topic": "Roof Sheet Cross-Break Stiffening for Wind Resistance",
+    "source_script_insight": "Cross-break creasing (X-shaped diagonal stiffening lines) formed manually across thin-gauge sheet metal panels prevents oil-canning (flexing/drumming) and provides structural rigidity without adding weight.",
+    "coimbatore_angle": "Coimbatore experiences high wind velocities (especially during Aadi wind season), causing flat metal sheet roofing and utility cladding on residential terraces to rattle, flex, and drum loudly if un-stiffened.",
+    "core_takeaway": "Cross-break diagonal creasing on flat metal sheets stops wind vibration and drumming noise on Coimbatore residential roofs.",
+    "voiceover_tamil": "கோவை காற்றில் roof sheet சத்தம் போடுதா? பிளாட் ஷீட் காற்றில் வளையும்! 'X' வடிவில் cross-break மடிப்பு தேவை! டூல் மூலம் X-மடிப்பு செய்கிறோம். இதனால் structural strength அதிகரிக்கும்! ஷீட் flex ஆகாது, சத்தமும் வராது! தரமான roofing-க்கு OliveTree Builders!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Local Coimbatore visual hook - loose flat sheet vibrating in wind",
+        "visual": "Close-up shot of a flat thin-gauge Galvanized Iron (GI) utility roofing sheet flexing and vibrating on a residential terrace during a breezy day in Coimbatore.",
+        "camera": "Eye-level steady handheld, slight zoom in on flexing metal edge.",
+        "on_screen_text": "Roof Sheet Noise?",
+        "voiceover_tamil": "கோவை காற்றில் roof sheet சத்தம் போடுதா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Demonstrate failure mechanism (oil-canning / flexing)",
+        "visual": "Hand pushing gently on the middle of a flat metal sheet, showing dramatic oil-canning wobble and popping motion due to lack of ribbing.",
+        "camera": "Top-down 45-degree angle, sharp focus on sheet center movement.",
+        "on_screen_text": "Flat Sheet Flexes",
+        "voiceover_tamil": "பிளாட் ஷீட் காற்றில் வளையும்!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Introduce the cross-break solution pattern",
+        "visual": "Construction worker using a straight edge and marker to trace diagonal corner-to-corner 'X' lines on a flat GI panel on site.",
+        "camera": "Medium close-up, panning smoothly along the diagonal line.",
+        "on_screen_text": "X-Cross Breaking",
+        "voiceover_tamil": "'X' வடிவில் cross-break மடிப்பு தேவை!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Show physical cross-break creasing process",
+        "visual": "Close-up of mason using a manual hand-forming tool/dolly to press a crisp diagonal stiffening crease along the marked 'X' line on sheet metal.",
+        "camera": "Low-angle micro close-up of metallic seam tool creasing the galvanized sheet.",
+        "on_screen_text": "Stiffening Crease",
+        "voiceover_tamil": "டூல் மூலம் X-மடிப்பு செய்கிறோம்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Demonstrate physical rigidity after creasing",
+        "visual": "A gloved hand pressing firmly on the center of the cross-creased panel; the sheet remains rigid with zero flexing or drumming movement.",
+        "camera": "Close-up at 30-degree angle, crisp lighting highlighting the sharp X-crease geometry.",
+        "on_screen_text": "High Rigidity",
+        "voiceover_tamil": "இதனால் structural strength அதிகரிக்கும்!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Show installed result in real home application",
+        "visual": "Exterior low-angle view of cross-break stiffened cladding sheets neatly installed over a residential terrace utility shade structure, completely still in strong wind.",
+        "camera": "Low-angle upward pan along clean installed metal cladding panels under bright Tamil Nadu sun.",
+        "on_screen_text": "No Wind Vibration",
+        "voiceover_tamil": "ஷீட் flex ஆகாது, சத்தமும் வராது!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Brand payoff and practical takeaway",
+        "visual": "Wide angle of a beautifully finished modern Coimbatore residential terrace home with sturdy utility roof structure, with clean branding graphic overlay.",
+        "camera": "Smooth upward drone/gimbal push-in towards completed house exterior.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "தரமான roofing-க்கு OliveTree Builders!"
+      }
+    ],
+    "gemini_video_prompt": "OliveTree Builders video concept. Target Location: COIMBATORE ONLY. Total Duration: EXACTLY 10 SECONDS. Exactly 7 Scenes. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE. Format: Vertical 9:16 portrait native layout. Must look 90%+ like real smartphone/gimbal video shot on an actual Coimbatore construction site with natural daylight, authentic dust, red brick context, real workers, and galvanised sheet metal materials.\n\nSCENE BREAKDOWN (10 SECONDS TOTAL):\n- SCENE 1 (0.0 - 1.4s): Close-up of a flat galvanised iron sheet on an outdoor residential terrace structure in Coimbatore flexing violently in high wind. Visual text overlay: 'Roof Sheet Noise?'. Voiceover: 'கோவை காற்றில் roof sheet சத்தம் போடுதா?'\n- SCENE 2 (1.4 - 2.8s): 45-degree close-up shot of a worker pushing down on the center of an un-stiffened sheet metal panel, causing oil-canning drumming and popping wobble. Visual text overlay: 'Flat Sheet Flexes'. Voiceover: 'பிளாட் ஷீட் காற்றில் வளையும்!'\n- SCENE 3 (2.8 - 4.2s): Medium shot on site showing a craftsman tracing neat diagonal 'X' cross lines across a flat galvanized sheet metal panel. Visual text overlay: 'X-Cross Breaking'. Voiceover: ''X' வடிவில் cross-break மடிப்பு தேவை!'\n- SCENE 4 (4.2 - 5.6s): Extreme close-up of a worker using a hand creasing dolly tool to press a sharp diagonal structural rib fold into the metal sheet. Metallic reflection in bright daylight. Visual text overlay: 'Stiffening Crease'. Voiceover: 'டூல் மூலம் X-மடிப்பு செய்கிறோம்.'\n- SCENE 5 (5.6 - 7.0s): Close-up of hand pressing heavily on the center of the X-creased panel—it stays rock solid without flexing or drumming sound. Visual text overlay: 'High Rigidity'. Voiceover: 'இதனால் structural strength அதிகரிக்கும்!'\n- SCENE 6 (7.0 - 8.5s): Low-angle tracking shot of cross-creased sheet metal panels installed cleanly as cladding on a terrace shade structure of a Coimbatore home, remaining totally rigid in strong wind. Visual text overlay: 'No Wind Vibration'. Voiceover: 'ஷீட் flex ஆகாது, சத்தமும் வராது!'\n- SCENE 7 (8.5 - 10.0s): High-quality real-world shot of a finished modern residential terrace in Coimbatore built by OliveTree Builders, with clean subtle text overlay: 'OliveTree Builders'. Voiceover: 'தரமான roofing-க்கு OliveTree Builders!'\n\nCONTINUITY & STYLE RULES:\n- Subject lock: Keep exact physical material (sheet metal cladding / utility sheet roof stiffening) consistent through all scenes.\n- Text Overlays: Small, transparent 1-3 word graphics anchored near lower third. Never obstruct main visual action.\n- Realism: Natural sunlight, real metallic textures, concrete terrace textures, real site hand tools, authentic South Indian construction site environment.\n\nNEGATIVE PROMPT: NO cartoon, NO 2D explainer animation, NO plastic glossy CGI, NO floating graphics, NO full-screen logo cards, NO fake futuristic landmarks, NO presenter face speaking directly to camera, NO landscape aspect ratio, NO black side bars.",
+    "title_english": "Stop Sheet Roof Noise in Coimbatore Winds: The X-Crease Secret",
+    "caption_english": "High wind gusts during Coimbatore monsoon and Aadi seasons often cause flat metal sheet roofs and terrace shade panels to rattle and drum loudly. This vibration, known as oil-canning, occurs when flat metal sheets lack structural stiffening. By applying diagonal cross-break creasing (X-ribbing) during panel fabrication, sheet rigidity increases dramatically without adding heavy steel frames. This practical technique keeps your utility roofing and metal cladding rigid, quiet, and wind-resistant. Contact OliveTree Builders in Coimbatore for durable, engineered home construction!",
+    "title_tamil": "கோவை காற்றில் Sheet Roof சத்தம் வருகிறதா?",
+    "caption_tamil": "கோவையின் பலத்த காற்றில் உங்கள் வீட்டு மொட்டை மாடி roof sheet சத்தம் போடுகிறதா? தட்டையான sheet metal வளைந்து ஆடுவதே இதற்குக் காரணம். X-வடிவ cross-break மடிப்புகளை (ribbing) அமைக்கும் போது sheet-ன் விறைப்புத்தன்மை அதிகரிக்கும்; காற்றினால் ஏற்படும் vibration மற்றும் சத்தம் முற்றிலும் தடுக்கப்படும். தரமான வீடுகளுக்கு OliveTree Builders-ஐத் தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreConstruction",
+      "#OliveTreeBuilders",
+      "#RoofingTips"
+    ]
+  }
+}
