@@ -1,22 +1,22 @@
 {
-  "scannedAt": "2026-09-11T23:15:19.732Z",
+  "scannedAt": "2026-09-12T04:32:42.583Z",
   "niche": "buyer_education",
   "skippedCreators": [
     {
       "creator": "Realty by Rahul / Rahul Jakhar",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_unit\": \"1/d/{project}\",\n          \"consumer\": \"projects/9212714057\",\n          \"window_start_time\": \"1789110000\",\n          \"quota_limit_value\": \"100\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"quota_location\": \"global\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit_value\": \"100\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"window_start_time\": \"1789110000\",\n          \"quota_location\": \"global\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_unit\": \"1/d/{project}\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     },
     {
       "creator": "Priyam Saraswat",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/9212714057\",\n          \"window_start_time\": \"1789110000\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"quota_limit_value\": \"100\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_limit_value\": \"100\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"window_start_time\": \"1789110000\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     },
     {
       "creator": "Buildofy",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_location\": \"global\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"window_start_time\": \"1789110000\",\n          \"quota_limit_value\": \"100\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_unit\": \"1/d/{project}\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_limit_value\": \"100\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"window_start_time\": \"1789110000\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     },
     {
       "creator": "Vishal Bhargava",
-      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_location\": \"global\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\",\n          \"service\": \"youtube.googleapis.com\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"window_start_time\": \"1789110000\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"service\": \"youtube.googleapis.com\",\n          \"window_start_time\": \"1789110000\",\n          \"quota_location\": \"global\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     }
   ],
   "creators": [
@@ -32,9 +32,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 9344,
-        "velocity": 22.389149357899647,
-        "engagement": 0.022667277211839046
+        "views": 9360,
+        "velocity": 22.147719828507505,
+        "engagement": 0.022615857860501486
       },
       "videoCount": 7
     }
@@ -52,15 +52,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 79,
-        "views": 615190,
-        "likes": 12105,
+        "views": 615641,
+        "likes": 12108,
         "comments": 519,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 537.7382588888889,
-        "velocity": 1144.0324169441599,
-        "outlier": 65.83797089041096,
-        "velocityRatio": 51.097627634544615,
-        "engagementRatio": 0.94250982184128
+        "ageHours": 543.0279394444444,
+        "velocity": 1133.7188296974991,
+        "outlier": 65.77361111111111,
+        "velocityRatio": 51.18896385162998,
+        "engagementRatio": 0.9441761524476753
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -79,19 +79,19 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 82,
-        "views": 999,
-        "likes": 34,
-        "comments": 1,
+        "views": 1261,
+        "likes": 37,
+        "comments": 2,
         "url": "https://www.youtube.com/watch?v=Oh1LE-8VokY",
-        "ageHours": 10.02687,
-        "velocity": 99.63228804203105,
-        "outlier": 0.10691352739726027,
-        "velocityRatio": 4.450025610592365,
-        "engagementRatio": 1.5897822971527666
+        "ageHours": 15.316550555555555,
+        "velocity": 82.32924217669985,
+        "outlier": 0.13472222222222222,
+        "velocityRatio": 3.7172784744517817,
+        "engagementRatio": 1.4376583932943792
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 40,
+      "viralScore": 35,
       "priority": "candidate"
     },
     {
@@ -106,15 +106,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 52,
-        "views": 20504,
+        "views": 20518,
         "likes": 436,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 418.24631444444447,
-        "velocity": 49.02374340640733,
-        "outlier": 2.194349315068493,
-        "velocityRatio": 2.189620633760706,
-        "engagementRatio": 1.049982045846799
+        "ageHours": 423.535995,
+        "velocity": 48.44452476819591,
+        "outlier": 2.1920940170940173,
+        "velocityRatio": 2.1873368971301685,
+        "engagementRatio": 1.0516512213722815
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -133,15 +133,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 53,
-        "views": 8944,
-        "likes": 248,
+        "views": 8973,
+        "likes": 249,
         "comments": 5,
         "url": "https://www.youtube.com/watch?v=MFWPG5PIsFk",
-        "ageHours": 394.06631444444446,
-        "velocity": 22.69668751719941,
-        "outlier": 0.9571917808219178,
-        "velocityRatio": 1.0137360358977308,
-        "engagementRatio": 1.272590156134306
+        "ageHours": 399.355995,
+        "velocity": 22.46867484736269,
+        "outlier": 0.9586538461538462,
+        "velocityRatio": 1.0144915603655986,
+        "engagementRatio": 1.2762890122713693
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -160,15 +160,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 76,
-        "views": 9744,
+        "views": 9747,
         "likes": 228,
         "comments": 2,
         "url": "https://www.youtube.com/watch?v=5cxb3Ekazfk",
-        "ageHours": 441.2721477777778,
-        "velocity": 22.081611198599884,
-        "outlier": 1.042808219178082,
-        "velocityRatio": 0.9862639641022694,
-        "engagementRatio": 1.0503918749045065
+        "ageHours": 446.5618283333333,
+        "velocity": 21.82676480965232,
+        "outlier": 1.041346153846154,
+        "velocityRatio": 0.9855084396344013,
+        "engagementRatio": 1.0524560109178238
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -187,15 +187,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 41,
-        "views": 1486,
+        "views": 1492,
         "likes": 28,
         "comments": 2,
         "url": "https://www.youtube.com/watch?v=sMMWnFhSOTU",
-        "ageHours": 225.75381444444446,
-        "velocity": 6.58239154743358,
-        "outlier": 0.15903253424657535,
-        "velocityRatio": 0.2939991797906824,
-        "engagementRatio": 0.950017954153201
+        "ageHours": 231.043495,
+        "velocity": 6.457658546067267,
+        "outlier": 0.1594017094017094,
+        "velocityRatio": 0.2915721616522922,
+        "engagementRatio": 0.9483487786277183
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -214,15 +214,15 @@
         "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
         "channelTitle": "Real Estate With Mayank",
         "durationSeconds": 61,
-        "views": 2011,
+        "views": 2012,
         "likes": 29,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=KRVQAl2mTJY",
-        "ageHours": 922.7460366666667,
-        "velocity": 2.179364548954931,
-        "outlier": 0.2152183219178082,
-        "velocityRatio": 0.09734021217675148,
-        "engagementRatio": 0.6361896089675231
+        "ageHours": 928.0357172222223,
+        "velocity": 2.1680200046850326,
+        "outlier": 0.21495726495726497,
+        "velocityRatio": 0.09788908390896561,
+        "engagementRatio": 0.6373191313628248
       },
       "confirmations": 0,
       "peerMatches": [],
