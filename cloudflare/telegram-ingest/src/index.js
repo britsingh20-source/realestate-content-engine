@@ -28,6 +28,14 @@ export default {
 
     if (!attachment) {
       if (!explicit) return new Response('ok');
+      const validation = await validateContentId(env, explicit);
+      if (!validation.ok) {
+        await telegram(env, 'sendMessage', {
+          chat_id: chatId,
+          text: `⚠️ ${explicit} cannot be used: ${validation.reason}`,
+        });
+        return new Response('ok');
+      }
       await env.PAIRING_STATE.put(`pending-id:${chatId}`, explicit, { expirationTtl: 900 });
       await telegram(env, 'sendMessage', {
         chat_id: chatId,
@@ -41,6 +49,16 @@ export default {
       await telegram(env, 'sendMessage', {
         chat_id: chatId,
         text: '⚠️ I received the video but could not find its VIDEO ID. Send the exact ID (for example INV-20260911-AB12) and then resend the MP4 within 15 minutes.',
+      });
+      return new Response('ok');
+    }
+
+    const validation = await validateContentId(env, contentId);
+    if (!validation.ok) {
+      await env.PAIRING_STATE.delete(`pending-id:${chatId}`);
+      await telegram(env, 'sendMessage', {
+        chat_id: chatId,
+        text: `⚠️ ${contentId} cannot be published: ${validation.reason}`,
       });
       return new Response('ok');
     }
@@ -107,4 +125,30 @@ async function telegram(env, method, body) {
     body: JSON.stringify(body),
   });
   if (!response.ok) throw new Error(`Telegram ${method} failed: ${response.status}`);
+}
+
+async function validateContentId(env, contentId) {
+  const response = await fetch(
+    `https://api.github.com/repos/${env.GITHUB_REPOSITORY}/contents/data/pending/${encodeURIComponent(contentId)}.json`,
+    {
+      headers: {
+        'Authorization': `Bearer ${env.GITHUB_DISPATCH_TOKEN}`,
+        'Accept': 'application/vnd.github.raw+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+        'User-Agent': 'olivetree-content-telegram-worker',
+      },
+    },
+  );
+  if (response.status === 404) return { ok: false, reason: 'no matching pending content record exists' };
+  if (!response.ok) {
+    console.error(JSON.stringify({ event: 'content_validation_failed', content_id: contentId, status: response.status }));
+    return { ok: false, reason: `content validation failed (GitHub ${response.status}); please retry shortly` };
+  }
+  let record;
+  try { record = await response.json(); }
+  catch { return { ok: false, reason: 'the content record is invalid' }; }
+  if (record.status === 'published') return { ok: false, reason: 'this VIDEO ID was already published' };
+  if (record.status === 'superseded') return { ok: false, reason: 'this is a retired duplicate VIDEO ID' };
+  if (record.status !== 'awaiting_video') return { ok: false, reason: `content status is ${record.status || 'unknown'}` };
+  return { ok: true, record };
 }
