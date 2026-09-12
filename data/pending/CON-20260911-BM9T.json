@@ -127,5 +127,15 @@
       "#CoimbatoreConstruction",
       "#PlinthBeam"
     ]
-  }
+  },
+  "publishResult": {
+    "youtube": {
+      "error": "YouTube token 401: {\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}"
+    },
+    "stagedVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/construction/CON-20260911-BM9T.mp4",
+    "instagram": {
+      "error": "Instagram create 400: {\"error\":{\"message\":\"Unsupported post request. Object with ID '1331298210072237' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"Ak0M7VD_ThhW0eodjLDP0vC\"}}"
+    }
+  },
+  "updatedAt": "2026-09-12T04:56:55.052Z"
 }
