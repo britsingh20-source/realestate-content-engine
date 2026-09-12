@@ -1,0 +1,49 @@
+name: Verify Instagram Credentials
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/verify-instagram.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - brand: Builders
+            user_id_secret: INSTAGRAM_OLIVETREE_BUILDERS_USER_ID
+            token_secret: INSTAGRAM_OLIVETREE_BUILDERS_ACCESS_TOKEN
+          - brand: Investors
+            user_id_secret: INSTAGRAM_OLIVETREE_INVESTORS_USER_ID
+            token_secret: INSTAGRAM_OLIVETREE_INVESTORS_ACCESS_TOKEN
+          - brand: SafeBuy
+            user_id_secret: INSTAGRAM_OLIVETREE_SAFEBUY_USER_ID
+            token_secret: INSTAGRAM_OLIVETREE_SAFEBUY_ACCESS_TOKEN
+    steps:
+      - name: Verify Instagram identity and publishing access
+        env:
+          BRAND: ${{ matrix.brand }}
+          IG_USER_ID: ${{ secrets[matrix.user_id_secret] }}
+          IG_ACCESS_TOKEN: ${{ secrets[matrix.token_secret] }}
+          GRAPH_VERSION: ${{ secrets.META_GRAPH_VERSION }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$IG_USER_ID" || { echo "$BRAND Instagram user ID is missing"; exit 1; }
+          test -n "$IG_ACCESS_TOKEN" || { echo "$BRAND Instagram access token is missing"; exit 1; }
+          VERSION="${GRAPH_VERSION:-v26.0}"
+          PROFILE=$(curl -sS -G "https://graph.facebook.com/${VERSION}/${IG_USER_ID}" --data-urlencode "fields=id,username" --data-urlencode "access_token=${IG_ACCESS_TOKEN}")
+          ERROR=$(printf '%s' "$PROFILE" | python3 -c "import sys,json; print(json.load(sys.stdin).get('error',{}).get('message',''))")
+          test -z "$ERROR" || { echo "$BRAND Instagram credential failed: $ERROR"; exit 1; }
+          printf '%s' "$PROFILE" | python3 -c "import sys,json; d=json.load(sys.stdin); print('INSTAGRAM_ID=' + d.get('id','')); print('INSTAGRAM_USERNAME=' + d.get('username',''))"
+          LIMIT=$(curl -sS -G "https://graph.facebook.com/${VERSION}/${IG_USER_ID}/content_publishing_limit" --data-urlencode "fields=config,quota_usage" --data-urlencode "access_token=${IG_ACCESS_TOKEN}")
+          LIMIT_ERROR=$(printf '%s' "$LIMIT" | python3 -c "import sys,json; print(json.load(sys.stdin).get('error',{}).get('message',''))")
+          test -z "$LIMIT_ERROR" || { echo "$BRAND publishing permission failed: $LIMIT_ERROR"; exit 1; }
+          echo "$BRAND Instagram publishing credential verified."
