@@ -4,10 +4,14 @@ function required(name) {
   return v;
 }
 
+function brandCredential(prefix, suffix, fallbackName) {
+  return process.env[`${prefix}_${suffix}`] || required(fallbackName);
+}
+
 async function accessToken(prefix) {
   const body = new URLSearchParams({
-    client_id: required('YOUTUBE_CLIENT_ID'),
-    client_secret: required('YOUTUBE_CLIENT_SECRET'),
+    client_id: brandCredential(prefix, 'CLIENT_ID', 'YOUTUBE_CLIENT_ID'),
+    client_secret: brandCredential(prefix, 'CLIENT_SECRET', 'YOUTUBE_CLIENT_SECRET'),
     refresh_token: required(`${prefix}_REFRESH_TOKEN`),
     grant_type: 'refresh_token'
   });
