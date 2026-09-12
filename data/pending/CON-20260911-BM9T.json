@@ -4,7 +4,7 @@
   "label": "CONSTRUCTION KNOWLEDGE",
   "brand": "olivetree_builders",
   "brandLabel": "OliveTree Builders",
-  "status": "superseded",
+  "status": "awaiting_video",
   "createdAt": "2026-09-11T18:14:29.928Z",
   "candidate": {
     "niche": "construction",
@@ -118,16 +118,14 @@
       }
     ],
     "gemini_video_prompt": "Create a highly realistic, production-grade 10-second video for OliveTree Builders, focused strictly on Coimbatore residential construction. The video must consist of exactly 7 scenes, formatted in a native 9:16 portrait ratio. The entire video must look like photorealistic live-action smartphone or gimbal footage captured on active construction sites in Tamil Nadu. No 3D animations, cartoon explainers, or flat vector graphics are allowed. Motion graphics are strictly limited to simple, clean text overlays. \n\nScene 1 (0.0-1.4s): Close-up of a diagonal structural crack in interior wall plaster spreading from the top corner of a wooden door frame. Natural morning light casting soft shadows. Text overlay: 'CRACKS ABOVE DOORS?'. VO: 'கதவு மேல் விரிசல் வரக்கூடாதா?'\nScene 2 (1.4-2.8s): Low-angle shot of a freshly cast concrete plinth beam at ground level. Wet concrete texture, wooden shuttering boards, and local red soil visible. Text overlay: 'PLINTH AT BOTTOM'. VO: 'கீழே பிளின்த்,'\nScene 3 (2.8-4.2s): Eye-level shot tilting up to a solid concrete lintel beam cast directly over a door frame opening with red clay bricks above it. Text overlay: 'LINTEL AT TOP'. VO: 'மேலே லிண்டல்!'\nScene 4 (4.2-5.6s): Medium shot of a construction worker in Coimbatore tying steel stirrups on a vertical column rebar cage that connects the lower plinth level to the upper lintel level. Text overlay: 'TIED BY COLUMNS'. VO: 'இரண்டும் இணைந்தால் தான் பலம்!'\nScene 5 (5.6-7.0s): Close-up of the cured concrete surface of the plinth beam, showing strong aggregate distribution resisting soil movement. Text overlay: 'STOPS SETTLEMENT'. VO: 'அடித்தளம் இறங்குவதை'\nScene 6 (7.0-8.5s): Close-up of the lintel beam cleanly transferring the weight of the heavy red brick wall above it away from the door frame below. Text overlay: 'HOLDS WALL LOAD'. VO: 'தடுத்து, சுவரை தாங்கும்!'\nScene 7 (8.5-10.0s): Wide shot of a structurally sound, newly framed house under bright Coimbatore sunlight, with coconut palms in the background. Text overlay: 'BUILD WITH OLIVETREE'. VO: 'ஆலிவ்ட்ரீ பில்டர்ஸ்!'\n\nEnsure visual continuity across all scenes with consistent daylight, realistic local Coimbatore red clay bricks, and standard Indian site conditions. \n\nNEGATIVE PROMPT: Do not include any 3D CAD models, cartoon animations, flat vector graphics, white background infographics, glossy corporate motion graphics, game-like 3D renders, plastic CGI, floating documents, or impossible camera movements. No generic stock footage from outside India. No text outside the specified overlays.",
-    "title_english": "Why You Need Both Plinth & Lintel Beams",
-    "caption_english": "Ever noticed cracks appearing right above your doors or windows? This happens when the structural load isn't distributed correctly. Just like an engine needs both a crankshaft at the bottom and a camshaft at the top to run smoothly, your home needs a Plinth Beam at the foundation level and a Lintel Beam above openings. Tied together by vertical columns, they prevent soil settlement and protect your walls from cracking. In Coimbatore's diverse soil conditions, skipping either is a major risk. Build your home with structural integrity. Contact OliveTree Builders today to plan your strong, crack-free home!",
+    "title_english": "Plinth Beam vs Lintel Beam: Know the Difference",
+    "caption_english": "Two beams. Two different jobs. One stronger home.\n\nA plinth beam runs at the base of the building and helps tie the structure together at ground level. A lintel beam sits above doors and windows and carries the masonry load over those openings. Confusing them—or skipping proper structural planning—can lead to avoidable construction problems.\n\nBefore building your home in Coimbatore, make sure every structural element is designed and executed for its correct purpose. Build with clarity and professional supervision. Talk to OliveTree Builders.",
     "title_tamil": "கதவுகளுக்கு மேல் விரிசல் ஏன் வருகிறது?",
     "caption_tamil": "உங்கள் வீட்டு கதவு அல்லது ஜன்னல்களுக்கு மேல் விரிசல் ஏற்படுகிறதா? அடித்தளத்தில் பிளின்த் பீம் (Plinth Beam) மற்றும் வாசல்களுக்கு மேல் லிண்டல் பீம் (Lintel Beam) ஆகிய இரண்டும் சரியாக அமைக்கப்பட்டால் மட்டுமே சுவர்களின் பாரம் சீராகப் பகிரப்பட்டு விரிசல்கள் தடுக்கப்படும். கோயம்புத்தூரின் மண் அமைப்பிற்கு இந்த இரண்டு பீம்களும் மிக அவசியம். உங்கள் கனவு இல்லத்தை விரிசல்களின்றி பலமாக கட்ட ஆலிவ்ட்ரீ பில்டர்ஸ்-ஐ தொடர்பு கொள்ளுங்கள்!",
     "hashtags": [
+      "#OliveTreeBuilders",
       "#CoimbatoreConstruction",
-      "#PlinthBeam",
-      "#OliveTreeBuilders"
+      "#PlinthBeam"
     ]
-  },
-  "supersededAt": "2026-09-11T18:39:09.440Z",
-  "supersededReason": "Rejected: repeated prompt derived from an off-topic automobile source."
+  }
 }
