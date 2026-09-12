@@ -1,0 +1,38 @@
+name: Delete Recorded Instagram Publications
+
+on:
+  workflow_dispatch:
+    inputs:
+      content_id:
+        description: Exact content ID to delete and reset
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  delete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Delete recorded Instagram Reel and Story copies
+        env:
+          CONTENT_ID: ${{ inputs.content_id }}
+          META_GRAPH_VERSION: ${{ secrets.META_GRAPH_VERSION }}
+          INSTAGRAM_OLIVETREE_INVESTORS_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_OLIVETREE_INVESTORS_ACCESS_TOKEN }}
+          INSTAGRAM_OLIVETREE_SAFEBUY_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_OLIVETREE_SAFEBUY_ACCESS_TOKEN }}
+          INSTAGRAM_OLIVETREE_BUILDERS_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_OLIVETREE_BUILDERS_ACCESS_TOKEN }}
+        run: node src/deletePublications.js
+      - name: Persist reset state
+        run: |
+          git config user.name "realestate-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/pending/
+          git commit -m "chore: reset publication for republish"
+          git pull --rebase origin main
+          git push origin main
