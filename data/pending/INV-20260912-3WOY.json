@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260912-3WOY",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-12T10:59:46.124Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "feqMPQG_VGY",
+      "title": "Ye kya horaha hai mumbai me? #metro #mumbaimetro #mumbai",
+      "description": "",
+      "publishedAt": "2026-09-07T18:24:49Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 28,
+      "views": 12539,
+      "likes": 181,
+      "comments": 10,
+      "url": "https://www.youtube.com/watch?v=feqMPQG_VGY",
+      "ageHours": 112.55404055555556,
+      "velocity": 111.40426357071449,
+      "outlier": 11.48786074209803,
+      "velocityRatio": 25.594996431187063,
+      "engagementRatio": 0.5412350088272133
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 58,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4170
+  },
+  "pack": {
+    "subject_classification": "infrastructure impact",
+    "source_evidence_points": [
+      "High transit/infrastructure proximity without buffer creates direct visual intrusion into private residential living spaces.",
+      "Elevated transit decks running flush with balconies destroy residential privacy and create chronic noise pollution.",
+      "Infrastructure connectivity benefits are nullified when building setbacks and statutory clearances are ignored during site selection."
+    ],
+    "topic": "Infrastructure Setbacks and Privacy Protection in Coimbatore Property Investment",
+    "source_script_insight": "Extremely close proximity between transit structures and residential windows turns a connectivity benefit into a severe livability flaw.",
+    "coimbatore_angle": "As Coimbatore expands with elevated flyovers and widened transit corridors along major arteries like Avinashi Road and Trichy Road, investors must evaluate building setback distances and buffer zones to avoid buying properties where future transit infrastructure destroys privacy and peaceful living.",
+    "visual_strategy": "The visuals contrast extreme zero-clearance construction against proper statutory buffer setbacks in modern Coimbatore residential layouts. Using direct camera angles (looking from windows into concrete flyover piers versus greenery-buffered properties), the footage visually proves why physical clearance is essential for long-term residential value.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Always verify planned infrastructure alignments and statutory setbacks before investing, ensuring transit proximity offers connectivity without compromising residential privacy.",
+    "voiceover_tamil": "பாலத்தின் மிக அருகில் வீடா? வசதி வந்தாலும் அமைதி போய்விடும்! சாலை மற்றும் பாலத்தின் தூரத்தை அளவிடுங்கள். நேரடி பார்வை, அதிக சத்தம் ஆபத்து. போதுமான இடைவெளி இருக்கிறதா என்று பாருங்கள். அமைதியான வாழ்க்கைக்கு சரியான இடத்தேர்வு அவசியம். OliveTree உடன் பாதுகாப்பாக முதலீடு செய்யுங்கள்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "High transit/infrastructure proximity without buffer creates direct visual intrusion into private residential living spaces.",
+        "purpose": "Establish central tension: residential window constructed dangerously close to an elevated concrete bridge deck.",
+        "visual": "Low-angle shot looking up at a multi-story apartment window in Coimbatore, where a massive concrete flyover deck passes just inches from the top-floor balcony.",
+        "on_screen_text": "Setback Risk",
+        "voiceover_tamil": "பாலத்தின் மிக அருகில் வீடா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Elevated transit decks running flush with balconies destroy residential privacy and create chronic noise pollution.",
+        "purpose": "Demonstrate the interior livability and privacy loss caused by zero buffer zone.",
+        "visual": "Interior balcony view looking straight out at concrete support piers and passing vehicular visual line, completely blocking open air view.",
+        "on_screen_text": "Privacy Loss",
+        "voiceover_tamil": "வசதி வந்தாலும் அமைதி போய்விடும்!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Infrastructure connectivity benefits are nullified when building setbacks and statutory clearances are ignored during site selection.",
+        "purpose": "Introduce active physical evaluation using layout maps and setback measurement.",
+        "visual": "Close-up of a hand laying a measurement tape across a Coimbatore site layout plan, highlighting statutory 30-foot road buffer zones.",
+        "on_screen_text": "Measure Setbacks",
+        "voiceover_tamil": "சாலை மற்றும் பாலத்தின் தூரத்தை அளவிடுங்கள்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "High transit/infrastructure proximity without buffer creates direct visual intrusion into private residential living spaces.",
+        "purpose": "Show telephoto perspective of privacy breach from traffic level.",
+        "visual": "Telephoto street-level shot showing vehicles passing at height, directly level with upper-floor bedroom windows lacking screening.",
+        "on_screen_text": "Direct Sight Lines",
+        "voiceover_tamil": "நேரடி பார்வை, அதிக சத்தம் ஆபத்து."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Infrastructure connectivity benefits are nullified when building setbacks and statutory clearances are ignored during site selection.",
+        "purpose": "Display checklist verification for safe clearance distances.",
+        "visual": "Over-the-shoulder macro view of a real estate report on a desk in Coimbatore with 'Approved Infrastructure Setback' highlighted in green.",
+        "on_screen_text": "Check Clearance",
+        "voiceover_tamil": "போதுமான இடைவெளி இருக்கிறதா என்று பாருங்கள்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Infrastructure connectivity benefits are nullified when building setbacks and statutory clearances are ignored during site selection.",
+        "purpose": "Show the ideal alternative: well-buffered, peaceful Coimbatore home setup.",
+        "visual": "Smooth ground-level tracking shot of a well-designed Coimbatore residence set back safely behind trees and a wide internal access road.",
+        "on_screen_text": "Ideal Setback",
+        "voiceover_tamil": "அமைதியான வாழ்க்கைக்கு சரியான இடத்தேர்வு அவசியம்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Infrastructure connectivity benefits are nullified when building setbacks and statutory clearances are ignored during site selection.",
+        "purpose": "Deliver final payoff and grounded brand call to action.",
+        "visual": "Clear shot of property documents being safely verified at a desk in Coimbatore, with natural sunlight and crisp focus.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "OliveTree உடன் பாதுகாப்பாக முதலீடு செய்யுங்கள்."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10 seconds total.\n- Aspect Ratio: Native Portrait 9:16 (1080x1920 micro-video composition).\n- Target Audience: Coimbatore, Tamil Nadu real estate investors only.\n- Brand Context: OliveTree Investors.\n\nB. REALISM LOCK\n- 100% Photorealistic live-action footage captured on modern cinema/smartphone camera sensors.\n- Natural Tamil Nadu outdoor sunlight, realistic realistic sky lighting, authentic concrete textures, accurate shadows, physical reflections.\n- Absolutely ZERO CGI, zero 3D visualizer renders, zero architectural animation, zero vector graphics, zero plastic surfaces.\n- Setting: Authentically Coimbatore urban and suburban areas (e.g., Avinashi Road / Trichy Road corridor style development context, natural regional flora, typical south Indian residential building design).\n\nC. SOURCE SUBJECT LOCK\n- Core Subject: Infrastructure Impact — Proximity, Buffer Zones, and Building Setbacks.\n- Evidence Points Addressed:\n  1. Extreme physical proximity between transit infrastructure and residential facades creates severe visual intrusion and privacy loss.\n  2. Lack of statutory setbacks exposes occupants to continuous traffic noise and direct lines-of-sight from transit deck riders.\n  3. Property evaluation must verify planned infrastructure alignments and statutory setbacks to ensure long-term livability and value stability.\n- Local Application: Evaluating property setbacks near expanding flyovers and arterial roads in Coimbatore.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus on physical proof of proximity vs clearance: direct perspective shots of elevated concrete flyover decks right next to residential balconies, physical site blueprints with tape measures, and well-buffered proper residential layouts.\n- Forbidden Generic Sequences: DO NOT show empty land -> construction progress -> generic happy family -> key handover sequence.\n\nE. CAMERA + IMAGE QUALITY\n- Handheld stabilized micro-movements, eye-level tilt, macro document inserts, precise tracking shots.\n- 4K resolution look, natural depth of field, sharp focus on physical evidence (setback lines, blueprint specs, concrete piers).\n\nF. EXACT 7-SHOT PLAN\n\nShot 1 (0.0s - 1.4s):\n- Location: Urban Coimbatore apartment facade near a major elevated road corridor.\n- Framing: Low-angle tilt up from ground level showing an apartment balcony standing uncomfortably close (less than 2 feet) to a massive grey concrete flyover deck pier.\n- Lighting: Harsh afternoon sun creating strong geometric shadows from the concrete bridge onto the residential window.\n- Text Overlay: 'Setback Risk'\n- Tamil VO: 'பாலத்தின் மிக அருகில் வீடா?'\n\nShot 2 (1.4s - 2.8s):\n- Location: Interior residential apartment balcony.\n- Framing: Static eye-level shot looking out through balcony railings, blocked almost completely by the dark side profile of an elevated transit structure deck.\n- Lighting: Shaded interior light contrasted with bright exterior sky behind concrete deck.\n- Text Overlay: 'Privacy Loss'\n- Tamil VO: 'வசதி வந்தாலும் அமைதி போய்விடும்!'\n\nShot 3 (2.8s - 4.2s):\n- Location: Professional office desk setting in Coimbatore.\n- Framing: Top-down macro shot of hands pulling a measuring tape across a printed master plan layout, pointing to 'Statutory Setback Buffer Zone'.\n- Lighting: Soft daylight indoor studio lighting.\n- Text Overlay: 'Measure Setbacks'\n- Tamil VO: 'சாலை மற்றும் பாலத்தின் தூரத்தை அளவிடுங்கள்.'\n\nShot 4 (4.2s - 5.6s):\n- Location: Elevated traffic view perspective looking back at building.\n- Framing: Medium telephoto tracking shot of passing traffic on an elevated road level with upper floor apartment windows, showing direct visual line-of-sight into living rooms.\n- Lighting: Natural clear afternoon sun.\n- Text Overlay: 'Direct Sight Lines'\n- Tamil VO: 'நேரடி பார்வை, அதிக சத்தம் ஆபத்து.'\n\nShot 5 (5.6s - 7.0s):\n- Location: Real estate investor workstation.\n- Framing: Over-the-shoulder close-up of a property inspection checklist document with a green checkmark next to 'Minimum 30ft Road Setback Clearance'.\n- Lighting: Warm desk lamp mixed with ambient sunlight.\n- Text Overlay: 'Check Clearance'\n- Tamil VO: 'போதுமான இடைவெளி இருக்கிறதா என்று பாருங்கள்.'\n\nShot 6 (7.0s - 8.5s):\n- Location: Well-planned residential layout in Coimbatore (e.g., Saravanampatti or Race Course peripheral zone).\n- Framing: Smooth gimbal tracking shot moving along a lush, tree-lined access road showing a modern home positioned safely 40 feet back from the main roadway.\n- Lighting: Soft golden hour light filtering through neem and palm trees.\n- Text Overlay: 'Ideal Setback'\n- Tamil VO: 'அமைதியான வாழ்க்கைக்கு சரியான இடத்தேர்வு அவசியம்.'\n\nShot 7 (8.5s - 10.0s):\n- Location: Consultation table with property verification documents.\n- Framing: Tight focus shot on signed property approval document being reviewed, ending with subtle clean branding overlay.\n- Lighting: Crisp, bright natural window daylight.\n- Text Overlay: 'OliveTree Investors'\n- Tamil VO: 'OliveTree உடன் பாதுகாப்பாக முதலீடு செய்யுங்கள்.'\n\nG. MOTION-GRAPHICS LIMIT\n- Minimal typography overlays only. 1-3 crisp words in white sans-serif with slight drop shadow. No full-screen graphic transitions, no motion-graphics illustrations.\n\nH. FINAL REAL SCENE\n- Scene 7 is real physical footage of document verification with a subtle 'OliveTree Investors' text overlay at the lower third. No artificial animated logo end card.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Strict prohibition of: 3D CAD renders, animated explainer graphics, cartoon styling, fake city skylines, floating text boxes, distorted physical architecture, morphing scenes, speed ramps, whip pans, 360-degree drone orbits, duplicated people, watermark logos of other brands, landscape black bars, or generic happy-family emotional payoffs.",
+    "title_english": "Flyover Setbacks: Protecting Privacy & Value in Coimbatore Property",
+    "caption_english": "Buying residential property near expanding transit corridors like Avinashi Road or Trichy Road in Coimbatore requires careful evaluation of building setbacks. Extreme proximity to flyovers destroys residential privacy, causes continuous traffic noise, and severely impacts resale value. Before making your investment, verify statutory buffer zones and distance clearances from planned infrastructure projects. Ensure your property offers connectivity without compromising peaceful living. Consult with OliveTree Investors for grounded, risk-free property selection in Coimbatore.",
+    "title_tamil": "மேம்பாலம் அருகே வீடா? கவனிக்க வேண்டிய முக்கிய விஷயம்!",
+    "caption_tamil": "புதிய மேம்பாலங்கள் மற்றும் போக்குவரத்து பாதைகள் அருகே வீடு வாங்கும் போது இடைவெளி (Setback) மிகவும் முக்கியம். இணைப்பு வசதி கிடைத்தாலும், மிக அருகில் இருப்பது உங்கள் அமைதியையும் தனியுரிமையையும் பாதிக்கும். கோவை முதலீடுகளில் சரியான தூரத்தை திட்டமிட்டு தேர்வு செய்யுங்கள். OliveTree Investors உடன் சரியான முடிவை எடுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
