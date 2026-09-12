@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import { findPending, markPublished, savePublishProgress } from './contentQueue.js';
 import { uploadVideoToR2 } from './storage/r2.js';
 import { publishYouTubeShort } from './publish/youtube.js';
-import { publishInstagramReel } from './publish/instagram.js';
+import { publishInstagramReel, publishInstagramStory } from './publish/instagram.js';
 import { sendStatus } from './telegram.js';
 
 const OFFSET_PATH = 'data/telegram-offset.json';
@@ -48,6 +48,19 @@ function platformSucceeded(result) {
   return !!result && !result.error;
 }
 
+function publishingRoutes(niches) {
+  return [...new Map(Object.values(niches).map(route => [route.brand, route])).values()];
+}
+
+function captionForBrand(caption, brandLabel) {
+  return String(caption).replace(/Olive\s*Tree\s*(?:Builders|Investors|Safe\s*Buy)|OliveTree\s*(?:Builders|Investors|SafeBuy)/gi, brandLabel);
+}
+
+async function attempt(operation) {
+  try { return await operation(); }
+  catch (error) { return { error: error.message }; }
+}
+
 async function handleMessage(message, niches) {
   const video = pickVideo(message);
   if (!video) return;
@@ -70,51 +83,41 @@ async function handleMessage(message, niches) {
     return;
   }
 
-  const route = niches[pending.niche];
-  if (!route) throw new Error(`Unknown niche route ${pending.niche}`);
   const bytes = await telegramFile(video.fileId);
   const key = `social-ready/${pending.niche}/${contentId}.mp4`;
   const publicUrl = pending.publishResult?.stagedVideo || await uploadVideoToR2({ bytes, contentType: video.mimeType, key });
-
   const title = pending.pack?.title_english || pending.pack?.topic || pending.pack?.selected_hook || contentId;
   const hashtags = Array.isArray(pending.pack?.hashtags) ? pending.pack.hashtags.join(' ') : (pending.pack?.hashtags || '');
-  const legacyEnglishCaption = [
-    pending.pack?.topic,
-    pending.pack?.core_takeaway,
-    'Follow OliveTree for clear, practical property insights.'
-  ].filter(Boolean).join('\n\n');
-  const caption = `${pending.pack?.caption_english || legacyEnglishCaption}\n\n${hashtags}`.trim();
+  const legacyEnglishCaption = [pending.pack?.topic, pending.pack?.core_takeaway, 'Follow OliveTree for clear, practical property insights.'].filter(Boolean).join('\n\n');
+  const baseCaption = `${pending.pack?.caption_english || legacyEnglishCaption}\n\n${hashtags}`.trim();
+  const targets = { ...(pending.publishResult?.targets || {}) };
 
-  const results = { ...(pending.publishResult || {}), stagedVideo: publicUrl };
-
-  if (!platformSucceeded(results.youtube)) {
-    try {
-      results.youtube = await publishYouTubeShort({ prefix: route.youtubeSecretPrefix, bytes, contentType: video.mimeType, title, description: caption });
-    } catch (e) {
-      results.youtube = { error: e.message };
+  for (const route of publishingRoutes(niches)) {
+    const result = { ...(targets[route.brand] || {}) };
+    const caption = captionForBrand(baseCaption, route.brandLabel);
+    if (!platformSucceeded(result.youtube)) {
+      result.youtube = await attempt(() => publishYouTubeShort({ prefix: route.youtubeSecretPrefix, bytes, contentType: video.mimeType, title, description: caption }));
     }
-    await savePublishProgress(contentId, { youtube: results.youtube, stagedVideo: publicUrl });
-  }
-
-  pending = await findPending(contentId) || pending;
-  if (!platformSucceeded(pending.publishResult?.instagram)) {
-    try {
-      results.instagram = await publishInstagramReel({ prefix: route.instagramSecretPrefix, videoUrl: publicUrl, caption });
-    } catch (e) {
-      results.instagram = { error: e.message };
+    if (!platformSucceeded(result.instagramReel)) {
+      result.instagramReel = await attempt(() => publishInstagramReel({ prefix: route.instagramSecretPrefix, videoUrl: publicUrl, caption }));
     }
-    await savePublishProgress(contentId, { instagram: results.instagram, stagedVideo: publicUrl });
-  } else {
-    results.instagram = pending.publishResult.instagram;
+    if (!platformSucceeded(result.instagramStory)) {
+      result.instagramStory = await attempt(() => publishInstagramStory({ prefix: route.instagramSecretPrefix, videoUrl: publicUrl }));
+    }
+    targets[route.brand] = result;
+    await savePublishProgress(contentId, { stagedVideo: publicUrl, targets });
   }
 
-  const youtubeOk = platformSucceeded(results.youtube);
-  const instagramOk = platformSucceeded(results.instagram);
-  if (youtubeOk && instagramOk) {
-    await markPublished(contentId, { ...results, stagedVideo: publicUrl });
-  }
+  const complete = publishingRoutes(niches).every(route =>
+    ['youtube', 'instagramReel', 'instagramStory'].every(platform => platformSucceeded(targets[route.brand]?.[platform]))
+  );
+  if (complete) await markPublished(contentId, { stagedVideo: publicUrl, targets });
 
-  await sendStatus(`${contentId} routed to ${route.label}.\nYouTube: ${results.youtube?.url || results.youtube?.error || 'unknown'}\nInstagram: ${results.instagram?.mediaId || results.instagram?.error || 'unknown'}\nStatus: ${youtubeOk && instagramOk ? 'published on both platforms' : 'partial; safe to retry without duplicating successful platform'}`);
+  const summary = publishingRoutes(niches).map(route => {
+    const result = targets[route.brand];
+    return `${route.brandLabel}: YouTube ${result.youtube?.url || result.youtube?.error}; Reel ${result.instagramReel?.mediaId || result.instagramReel?.error}; Story ${result.instagramStory?.mediaId || result.instagramStory?.error}`;
+  }).join('\n');
+  await sendStatus(`${contentId} publishing results:\n${summary}\nStatus: ${complete ? 'published everywhere' : 'partial; successful destinations will not be duplicated on retry'}`);
 }
 
 async function processWebhookDispatch(niches, chatId) {
