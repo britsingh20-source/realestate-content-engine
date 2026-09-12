@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260912-XMK2",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-12T20:42:06.759Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "MpkZGUZPfPU",
+      "title": "Navi Mumbai 🔥 #navimumbai",
+      "description": "",
+      "publishedAt": "2026-09-10T12:21:57Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 12,
+      "views": 1424,
+      "likes": 5,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=MpkZGUZPfPU",
+      "ageHours": 56.31326583333333,
+      "velocity": 25.28711448230545,
+      "outlier": 1.2992700729927007,
+      "velocityRatio": 6.004977195714429,
+      "engagementRatio": 0.11866308378922329
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 36,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2564
+  },
+  "pack": {
+    "subject_classification": "infrastructure impact",
+    "source_evidence_points": [
+      "Multimodal transit synergy: Arterial elevated road corridors running directly parallel to rail transit lines create concentrated logistical and economic velocity.",
+      "Infrastructure-led commercial clustering: Commercial structures and construction cranes naturally concentrate along dual-transit corridors rather than interior isolated pockets.",
+      "Sustained commuter volume: The simultaneous movement of heavy road traffic and public rail transit confirms authentic daily commuter reliance, driving long-term land resilience."
+    ],
+    "topic": "Multimodal Infrastructure Synergy in Land Selection",
+    "source_script_insight": "Urban transit corridors that integrate dual-mode connectivity (elevated highway alongside rail lines) act as self-reinforcing growth catalysts. In real estate, location value is not merely about an address having 'a road', but about its proximity to intersecting multimodal arterial infrastructure that continuously pulls commercial investment and human transit.",
+    "coimbatore_angle": "In Coimbatore, long-term capital appreciation and commercial utility cluster along integrated transit bypasses and arterial corridors connecting rail alignments and logistics highways. Evaluating whether a land parcel connects directly to multi-layered infrastructure networks is key to avoiding stagnant land assets.",
+    "visual_strategy": "The visuals systematically reject the generic 'vacant plot to villa' trope. Instead, they replicate the exact infrastructure-focused mechanism of the source: vehicular dashcam tracking, parallel transit movement, commercial framing along bypass arteries, route analysis, and physical road-boundary alignment in real Coimbatore transit corridors.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never evaluate land connectivity by road frontage alone; verify multimodal transit alignment where arterial roads and logistics corridors reinforce long-term demand.",
+    "voiceover_tamil": "வெறும் சாலையை மட்டும் பார்க்காதீர்கள். இரட்டை போக்குவரத்து இணைவுதான் வளர்ச்சியின் மையம். ரயில் மற்றும் பிரதான சாலை இணைப்புகள் நிலத்தின் மதிப்பை நிலைநிறுத்தும். இணைப்பை ஆராய்ந்து முதலீடு செய்யுங்கள். சரியான வழி, தெளிவான முடிவு.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Multimodal transit synergy: Arterial elevated road corridors running directly parallel to rail transit lines create concentrated logistical and economic velocity.",
+        "purpose": "Establish the central problem immediately: driving on a major arterial corridor tracking parallel transit, breaking the habit of looking at isolated interior plots.",
+        "visual": "Dashcam perspective from a car moving along a multi-lane elevated concrete flyover in Coimbatore under crisp morning light, showing railway tracks running parallel on the left side.",
+        "on_screen_text": "Transit Synergy",
+        "voiceover_tamil": "வெறும் சாலையை மட்டும் பார்க்காதீர்கள்."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Infrastructure-led commercial clustering: Commercial structures and construction cranes naturally concentrate along dual-transit corridors rather than interior isolated pockets.",
+        "purpose": "Demonstrate the physical commercial output clustered right along the corridor.",
+        "visual": "Smooth tracking shot tilting slightly up past concrete crash barriers to reveal an active commercial steel-and-concrete building frame with a tower crane against a clear sky.",
+        "on_screen_text": "Commercial Pull",
+        "voiceover_tamil": "இரட்டை போக்குவரத்து இணைவுதான்..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Multimodal transit synergy: Arterial elevated road corridors running directly parallel to rail transit lines create concentrated logistical and economic velocity.",
+        "purpose": "Quantify connectivity through physical commute data visible in-vehicle.",
+        "visual": "Dashboard perspective focusing on a mounted smartphone displaying an authentic navigation map highlighting an arterial highway intersecting a rail transit corridor in Coimbatore.",
+        "on_screen_text": "Corridor Hub",
+        "voiceover_tamil": "வளர்ச்சியின் மையம்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Sustained commuter volume: The simultaneous movement of heavy road traffic and public rail transit confirms authentic daily commuter reliance, driving long-term land resilience.",
+        "purpose": "Provide ground-level physical proof of access and drainage along arterial widening.",
+        "visual": "Low eye-level static shot along the asphalt edge of a wide Coimbatore bypass road, showing a concrete storm drain and newly laid kerb stones indicating active infrastructure expansion.",
+        "on_screen_text": "Arterial Access",
+        "voiceover_tamil": "ரயில் மற்றும் பிரதான சாலை இணைப்புகள்..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Sustained commuter volume: The simultaneous movement of heavy road traffic and public rail transit confirms authentic daily commuter reliance, driving long-term land resilience.",
+        "purpose": "Highlight sustained transit volume and flow stability.",
+        "visual": "Restrained elevated view from an overpass looking down at steady, organized traffic flowing along a dual-carriageway flanked by industrial supply logistics and green roadside verges.",
+        "on_screen_text": "Sustained Flow",
+        "voiceover_tamil": "நிலத்தின் மதிப்பை நிலைநிறுத்தும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Infrastructure-led commercial clustering: Commercial structures and construction cranes naturally concentrate along dual-transit corridors rather than interior isolated pockets.",
+        "purpose": "Show an investor physically cross-referencing connectivity on-site.",
+        "visual": "Over-the-shoulder view inside a parked car beside the corridor, looking at a printed Coimbatore master plan road-alignment diagram held firmly over the dashboard.",
+        "on_screen_text": "Verify Corridors",
+        "voiceover_tamil": "இணைப்பை ஆராய்ந்து முதலீடு செய்யுங்கள்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Multimodal transit synergy: Arterial elevated road corridors running directly parallel to rail transit lines create concentrated logistical and economic velocity.",
+        "purpose": "Deliver the final investor payoff on physical, legally demarcated roadside land along an infrastructure axis.",
+        "visual": "Crisp ground-level shot of an anchored granite survey boundary stone standing on a clean-cut plot frontage, with smooth arterial highway traffic visible in soft focus behind.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "சரியான வழி, தெளிவான முடிவு."
+      }
+    ],
+    "gemini_video_prompt": "### A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10.0 seconds.\n- Aspect Ratio: Native Portrait 9:16 (1080x1920). Full-screen vertical composition throughout.\n- Pace: Rapid, cinematic visual evidence cuts (7 distinct shots, ~1.4 seconds each).\n\n### B. REALISM LOCK\n- 100% photorealistic real-world documentary/dashcam footage shot in Coimbatore, Tamil Nadu, India.\n- Natural bright morning South Indian sunlight with slight atmospheric haze, authentic tarmac asphalt texture, real concrete crash barriers, real roadside vegetation (neem and gulmohar trees), genuine road wear, realistic vehicle reflections.\n- STRICTLY NO animation, NO 3D architectural renders, NO cartoon graphics, NO plastic-looking CGI, NO fantasy skyline.\n\n### C. SOURCE SUBJECT LOCK (OLIVETREE INVESTORS - COIMBATORE ONLY)\n- Source Classification: Infrastructure Impact (Multimodal Transit Corridors).\n- Core Lesson: Property appreciation is dictated by dual-transit alignment (arterial roads parallel to rail/logistics corridors), not isolated interior plots.\n- Local Context: Coimbatore transit corridors, bypass alignments, and industrial peripheral arteries. No unverified local claims, prices, or speculative timelines.\n\n### D. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Absolutely FORBIDDEN: Do not use the generic sequence of 'empty field -> 3D blueprint -> bricklayer -> villa -> happy family smiling'.\n- Focus exclusively on the mechanics of transit: dashboard dashcam tracking, parallel railway lines, commercial framework rising on arterial flanks, route navigation verification, and survey-demarcated roadside parcels.\n\n### E. CAMERA + IMAGE QUALITY\n- Captured on high-end cinema mirrorless camera (35mm and 50mm lenses) and stabilized in-car dashcam rigs. Crisp 4K optical clarity, natural depth of field, real motion blur of passing vehicles, stable horizon lines, no fisheye distortion, no digital zoom bursts.\n\n### F. EXACT 7-SHOT PLAN\n\n1. Shot 1 (0.00s - 1.40s) [Dashcam Flyover View]\n   - Location: Elevated concrete bypass bridge in Coimbatore.\n   - Visual: Dashcam view from moving car. Clean asphalt, left-hand concrete barrier, commuter railway tracks running parallel along the left grade. Morning sun at 45 degrees.\n   - Text Overlay: 'Transit Synergy'\n   - Tamil Voiceover: 'வெறும் சாலையை மட்டும் பார்க்காதீர்கள்.'\n\n2. Shot 2 (1.40s - 2.80s) [Commercial Construction Frame]\n   - Location: Roadside commercial corridor in Coimbatore.\n   - Visual: Low-angle tracking shot from vehicle passenger window looking up at a multi-story reinforced concrete structural frame under active construction with a yellow tower crane against a crisp blue sky.\n   - Text Overlay: 'Commercial Pull'\n   - Tamil Voiceover: 'இரட்டை போக்குவரத்து இணைவுதான்...'\n\n3. Shot 3 (2.80s - 4.20s) [Dashboard Navigation Focus]\n   - Location: Interior car cabin on transit route.\n   - Visual: Shallow depth of field close-up of a smartphone mounted on AC vent showing a navigation app displaying an intersecting green and blue corridor route, with windshield traffic blurred in background.\n   - Text Overlay: 'Corridor Hub'\n   - Tamil Voiceover: 'வளர்ச்சியின் மையம்.'\n\n4. Shot 4 (4.20s - 5.60s) [Roadside Infrastructure Detail]\n   - Location: Newly widened arterial road edge in Coimbatore periphery.\n   - Visual: Ground-level static shot along freshly paved black bitumen, highlighting precast concrete storm drains and yellow-black painted kerbstones.\n   - Text Overlay: 'Arterial Access'\n   - Tamil Voiceover: 'ரயில் மற்றும் பிரதான சாலை இணைப்புகள்...'\n\n5. Shot 5 (5.60s - 7.00s) [Overpass Traffic Flow]\n   - Location: Pedestrian overpass over dual carriageway.\n   - Visual: Elevated static perspective showing steady vehicular traffic (buses, trucks, white hatchbacks) moving smoothly in lane discipline along a divided highway corridor.\n   - Text Overlay: 'Sustained Flow'\n   - Tamil Voiceover: 'நிலத்தின் மதிப்பை நிலைநிறுத்தும்.'\n\n6. Shot 6 (7.00s - 8.50s) [Physical Master Plan Review]\n   - Location: Car interior parked along service lane.\n   - Visual: Over-the-shoulder view of investor's hands holding a crisp paper printout showing Coimbatore arterial road alignment maps, cross-checking against the actual physical road outside the window.\n   - Text Overlay: 'Verify Corridors'\n   - Tamil Voiceover: 'இணைப்பை ஆராய்ந்து முதலீடு செய்யுங்கள்.'\n\n7. Shot 7 (8.50s - 10.00s) [Survey Marker Payoff]\n   - Location: Demarcated layout boundary on an arterial route.\n   - Visual: Sharp eye-level shot of a planted concrete survey peg with red survey paint in solid gravel soil, with soft-focus traffic moving along the dual-lane road in the sunny background.\n   - Text Overlay: 'OliveTree Investors'\n   - Tamil Voiceover: 'சரியான வழி, தெளிவான முடிவு.'\n\n### G. MOTION GRAPHICS & OVERLAYS\n- Restrained, crisp sans-serif typography, pure white with subtle drop shadow. Maximum 2 words per scene. No full-screen graphics or transitions.\n\n### H. FINAL REAL SCENE\n- Scene 7 finishes on real land with physical boundary marker and road traffic in background, concluding with small, elegant bottom overlay: 'OliveTree Investors'. No standalone graphic outro cards.\n\n### I. NEGATIVE PROMPT / FIXED RULES\n- BAN: Cartoon, anime, 3D explainer graphics, CGI house models, sketch animations, unreal saturation, fisheye lenses, speed ramps, morph cuts, duplicate background vehicles, floating text, Indian flags or religious deities on dash, Mumbai or Chennai landmarks, unpaved muddy village interior alleys presented as major highways.",
+    "title_english": "Why Transit Synergy Drives Real Land Growth in Coimbatore",
+    "caption_english": "A single approach road is never enough to secure long-term land appreciation. When selecting land in Coimbatore, look for multimodal transit corridors where arterial bypass highways run parallel to rail and industrial networks. These dual-transit corridors naturally pull commercial infrastructure, sustained commuter volume, and logistics hubs—safeguarding capital liquidity and growth. At OliveTree Investors, we help you evaluate genuine infrastructure synergy before you invest.",
+    "title_tamil": "கோவையில் நிலத்தின் மதிப்பை உயர்த்தும் இரட்டை போக்குவரத்து வழித்தடங்கள்",
+    "caption_tamil": "கோவையில் வெறும் ஒரு சாலையை மட்டும் பார்த்து நிலத்தை தேர்வு செய்யாதீர்கள். பிரதான சாலைகளும் ரயில் வழித்தடங்களும் இணையும் இடங்களில்தான் உண்மையான வணிக வளர்ச்சியும் முதலீட்டு மதிப்பும் நிலைத்திருக்கும். உள்கட்டமைப்பு இணைப்பை துல்லியமாக ஆராய்ந்து சரியான முடிவெடுக்க OliveTree Investors-ஐ அணுகுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#LandInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
