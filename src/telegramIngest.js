@@ -3,6 +3,7 @@ import { findPending, markPublished, savePublishProgress } from './contentQueue.
 import { uploadVideoToR2 } from './storage/r2.js';
 import { publishYouTubeShort } from './publish/youtube.js';
 import { publishInstagramReel, publishInstagramStory } from './publish/instagram.js';
+import { createBrandVariant } from './publish/variants.js';
 import { sendStatus } from './telegram.js';
 
 const OFFSET_PATH = 'data/telegram-offset.json';
@@ -84,8 +85,8 @@ async function handleMessage(message, niches) {
   }
 
   const bytes = await telegramFile(video.fileId);
-  const key = `social-ready/${pending.niche}/${contentId}.mp4`;
-  const publicUrl = pending.publishResult?.stagedVideo || await uploadVideoToR2({ bytes, contentType: video.mimeType, key });
+  const masterKey = `social-ready/${pending.niche}/${contentId}-master.mp4`;
+  const publicUrl = pending.publishResult?.stagedVideo || await uploadVideoToR2({ bytes, contentType: video.mimeType, key: masterKey });
   const title = pending.pack?.title_english || pending.pack?.topic || pending.pack?.selected_hook || contentId;
   const hashtags = Array.isArray(pending.pack?.hashtags) ? pending.pack.hashtags.join(' ') : (pending.pack?.hashtags || '');
   const legacyEnglishCaption = [pending.pack?.topic, pending.pack?.core_takeaway, 'Follow OliveTree for clear, practical property insights.'].filter(Boolean).join('\n\n');
@@ -95,14 +96,36 @@ async function handleMessage(message, niches) {
   for (const route of publishingRoutes(niches)) {
     const result = { ...(targets[route.brand] || {}) };
     const caption = captionForBrand(baseCaption, route.brandLabel);
+    const variantBytes = await createBrandVariant({ bytes, brand: route.brand });
+    const variantKey = `social-ready/${pending.niche}/${contentId}-${route.brand}.mp4`;
+    const variantUrl = result.variantVideo || await uploadVideoToR2({
+      bytes: variantBytes,
+      contentType: 'video/mp4',
+      key: variantKey
+    });
+    result.variantVideo = variantUrl;
+
     if (!platformSucceeded(result.youtube)) {
-      result.youtube = await attempt(() => publishYouTubeShort({ prefix: route.youtubeSecretPrefix, bytes, contentType: video.mimeType, title, description: caption }));
+      result.youtube = await attempt(() => publishYouTubeShort({
+        prefix: route.youtubeSecretPrefix,
+        bytes: variantBytes,
+        contentType: 'video/mp4',
+        title,
+        description: caption
+      }));
     }
     if (!platformSucceeded(result.instagramReel)) {
-      result.instagramReel = await attempt(() => publishInstagramReel({ prefix: route.instagramSecretPrefix, videoUrl: publicUrl, caption }));
+      result.instagramReel = await attempt(() => publishInstagramReel({
+        prefix: route.instagramSecretPrefix,
+        videoUrl: variantUrl,
+        caption
+      }));
     }
     if (!platformSucceeded(result.instagramStory)) {
-      result.instagramStory = await attempt(() => publishInstagramStory({ prefix: route.instagramSecretPrefix, videoUrl: publicUrl }));
+      result.instagramStory = await attempt(() => publishInstagramStory({
+        prefix: route.instagramSecretPrefix,
+        videoUrl: variantUrl
+      }));
     }
     targets[route.brand] = result;
     await savePublishProgress(contentId, { stagedVideo: publicUrl, targets });
