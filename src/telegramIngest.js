@@ -8,12 +8,10 @@ import { sendStatus } from './telegram.js';
 
 const OFFSET_PATH = 'data/telegram-offset.json';
 const ID_RE = /\b(?:INV|DOC|LAND|CON|BUY)-\d{8}-[A-Z0-9]{4}\b/i;
-const BRAND_STAGGER_MS = Math.max(0, Number(process.env.BRAND_STAGGER_MINUTES || 30) * 60 * 1000);
 
 async function loadJson(path) { return JSON.parse(await fs.readFile(path, 'utf8')); }
 async function readOffset() { try { return (await loadJson(OFFSET_PATH)).offset || 0; } catch { return 0; } }
 async function saveOffset(offset) { await fs.mkdir('data', { recursive:true }); await fs.writeFile(OFFSET_PATH, JSON.stringify({ offset }, null, 2)); }
-async function sleep(ms) { if (ms > 0) await new Promise(resolve => setTimeout(resolve, ms)); }
 
 function extractContentId(message) {
   const candidates = [message.caption, message.text, message.reply_to_message?.text, message.reply_to_message?.caption].filter(Boolean);
@@ -51,10 +49,6 @@ function platformSucceeded(result) {
   return !!result && !result.error;
 }
 
-function publishingRoutes(niches) {
-  return [...new Map(Object.values(niches).map(route => [route.brand, route])).values()];
-}
-
 function routeNeedsPublish(result = {}) {
   return ['youtube', 'instagramReel', 'instagramStory'].some(platform => !platformSucceeded(result[platform]));
 }
@@ -90,27 +84,20 @@ async function handleMessage(message, niches) {
     return;
   }
 
+  const route = niches[pending.niche];
+  if (!route) throw new Error(`No publishing route configured for niche: ${pending.niche}`);
+
   const bytes = await telegramFile(video.fileId);
   const masterKey = `social-ready/${pending.niche}/${contentId}-master.mp4`;
   const publicUrl = pending.publishResult?.stagedVideo || await uploadVideoToR2({ bytes, contentType: video.mimeType, key: masterKey });
   const title = pending.pack?.title_english || pending.pack?.topic || pending.pack?.selected_hook || contentId;
   const hashtags = Array.isArray(pending.pack?.hashtags) ? pending.pack.hashtags.join(' ') : (pending.pack?.hashtags || '');
-  const legacyEnglishCaption = [pending.pack?.topic, pending.pack?.core_takeaway, 'Follow OliveTree for clear, practical property insights.'].filter(Boolean).join('\n\n');
+  const legacyEnglishCaption = [pending.pack?.topic, pending.pack?.core_takeaway, `Follow ${route.brandLabel} for clear, practical property insights.`].filter(Boolean).join('\n\n');
   const baseCaption = `${pending.pack?.caption_english || legacyEnglishCaption}\n\n${hashtags}`.trim();
   const targets = { ...(pending.publishResult?.targets || {}) };
-  const routes = publishingRoutes(niches);
-  let publishedAnyRouteThisRun = false;
+  const existingResult = { ...(targets[route.brand] || {}) };
 
-  for (const route of routes) {
-    const existingResult = { ...(targets[route.brand] || {}) };
-    if (!routeNeedsPublish(existingResult)) continue;
-
-    if (publishedAnyRouteThisRun && BRAND_STAGGER_MS > 0) {
-      const minutes = Math.round(BRAND_STAGGER_MS / 60000);
-      console.log(`Waiting ${minutes} minutes before publishing ${route.brandLabel}`);
-      await sleep(BRAND_STAGGER_MS);
-    }
-
+  if (routeNeedsPublish(existingResult)) {
     const result = existingResult;
     const caption = captionForBrand(baseCaption, route.brandLabel);
     const variantBytes = await createBrandVariant({ bytes, brand: route.brand });
@@ -146,19 +133,14 @@ async function handleMessage(message, niches) {
     }
     targets[route.brand] = result;
     await savePublishProgress(contentId, { stagedVideo: publicUrl, targets });
-    publishedAnyRouteThisRun = true;
   }
 
-  const complete = routes.every(route =>
-    ['youtube', 'instagramReel', 'instagramStory'].every(platform => platformSucceeded(targets[route.brand]?.[platform]))
-  );
+  const result = targets[route.brand] || {};
+  const complete = ['youtube', 'instagramReel', 'instagramStory'].every(platform => platformSucceeded(result[platform]));
   if (complete) await markPublished(contentId, { stagedVideo: publicUrl, targets });
 
-  const summary = routes.map(route => {
-    const result = targets[route.brand] || {};
-    return `${route.brandLabel}: YouTube ${result.youtube?.url || result.youtube?.error || 'not attempted'}; Reel ${result.instagramReel?.mediaId || result.instagramReel?.error || 'not attempted'}; Story ${result.instagramStory?.mediaId || result.instagramStory?.error || 'not attempted'}`;
-  }).join('\n');
-  await sendStatus(`${contentId} publishing results:\n${summary}\nStatus: ${complete ? 'published everywhere' : 'partial; successful destinations will not be duplicated on retry'}`);
+  const summary = `${route.brandLabel}: YouTube ${result.youtube?.url || result.youtube?.error || 'not attempted'}; Reel ${result.instagramReel?.mediaId || result.instagramReel?.error || 'not attempted'}; Story ${result.instagramStory?.mediaId || result.instagramStory?.error || 'not attempted'}`;
+  await sendStatus(`${contentId} routed to ${route.brandLabel} (${pending.niche}).\n${summary}\nStatus: ${complete ? 'published to niche channel' : 'partial; successful destinations will not be duplicated on retry'}`);
 }
 
 async function processWebhookDispatch(niches, chatId) {
