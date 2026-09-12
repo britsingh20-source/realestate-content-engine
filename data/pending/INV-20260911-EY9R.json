@@ -3,7 +3,7 @@
   "niche": "investment",
   "label": "PROPERTY INVESTMENT",
   "brand": "olivetree_investors",
-  "status": "pending",
+  "status": "published",
   "createdAt": "2026-09-11T21:08:59.816Z",
   "candidate": {
     "niche": "investment",
@@ -136,9 +136,64 @@
   },
   "publishResult": {
     "stagedVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/investment/INV-20260911-EY9R.mp4",
-    "targets": {}
+    "targets": {
+      "olivetree_investors": {
+        "variantVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/investment/INV-20260911-EY9R-olivetree_investors.mp4",
+        "youtube": {
+          "platform": "youtube",
+          "videoId": "NnXuCyhD498",
+          "url": "https://youtube.com/shorts/NnXuCyhD498"
+        },
+        "instagramReel": {
+          "platform": "instagram",
+          "mediaType": "REELS",
+          "mediaId": "17954770569248755"
+        },
+        "instagramStory": {
+          "platform": "instagram",
+          "mediaType": "STORIES",
+          "mediaId": "17976111395917559"
+        }
+      },
+      "olivetree_safebuy": {
+        "variantVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/investment/INV-20260911-EY9R-olivetree_safebuy.mp4",
+        "youtube": {
+          "platform": "youtube",
+          "videoId": "0rDq9d_oGY0",
+          "url": "https://youtube.com/shorts/0rDq9d_oGY0"
+        },
+        "instagramReel": {
+          "platform": "instagram",
+          "mediaType": "REELS",
+          "mediaId": "17922640005203849"
+        },
+        "instagramStory": {
+          "platform": "instagram",
+          "mediaType": "STORIES",
+          "mediaId": "18127023712695993"
+        }
+      },
+      "olivetree_builders": {
+        "variantVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/investment/INV-20260911-EY9R-olivetree_builders.mp4",
+        "youtube": {
+          "platform": "youtube",
+          "videoId": "vyCheFEAfqY",
+          "url": "https://youtube.com/shorts/vyCheFEAfqY"
+        },
+        "instagramReel": {
+          "platform": "instagram",
+          "mediaType": "REELS",
+          "mediaId": "18070114073743414"
+        },
+        "instagramStory": {
+          "platform": "instagram",
+          "mediaType": "STORIES",
+          "mediaId": "18132193339660331"
+        }
+      }
+    }
   },
-  "updatedAt": "2026-09-12T14:32:21.913Z",
+  "updatedAt": "2026-09-12T15:58:10.877Z",
   "republishHistory": [
     {
       "deletedAt": "2026-09-12T14:32:21.912Z",
@@ -200,5 +255,6 @@
         }
       }
     }
-  ]
+  ],
+  "publishedAt": "2026-09-12T15:58:10.879Z"
 }
