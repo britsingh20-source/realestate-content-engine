@@ -21,6 +21,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Verify FFmpeg renderer
+        run: ffmpeg -version | head -n 1
       - run: npm install
       - name: Process Telegram video upload
         env:
