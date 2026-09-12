@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260912-GJ9N",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-12T15:41:00.633Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "76SQfLnRBPA",
+      "title": "Assam ka aisa bedroom dekh ke Abrar Teli ko rona aagaya #assamflood #assam",
+      "description": "",
+      "publishedAt": "2026-08-31T08:45:02Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 20,
+      "views": 25635,
+      "likes": 357,
+      "comments": 4,
+      "url": "https://www.youtube.com/watch?v=76SQfLnRBPA",
+      "ageHours": 294.8936802777778,
+      "velocity": 86.92963503271037,
+      "outlier": 23.43235831809872,
+      "velocityRatio": 20.304745183118566,
+      "engagementRatio": 0.48074222376023457
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 57,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3511
+  },
+  "pack": {
+    "subject_classification": "site risk and drainage assessment",
+    "source_evidence_points": [
+      "External structural shell can stay intact while internal contents and habitability are completely destroyed by water/mud intrusion.",
+      "A property's functional usability depends heavily on floor elevation relative to immediate exterior surroundings.",
+      "Property damage assessments must evaluate low-lying drainage vulnerabilities, not just structural wall strength.",
+      "Post-disaster loss is heavily concentrated in interior ground-level furnishings and finishes."
+    ],
+    "topic": "Coimbatore Elevation and Drainage Inspection Checklist",
+    "source_script_insight": "The source video proves that a standing house shell is meaningless if floor level allows mud and water to inundate the interior, ruining all living spaces. Adapted for Coimbatore, buyers must verify plinth elevation and stormwater channel depth before purchasing residential property.",
+    "coimbatore_angle": "During Coimbatore monsoon rain spells, low-lying properties or plots sitting below street tar level suffer severe stormwater intrusion. Evaluating street-to-plinth offset and municipal storm channel outflow prevents interior habitability loss.",
+    "visual_strategy": "The visuals strictly focus on elevation measurement and drainage infrastructure: comparing road surface height to house plinth levels, inspecting stormwater channel depth, showing laser measurement tools, and inspecting interior floor entry thresholds in Coimbatore residential neighborhoods.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never judge a Coimbatore property by wall strength alone; verify road-to-plinth elevation and storm drain capacity to prevent costly flood damage.",
+    "voiceover_tamil": "வீட்டின் சுவர்கள் உறுதியாக இருந்தாலும், சாலை மட்டத்தை விட தரை கீழ் இருந்தால், மழை நீரில் உள் சாமான்கள் பாழாகும்! வடிகால் மற்றும் நில மட்டத்தை முதலீடு செய்யும் முன் சரிபாருங்கள். பாதுகாப்புதான் உங்கள் சொத்தின் மதிப்பு. ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "External structural shell can stay intact while floor elevation creates flood vulnerability.",
+        "purpose": "Establish the immediate visual tension between exterior street height and house threshold.",
+        "visual": "Eye-level tilt down showing a newly paved asphalt road in a Coimbatore residential layout sitting visibly higher than an adjacent home's gate entry.",
+        "on_screen_text": "கட்டிடம் மட்டும் போதாது!",
+        "voiceover_tamil": "வீட்டின் சுவர்கள் உறுதியாக இருந்தாலும்..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "A property's functional usability depends heavily on floor elevation relative to immediate exterior surroundings.",
+        "purpose": "Demonstrate precise physical measurement of road height vs plot baseline.",
+        "visual": "Extreme close-up macro shot of a yellow measuring tape held against the concrete curb, revealing the road surface is elevated above the property floor line.",
+        "on_screen_text": "சாலை மட்டம்",
+        "voiceover_tamil": "சாலை மட்டத்தை விட தரை கீழ் இருந்தால்..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Post-disaster loss is heavily concentrated in interior ground-level furnishings and finishes.",
+        "purpose": "Show real physical consequence of poor elevation inside a ground floor room.",
+        "visual": "Low-angle tracking shot along damp concrete skirting boards inside a room, illustrating water mark risks from surface runoff.",
+        "on_screen_text": "தரை நீர் சேதம்",
+        "voiceover_tamil": "மழை நீரில் உள் சாமான்கள் பாழாகும்!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Property damage assessments must evaluate low-lying drainage vulnerabilities.",
+        "purpose": "Inspect external infrastructure quality and stormwater path.",
+        "visual": "Over-the-shoulder shot looking down into an open concrete municipal storm drain beside a Coimbatore roadside, checking silt accumulation and slope flow.",
+        "on_screen_text": "வடிகால் வசதி",
+        "voiceover_tamil": "வடிகால் மற்றும் நில மட்டத்தை..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Proper technical verification protects internal habitability.",
+        "purpose": "Provide the practical inspection method for prospective home buyers.",
+        "visual": "Close-up of a civil surveyor placing a green laser spirit level on a granite door threshold to verify elevated baseline protection.",
+        "on_screen_text": "நில மட்டம் சரிபார்",
+        "voiceover_tamil": "முதலீடு செய்யும் முன் சரிபாருங்கள்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Systematic elevation checking guarantees long-term property security.",
+        "purpose": "Show the ideal elevated construction outcome in a local Coimbatore context.",
+        "visual": "Medium shot of a well-designed Coimbatore villa with a raised plinth foundation safely elevated 3 feet above the street level.",
+        "on_screen_text": "உயர் அடித்தளம்",
+        "voiceover_tamil": "பாதுகாப்புதான் உங்கள் சொத்தின் மதிப்பு."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "Direct risk-checked advisory yields sound property decisions.",
+        "purpose": "Final subject proof frame with subtle brand identification.",
+        "visual": "Wide static shot of heavy monsoon rainwater flowing smoothly away down a paved street drain past a secure elevated home. Clean corner logo overlay for OliveTree Investors.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10 seconds (7 short continuous scenes).\n- Aspect Ratio: Native Portrait 9:16 vertical video format (1080x1920 style framing).\n- Target Platform: Mobile social video feed for Coimbatore, Tamil Nadu audience.\n\nB. REALISM LOCK\n- Photorealistic real-world documentary field footage captured on professional mirrorless camera.\n- Real textures: realistic asphalt roads, red soil bricks, weathered concrete storm drains, polished granite thresholds, authentic Indian monsoon sunlight, natural shadows.\n- NO animation, NO 3D CAD renders, NO graphic explainer elements, NO plastic architectural visualization, NO cartoon styles.\n- Setting is strictly natural residential suburbs of Coimbatore, Tamil Nadu.\n\nC. SOURCE SUBJECT LOCK\n- Core Topic: Site Risk & Elevation/Drainage Assessment for Residential Investments.\n- Source Insight: A standing structure is worthless if low ground level allows surface rainwater and sludge to inundate interior spaces. Buyers must evaluate street-to-plinth elevation offsets and storm drain capacities before buying.\n- Coimbatore Specifics: Real-world street drainage evaluation, road level vs plinth height comparison, and concrete storm channel checks in Coimbatore neighborhoods.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Strictly avoid the generic empty plot -> construction -> house -> family template.\n- Focus visually on elevation measurement, road levels, water mark signs, storm drain channels, and laser leveling tools on actual physical sites.\n\nE. CAMERA + IMAGE QUALITY\n- 4K ultra-sharp detail, 24fps motion blur, natural daylight with subtle wet asphalt reflections, true color grading without saturated filters.\n- Camera movements are steady, purposeful, and grounded (handheld tracking, macro pan, low-angle static).\n\nF. EXACT 7-SHOT PLAN\n\n- Shot 1 (0.0s - 1.4s):\n  * Location: Residential road in Coimbatore.\n  * Subject: Tar road surface sitting higher than an adjacent house entry gate.\n  * Camera: Eye-level tilt down shot moving smoothly from street level to gate threshold.\n  * Text Overlay: 'கட்டிடம் மட்டும் போதாது!'\n  * Tamil VO: 'வீட்டின் சுவர்கள் உறுதியாக இருந்தாலும்...'\n\n- Shot 2 (1.4s - 2.8s):\n  * Location: Exterior curb side.\n  * Subject: Yellow industrial tape measure stretched vertically between tar street level and home ground baseline.\n  * Camera: Extreme macro close-up, sharp focus on tape measure numbers.\n  * Text Overlay: 'சாலை மட்டம்'\n  * Tamil VO: 'சாலை மட்டத்தை விட தரை கீழ் இருந்தால்...'\n\n- Shot 3 (2.8s - 4.2s):\n  * Location: Ground floor room interior wall.\n  * Subject: Dampness mark line along concrete skirting board demonstrating flood risk.\n  * Camera: Low-angle slow horizontal tracking shot along floor edge.\n  * Text Overlay: 'தரை நீர் சேதம்'\n  * Tamil VO: 'மழை நீரில் உள் சாமான்கள் பாழாகும்!'\n\n- Shot 4 (4.2s - 5.6s):\n  * Location: Coimbatore roadside municipal drain.\n  * Subject: Open concrete storm drain channel filled with water flow path.\n  * Camera: High-angle over-the-shoulder perspective looking into the drainage trench.\n  * Text Overlay: 'வடிகால் வசதி'\n  * Tamil VO: 'வடிகால் மற்றும் நில மட்டத்தை...'\n\n- Shot 5 (5.6s - 7.0s):\n  * Location: House entrance threshold.\n  * Subject: Civil engineer's hands placing a digital laser spirit level on a raised granite doorway sill.\n  * Camera: Close-up insert shot, laser beam projecting horizontal green line across threshold.\n  * Text Overlay: 'நில மட்டம் சரிபார்'\n  * Tamil VO: 'முதலீடு செய்யும் முன் சரிபாருங்கள்.'\n\n- Shot 6 (7.0s - 8.4s):\n  * Location: Coimbatore residential villa frontage.\n  * Subject: Well-constructed house sitting on a elevated plinth baseline 3 feet above road level.\n  * Camera: Medium eye-level static shot demonstrating solid elevated clearance.\n  * Text Overlay: 'உயர் அடித்தளம்'\n  * Tamil VO: 'பாதுகாப்புதான் உங்கள் சொத்தின் மதிப்பு.'\n\n- Shot 7 (8.4s - 10.0s):\n  * Location: Paved Coimbatore street during light monsoon rain.\n  * Subject: Water running smoothly down roadside gutter away from elevated house gate.\n  * Camera: Ground-level wide static proof shot. Minimal text overlay: 'OliveTree Investors' on lower corner.\n  * Text Overlay: 'OliveTree Investors'\n  * Tamil VO: 'ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்!'\n\nG. MOTION-GRAPHICS LIMIT\n- Only subtle, clean 1-3 word Tamil text overlays. No motion graphic lower thirds, no cartoon icons.\n\nH. FINAL REAL SCENE\n- Finish on a real street scenario showing proper drainage flow around an elevated property. Minimal OliveTree Investors logo in corner.\n\nI. NEGATIVE PROMPT\n- Ban 3D architectural renders, CAD floorplans, animated cartoon explainers, generic family house handovers, plastic visual surfaces, distorted text, fake skylines, duplicated people, camera crew reflections, black bars, landscape letterboxing, whip pans, zoom bursts.",
+    "title_english": "Coimbatore Home Buying: Why Road Level & Elevation Matter More Than Walls",
+    "caption_english": "A strong structure means little if heavy monsoon rain backs up into your ground floor. When evaluating homes or residential plots in Coimbatore, always inspect the street-to-plinth height offset and local stormwater channels. A property built below road level risks severe interior damage to finishes and furnishings during sudden rain spells. Protect your long-term capital by verifying drainage slopes before buying. OliveTree Investors — Smart, risk-checked property advisory in Coimbatore.",
+    "title_tamil": "கோவையில் வீடு வாங்கும் முன் தரை மட்டத்தை சரிபார்த்தீர்களா?",
+    "caption_tamil": "கட்டிடம் உறுதியாக இருந்தாலும், வீட்டின் தரை மட்டம் சாலையை விட தாழ்வாக இருந்தால் மழைக்காலத்தில் பெரும் சேதம் ஏற்படும். கோவை முதலீடுகளில் வடிகால் வசதி மற்றும் அடித்தள உயரத்தை சரிபார்ப்பது அவசியம். பாதுகாப்பான சொத்து தேர்வுக்கு ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸை தொடர்பு கொள்ளுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
