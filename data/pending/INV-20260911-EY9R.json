@@ -3,7 +3,7 @@
   "niche": "investment",
   "label": "PROPERTY INVESTMENT",
   "brand": "olivetree_investors",
-  "status": "awaiting_video",
+  "status": "published",
   "createdAt": "2026-09-11T21:08:59.816Z",
   "candidate": {
     "niche": "investment",
@@ -133,5 +133,63 @@
       "#ApartmentBuyingTips",
       "#OliveTreeInvestors"
     ]
-  }
+  },
+  "publishResult": {
+    "stagedVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/investment/INV-20260911-EY9R.mp4",
+    "targets": {
+      "olivetree_investors": {
+        "youtube": {
+          "platform": "youtube",
+          "videoId": "YMF9sq8V4iU",
+          "url": "https://youtube.com/shorts/YMF9sq8V4iU"
+        },
+        "instagramReel": {
+          "platform": "instagram",
+          "mediaType": "REELS",
+          "mediaId": "17969698128140493"
+        },
+        "instagramStory": {
+          "platform": "instagram",
+          "mediaType": "STORIES",
+          "mediaId": "18331412929274327"
+        }
+      },
+      "olivetree_safebuy": {
+        "youtube": {
+          "platform": "youtube",
+          "videoId": "2z4Y9uxWmpg",
+          "url": "https://youtube.com/shorts/2z4Y9uxWmpg"
+        },
+        "instagramReel": {
+          "platform": "instagram",
+          "mediaType": "REELS",
+          "mediaId": "17888108910613819"
+        },
+        "instagramStory": {
+          "platform": "instagram",
+          "mediaType": "STORIES",
+          "mediaId": "18391571995167597"
+        }
+      },
+      "olivetree_builders": {
+        "youtube": {
+          "platform": "youtube",
+          "videoId": "49GR5VmxlCc",
+          "url": "https://youtube.com/shorts/49GR5VmxlCc"
+        },
+        "instagramReel": {
+          "platform": "instagram",
+          "mediaType": "REELS",
+          "mediaId": "18221722420343910"
+        },
+        "instagramStory": {
+          "platform": "instagram",
+          "mediaType": "STORIES",
+          "mediaId": "17866086564659241"
+        }
+      }
+    }
+  },
+  "updatedAt": "2026-09-12T11:13:56.906Z",
+  "publishedAt": "2026-09-12T11:13:56.908Z"
 }
