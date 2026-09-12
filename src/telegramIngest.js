@@ -160,6 +160,19 @@ async function main() {
   if (!token || !chatId) throw new Error('Missing Telegram credentials');
 
   if (await processWebhookDispatch(niches, chatId)) return;
+
+  const recoveryFileId = String(process.env.RECOVERY_TELEGRAM_FILE_ID || '').trim();
+  const recoveryContentId = String(process.env.RECOVERY_CONTENT_ID || '').trim().toUpperCase();
+  if (recoveryFileId && recoveryContentId) {
+    await handleMessage({
+      chat: { id: chatId },
+      caption: `VIDEO ID: ${recoveryContentId}`,
+      document: { file_id: recoveryFileId, mime_type: 'video/mp4', file_name: `${recoveryContentId}.mp4` },
+    }, niches);
+    console.log(`Processed one-time recovery upload for ${recoveryContentId}`);
+    return;
+  }
+
   await processLegacyPolling(niches, token, chatId);
 }
 
