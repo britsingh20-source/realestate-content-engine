@@ -12,10 +12,10 @@
     "label": "PROPERTY BUYER EDUCATION",
     "emoji": "🏠",
     "creatorConfig": "config/buyer-education.creators.json",
-    "brand": "olivetree_investors",
-    "brandLabel": "OliveTree Investors",
-    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_INVESTORS",
-    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_INVESTORS"
+    "brand": "olivetree_safebuy",
+    "brandLabel": "OliveTree SafeBuy",
+    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_SAFEBUY",
+    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_SAFEBUY"
   },
   "documentation": {
     "label": "PROPERTY DOCUMENTATION & LEGAL",
