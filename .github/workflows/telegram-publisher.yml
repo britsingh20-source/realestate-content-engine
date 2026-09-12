@@ -2,6 +2,10 @@ name: Telegram Social Publisher
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/telegram-publisher.yml'
   repository_dispatch:
     types: [telegram-content-upload]
 
@@ -27,6 +31,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_UPDATE_JSON: ${{ github.event_name == 'repository_dispatch' && toJson(github.event.client_payload.update) || '' }}
+          RECOVERY_CONTENT_ID: CON-20260911-BM9T
+          RECOVERY_TELEGRAM_FILE_ID: BQACAgUAAxkBAANWaqTRUYuPhSbiePYqOyVDHitAVRcAAtQeAAJ38ihVIOHOjA7GVrg9BA
           R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
