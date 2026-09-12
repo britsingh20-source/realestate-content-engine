@@ -48,3 +48,22 @@ jobs:
           MINE_JSON=$(curl -sS -H "Authorization: Bearer ${ACCESS_TOKEN}" 'https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true')
           printf '%s' "$MINE_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); items=d.get('items',[]); print('CONNECTED_CHANNELS=' + str(len(items))); [print(i.get('snippet',{}).get('title','') + ' (' + i.get('id','') + ')') for i in items]"
           echo "Builders OAuth verified; no secret values printed."
+
+  verify-safebuy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Verify SafeBuy OAuth
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_OLIVETREE_SAFEBUY_REFRESH_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          TOKEN_JSON=$(curl -sS -X POST https://oauth2.googleapis.com/token -H 'Content-Type: application/x-www-form-urlencoded' --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" --data-urlencode "grant_type=refresh_token")
+          ACCESS_TOKEN=$(printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))")
+          test -n "$ACCESS_TOKEN" || { echo "SafeBuy OAuth token exchange failed."; printf '%s' "$TOKEN_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('error','unknown'), d.get('error_description',''))"; exit 1; }
+          MINE_JSON=$(curl -sS -H "Authorization: Bearer ${ACCESS_TOKEN}" 'https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true')
+          printf '%s' "$MINE_JSON" | python3 -c "import sys,json; d=json.load(sys.stdin); items=d.get('items',[]); print('CONNECTED_CHANNELS=' + str(len(items))); [print(i.get('snippet',{}).get('title','') + ' (' + i.get('id','') + ')') for i in items]"
+          echo "SafeBuy OAuth verified; no secret values printed."
