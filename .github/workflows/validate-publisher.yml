@@ -1,0 +1,28 @@
+name: Validate Telegram Publisher
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "src/telegramIngest.js"
+      - "src/publish/**"
+      - ".github/workflows/telegram-publisher.yml"
+      - ".github/workflows/validate-publisher.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Validate runtime and syntax
+        run: |
+          ffmpeg -version | head -n 1
+          node --check src/publish/variants.js
+          node --check src/telegramIngest.js
