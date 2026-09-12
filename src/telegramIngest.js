@@ -8,10 +8,12 @@ import { sendStatus } from './telegram.js';
 
 const OFFSET_PATH = 'data/telegram-offset.json';
 const ID_RE = /\b(?:INV|DOC|LAND|CON|BUY)-\d{8}-[A-Z0-9]{4}\b/i;
+const BRAND_STAGGER_MS = Math.max(0, Number(process.env.BRAND_STAGGER_MINUTES || 30) * 60 * 1000);
 
 async function loadJson(path) { return JSON.parse(await fs.readFile(path, 'utf8')); }
 async function readOffset() { try { return (await loadJson(OFFSET_PATH)).offset || 0; } catch { return 0; } }
 async function saveOffset(offset) { await fs.mkdir('data', { recursive:true }); await fs.writeFile(OFFSET_PATH, JSON.stringify({ offset }, null, 2)); }
+async function sleep(ms) { if (ms > 0) await new Promise(resolve => setTimeout(resolve, ms)); }
 
 function extractContentId(message) {
   const candidates = [message.caption, message.text, message.reply_to_message?.text, message.reply_to_message?.caption].filter(Boolean);
@@ -53,6 +55,10 @@ function publishingRoutes(niches) {
   return [...new Map(Object.values(niches).map(route => [route.brand, route])).values()];
 }
 
+function routeNeedsPublish(result = {}) {
+  return ['youtube', 'instagramReel', 'instagramStory'].some(platform => !platformSucceeded(result[platform]));
+}
+
 function captionForBrand(caption, brandLabel) {
   return String(caption).replace(/Olive\s*Tree\s*(?:Builders|Investors|Safe\s*Buy)|OliveTree\s*(?:Builders|Investors|SafeBuy)/gi, brandLabel);
 }
@@ -92,9 +98,20 @@ async function handleMessage(message, niches) {
   const legacyEnglishCaption = [pending.pack?.topic, pending.pack?.core_takeaway, 'Follow OliveTree for clear, practical property insights.'].filter(Boolean).join('\n\n');
   const baseCaption = `${pending.pack?.caption_english || legacyEnglishCaption}\n\n${hashtags}`.trim();
   const targets = { ...(pending.publishResult?.targets || {}) };
+  const routes = publishingRoutes(niches);
+  let publishedAnyRouteThisRun = false;
 
-  for (const route of publishingRoutes(niches)) {
-    const result = { ...(targets[route.brand] || {}) };
+  for (const route of routes) {
+    const existingResult = { ...(targets[route.brand] || {}) };
+    if (!routeNeedsPublish(existingResult)) continue;
+
+    if (publishedAnyRouteThisRun && BRAND_STAGGER_MS > 0) {
+      const minutes = Math.round(BRAND_STAGGER_MS / 60000);
+      console.log(`Waiting ${minutes} minutes before publishing ${route.brandLabel}`);
+      await sleep(BRAND_STAGGER_MS);
+    }
+
+    const result = existingResult;
     const caption = captionForBrand(baseCaption, route.brandLabel);
     const variantBytes = await createBrandVariant({ bytes, brand: route.brand });
     const variantKey = `social-ready/${pending.niche}/${contentId}-${route.brand}.mp4`;
@@ -129,16 +146,17 @@ async function handleMessage(message, niches) {
     }
     targets[route.brand] = result;
     await savePublishProgress(contentId, { stagedVideo: publicUrl, targets });
+    publishedAnyRouteThisRun = true;
   }
 
-  const complete = publishingRoutes(niches).every(route =>
+  const complete = routes.every(route =>
     ['youtube', 'instagramReel', 'instagramStory'].every(platform => platformSucceeded(targets[route.brand]?.[platform]))
   );
   if (complete) await markPublished(contentId, { stagedVideo: publicUrl, targets });
 
-  const summary = publishingRoutes(niches).map(route => {
-    const result = targets[route.brand];
-    return `${route.brandLabel}: YouTube ${result.youtube?.url || result.youtube?.error}; Reel ${result.instagramReel?.mediaId || result.instagramReel?.error}; Story ${result.instagramStory?.mediaId || result.instagramStory?.error}`;
+  const summary = routes.map(route => {
+    const result = targets[route.brand] || {};
+    return `${route.brandLabel}: YouTube ${result.youtube?.url || result.youtube?.error || 'not attempted'}; Reel ${result.instagramReel?.mediaId || result.instagramReel?.error || 'not attempted'}; Story ${result.instagramStory?.mediaId || result.instagramStory?.error || 'not attempted'}`;
   }).join('\n');
   await sendStatus(`${contentId} publishing results:\n${summary}\nStatus: ${complete ? 'published everywhere' : 'partial; successful destinations will not be duplicated on retry'}`);
 }
