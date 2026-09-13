@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260913-28Q8",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T21:33:16.484Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "MFVFvmDpKfI",
+      "title": "Why Height Work test #industrial  #safety",
+      "description": "",
+      "publishedAt": "2026-08-28T06:54:27Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 51,
+      "views": 920,
+      "likes": 3,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=MFVFvmDpKfI",
+      "ageHours": 398.62623333333335,
+      "velocity": 2.3079263808277544,
+      "outlier": 4.0174672489082965,
+      "velocityRatio": 2.3079263808277544,
+      "engagementRatio": 0.16946580695044666
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 36,
+    "priority": "strong"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5262,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.8-flash"
+  },
+  "pack": {
+    "topic": "Residential Construction Elevated Staging & Height Safety Inspection in Coimbatore",
+    "source_script_insight": "Working at height requires mandatory balance/health verification and strict structural safety equipment (lifelines, scaffolding anchors, harness latches) to prevent catastrophic falls.",
+    "coimbatore_angle": "During multi-storey residential slab formwork and brickwork in Coimbatore construction sites, elevated scaffolding and worker height safety protocols are strictly audited to prevent on-site accidents.",
+    "core_takeaway": "Mandate rigid double-pipe scaffolding, secure overhead lifelines, and daily pre-climb worker safety checks on every elevated construction site.",
+    "voiceover_tamil": "உயரத்தில் வேலை செய்யும்போது கவனம் தேவை! தலைசுற்றல் விழுதலை ஏற்படுத்தும். தளவாட பாதுகாப்பு பரிசோதனை அவசியம். பலமான இரட்டை குழாய் Scaffold அமைக்கவும். லைஃப்லைன் கயிற்றில் Safety Harness மாட்டுங்கள். OliveTree-ல் தினசரி பாதுகாப்பு சரிபார்ப்பு! பாதுகாப்பான கட்டுமானம், பலமான வீடு!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook - Highlight height exposure risk on a Coimbatore residential construction slab.",
+        "visual": "Eye-level handheld shot of a construction worker wearing a hardhat looking down from a second-floor exterior concrete beam shuttering edge on a sunny day in Coimbatore.",
+        "camera": "Eye-level, slight upward tilt, fast tracking motion",
+        "on_screen_text": "HEIGHT SAFETY",
+        "voiceover_tamil": "உயரத்தில் வேலை செய்யும்போது கவனம் தேவை!"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Problem - Visualizing instability or vertigo hazard on unanchored temporary elevated planks.",
+        "visual": "Close-up shot of worker boots stepping onto a wobbly wooden scaffold plank, with red caution highlight overlay flashing on the unstable joint.",
+        "camera": "Low angle, micro push-in, fast focus shift",
+        "on_screen_text": "FALL HAZARD",
+        "voiceover_tamil": "தலைசுற்றல் விழுதலை ஏற்படுத்தும்."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Solution Step 1 - Pre-work safety assessment on site.",
+        "visual": "OliveTree Builders site engineer in high-vis vest conducting a quick pre-climb harness and physical safety check with a mason near the scaffold base.",
+        "camera": "Medium shot, 35mm lens feel, side panning",
+        "on_screen_text": "SAFETY CHECK",
+        "voiceover_tamil": "தளவாட பாதுகாப்பு பரிசோதனை அவசியம்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Solution Step 2 - Rigid double-pipe steel scaffolding setup.",
+        "visual": "Crisp wide shot of heavy-duty galvanized double-pipe steel scaffolding with cross-bracing fully erected against a residential brick building exterior in Coimbatore.",
+        "camera": "Low-angle upward tilt shot, smooth gimbal tracking",
+        "on_screen_text": "STEEL SCAFFOLD",
+        "voiceover_tamil": "பலமான இரட்டை குழாய் Scaffold அமைக்கவும்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Solution Step 3 - Harness latching onto structural overhead lifeline.",
+        "visual": "Extreme close-up of a steel carabiner safety latch clipping securely onto a tensioned overhead steel wire lifeline cable anchored to the roof slab.",
+        "camera": "Macro lens, tight focus on carabiner lock mechanism",
+        "on_screen_text": "LIFELINE LOCKED",
+        "voiceover_tamil": "லைஃப்லைன் கயிற்றில் Safety Harness மாட்டுங்கள்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Brand Proof - OliveTree quality & safety audit in action.",
+        "visual": "OliveTree engineer inspecting scaffold base plates and sole boards on concrete ground, ticking off a digital tablet checklist under bright Tamil Nadu sunlight.",
+        "camera": "Medium waist-level shot, smooth forward orbit",
+        "on_screen_text": "OLIVETREE AUDIT",
+        "voiceover_tamil": "OliveTree-ல் தினசரி பாதுகாப்பு சரிபார்ப்பு!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Call to Action / Takeaway - Finished safe structure with text overlay.",
+        "visual": "High dynamic range shot of the completed reinforced concrete frame residential home site with clean safety nets and scaffolding under clear blue Coimbatore sky.",
+        "camera": "Slow upward reveal tilt, 24mm wide lens",
+        "on_screen_text": "SAFE HOMES",
+        "voiceover_tamil": "பாதுகாப்பான கட்டுமானம், பலமான வீடு!"
+      }
+    ],
+    "gemini_video_prompt": "Create an ORIGINAL 10-second vertical 9:16 short-form video for OliveTree Builders, set strictly in COIMBATORE, TAMIL NADU. EXACTLY 10 SECONDS TOTAL, EXACTLY 7 DISTINCT SCENES. Must be 90%+ PHOTOREALISTIC LIVE-ACTION FOOTAGE shot on smartphone/gimbal style in bright daylight on real Tamil Nadu residential construction sites. NO toon animation, NO 3D rendering models, NO glossy white-background explainer graphics.\n\nSCENE BREAKDOWN:\n- Scene 1 (0.0s - 1.4s): Exterior elevated concrete slab edge of an active residential construction site in Coimbatore. Handheld gimbal tracking shot at eye-level showing a construction worker in yellow hardhat and safety vest standing near shuttering frame high above ground. Tamil Nadu bright natural daylight, M-sand dust, red soil background context. Text overlay: 'HEIGHT SAFETY'. Tamil Voiceover: 'உயரத்தில் வேலை செய்யும்போது கவனம் தேவை!'.\n- Scene 2 (1.4s - 2.8s): Low-angle close-up of heavy boots stepping onto an unstable wooden plank scaffold. Red warning highlight overlay pulsing over the joint. Natural sunlight, rough timber textures. Text overlay: 'FALL HAZARD'. Tamil Voiceover: 'தலைசுற்றல் விழுதலை ஏற்படுத்தும்.'.\n- Scene 3 (2.8s - 4.2s): Medium shot, 35mm lens. OliveTree Builders site supervisor wearing high-vis jacket inspecting worker's full-body safety harness before climbing. Active site background with red clay bricks and steel shuttering plates. Text overlay: 'SAFETY CHECK'. Tamil Voiceover: 'தளவாட பாதுகாப்பு பரிசோதனை அவசியம்.'.\n- Scene 4 (4.2s - 5.6s): Upward panning low-angle wide shot of rigid, galvanized double-pipe steel scaffolding with proper diagonal cross-bracing secured against a 2-storey residential building wall in Coimbatore. Text overlay: 'STEEL SCAFFOLD'. Tamil Voiceover: 'பலமான இரட்டை குழாய் Scaffold அமைக்கவும்.'.\n- Scene 5 (5.6s - 7.0s): Macro close-up shot of a heavy steel snap hook/carabiner clipping securely onto a taut overhead steel wire lifeline cable anchored to structural concrete. Sunlight glinting off metallic textures. Text overlay: 'LIFELINE LOCKED'. Tamil Voiceover: 'லைஃப்லைன் கயிற்றில் Safety Harness மாட்டுங்கள்.'.\n- Scene 6 (7.0s - 8.5s): Medium orbit shot of OliveTree site supervisor holding a digital tablet checklist, inspecting scaffold base plates rested on solid timber sole plates on the ground. Professional site execution environment. Text overlay: 'OLIVETREE AUDIT'. Tamil Voiceover: 'OliveTree-ல் தினசரி பாதுகாப்பு சரிபார்ப்பு!'.\n- Scene 7 (8.5s - 10.0s): Smooth low-to-high tilt shot showing a perfectly framed elevated floor slab with green safety netting and sturdy scaffolding under a clear sky in Coimbatore. Text overlay: 'SAFE HOMES'. Tamil Voiceover: 'பாதுகாப்பான கட்டுமானம், பலமான வீடு!'.\n\nCONTINUITY & REALISM RULES:\nMaintain consistent daylight lighting, authentic Tamil Nadu site textures (red soil, M-sand dust, fly ash bricks, concrete shuttering), consistent worker attire (yellow hardhats, olive green/blue work shirts, reflective safety vests). Camera movements must feel like real handheld/gimbal footage.\n\nNEGATIVE PROMPT: Cartoon, 2D animation, flat vector graphic, glossy CGI render, blueprint graphics, floating 3D houses, fake futuristic visual effects, missing helmet, unsafe site practice promoted as safe, out of focus, landscape aspect ratio, black bars, blurred side bars, non-Tamil Nadu environment.",
+    "title_english": "Scaffolding & Height Safety Checklist for Coimbatore Homes",
+    "caption_english": "Working at elevated heights on home construction sites demands absolute precision and zero compromise on safety. At OliveTree Builders in Coimbatore, every structural staging setup undergoes strict daily checks—from rigid double-pipe steel scaffolding to anchored overhead lifelines and full-body harness latches. Ensuring worker stability and pre-climb safety audits protects site personnel and guarantees flawless execution for multi-storey residential projects. Plan your dream home with structural safety from the ground up.\n\nBuild safely with OliveTree Builders, Coimbatore.",
+    "title_tamil": "உயரமான வேலைகளில் பாதுகாப்பு விதிமுறைகள்!",
+    "caption_tamil": "வீடு கட்டும்போது உயரத்தில் வேலை செய்வோரின் பாதுகாப்பு மிகவும் முக்கியம்! OliveTree Builders-ல் இரட்டை குழாய் தளவாடங்கள் மற்றும் Safety Harness கட்டாயமாக்கப்பட்டு தினமும் ஆய்வு செய்யப்படுகிறது. பாதுகாப்பான கட்டுமானத்திற்கு தொடர்புகொள்ளுங்கள்!\n\nOliveTree Builders, கோவை.",
+    "hashtags": [
+      "#CoimbatoreConstruction",
+      "#SiteSafety",
+      "#OliveTreeBuilders"
+    ]
+  }
+}
