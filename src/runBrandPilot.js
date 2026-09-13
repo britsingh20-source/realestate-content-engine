@@ -15,20 +15,26 @@ function sourceMatchesNiche(niche, candidate, sourceNotes) {
   const title = String(candidate.source?.title || '').toLowerCase();
   const text = `${title} ${candidate.source?.description || ''} ${sourceNotes?.text || ''}`.toLowerCase();
   const has = re => re.test(text);
-  const titleHas = re => re.test(title);
+
+  // Construction/building-system subjects must never leak into SafeBuy merely
+  // because the source also says "plot", "handover", "inspection" or "checklist".
+  const constructionSystem = has(/electrical|earthing|grounding|wiring|conduit|mcb|rccb|db box|distribution board|beam|column|slab|concrete|reinforcement|rebar|steel|foundation|footing|plinth|lintel|brick|block masonry|masonry|curing|shuttering|formwork|waterproof|plumbing|pipe pressure|floor trap|bottle trap|plaster|structural crack|tile laying|construction method|workmanship/);
+
   if (niche === 'buyer_education') {
+    if (constructionSystem) return false;
     return has(/buyer|buying|home inspection|handover|apartment|villa|parking|lift|maintenance|amenit|defect|snag|checklist|before buying|before purchase|new home|homebuyer/);
   }
   if (niche === 'documentation') {
+    if (constructionSystem) return false;
     return has(/sale deed|encumbrance|\bec\b|patta|title|rera|approval|legal|ownership|registration|document|survey number|power of attorney|litigation|due diligence/);
   }
   if (niche === 'land_selection') {
     const landEvidence = has(/\bplot\b|\bland\b|site selection|soil|boundary|access road|road width|drainage|flood|slope|survey|frontage|layout|approach road/);
     const buildingDefect = has(/roof|ceiling|terrace|wall damp|waterproofing|plaster|slab leakage|bathroom leakage/);
-    return landEvidence && !buildingDefect;
+    return landEvidence && !buildingDefect && !constructionSystem;
   }
   if (niche === 'construction') {
-    return has(/beam|column|slab|concrete|steel|foundation|plinth|lintel|brick|block|waterproof|roof|ceiling|wall|construction|masonry|curing|plumbing|electrical|conduit|leak|damp|tile|bathroom|floor trap|bottle trap|shuttering|reinforcement|footing|crack|plaster|defect|inspection/);
+    return has(/beam|column|slab|concrete|steel|foundation|footing|plinth|lintel|brick|block|waterproof|roof|ceiling|wall|construction|masonry|curing|plumbing|electrical|earthing|grounding|wiring|conduit|mcb|rccb|distribution board|leak|damp|tile|bathroom|floor trap|bottle trap|shuttering|formwork|reinforcement|rebar|crack|plaster|defect|inspection|workmanship/);
   }
   return true;
 }
