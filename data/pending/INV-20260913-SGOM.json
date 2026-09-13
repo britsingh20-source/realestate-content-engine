@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260913-SGOM",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T05:00:13.156Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "X7oLCvQPjmA",
+      "title": "Malad East !! Brand new project  #dothingsyoudontwanttodo #realestate #realwaystomakemoneyfromhome",
+      "description": "",
+      "publishedAt": "2026-08-29T03:29:01Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 46,
+      "views": 2449,
+      "likes": 33,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=X7oLCvQPjmA",
+      "ageHours": 361.50799333333333,
+      "velocity": 6.77440069144437,
+      "outlier": 2.233470132238942,
+      "velocityRatio": 1.6548531955485053,
+      "engagementRatio": 0.5109812113435966
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 24,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5315
+  },
+  "pack": {
+    "subject_classification": "project execution verification",
+    "source_evidence_points": [
+      "Physical verification of structural milestones (completed floor slabs vs projected timeline).",
+      "On-site observation of active labor, crane operations, and rebar reinforcement as evidence of execution velocity.",
+      "Proximity check to tangible transit anchors and civic infrastructure.",
+      "Mitigating off-plan delivery risk through structured milestone-linked evaluation."
+    ],
+    "topic": "Verifying Construction Velocity & Physical Milestones in Coimbatore Projects",
+    "source_script_insight": "The source proves that the most persuasive risk-mitigation tool for an under-construction project is physically showing active slab casting, on-site workforce density, and surrounding transit infrastructure rather than presenting static digital renders.",
+    "coimbatore_angle": "Coimbatore property investors evaluating ongoing residential developments along key growth corridors must inspect physical structural progress, site workforce activity, and direct road connectivity before committing milestone payments.",
+    "visual_strategy": "The camera moves directly through authentic construction inspection moments: counting cast concrete floor plates, inspecting tied TMT rebar, observing active transit corridors, and checking physical milestone charts on-site in Coimbatore.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never buy under-construction properties based on digital brochures; physically inspect the structural slab count, active daily site velocity, and access roads.",
+    "voiceover_tamil": "ப்ரோஷர் மட்டும் பாக்காதீங்க! நேர்ல போய் ஸ்லாப் கவுண்ட் செக் பண்ணுங்க. வேலை சுறுசுறுப்பா நடக்குதா, ரோடு கனெக்டிவிட்டி சரியா இருக்கான்னு பாருங்க. திட்டமிட்ட முதலீடே பாதுகாப்பு. OliveTree Investors.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Physical verification of structural milestones vs brochure claims.",
+        "purpose": "Visual hook: instantly contrast digital promises with real reinforced concrete framing on-site.",
+        "visual": "Eye-level vertical tracking shot showing an investor holding an architectural sheet against the backdrop of an active multi-storey concrete building frame under Coimbatore morning sunlight.",
+        "on_screen_text": "Ground Reality",
+        "voiceover_tamil": "ப்ரோஷர் மட்டும் பாக்காதீங்க!"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Physical verification of structural milestones.",
+        "purpose": "Show the exact counting and verification of cast concrete floor slabs.",
+        "visual": "Low-angle tilt upward along vertical columns showing clearly cast floor slabs, cured concrete surfaces, and green safety debris nets on upper levels.",
+        "on_screen_text": "Slab Count",
+        "voiceover_tamil": "நேர்ல போய் ஸ்லாப் கவுண்ட் செக் பண்ணுங்க."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "On-site observation of active labor and equipment.",
+        "purpose": "Highlight physical indicators of ongoing construction velocity.",
+        "visual": "Medium close-up of construction crew in yellow hardhats actively tying TMT rebar framework on a freshly poured upper deck, with a concrete mixer operating below.",
+        "on_screen_text": "Active Work",
+        "voiceover_tamil": "வேலை சுறுசுறுப்பா நடக்குதா,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Proximity check to tangible transit anchors.",
+        "purpose": "Demonstrate verifying real road and transit access directly from the site boundary.",
+        "visual": "Restrained elevated shot from the site edge looking down at a paved Coimbatore access road with local buses and steady commercial traffic moving smoothly.",
+        "on_screen_text": "Road Access",
+        "voiceover_tamil": "ரோடு கனெக்டிவிட்டி சரியா இருக்கான்னு பாருங்க."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Mitigating off-plan delivery risk through structured milestone-linked evaluation.",
+        "purpose": "Show systematic inspection of construction schedule milestones.",
+        "visual": "Close-up of a checklist clipboard held by an evaluator, ticking off completed structural foundation and slab stages against physical building progress.",
+        "on_screen_text": "Milestone Check",
+        "voiceover_tamil": "திட்டமிட்ட முதலீடே"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Mitigating off-plan delivery risk through structured milestone-linked evaluation.",
+        "purpose": "Deliver the visual assurance of high-standard structural execution.",
+        "visual": "Crisp wide-angle shot of solid, clean-aligned concrete pillar grids with Western Ghats foothills faintly visible on the distant natural Coimbatore horizon.",
+        "on_screen_text": "Safe Assets",
+        "voiceover_tamil": "பாதுகாப்பு."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Mitigating off-plan delivery risk through structured milestone-linked evaluation.",
+        "purpose": "Final real-world proof and confident investor decision.",
+        "visual": "Eye-level shot of an investor confidently stepping off the finished access path overlooking the robust structural project under clear sky.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "OliveTree Investors."
+      }
+    ],
+    "gemini_video_prompt": "### SECTION A: MANDATORY OUTPUT FORMAT LOCK\n- Exact Duration: 10.0 seconds total.\n- Aspect Ratio: Native Portrait 9:16 (vertical composition only).\n- Resolution: 4K photorealistic real-world video footage.\n- Target Audience & Setting: Strictly Coimbatore, Tamil Nadu.\n\n### SECTION B: REALISM LOCK\n- 100% photorealistic physical-world footage. No 3D CGI renders, no architectural animations, no cartoon characters, no motion graphic explainers.\n- Natural bright morning Tamil Nadu sunlight, authentic Coimbatore atmospheric haze, realistic dust particles near active construction, accurate concrete texture, wet curing marks, authentic TMT rebar sheen, natural shadow angles.\n\n### SECTION C: SOURCE SUBJECT LOCK (OLIVETREE INVESTORS - COIMBATORE)\n- Primary Subject: Project Execution Verification and Milestone Tracking in Under-Construction Properties.\n- Context: Coimbatore property buyers physically auditing structural slab progress, site labor activity, and connecting roadway infrastructure instead of relying purely on brochure promises.\n\n### SECTION D: SUBJECT-SPECIFIC VISUAL STRATEGY\n- FORBIDDEN DEFAULT STORY: Do not show an empty plot morphing into a villa or a generic family celebrating on a couch.\n- Focus purely on empirical evidence: physical slab casting, rebar tie work, real road traffic adjacency, and construction milestone audit checklists.\n\n### SECTION E: CAMERA & CINEMATOGRAPHY RULES\n- Shot with high-end cinema lenses (35mm and 50mm focal lengths).\n- Natural, stabilized handheld and subtle dolly movements. No impossible drone zooms, no 360-degree spins, no fast whip pans, no fisheye distortion.\n\n### SECTION F: EXACT 7-SHOT CHRONOLOGICAL PLAN\n\n1. Shot 1 [0.0s - 1.4s] - Tension/Hook\n   - Location: Active residential construction site boundary, Coimbatore.\n   - Visual: Eye-level vertical view. Foreground shows a hand holding an architectural drawing sheet, framing an authentic multi-storey concrete structural frame under morning light.\n   - Text: \"Ground Reality\"\n   - VO (Tamil): \"ப்ரோஷர் மட்டும் பாக்காதீங்க!\"\n\n2. Shot 2 [1.4s - 2.8s] - Milestone Inspection\n   - Location: Mid-level structural deck.\n   - Visual: Low-angle vertical tilt up concrete columns, clearly showing physical cast floor slabs with green safety netting on upper framing.\n   - Text: \"Slab Count\"\n   - VO (Tamil): \"நேர்ல போய் ஸ்லாப் கவுண்ட் செக் பண்ணுங்க.\"\n\n3. Shot 3 [2.8s - 4.2s] - Labor & Speed Verification\n   - Location: Top working slab plate.\n   - Visual: Medium shot of workers wearing yellow safety helmets tying structural steel rebar meshes; authentic concrete pump line and equipment visible.\n   - Text: \"Active Work\"\n   - VO (Tamil): \"வேலை சுறுசுறுப்பா நடக்குதா,\"\n\n4. Shot 4 [4.2s - 5.6s] - Infrastructure Proximity\n   - Location: Site frontage overlooking access corridor.\n   - Visual: Elevated eye-level view showing the direct junction between the project entrance and a wide asphalt Coimbatore connecting road with moving local traffic.\n   - Text: \"Road Access\"\n   - VO (Tamil): \"ரோடு கனெக்டிவிட்டி சரியா இருக்கான்னு பாருங்க.\"\n\n5. Shot 5 [5.6s - 7.0s] - Milestone Schedule Audit\n   - Location: Site management inspection point.\n   - Visual: Crisp macro shot of an evaluation checklist on a hard clipboard with marked milestones, with structural concrete columns in soft background bokeh.\n   - Text: \"Milestone Check\"\n   - VO (Tamil): \"திட்டமிட்ட முதலீடே\"\n\n6. Shot 6 [7.0s - 8.5s] - Structural Quality Confirmation\n   - Location: Cured lower floor corridor.\n   - Visual: Symmetrical eye-level perspective down a robustly built reinforced concrete column grid, with natural daylight and the distant Western Ghats silhouette visible outside.\n   - Text: \"Safe Assets\"\n   - VO (Tamil): \"பாதுகாப்பு.\"\n\n7. Shot 7 [8.5s - 10.0s] - Final Payoff\n   - Location: Paved approach at the verified property.\n   - Visual: Natural investor walking calmly across the front perimeter of the actively developing project under warm Coimbatore sunlight.\n   - Minimal Lower Overlay: \"OliveTree Investors\"\n   - VO (Tamil): \"OliveTree Investors.\"\n\n### SECTION G: NEGATIVE PROMPT & BANNED ELEMENTS\n- Ban: 2D/3D cartoon animations, CGI architectural walk-throughs, morphing elements, artificial blueprints floating in air, fake skyscrapers, unverified landmark signs, duplicate crowds, distorted hands, neon title cards.",
+    "title_english": "How to Verify Under-Construction Projects in Coimbatore",
+    "caption_english": "Never commit your funds to an under-construction apartment based purely on marketing brochures. Smart real estate investing in Coimbatore demands on-ground verification: count the completed structural slabs, check for active daily labor velocity, and verify true road accessibility at the site gate. Evaluating construction milestones before every payment schedule drastically reduces possession risks. Partner with OliveTree Investors for verified, milestone-backed property investments across Coimbatore.",
+    "title_tamil": "கட்டுமான நிலையை எப்படி சரிபார்ப்பது?",
+    "caption_tamil": "கோவையில் வீடு அல்லது அடுக்குமாடி குடியிருப்பு வாங்கும் முன், வெறும் விளம்பரங்களை மட்டும் நம்பாதீர்கள். நேரில் சென்று ஸ்லாப் வேலைகள், கட்டுமான வேகம் மற்றும் சாலை வசதிகளை உறுதி செய்யுங்கள். பாதுகாப்பான முதலீட்டுக்கு OliveTree Investors-ஐ தொடர்பு கொள்ளுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#OliveTreeInvestors",
+      "#PropertyInvestmentTips"
+    ]
+  }
+}
