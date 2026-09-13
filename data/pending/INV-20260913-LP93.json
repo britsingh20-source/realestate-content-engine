@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260913-LP93",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T23:16:49.831Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "3zWpHEhmsRE",
+      "title": "Lunch at Famous Sunil Hotel, Tunsukia Assam #halalfood #assam #abrarteli",
+      "description": "",
+      "publishedAt": "2026-09-01T11:58:23Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 13,
+      "views": 1798,
+      "likes": 22,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=3zWpHEhmsRE",
+      "ageHours": 299.26532055555555,
+      "velocity": 6.008046627862515,
+      "outlier": 1.6338028169014085,
+      "velocityRatio": 1.557194558654422,
+      "engagementRatio": 0.41485680875473163
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 20,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2676
+  },
+  "pack": {
+    "subject_classification": "location selection and accessibility check",
+    "source_evidence_points": [
+      "Arriving at a verified operational storefront (Sunil Hotel) in a busy local transport corridor.",
+      "Evaluating immediate quality and operational viability on the ground.",
+      "Observing the practical local transport transition (E-rickshaw) outside.",
+      "Encountering a minor on-site usability defect (wet seat) right before boarding."
+    ],
+    "topic": "Evaluating Ground Accessibility and Practical Location Realities in Coimbatore Property Decisions",
+    "source_script_insight": "The source moves from reviewing a verified local storefront to immediately checking transport connectivity and discovering an unexpected on-site dampness issue before boarding. This teaches that surface appeal must be tested against real-world approachability and immediate physical condition.",
+    "coimbatore_angle": "Applying this same critical ground-level inspection to real estate sites across Coimbatore's expanding corridors—checking actual approach road width, monsoon water-drainage realities, and immediate neighborhood usability rather than relying on brochures.",
+    "visual_strategy": "The video uses macro inspection and eye-level street observation in a Coimbatore commercial-residential street to demonstrate accessibility testing. It avoids generic drone property pans, focusing entirely on a real approach road, physical boundary inspection, and a sudden usability defect check.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never buy based on brochures alone; verify ground access, approach roads, and immediate site conditions personally in Coimbatore.",
+    "voiceover_tamil": "Brochure paathutu land edukatheenga. Neenga nerula poi road vasathi, drainage mattum ground reality-ah check pannunga!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Verified physical storefront / operational hub arrival",
+        "purpose": "Hook the viewer with an active ground-level site arrival in a busy Coimbatore commercial street.",
+        "visual": "Eye-level handheld tracking shot walking toward a bustling neighborhood commercial shopfront in Coimbatore with authentic local signage and parked two-wheelers.",
+        "on_screen_text": "Ground Check",
+        "voiceover_tamil": "Brochure paathutu land edukatheenga."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Assessing active local surroundings and immediate traffic flow",
+        "purpose": "Show real operational context and day-to-day street activity.",
+        "visual": "A stable medium shot panning across a narrow Coimbatore arterial road showing local auto-rickshaws and pedestrians navigating standard urban traffic.",
+        "on_screen_text": "Real Access",
+        "voiceover_tamil": "Neenga nerula poi"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Evaluating approach infrastructure",
+        "purpose": "Examine the physical quality of the tarmac and approach path.",
+        "visual": "Low-angle close-up shot of a local street surface showing asphalt texture, utility poles, and roadside drainage alignment in Coimbatore daylight.",
+        "on_screen_text": "Road Width",
+        "voiceover_tamil": "road vasathi,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Observing transport transition and site connectivity",
+        "purpose": "Highlight how easy or difficult it is to reach the target plot.",
+        "visual": "A parked green-and-yellow auto-rickshaw beside a plot boundary wall in Coimbatore, with natural sunlight casting realistic shadows.",
+        "on_screen_text": "Connectivity",
+        "voiceover_tamil": "drainage mattum"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Encountering minor on-site usability defect",
+        "purpose": "Expose unexpected practical issues like water pooling or dampness.",
+        "visual": "Macro hand-held shot pointing down at damp soil and standing water near a property access point, showing realistic reflections and moisture.",
+        "on_screen_text": "Inspect Dampness",
+        "voiceover_tamil": "ground reality-ah"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Practical testing of site readiness",
+        "purpose": "Demonstrate the investor pausing to inspect physical flaws before committing.",
+        "visual": "An investor's hand pointing toward a damp boundary marker or uneven patch on a Coimbatore site access path, captured in sharp focus.",
+        "on_screen_text": "Verify First",
+        "voiceover_tamil": "check pannunga!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Final decision payoff with subtle branding",
+        "purpose": "Conclude with a clear professional takeaway from OliveTree Investors.",
+        "visual": "Static, crisp shot of a verified Coimbatore street corner with minimal text overlay for OliveTree Investors.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "OliveTree Investors - Smart Guidance."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK — Exactly 10 seconds total duration, native portrait 9:16 aspect ratio, full-screen vertical composition with zero letterboxing or pillarboxing.\n\nB. REALISM LOCK — 100% photorealistic physical-world footage. Absolutely no animation, no 2D/3D renders, no cartoon elements, no architectural CGI, no explainer graphics. Captured with real-world optics, natural daylight, authentic Tamil Nadu/Coimbatore urban textures, genuine asphalt, natural dust, real vehicle reflections, and true-to-life human scale.\n\nC. SOURCE SUBJECT LOCK — The subject is location accessibility and ground-level infrastructure verification during property inspection. Based on 4 source evidence points: checking a verified operational hub, observing street traffic flow, inspecting approach infrastructure, and spotting an unexpected site defect (dampness) before committing. Applied strictly to Coimbatore real estate evaluation without generic promotion.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY — Uses macro inspection, eye-level street tracking, and ground-level evidence checking in Coimbatore. The default empty-plot to luxury-villa narrative is strictly forbidden. Every shot focuses on practical street approach, drainage, and surface reality.\n\nE. CAMERA + IMAGE QUALITY — Realistic smartphone/mirrorless camera aesthetic, stabilized handheld motion, natural focal lengths (24mm-50mm), realistic depth of field, authentic shadows, 4K clarity, stable geometry.\n\nF. EXACT 7-SHOT PLAN:\n- Shot 1 (0.0 - 1.4s): Eye-level tracking shot walking toward a busy Coimbatore commercial street with local storefronts and parked two-wheelers. Text: 'Ground Check'. VO: 'Brochure paathutu land edukatheenga.'\n- Shot 2 (1.4 - 2.8s): Medium shot panning across an active Coimbatore arterial road with local auto-rickshaws. Text: 'Real Access'. VO: 'Neenga nerula poi'\n- Shot 3 (2.8 - 4.2s): Low-angle close-up of local street asphalt and roadside drainage in Coimbatore daylight. Text: 'Road Width'. VO: 'road vasathi,'\n- Shot 4 (4.2 - 5.6s): A parked green-and-yellow auto-rickshaw beside a plot boundary wall in Coimbatore under natural sunlight. Text: 'Connectivity'. VO: 'drainage mattum'\n- Shot 5 (5.6 - 7.0s): Macro hand-held shot pointing down at damp soil and standing water near a property access point. Text: 'Inspect Dampness'. VO: 'ground reality-ah'\n- Shot 6 (7.0 - 8.5s): Hand pointing toward a damp boundary marker on a Coimbatore site access path. Text: 'Verify First'. VO: 'check pannunga!'\n- Shot 7 (8.5 - 10.0s): Static, crisp shot of a verified Coimbatore street corner with subtle brand overlay. Text: 'OliveTree Investors'. VO: 'OliveTree Investors - Smart Guidance.'\n\nG. MOTION-GRAPHICS LIMIT — Extremely subtle, clean typographic overlays on real footage only. No cartoon callouts.\n\nH. FINAL REAL SCENE — No end card; finishes directly on the verified Coimbatore street scene with minimal OliveTree Investors branding.\n\nI. NEGATIVE PROMPT / FIXED RULES — Ban toon, cartoon, anime, 3D renders, CGI, fake skylines, floating buildings, morphing roads, distorted text, duplicated people, visible camera crew, religious markings, fake Coimbatore landmarks, landscape framing, black bars.",
+    "title_english": "Stop Buying Land in Coimbatore Without Checking This Ground Reality!",
+    "caption_english": "Brochures always show the best side, but what about the actual approach road and drainage during monsoon season? In Coimbatore real estate, surface appeal can hide ground-level accessibility flaws. Always inspect approach roads, water flow, and neighborhood usability personally before making your investment move. Partner with OliveTree Investors for smart, verified guidance across Coimbatore.\n\n#CoimbatoreRealEstate #PropertyInvestment #OliveTreeInvestors",
+    "title_tamil": "கோவையில் நிலம் வாங்கும் முன் இதை கவனியுங்கள்!",
+    "caption_tamil": "பிரசுரங்களை பார்த்து ஏமாறாதீர்கள். கோவையில் நிலம் வாங்கும் முன் சாலை வசதி மற்றும் வடிகால் நிலவரத்தை நேரில் சரிபார்க்கவும்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
