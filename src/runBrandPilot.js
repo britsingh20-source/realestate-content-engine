@@ -11,31 +11,57 @@ function isActionable(c) {
   return c.viralScore >= 75 || (c.confirmations >= 1 && c.source.outlier >= 2) || c.source.outlier >= 3;
 }
 
+const CONSTRUCTION_RE = /electrical|earthing|grounding|wiring|wire\b|conduit|mcb|rccb|rcbo|db box|distribution board|switchgear|socket|load test|insulation test|beam|column|slab|concrete|reinforcement|rebar|steel|foundation|footing|plinth|lintel|brick|block masonry|masonry|curing|shuttering|formwork|waterproof|damp proof|dpc\b|plumbing|pipe pressure|floor trap|bottle trap|drain pipe|soil pipe|plaster|structural crack|tile laying|tile adhesive|grout|construction method|workmanship|quality check|site execution|structural|rcc\b|pcc\b|screed|terrace treatment|roof treatment|wall crack|seepage|leakage/;
+const DOCUMENT_RE = /sale deed|encumbrance|\bec\b|patta|title deed|title verification|rera|approval|legal|ownership|registration|document|survey number|power of attorney|litigation|due diligence|mother deed|parent document|guideline value|subdivision|fmb|chitta|adangal/;
+const LAND_RE = /\bplot\b|\bland\b|site selection|soil condition|boundary|access road|road width|drainage|flood|slope|survey|frontage|layout|approach road|shape of plot|road access/;
+const BUYER_RE = /buyer|buying|purchase|homebuyer|before buying|before purchase|booking|agreement|handover|possession|maintenance|amenit|parking allotment|association|builder promise|sale agreement|allotment|car park|common area/;
+
+function constructionSubject(text) {
+  return CONSTRUCTION_RE.test(String(text || '').toLowerCase());
+}
+
 function sourceMatchesNiche(niche, candidate, sourceNotes) {
   const title = String(candidate.source?.title || '').toLowerCase();
   const text = `${title} ${candidate.source?.description || ''} ${sourceNotes?.text || ''}`.toLowerCase();
-  const has = re => re.test(text);
+  const isConstruction = constructionSubject(text);
 
-  // Construction/building-system subjects must never leak into SafeBuy merely
-  // because the source also says "plot", "handover", "inspection" or "checklist".
-  const constructionSystem = has(/electrical|earthing|grounding|wiring|conduit|mcb|rccb|db box|distribution board|beam|column|slab|concrete|reinforcement|rebar|steel|foundation|footing|plinth|lintel|brick|block masonry|masonry|curing|shuttering|formwork|waterproof|plumbing|pipe pressure|floor trap|bottle trap|plaster|structural crack|tile laying|construction method|workmanship/);
+  // SUBJECT-FIRST ROUTING:
+  // If the actual lesson is a building system, construction method, workmanship,
+  // material or structural/MEP quality check, Builders wins even when the source
+  // also says buyer, handover, villa inspection, checklist, plot or possession.
+  if (niche !== 'construction' && isConstruction) return false;
 
   if (niche === 'buyer_education') {
-    if (constructionSystem) return false;
-    return has(/buyer|buying|home inspection|handover|apartment|villa|parking|lift|maintenance|amenit|defect|snag|checklist|before buying|before purchase|new home|homebuyer/);
+    return BUYER_RE.test(text) && !DOCUMENT_RE.test(text) && !LAND_RE.test(text);
   }
   if (niche === 'documentation') {
-    if (constructionSystem) return false;
-    return has(/sale deed|encumbrance|\bec\b|patta|title|rera|approval|legal|ownership|registration|document|survey number|power of attorney|litigation|due diligence/);
+    return DOCUMENT_RE.test(text);
   }
   if (niche === 'land_selection') {
-    const landEvidence = has(/\bplot\b|\bland\b|site selection|soil|boundary|access road|road width|drainage|flood|slope|survey|frontage|layout|approach road/);
-    const buildingDefect = has(/roof|ceiling|terrace|wall damp|waterproofing|plaster|slab leakage|bathroom leakage/);
-    return landEvidence && !buildingDefect && !constructionSystem;
+    return LAND_RE.test(text) && !DOCUMENT_RE.test(text);
   }
   if (niche === 'construction') {
-    return has(/beam|column|slab|concrete|steel|foundation|footing|plinth|lintel|brick|block|waterproof|roof|ceiling|wall|construction|masonry|curing|plumbing|electrical|earthing|grounding|wiring|conduit|mcb|rccb|distribution board|leak|damp|tile|bathroom|floor trap|bottle trap|shuttering|formwork|reinforcement|rebar|crack|plaster|defect|inspection|workmanship/);
+    return isConstruction;
   }
+  return true;
+}
+
+function packMatchesNiche(niche, pack) {
+  const text = [
+    pack?.topic,
+    pack?.core_takeaway,
+    pack?.title_english,
+    pack?.caption_english,
+    pack?.gemini_video_prompt,
+    ...(Array.isArray(pack?.scenes) ? pack.scenes.map(s => `${s?.purpose || ''} ${s?.visual || ''} ${s?.on_screen_text || ''}`) : [])
+  ].join(' ').toLowerCase();
+
+  const isConstruction = constructionSubject(text);
+  if (niche !== 'construction' && isConstruction) return false;
+  if (niche === 'construction') return isConstruction;
+  if (niche === 'documentation') return DOCUMENT_RE.test(text) || /legal|document|approval|title|ownership|registration/.test(text);
+  if (niche === 'land_selection') return LAND_RE.test(text) && !DOCUMENT_RE.test(text);
+  if (niche === 'buyer_education') return BUYER_RE.test(text) && !DOCUMENT_RE.test(text) && !LAND_RE.test(text);
   return true;
 }
 
@@ -57,74 +83,75 @@ async function processNiche(niche, meta) {
     ...fresh.filter(c => !isActionable(c))
   ];
 
-  let selected = null;
-  let sourceNotes = null;
   for (const candidate of ordered.slice(0, 12)) {
+    let sourceNotes = null;
     try {
       sourceNotes = await extractYoutubeTranscript(candidate.source.url);
     } catch (err) {
       console.log(`${niche}: transcript error for ${candidate.source.id}: ${err.message}`);
-      sourceNotes = null;
     }
     if (!sourceNotes) {
       console.log(`${niche}: skipping ${candidate.source.id}; source-video analysis unavailable`);
       continue;
     }
     if (!sourceMatchesNiche(niche, candidate, sourceNotes)) {
-      console.log(`${niche}: skipping ${candidate.source.id}; source subject does not match niche`);
+      console.log(`${niche}: skipping ${candidate.source.id}; subject belongs to another brand lane`);
       continue;
     }
-    selected = candidate;
-    break;
-  }
 
-  if (!selected || !sourceNotes) {
-    console.log(`${niche}: no source-video-backed candidate found`);
-    return false;
-  }
+    const contentId = makeContentId(niche);
+    const pack = await generateNicheContentPack({
+      ...candidate,
+      niche,
+      contentId,
+      transcript: sourceNotes.text,
+      transcriptMeta: {
+        subtitleFile: sourceNotes.subtitleFile,
+        chars: sourceNotes.chars,
+        method: sourceNotes.method,
+        model: sourceNotes.model
+      }
+    });
 
-  const contentId = makeContentId(niche);
-  const pack = await generateNicheContentPack({
-    ...selected,
-    niche,
-    contentId,
-    transcript: sourceNotes.text,
-    transcriptMeta: {
-      subtitleFile: sourceNotes.subtitleFile,
-      chars: sourceNotes.chars,
-      method: sourceNotes.method,
-      model: sourceNotes.model
+    // Second guard after Gemini generation. This prevents a SafeBuy source from
+    // drifting into a Builders topic such as waterproofing/electrical/plumbing.
+    if (!packMatchesNiche(niche, pack)) {
+      console.log(`${niche}: rejected generated pack ${contentId}; generated subject belongs to another brand lane`);
+      continue;
     }
-  });
 
-  const record = {
-    contentId,
-    niche,
-    label: meta.label,
-    brand: meta.brand,
-    brandLabel: meta.brandLabel,
-    status: 'awaiting_video',
-    createdAt: new Date().toISOString(),
-    candidate: selected,
-    transcriptMeta: {
-      subtitleFile: sourceNotes.subtitleFile,
-      chars: sourceNotes.chars,
-      method: sourceNotes.method,
-      model: sourceNotes.model
-    },
-    pack
-  };
+    const record = {
+      contentId,
+      niche,
+      label: meta.label,
+      brand: meta.brand,
+      brandLabel: meta.brandLabel,
+      status: 'awaiting_video',
+      createdAt: new Date().toISOString(),
+      candidate,
+      transcriptMeta: {
+        subtitleFile: sourceNotes.subtitleFile,
+        chars: sourceNotes.chars,
+        method: sourceNotes.method,
+        model: sourceNotes.model
+      },
+      pack
+    };
 
-  await addPending(record);
-  await sendContentPack({
-    ...selected,
-    niche,
-    contentId,
-    brandLabel: meta.brandLabel,
-    nicheLabel: meta.label
-  }, pack);
-  console.log(`${niche}: source-video-backed ${meta.brandLabel} prompt sent to Telegram as ${contentId}`);
-  return true;
+    await addPending(record);
+    await sendContentPack({
+      ...candidate,
+      niche,
+      contentId,
+      brandLabel: meta.brandLabel,
+      nicheLabel: meta.label
+    }, pack);
+    console.log(`${niche}: source-video-backed ${meta.brandLabel} prompt sent to Telegram as ${contentId}`);
+    return true;
+  }
+
+  console.log(`${niche}: no correctly routed source-video-backed candidate found`);
+  return false;
 }
 
 async function main() {
