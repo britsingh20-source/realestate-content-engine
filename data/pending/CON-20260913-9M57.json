@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260913-9M57",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T11:59:29.877Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Brick&Bolt",
+    "creatorKey": "brick-bolt",
+    "source": {
+      "id": "F37Qnxa4RSw",
+      "title": "Modern 3 BHK House Plan | 30×40 West Facing Floor Plan Tour",
+      "description": "This thoughtfully planned G+1 residence on a 30×40 west-facing plot features 3 spacious bedrooms, open living spaces, ample natural light, and functional layouts perfect for modern family living.\n\nFrom a practical ground floor to a private first floor and an open terrace ready for future possibilities, every detail is designed with comfort in mind.\n\nWould you build a home like this? Let us know in the comments!\n\n#floorplan #homedesigninspo #houseplan #architecture #fyp",
+      "publishedAt": "2026-07-30T13:44:29Z",
+      "channelId": "UCZIsO0XIk0B78rcrLEqhJOA",
+      "channelTitle": "Brick & Bolt",
+      "durationSeconds": 82,
+      "views": 2537,
+      "likes": 48,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=F37Qnxa4RSw",
+      "ageHours": 1078.2243991666667,
+      "velocity": 2.352942487631318,
+      "outlier": 4.256711409395973,
+      "velocityRatio": 2.352942487631318,
+      "engagementRatio": 1.141505715411904
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 43,
+    "priority": "strong"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3887,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.7-flash"
+  },
+  "pack": {
+    "topic": "30x40 Plot Structural Layout & Column Alignment Inspection",
+    "source_script_insight": "Translating a 30x40 plot design from drawing to ground execution requires strict verification of column grids, setbacks, and staircase headroom before laying footings.",
+    "coimbatore_angle": "Focusing on typical 30x40 residential plots in residential layouts like Vadavalli and Saravanampatti in Coimbatore, ensuring optimal setbacks and column orientation for urban site conditions.",
+    "core_takeaway": "Accurate site marking and column grid orientation on a 30x40 plot prevent expensive setback violations and dark internal spaces.",
+    "voiceover_tamil": "30x40 பிளாட்டில் வீடு கட்ட போறீங்களா? பிளான் போடும்போதே... காலம் க்ரிட் அலைன்மென்ட்... செட்பேக் அளவுகளை சரிபாருங்கள்! படிக்கட்டு ஹெட்ரூம் ஸ்பேஸ்... காற்றோட்ட இடைவெளிகள் முக்கியம்! சரியான பிளானிங், பலமான வீடு!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Visual Hook",
+        "visual": "A site engineer pulling a yellow steel measuring tape across an open 30x40 plot boundary in Coimbatore, framed by red soil and mookanam thread lines.",
+        "camera": "Eye-level low-angle pan along the measuring tape, crisp focus.",
+        "on_screen_text": "30x40 Plot Plan?",
+        "voiceover_tamil": "30x40 பிளாட்டில் வீடு கட்ட போறீங்களா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Layout Marking",
+        "visual": "Close-up of lime powder chalk line marking column locations on cleared ground surface with site string guides.",
+        "camera": "Overhead high-angle macro tilt tracking down the white chalk marking.",
+        "on_screen_text": "Site Marking",
+        "voiceover_tamil": "பிளான் போடும்போதே..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Column Grid Inspection",
+        "visual": "Engineer verifying column starter marking against a laminated floor plan blueprint on a clipboard.",
+        "camera": "Medium shot over-the-shoulder framing the blueprint and marked soil ground.",
+        "on_screen_text": "Column Grid",
+        "voiceover_tamil": "காலம் க்ரிட் அலைன்மென்ட்..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Setback Verification",
+        "visual": "Checking setback distance between plot boundary wall line and footing excavation edge with a measuring tape.",
+        "camera": "Low side angle camera push-in showing precise setback measurement.",
+        "on_screen_text": "Setback Check",
+        "voiceover_tamil": "செட்பேக் அளவுகளை சரிபாருங்கள்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Headroom & Beam Check",
+        "visual": "View looking up at shuttering beam framework for internal staircase zone ensuring headroom clearance.",
+        "camera": "Low angle tilt-up tracking along steel scaffolding and beam shuttering.",
+        "on_screen_text": "Headroom Space",
+        "voiceover_tamil": "படிக்கட்டு ஹெட்ரூம் ஸ்பேஸ்..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "purpose": "Ventilation Gap Check",
+        "visual": "Mason inspecting brickwork window opening alignment along side ventilation set-back corridor.",
+        "camera": "Medium side-profile tracking shot down the narrow side wall passage.",
+        "on_screen_text": "Air Clearance",
+        "voiceover_tamil": "காற்றோட்ட இடைவெளிகள் முக்கியம்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "purpose": "Core Takeaway & Brand End",
+        "visual": "Completed G+1 concrete framed structure under bright Coimbatore sunlight, with an OliveTree Builders quality badge overlay.",
+        "camera": "Slight upward hero tilt showing sturdy framed column structure.",
+        "on_screen_text": "OliveTree Quality",
+        "voiceover_tamil": "சரியான பிளானிங், பலமான வீடு!"
+      }
+    ],
+    "gemini_video_prompt": "Production-grade prompt for OliveTree Builders, COIMBATORE ONLY, EXACTLY 10 SECONDS, EXACTLY 7 SCENES, PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE. 90%+ real-looking visuals, portrait 9:16 aspect ratio. Motion graphics allowed only as small subtle overlays.\n\nSCENE 1 (0.0s - 1.4s): Real active residential construction site in Saravanampatti, Coimbatore. Eye-level shot of a civil engineer in yellow hardhat pulling a yellow steel measuring tape across a freshly surveyed 30x40 feet plot boundary on reddish soil. String lines attached to wooden pegs frame the edges. Text overlay: '30x40 Plot Plan?'. Lighting: Bright midday Tamil Nadu sun.\n\nSCENE 2 (1.4s - 2.8s): High-angle overhead shot looking down at white lime powder being applied along stretched mason threads to mark column grid locations on dry compacted earth. Dust particles visible in daylight. Text overlay: 'Site Marking'.\n\nSCENE 3 (2.8s - 4.2s): Over-the-shoulder medium shot. Site engineer holding a laminated 30x40 house architectural blueprint, checking distance between column marking pegs on ground. Authentic construction background with steel stirrups stacked nearby. Text overlay: 'Column Grid'.\n\nSCENE 4 (4.2s - 5.6s): Low-angle push-in shot focusing on a yellow measuring tape held against the boundary masonry wall line to verify a 3-foot side setback gap before excavation. Ground features red soil and gravel. Text overlay: 'Setback Check'.\n\nSCENE 5 (5.6s - 7.0s): Upward tilt shot inside a G+1 structure framing modern steel props supporting plywood staircase beam shuttering, checking 7-foot vertical headroom space. Warm ambient sunlight streaming through side cutouts. Text overlay: 'Headroom Space'.\n\nSCENE 6 (7.0s - 8.4s): Medium side tracking shot of a skilled mason using a spirit level along red clay brick wall around a side window opening facing the set-back zone. Text overlay: 'Air Clearance'.\n\nSCENE 7 (8.4s - 10.0s): Hero low-angle camera tilt shot showing a cleanly cast G+1 reinforced concrete frame house structure in Coimbatore, featuring straight columns, roof slab cutouts, under clear blue sky. Tiny overlay text badge: 'OliveTree Quality'.\n\nCONTINUITY & TEXTURES: Cohesive daylight, real Coimbatore residential neighborhood surroundings, authentic red soil, steel shuttering, clay bricks, safety gear. High detail, 4k photographic quality.\n\nNEGATIVE PROMPT: No cartoon, 2D animation, flat explainer graphics, 3D floor plan architectural render look, white background infographics, glossy fake CGI, impossible camera floats, blue screen, studio setup, non-Indian workers, fake landmarks, full screen logo cards.",
+    "title_english": "30x40 House Plan Construction Rules in Coimbatore",
+    "caption_english": "Planning to build on a 30x40 plot in Coimbatore? Executing a compact plot design requires strict ground verification before pouring concrete. Always double-check column grid alignment against your architectural floor plan to avoid structural offsets. Ensure accurate boundary setback measurements to guarantee natural lighting and cross ventilation across both floors. Pay special attention to staircase headroom height during shuttering layout. At OliveTree Builders, every site layout undergoes rigorous grid and setback checks for long-lasting structural strength. Contact us for expert residential construction in Coimbatore.",
+    "title_tamil": "30x40 மனை கட்டட பிளானிங் - முக்கிய சோதனைகள்",
+    "caption_tamil": "கோயம்பத்தூரில் 30x40 பிளாட்டில் வீடு கட்டுகிறீர்களா? கட்டடம் தொடங்குவதற்கு முன் காலம் க்ரிட் அலைன்மென்ட் மற்றும் செட்பேக் அளவுகளை சரியாக சரிபார்ப்பது முக்கியம். ஆலிவ்ட்ரீ பில்டர்ஸ் வழங்கும் நிபுணத்துவ கட்டுமான ஆலோசனைகளுக்கு எங்களை தொடர்புகொள்ளுங்கள்.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#HousePlanInspection"
+    ]
+  }
+}
