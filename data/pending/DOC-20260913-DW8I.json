@@ -1,0 +1,131 @@
+{
+  "contentId": "DOC-20260913-DW8I",
+  "niche": "documentation",
+  "label": "PROPERTY DOCUMENTATION & LEGAL",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T11:50:13.896Z",
+  "candidate": {
+    "niche": "documentation",
+    "creator": "IndiaLaw LLP",
+    "creatorKey": "indialaw",
+    "source": {
+      "id": "r28B4LiHs7g",
+      "title": "Rajasthan High Court on Employer-Employee Relationship Under the Workmen’s Compensation Act",
+      "description": "Can a family receive employee compensation without proving that the deceased actually worked there?\n\nThe Rajasthan High Court held that the answer is no.\n\nIn this case, there were no salary records, appointment letters, attendance records, or wage slips to establish an employer-employee relationship. The Court also clarified that taking an injured person to the hospital is an act of humanity and by itself, does not prove employment.\n\nSince the employer-employee relationship was not established, the Court set aside the compensation award.\n\n{Rajasthan High Court, Workmen's Compensation Act, Employer-employee relationship, Employee compensation, Labour law, Compensation claim, Evidence, Legal updates, IndiaLaw}\n\n#IndiaLaw #LabourLaw #RajasthanHighCourt #EmployeeCompensation #LegalAwareness",
+      "publishedAt": "2026-08-06T12:36:53Z",
+      "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
+      "channelTitle": "INDIALAW LLP",
+      "durationSeconds": 66,
+      "views": 442,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=r28B4LiHs7g",
+      "ageHours": 911.1763388888888,
+      "velocity": 0.48508722311532565,
+      "outlier": 9.020408163265307,
+      "velocityRatio": 0.48508722311532565,
+      "engagementRatio": 2
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 42,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4487,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.6-flash"
+  },
+  "pack": {
+    "topic": "Coimbatore Land Documentation: Legal Proof vs Verbal Promises",
+    "source_script_insight": "Humanitarian actions or oral witness claims do not establish a legal relationship or statutory rights; primary documentary evidence is strictly mandatory.",
+    "coimbatore_angle": "Coimbatore property buyers often rely on seller goodwill, key handover, or physical access in areas like Saravanampatti or Thudiyalur without verifying registered documentary proof (Patta, EC, Parent Deeds).",
+    "core_takeaway": "Verbal assurances or friendly access to a land plot hold no legal weight without registered documentary evidence like Patta and Encumbrance Certificates.",
+    "voiceover_tamil": "நில உரிமையாளரின் வாய்வார்த்தை அல்லது அனுமதி மட்டும் உங்களுக்கு சட்ட உரிமை தராது! பட்டா, வில்லங்கம் போன்ற எழுத்துப்பூர்வ ஆவணச் சான்றுகளே அவசியம். OliveTree SafeBuy மூலம் சரிபாருங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook: Friendly handshake on a land plot vs legal reality.",
+        "visual": "Close-up shot of two men shaking hands on a sunny open land plot in Coimbatore with red soil and coconut trees in background.",
+        "camera": "Eye-level handheld 35mm style, slight natural shake.",
+        "on_screen_text": "வாய்வார்த்தை போதுமா?",
+        "voiceover_tamil": "நில உரிமையாளரின் வாய்வார்த்தை..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Illustrate seller giving physical access/permission.",
+        "visual": "Medium shot of seller pointing towards a granite boundary stone marked with yellow paint on dry Coimbatore soil.",
+        "camera": "Low angle, slow forward tracking shot.",
+        "on_screen_text": "அனுமதி மட்டுமே!",
+        "voiceover_tamil": "...அல்லது அனுமதி மட்டும்..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Establish lack of legal ownership without proof.",
+        "visual": "Over-the-shoulder shot of a buyer looking disappointed while holding plain unregistered notes next to a property fencing post.",
+        "camera": "Slight pan left to focus on buyer's hand.",
+        "on_screen_text": "சட்ட உரிமை தராது!",
+        "voiceover_tamil": "...உங்களுக்கு சட்ட உரிமை தராது!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Introduce essential legal documents (Patta & EC).",
+        "visual": "Top-down desk shot of authentic Tamil Nadu legal paper (Stamp paper), Patta document, and Encumbrance Certificate ledger with real paper textures.",
+        "camera": "Static overhead 9:16 angle, sharp focus on Tamil script.",
+        "on_screen_text": "பட்டா & EC அவசியம்",
+        "voiceover_tamil": "பட்டா, வில்லங்கம் போன்ற..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Highlight requirement for primary documentary proof.",
+        "visual": "Close-up of a magnifying glass moving over a registered Tamil Nadu sale deed record showing seal and signatures.",
+        "camera": "Macro close-up with slow diagonal drift.",
+        "on_screen_text": "எழுத்துப் பதிவு தேவை!",
+        "voiceover_tamil": "...எழுத்துப்பூர்வ ஆவணச் சான்றுகளே அவசியம்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Practical inspection step on actual field plot.",
+        "visual": "Field view of a civil surveyor using a measuring tape along a concrete road edge in a Coimbatore residential layout scheme.",
+        "camera": "Mid-shot, pan right following the measuring tape.",
+        "on_screen_text": "ஆவணச் சரிபார்ப்பு",
+        "voiceover_tamil": "ஆவணங்களை மட்டும் நம்புங்கள்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Final takeaway and brand call to action overlay.",
+        "visual": "Real desk scene with verified document folder, green tick mark overlay, daylight streaming from office window.",
+        "camera": "Smooth pull-back shot with sharp focus on documents.",
+        "on_screen_text": "OliveTree SafeBuy",
+        "voiceover_tamil": "OliveTree SafeBuy மூலம் சரிபாருங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "OliveTree SafeBuy video production prompt. TARGET AUDIENCE: COIMBATORE ONLY. EXACTLY 10 SECONDS TOTAL, EXACTLY 7 SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE, 90%+ real-looking visual fidelity. Portrait 9:16 format. Motion graphics allowed ONLY as minimalist overlays. NO toon, cartoon, flat 2D explainer, or plastic 3D CGI render.\n\nSCENE BREAKDOWN:\n- Scene 1 (0.0s - 1.4s): Real-world shot of two South Indian men shaking hands on a bright, sunny land plot in Coimbatore. Red soil ground, coconut palm tree backdrop, realistic natural daylight. Camera: Eye-level 35mm gimbal lens, subtle natural movement. Text overlay: 'வாய்வார்த்தை போதுமா?'. VO: 'நில உரிமையாளரின் வாய்வார்த்தை...'\n- Scene 2 (1.4s - 2.8s): Ground-level perspective showing a seller pointing down at a stone boundary marker painted yellow in a dry Coimbatore plot area (e.g., Kovaipudur style landscape). Camera: Low-angle tracking push forward. Text overlay: 'அனுமதி மட்டுமே!'. VO: '...அல்லது அனுமதி மட்டும்...'\n- Scene 3 (2.8s - 4.2s): Over-the-shoulder shot of a plot buyer holding plain paper without stamp office verification near barbed wire fence. Real textures of skin, rust on fence wire, dust. Camera: Slow lateral pan left. Text overlay: 'சட்ட உரிமை தராது!'. VO: '...உங்களுக்கு சட்ட உரிமை தராது!'\n- Scene 4 (4.2s - 5.6s): Overhead desk view of genuine Tamil Nadu stamp paper documents, official Patta form, and Encumbrance Certificate ledger. Authentic paper grain, blue pen signatures. Camera: Static high-angle portrait 9:16. Text overlay: 'பட்டா & EC அவசியம்'. VO: 'பட்டா, வில்லங்கம் போன்ற...'\n- Scene 5 (5.6s - 7.0s): Macro shot of a hand moving a magnifying glass over official Tamil script legal sale deed bearing official red register stamp. Camera: Macro lens moving diagonally. Text overlay: 'எழுத்துப் பதிவு தேவை!'. VO: '...எழுத்துப்பூர்வ ஆவணச் சான்றுகளே அவசியம்.'\n- Scene 6 (7.0s - 8.5s): Live-action footage of a land surveyor stretching a yellow measuring tape along a tar road curb in a Coimbatore layout site (e.g., Saravanampatti context). Camera: Smooth panning right. Text overlay: 'ஆவணச் சரிபார்ப்பு'. VO: 'ஆவணங்களை மட்டும் நம்புங்கள்!'\n- Scene 7 (8.5s - 10.0s): Clean office desk with a verified document file, authentic sunlight reflecting off the desk, a subtle green checkmark overlay and brand text 'OliveTree SafeBuy'. Camera: Slow pull-back. Text overlay: 'OliveTree SafeBuy'. VO: 'OliveTree SafeBuy மூலம் சரிபாருங்கள்!'\n\nCONTINUITY & STYLE RULES:\n- Maintain natural Tamil Nadu daylight, realistic red soil color grading, authentic paper textures, and actual Coimbatore site environment elements (EB poles, coconut trees, tar roads).\n- No presenter direct-to-camera speaking. No floating houses or magical CGI elements.\n\nNEGATIVE PROMPT:\nDo not include cartoons, 2D animations, glossy 3D renders, unreal smooth plastic surfaces, white-background explainer videos, fake futuristic city, floating icons, non-Tamil documents, or generic foreign locations. Avoid full-screen solid logo end cards; keep real visual scene in background for Scene 7.",
+    "title_english": "Coimbatore Property Alert: Verbal Promises Don't Equal Legal Rights",
+    "caption_english": "Thinking land access or a seller's friendly word means you own the plot? In legal property transactions across Coimbatore—whether in Saravanampatti, Kovaipudur, or Thudiyalur—verbal assurances hold zero legal standing.\n\nJust as legal rights require formal proof, your land ownership depends strictly on verified primary documents like Patta, Encumbrance Certificate (EC), and Parent Deeds. Good faith gestures can never replace statutory paper records.\n\nBefore making any advance payment, verify your documents with OliveTree SafeBuy to protect your hard-earned property investments in Coimbatore.",
+    "title_tamil": "கோவை நிலக் கொள்முதல் எச்சரிக்கை: வாய்வார்த்தை சட்ட உரிமையாகாது!",
+    "caption_tamil": "நில உரிமையாளர் நிலத்தைப் பயன்படுத்த அனுமதித்தாலோ அல்லது வாய்வார்த்தையாக உறுதியளித்தாலோ அது உங்களுக்கு சட்டப்பூர்வ உரிமையை தராது! கோவையில் நிலம் வாங்கும் போது பட்டா, வில்லங்கச் சான்று மற்றும் மூலப் பத்திரங்கள் போன்ற எழுத்துப்பூர்வ ஆதாரங்கள் மட்டுமே செல்லுபடியாகும். உங்கள் நிலப் பத்திரங்களை OliveTree SafeBuy மூலம் சரிபார்த்து பாதுகாப்பாக முதலீடு செய்யுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#SafeBuy",
+      "#LandDocumentation"
+    ]
+  }
+}

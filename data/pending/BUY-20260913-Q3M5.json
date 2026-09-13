@@ -1,0 +1,131 @@
+{
+  "contentId": "BUY-20260913-Q3M5",
+  "niche": "buyer_education",
+  "label": "PROPERTY BUYER EDUCATION",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T11:47:26.453Z",
+  "candidate": {
+    "niche": "buyer_education",
+    "creator": "Buildofy",
+    "creatorKey": "buildofy",
+    "source": {
+      "id": "hTg0IVFeHA4",
+      "title": "The Quite Raga House | Official Promo #buildofy #architecture #indore #home #madhyapradesh #shorts",
+      "description": "",
+      "publishedAt": "2026-09-07T10:30:01Z",
+      "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
+      "channelTitle": "Buildofy",
+      "durationSeconds": 65,
+      "views": 5406,
+      "likes": 170,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=hTg0IVFeHA4",
+      "ageHours": 145.2241813888889,
+      "velocity": 37.2252055291228,
+      "outlier": 0.4694949845846541,
+      "velocityRatio": 1.7097554849490009,
+      "engagementRatio": 1.1596344563388348
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 17,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 6896,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.8-flash"
+  },
+  "pack": {
+    "topic": "Coimbatore Villa Architectural & Waterproofing Inspection Checklist",
+    "source_script_insight": "High architectural ceilings, skylights, and indoor water features create an evocative living atmosphere, but home buyers must technically inspect sub-floor waterproofing, skylight sealants, and frame drainage to prevent costly dampness issues.",
+    "coimbatore_angle": "In popular Coimbatore villa hubs like Vadavalli, Kovaipudur, and Saravanampatti, modern homes with open courtyards and indoor water elements require specific checks against heavy monsoon rains and high water table dampness.",
+    "core_takeaway": "Never buy a modern designer villa based on visual charm alone; verify sub-floor waterproofing around indoor water features and skylight sealing first.",
+    "voiceover_tamil": "பளபளப்பான டிசைன் பார்த்து மயங்காதீங்க! இன்டோர் ஃபவுண்டன் அடியில் லீக்கேஜ் இருக்கா? ஸ்கைலைட் சீலிங் சரியா உள்ளதா? விண்டோ டிராக் வடிகால் செக் பண்ணுங்க! தரைக்கு அடியில் ஈரப்பதம் சோதியுங்க! டெக்னிகல் செக் அவசியம்! ஆலிவ்ட்ரீ சேஃப்பை மூலம் பாதுகாப்பா வாங்குங்க!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Visual Hook",
+        "visual": "A double-height living room in a modern Coimbatore villa with natural sunlight streaming from wooden roof rafters onto a polished floor and indoor water basin.",
+        "camera": "Eye-level slow forward push-in shot with a 24mm wide angle lens.",
+        "on_screen_text": "ஆடம்பர வீடா?",
+        "voiceover_tamil": "பளபளப்பான டிசைன் பார்த்து மயங்காதீங்க!"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Inspection Check 1 - Water Basin Waterproofing",
+        "visual": "Close-up of a hand pointing a thermal moisture pen along the stone edge of a sunken indoor water feature to check for hidden sub-surface dampness.",
+        "camera": "Low-angle close-up macro tracking shot along the stone edge.",
+        "on_screen_text": "வாட்டர் பேசின் செக்",
+        "voiceover_tamil": "இன்டோர் ஃபவுண்டன் அடியில் லீக்கேஜ் இருக்கா?"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Inspection Check 2 - Skylight & Rafter Sealants",
+        "visual": "Looking up towards a pitched roof skylight set into exposed wooden rafters, showing a red highlight box around rubber glass weather joints.",
+        "camera": "High tilt-up angle from floor level looking towards ceiling rafters.",
+        "on_screen_text": "ஸ்கைலைட் சீல் செக்",
+        "voiceover_tamil": "ஸ்கைலைட் சீலிங் சரியா உள்ளதா?"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Inspection Check 3 - Sliding Glass Track Drainage",
+        "visual": "Hand demonstrating water drainage slots in the aluminum bottom track of a floor-to-ceiling glass sliding patio door opening to a courtyard.",
+        "camera": "Top-down 45-degree medium close-up, static shot.",
+        "on_screen_text": "ட்ரைனேஜ் டிராக் செக்",
+        "voiceover_tamil": "விண்டோ டிராக் வடிகால் செக் பண்ணுங்க!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Inspection Check 4 - Floor Tile Dampness",
+        "visual": "Digital pinless moisture meter pressed against polished natural stone flooring adjacent to the courtyard wall in a Vadavalli villa interior.",
+        "camera": "Low-angle close-up tracking down to the floor surface.",
+        "on_screen_text": "ஈரப்பதம் சோதனை",
+        "voiceover_tamil": "தரைக்கு அடியில் ஈரப்பதம் சோதியுங்க!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Expert Verification Awareness",
+        "visual": "A professional civil inspector in a high-vis vest noting technical observations on an OliveTree SafeBuy physical inspection tablet inside the villa.",
+        "camera": "Medium over-the-shoulder shot panning slightly left.",
+        "on_screen_text": "தொழில்நுட்ப ஆய்வு",
+        "voiceover_tamil": "டெக்னிகல் செக் அவசியம்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Final Call to Action",
+        "visual": "Wide sunny shot of the beautiful villa interior with a green verified checkmark graphic overlay and brand text badge.",
+        "camera": "Gimbal smooth wide retreat shot highlighting the bright open living space.",
+        "on_screen_text": "OliveTree SafeBuy",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ சேஃப்பை மூலம் பாதுகாப்பா வாங்குங்க!"
+      }
+    ],
+    "gemini_video_prompt": "Production-grade shot list for OliveTree SafeBuy video generation. Target location: COIMBATORE ONLY. EXACTLY 10 SECONDS TOTAL DURATION, EXACTLY 7 DISTINCT SCENES. Style MUST be 100% PHOTOREALISTIC LIVE-ACTION SMARTPHONE/GIMBAL FOOTAGE in vertical 9:16 portrait ratio. No cartoon, 2D animation, CGI rendering, or fake glossy motion graphics except minimal semi-transparent measurement highlights.\n\nSCENE 1 (0.0 - 1.4s): A sun-drenched double-height living room inside a newly constructed contemporary villa in Kovaipudur, Coimbatore. Sunlight streams from a pitched ceiling with real teakwood rafters onto polished grey Kota stone flooring. Foreground: A sleek sunken indoor water feature with shallow reflective water. Camera: Eye-level smoothly gliding forward with a 24mm wide lens feel. Natural morning lighting, realistic dust particles in sunbeams. On-screen minimalist white bold text overlay: 'ஆடம்பர வீடா?'. Audio: Fast Tamil voiceover: 'பளபளப்பான டிசைன் பார்த்து மயங்காதீங்க!'.\n\nSCENE 2 (1.4 - 2.8s): Extreme macro close-up along the sealant border where the indoor sunken water basin meets the stone floor. An inspector's hand glides a digital moisture detector along the stone border. Camera: Low angle macro tracking shot with tight depth of field. Realistic granite texture, natural water droplets, true-to-life masonry seal. On-screen overlay text: 'வாட்டர் பேசின் செக்'. Audio: Tamil voiceover: 'இன்டோர் ஃபவுண்டன் அடியில் லீக்கேஜ் இருக்கா?'.\n\nSCENE 3 (2.8 - 4.2s): Camera tilted sharply upward looking at a glass skylight framed between rich dark wood ceiling beams. A subtle transparent red box highlights the silicone weather rubber seal around the glass perimeter. Camera: High tilt-up static shot. Realistic Coimbatore sky visible through clear glass, natural roof timber grains. On-screen text: 'ஸ்கைலைட் சீல் செக்'. Audio: Tamil voiceover: 'ஸ்கைலைட் சீலிங் சரியா உள்ளதா?'.\n\nSCENE 4 (4.2 - 5.6s): Close-up shot of a heavy dark powder-coated sliding glass door frame opening to a green courtyard. A finger points to small rectangular water weep holes along the bottom track. Camera: Crisp 45-degree medium close-up, stable tripod framing. Metallic aluminum texture, fine outdoor gravel in background. On-screen text: 'ட்ரைனேஜ் டிராக் செக்'. Audio: Tamil voiceover: 'விண்டோ டிராக் வடிகால் செக் பண்ணுங்க!'.\n\nSCENE 5 (5.6 - 7.0s): Low camera angle near floor level in the living room. A yellow pinless moisture meter is pressed flat against polished grey flagstone flooring, displaying a digital reading. Camera: Downward tracking movement settling beside the meter. Matte finish stone texture, real reflections. On-screen text: 'ஈரப்பதம் சோதனை'. Audio: Tamil voiceover: 'தரைக்கு அடியில் ஈரப்பதம் சோதியுங்க!'.\n\nSCENE 6 (7.0 - 8.5s): Over-the-shoulder shot of an Indian civil engineer wearing a high-visibility yellow jacket holding a digital tablet with line-item checklist, standing inside the bright Coimbatore home. Camera: Smooth pan left at chest level. Professional realistic attire, clear soft ambient interior lighting. On-screen text: 'தொழில்நுட்ப ஆய்வு'. Audio: Tamil voiceover: 'டெக்னிகல் செக் அவசியம்!'.\n\nSCENE 7 (8.5 - 10.0s): Beautiful wide interior shot of the whole sunlit villa living room with double height ceiling and courtyard view. A bright green checkmark badge icon with 'OliveTree SafeBuy' text animates gently onto the center lower third. Camera: Slow gimbal pull-back shot creating scale. Photorealistic, warm home aesthetic. On-screen text: 'OliveTree SafeBuy'. Audio: Tamil voiceover: 'ஆலிவ்ட்ரீ சேஃப்பை மூலம் பாதுகாப்பா வாங்குங்க!'.\n\nCONTINUITY & REALISM RULES: All scenes take place in the exact same Coimbatore villa interior (Kota stone floors, teak wood ceiling rafters, soft off-white plaster walls). Maintain consistent natural daylight color temperature (5500K) across all shots. Real textures of stone, timber, glass, metal, and plaster must be physically accurate.\n\nNEGATIVE PROMPT: No cartoon, 2D explainer animation, glossy 3D CAD renders, floating houses, fake glowing arrows, blueprint graphics, full-screen graphics end cards, landscape aspect ratio, black borders, blurred sides, exaggerated CGI lighting, or fake actors.",
+    "title_english": "Coimbatore Villa Inspection: Check Skylights & Indoor Water Features",
+    "caption_english": "Buying a luxury villa in Coimbatore with open courtyards, skylights, or indoor water features? Don't let elegant visual design hide technical risks! Heavy rains in areas like Vadavalli and Kovaipudur require strict checks on sub-floor waterproofing, skylight silicone sealants, and sliding frame drainage slots before signing your agreement. Ensure complete peace of mind with OliveTree SafeBuy's multi-point technical verification.",
+    "title_tamil": "கோவை வில்லா வாங்கும் முன் இந்த வாட்டர்ப்ரூஃப் சோதனைகளை மறக்காதீங்க!",
+    "caption_tamil": "கோவையில் இன்டோர் ஃபவுண்டன் மற்றும் ஸ்கைலைட் கொண்ட ஆடம்பர வில்லா வாங்கப்போகிறீர்களா? அழகிய டிசைன் மட்டும் போதாது! மழைக்காலத்தில் கசிவு ஏற்படாமல் இருக்க சீலிங் மற்றும் வாட்டர்ப்ரூஃப் தரத்தை கண்டிப்பாக சரிபார்க்க வேண்டும். ஆலிவ்ட்ரீ சேஃப்பை மூலம் உங்கள் வீட்டை பாதுகாப்பாக பரிசோதியுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#OliveTreeSafeBuy",
+      "#VillaInspection"
+    ]
+  }
+}
