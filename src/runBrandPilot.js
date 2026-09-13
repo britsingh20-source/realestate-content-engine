@@ -16,16 +16,19 @@ function sourceMatchesNiche(niche, candidate, sourceNotes) {
   const text = `${title} ${candidate.source?.description || ''} ${sourceNotes?.text || ''}`.toLowerCase();
   const has = re => re.test(text);
   const titleHas = re => re.test(title);
+  if (niche === 'buyer_education') {
+    return has(/buyer|buying|home inspection|handover|apartment|villa|parking|lift|maintenance|amenit|defect|snag|checklist|before buying|before purchase|new home|homebuyer/);
+  }
   if (niche === 'documentation') {
-    return titleHas(/sale deed|encumbrance|patta|title|rera|approval|legal|ownership|registration|document|survey number|power of attorney|litigation|due diligence/);
+    return has(/sale deed|encumbrance|\bec\b|patta|title|rera|approval|legal|ownership|registration|document|survey number|power of attorney|litigation|due diligence/);
   }
   if (niche === 'land_selection') {
-    const landEvidence = titleHas(/\bplot\b|\bland\b|site selection|soil|boundary|access road|road width|drainage|flood|slope|survey|frontage/);
-    const buildingDefect = has(/roof|ceiling|terrace|wall damp|waterproofing|plaster|slab leakage/);
+    const landEvidence = has(/\bplot\b|\bland\b|site selection|soil|boundary|access road|road width|drainage|flood|slope|survey|frontage|layout|approach road/);
+    const buildingDefect = has(/roof|ceiling|terrace|wall damp|waterproofing|plaster|slab leakage|bathroom leakage/);
     return landEvidence && !buildingDefect;
   }
   if (niche === 'construction') {
-    return titleHas(/beam|column|slab|concrete|steel|foundation|plinth|lintel|brick|waterproof|roof|ceiling|wall|construction|masonry|curing/);
+    return has(/beam|column|slab|concrete|steel|foundation|plinth|lintel|brick|block|waterproof|roof|ceiling|wall|construction|masonry|curing|plumbing|electrical|conduit|leak|damp|tile|bathroom|floor trap|bottle trap|shuttering|reinforcement|footing|crack|plaster|defect|inspection/);
   }
   return true;
 }
@@ -50,8 +53,13 @@ async function processNiche(niche, meta) {
 
   let selected = null;
   let sourceNotes = null;
-  for (const candidate of ordered.slice(0, 8)) {
-    sourceNotes = await extractYoutubeTranscript(candidate.source.url);
+  for (const candidate of ordered.slice(0, 12)) {
+    try {
+      sourceNotes = await extractYoutubeTranscript(candidate.source.url);
+    } catch (err) {
+      console.log(`${niche}: transcript error for ${candidate.source.id}: ${err.message}`);
+      sourceNotes = null;
+    }
     if (!sourceNotes) {
       console.log(`${niche}: skipping ${candidate.source.id}; source-video analysis unavailable`);
       continue;
@@ -117,13 +125,17 @@ async function main() {
   const mode = process.argv[2];
   const niches = await loadJson('config/niches.json');
   let targets;
-  if (mode === 'safebuy') targets = ['documentation', 'land_selection'];
+  if (mode === 'safebuy') targets = ['buyer_education', 'documentation', 'land_selection'];
   else if (mode === 'builders') targets = ['construction'];
   else throw new Error('Usage: node src/runBrandPilot.js safebuy|builders');
 
   let sent = 0;
   for (const niche of targets) {
-    if (await processNiche(niche, niches[niche])) sent++;
+    try {
+      if (await processNiche(niche, niches[niche])) sent++;
+    } catch (err) {
+      console.error(`${niche}: generation failed: ${err.message}`);
+    }
   }
   console.log(`${mode}: completed; prompts sent=${sent}`);
 }
