@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260913-IYO3",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T12:42:51.236Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "nFuZaggoEKY",
+      "title": "When you travel by Indian railways #indianinfrastructure 🛤",
+      "description": "Railway 🛤 #travel",
+      "publishedAt": "2026-08-11T00:00:36Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 23,
+      "views": 1190,
+      "likes": 15,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=nFuZaggoEKY",
+      "ageHours": 804.6696355555556,
+      "velocity": 1.4788677830230375,
+      "outlier": 5.1965065502183405,
+      "velocityRatio": 1.4788677830230375,
+      "engagementRatio": 0.655077909220214
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 41,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5393,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash"
+  },
+  "pack": {
+    "topic": "Slope Stability and Foundation Engineering for Coimbatore Red Soil Terrains",
+    "source_script_insight": "The source video visually highlights the transition of terrain from flat agricultural plains to steep, sloped hillsides with exposed red clay soil. The core engineering challenge implied by this transition is slope stability, soil erosion control, and the necessity of specialized foundation systems when constructing on sloped, clay-heavy terrains.",
+    "coimbatore_angle": "Coimbatore's foothill regions like Kovaipudur, Thudiyalur, and Vadavalli feature sloped terrains with characteristic red gravelly clay soil. Building on these slopes requires precise soil testing, stepped footings, and robust retaining walls to prevent soil sliding during heavy Western Ghats monsoon rains.",
+    "core_takeaway": "When building on sloped red-soil plots in Coimbatore, always conduct a soil test, implement stepped footings, and construct engineered retaining walls with proper weep-hole drainage to ensure structural stability.",
+    "voiceover_tamil": "கோயம்புத்தூர் சரிவு நிலங்களில் கட்டும்போது, மண் பரிசோதனை செய்து, படிநிலை அஸ்திவாரம் மற்றும் வடிகாலுடன் கூடிய தடுப்புச்சுவர் அமைப்பதே பாதுகாப்பானது!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Visual Hook - Establish the sloped terrain challenge in Coimbatore",
+        "visual": "A real-world, high-angle shot of a sloped construction plot in Kovaipudur, Coimbatore, showing raw red gravelly soil with the Western Ghats hills hazy in the far background. A surveyor's leveling instrument is visible on a tripod.",
+        "camera": "Slow tilt-down from the distant hills to the steep red soil slope of the plot.",
+        "on_screen_text": "சரிவான நிலமா?",
+        "voiceover_tamil": "கோயம்புத்தூர் சரிவு நிலங்களில்"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Introduce the first critical step: Soil Testing",
+        "visual": "A geotechnical technician in a hardhat and safety vest taking a core soil sample from the sloped red clay ground using a hand auger.",
+        "camera": "Close-up shot focusing on the red clay soil being extracted from the auger tool.",
+        "on_screen_text": "மண் பரிசோதனை!",
+        "voiceover_tamil": "கட்டும்போது, மண் பரிசோதனை செய்து,"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Show the correct foundation method: Stepped Footing",
+        "visual": "An active construction site on a slope showing concrete stepped footings (levels) stepping down the hillside, with steel reinforcement cages visible.",
+        "camera": "Mid-shot, panning slowly from the top step of the concrete footing down to the lower step.",
+        "on_screen_text": "படிநிலை அஸ்திவாரம்",
+        "voiceover_tamil": "படிநிலை அஸ்திவாரம்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Show the structural solution for slope retention",
+        "visual": "A newly cast reinforced concrete retaining wall holding back the massive red soil slope behind it. The concrete texture is raw and detailed with shuttering marks.",
+        "camera": "Low-angle tracking shot moving horizontally along the base of the concrete retaining wall.",
+        "on_screen_text": "வலுவான தடுப்புச்சுவர்",
+        "voiceover_tamil": "மற்றும் தடுப்புச்சுவர்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Highlight critical MEP/drainage detail",
+        "visual": "Close-up of PVC weep-hole pipes embedded in the concrete retaining wall, with clear water trickling out, demonstrating active hydrostatic pressure relief.",
+        "camera": "Static close-up with a shallow depth of field focusing on the water dripping from the pipe.",
+        "on_screen_text": "நீர் வடிகால்",
+        "voiceover_tamil": "முறையான வடிகாலுடன்"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "purpose": "Show soil compaction behind the wall",
+        "visual": "A worker operating a mechanical plate compactor, compacting the backfilled red soil behind the concrete retaining wall to prevent future settling.",
+        "camera": "Eye-level shot tracking the movement of the compactor over the red earth.",
+        "on_screen_text": "மண் திணிப்பு",
+        "voiceover_tamil": "அமைப்பதே"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "purpose": "Final takeaway and brand integration",
+        "visual": "A beautiful, completed modern villa built securely on the stabilized sloped plot, with a neat lawn and the retaining wall integrated into the landscape. A small, elegant OliveTree Builders logo overlay appears in the corner.",
+        "camera": "Slow, smooth gimbal push-in towards the house facade under bright Coimbatore sunlight.",
+        "on_screen_text": "பாதுகாப்பான கட்டுமானம்!",
+        "voiceover_tamil": "மிகவும் பாதுகாப்பானது!"
+      }
+    ],
+    "gemini_video_prompt": "Create an EXACTLY 10-second vertical 9:16 video focusing on slope stability and foundation engineering for residential construction in Coimbatore, Tamil Nadu. The video must consist of EXACTLY 7 distinct scenes, each lasting between 1.0 and 1.6 seconds. The entire video must be rendered in a highly realistic, photorealistic live-action style, simulating high-quality smartphone or gimbal footage on active construction sites. Do not use any cartoon, flat 2D, 3D architectural renders, or corporate motion graphics. All materials, including red gravelly soil, wet concrete, steel rebar, PVC pipes, and safety gear, must have physically accurate textures, dust, and natural daylight shadows reflecting Coimbatore's climate. Scene 1 (0.0-1.4s): High-angle tilt-down shot of a sloped plot in Kovaipudur with red soil and the Western Ghats in the background. Text overlay: 'சரிவான நிலமா?'. Scene 2 (1.4-2.8s): Close-up of a technician in a safety vest extracting a red clay soil sample using a hand auger. Text overlay: 'மண் பரிசோதனை!'. Scene 3 (2.8-4.2s): Mid-shot panning down a series of stepped concrete footings on a hillside. Text overlay: 'படிநிலை அஸ்திவாரம்'. Scene 4 (4.2-5.6s): Low-angle tracking shot of a solid reinforced concrete retaining wall holding back red earth. Text overlay: 'வலுவான தடுப்புச்சுவர்'. Scene 5 (5.6-7.0s): Close-up of PVC weep holes in the retaining wall with water trickling out. Text overlay: 'நீர் வடிகால்'. Scene 6 (7.0-8.4s): Worker compacting backfilled red soil with a plate compactor. Text overlay: 'மண் திணிப்பு'. Scene 7 (8.4-10.0s): Smooth gimbal push-in of a finished modern villa on the stabilized slope under bright sunlight, with a small, transparent OliveTree Builders logo overlay in the top-right corner. Text overlay: 'பாதுகாப்பான கட்டுமானம்!'. NEGATIVE PROMPT: No cartoon animations, no flat explainer graphics, no glossy 3D CAD models, no floating text documents, no fake futuristic cities, no generic stock presenters, no black bars, no landscape footage, no religious symbols, and no full-screen end cards.",
+    "title_english": "Building on Sloped Plots in Coimbatore? Soil & Foundation Guide",
+    "caption_english": "Planning to build your dream home on a sloped plot in Kovaipudur, Vadavalli, or the Western Ghats foothills in Coimbatore? Sloped red-soil terrains offer breathtaking views but demand specialized engineering. Before laying your foundation, a professional soil test is non-negotiable. To prevent soil sliding and structural damage, implement stepped footings to distribute load evenly, and construct robust concrete retaining walls equipped with weep-hole drainage to relieve water pressure during heavy monsoons. At OliveTree Builders, we specialize in terrain-specific structural designs that guarantee lifetime stability for your home. Contact OliveTree Builders today to build safely on any terrain!",
+    "title_tamil": "கோயம்புத்தூர் சரிவு நிலங்களில் வீடு கட்டுகிறீர்களா? அஸ்திவார வழிகாட்டி!",
+    "caption_tamil": "கோவைப்புதூர், வடவள்ளி அல்லது மேற்குத் தொடர்ச்சி மலை அடிவாரப் பகுதிகளில் சரிவான நிலத்தில் வீடு கட்ட திட்டமிடுகிறீர்களா? சரிவு நிலங்கள் அழகானவை, ஆனால் அஸ்திவாரம் அமைப்பதில் கூடுதல் கவனம் தேவை. மண் சரிவைத் தடுக்கவும், கட்டிடத்தின் ஆயுளை நீட்டிக்கவும் முறையான மண் பரிசோதனை மிகவும் அவசியம். நிலத்தின் சரிவுக்கேற்ப படிநிலை அஸ்திவாரங்கள் (Stepped Footings) மற்றும் மழைநீர் தேங்காமல் வெளியேற வடிகால் துளைகளுடன் கூடிய வலுவான தடுப்புச் சுவர்களை (Retaining Walls) அமைக்க வேண்டும். ஆலிவ்ட்ரீ பில்டர்ஸ் (OliveTree Builders) உங்கள் நிலத்தின் தன்மைக்கேற்ற பாதுகாப்பான மற்றும் தரமான கட்டுமானத்தை உறுதி செய்கிறது. உங்கள் கனவு இல்லத்தை பாதுகாப்பாக அமைக்க இன்றே எங்களைத் தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "CoimbatoreConstruction",
+      "SlopeFoundation",
+      "OliveTreeBuilders"
+    ]
+  }
+}
