@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260913-M6PC",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T20:59:14.793Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "ffCCT1JOTAc",
+      "title": "Assam me ye kya horaha hai ?? #assam",
+      "description": "",
+      "publishedAt": "2026-09-04T13:37:47Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 57,
+      "views": 1021,
+      "likes": 57,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=ffCCT1JOTAc",
+      "ageHours": 223.3351477777778,
+      "velocity": 4.571604649600036,
+      "outlier": 0.9281818181818182,
+      "velocityRatio": 1.1762124353665442,
+      "engagementRatio": 1.892841906421397
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 21,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4456
+  },
+  "pack": {
+    "subject_classification": "utility readiness & groundwater quality inspection",
+    "source_evidence_points": [
+      "Ground-level site surveys identify critical utility gaps that surface-level overviews miss.",
+      "Potable water safety and filtration are primary survival/livability requirements before asset utilization.",
+      "Groundwater contamination (silt/iron/hardness) poses severe uninspected risk to long-term occupant health and utility costs.",
+      "Physical staging and verifiable testing of essential infrastructure prevent premature capital deployment."
+    ],
+    "topic": "Coimbatore Land Due Diligence: Borewell Water Quality and Utility Readiness Audit",
+    "source_script_insight": "In the source, relief distribution prioritizes heavy-duty water purifiers and storage because ground survey data proved local water was heavily silted and contaminated with iron. Translated to Coimbatore land investment, superficial layout aesthetics mean nothing if groundwater TDS, iron content, and essential utility drainage are unverified.",
+    "coimbatore_angle": "In expanding Coimbatore corridors (such as suburban Saravanampatti, Neelambur, or Pollachi Road belts), buyers often inspect plot boundaries but neglect groundwater quality (TDS/iron levels) and actual utility pipeline delivery. Verifying water table depth and testing water chemistry on-site prevents expensive post-purchase filtration or dead-investment holding periods.",
+    "visual_strategy": "The visuals bypass generic real estate plots and focus entirely on real-world utility verification: taking a glass beaker water sample from a live borewell pipe, inserting a digital TDS meter showing real readings, checking drainage levels and soil permeability, reviewing an official lab water-test report on site, and confirming clean utility flow.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never buy land in Coimbatore without on-site testing of borewell water quality, TDS levels, and utility infrastructure readiness.",
+    "voiceover_tamil": "இடத்தை வாங்கும் முன் நிலத்தடி நீர் தரம் மற்றும் TDS அளவை களத்தில் சோதிக்கவும்! பயன்பாட்டு உறுதி மட்டுமே உங்கள் முதலீட்டை பாதுகாக்கும்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Ground-level site surveys identify critical utility gaps that surface-level overviews miss.",
+        "purpose": "Establish immediate physical tension through uninspected groundwater sampling.",
+        "visual": "Macro eye-level shot of clear glass testing flask filling with slightly turbid borewell water from a raw PVC site outlet in Coimbatore.",
+        "on_screen_text": "Water Check",
+        "voiceover_tamil": "இடத்தை வாங்கும் முன்..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Groundwater contamination (silt/iron/hardness) poses severe uninspected risk to long-term occupant health and utility costs.",
+        "purpose": "Show technical verification using handheld measurement tool.",
+        "visual": "Close-up of a digital TDS pen meter dipping into the water beaker, LCD screen displaying fluctuating parts-per-million numbers with Coimbatore red-loam soil in background.",
+        "on_screen_text": "TDS Test",
+        "voiceover_tamil": "...நிலத்தடி நீர் தரம்..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Potable water safety and filtration are primary survival/livability requirements before asset utilization.",
+        "purpose": "Verify drainage infrastructure and pipeline grading.",
+        "visual": "Low-angle tracking shot along concrete stormwater drainage trench and pre-laid water utility connection points along a real Coimbatore layout road.",
+        "on_screen_text": "Utility Grid",
+        "voiceover_tamil": "...மற்றும் TDS அளவை..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Physical staging and verifiable testing of essential infrastructure prevent premature capital deployment.",
+        "purpose": "Demonstrate site-level inspection of storage sump and utility depth.",
+        "visual": "Over-the-shoulder view of an inspector using a laser measure to check depth and wall sealing of a reinforced underground water sump on site.",
+        "on_screen_text": "Storage Audit",
+        "voiceover_tamil": "...நேரடியாக சோதிக்கவும்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Ground-level site surveys identify critical utility gaps that surface-level overviews miss.",
+        "purpose": "Cross-reference laboratory chemical parameters against layout records.",
+        "visual": "Hands holding a certified Tamil Nadu Water Testing Laboratory analysis report clipboard showing pH, iron, and hardness test benchmarks against the site backdrop.",
+        "on_screen_text": "Lab Report",
+        "voiceover_tamil": "பயன்பாட்டு உறுதி மட்டுமே..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Groundwater contamination (silt/iron/hardness) poses severe uninspected risk to long-term occupant health and utility costs.",
+        "purpose": "Validate investor decision-making grounded in utility proof.",
+        "visual": "Medium shot of an investor checking the digital borehole telemetry readings on a smartphone while standing on a gravel layout access road under clear Coimbatore sky.",
+        "on_screen_text": "Data Verified",
+        "voiceover_tamil": "...உங்கள் முதலீட்டை..."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Physical staging and verifiable testing of essential infrastructure prevent premature capital deployment.",
+        "purpose": "Final subject proof showing crystal clear potable flow with minimal brand presence.",
+        "visual": "Close-up of clean, sparkling filtered water pouring smoothly into a beaker with green foliage and distant Western Ghats silhouette; clean minimal text overlay.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "...பாதுகாக்கும்!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Length: EXACTLY 10 seconds. Native portrait orientation 9:16 vertical video.\n- Location / Focus: Coimbatore, Tamil Nadu only.\n- Brand: OliveTree Investors.\n\nB. REALISM LOCK\n- Photorealistic real-world documentary footage filmed with a high-end cinema camera / smartphone gimbal setup in natural Tamil Nadu sunlight.\n- Real textures: red gravel, porous concrete drainage walls, authentic PVC piping, real glass laboratory beakers, digital TDS meter screens, genuine water droplets and sunlight refractions.\n- ABSOLUTELY NO cartoon rendering, 3D CGI animation, architectural renders, fake green-screen backgrounds, or stock animation elements.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Utility readiness & groundwater quality inspection (Derived from source lesson on ground surveys exposing severe water contamination and necessity of water purification before settlement).\n- Coimbatore Angle: Pre-purchase due diligence checking borewell TDS, mineral hardness, iron contamination, and storm-water drainage grading in Coimbatore layouts.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Strictly avoid the generic montage of empty plot -> villa -> smiling family.\n- Every shot must visually investigate physical utility infrastructure: water sampling, TDS measurement, drainage gradients, lab reports, and clean water verification.\n\nE. CAMERA + IMAGE QUALITY\n- 4K clarity, 9:16 vertical composition, natural focal lengths (24mm, 50mm, 85mm macro), realistic shutter speed (1/50s), subtle natural camera movement, warm natural sunlight with authentic Coimbatore atmospheric haze.\n\nF. EXACT 7-SHOT PLAN (0.0 to 10.0 SECONDS)\n- Scene 1 (0.0 - 1.4s) | Location: Real Coimbatore layout corner | Macro eye-level view | Raw PVC borehole spout releasing water into a glass beaker | Text: 'Water Check' | VO: 'இடத்தை வாங்கும் முன்...'\n- Scene 2 (1.4 - 2.8s) | Location: Same site bench | Tight close-up on digital TDS pen submerged in beaker, LCD showing numbers, red loam soil background | Text: 'TDS Test' | VO: '...நிலத்தடி நீர் தரம்...'\n- Scene 3 (2.8 - 4.2s) | Location: Concrete drainage channel in layout | Low-angle smooth slider tracking concrete storm trench and utility pipe markers | Text: 'Utility Grid' | VO: '...மற்றும் TDS அளவை...'\n- Scene 4 (4.2 - 5.6s) | Location: Underground sump structure | Over-the-shoulder medium shot using a red laser distance meter pointing into clean concrete sump depth | Text: 'Storage Audit' | VO: '...நேரடியாக சோதிக்கவும்!'\n- Scene 5 (5.6 - 7.0s) | Location: On-site inspection desk | Top-down medium close-up of hands reviewing official Tamil Nadu certified water test analysis sheet on clipboard | Text: 'Lab Report' | VO: 'பயன்பாட்டு உறுதி மட்டுமே...'\n- Scene 6 (7.0 - 8.5s) | Location: Layout gravel road with coconut palm backdrop | Medium side-profile shot of investor analyzing digital site water survey on phone | Text: 'Data Verified' | VO: '...உங்கள் முதலீட்டை...'\n- Scene 7 (8.5 - 10.0s) | Location: Fully plumbed test tap on site | Crisp close-up of pure crystal-clear water flowing smoothly from tap, subtle Western Ghats horizon visible in soft bokeh | Text: 'OliveTree Investors' | VO: '...பாதுகாக்கும்!'\n\nG. MOTION GRAPHICS & TEXT\n- Minimal, ultra-clean sans-serif text overlays (1-2 words maximum), crisp contrast, no gaudy 3D text effects.\n\nH. FINAL REAL SCENE\n- Concludes on real running crystal clear water on site with tiny elegant 'OliveTree Investors' text at bottom. No detached graphic end cards.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Ban: 3D render, cartoon, anime, architectural walkthrough, animated graphics, floating fake UI, CGI water, generic family entering home, construction timelapse, distorted hands/faces, landscape framing, black bars, oversaturated fantasy colors.",
+    "title_english": "Coimbatore Land Buying: Test Borewell Water Quality Before You Buy",
+    "caption_english": "Never judge a property layout solely by its asphalt road. Just like disaster relief surveys prove that water contamination can halt rehabilitation, unverified groundwater in Coimbatore can turn your land investment into a costly headache. Before finalizing any plot in Coimbatore's growth corridors, conduct a ground-level audit of borewell depth, TDS levels, and drainage utility networks. Reliable basic infrastructure protects your livability and future resale value. Connect with OliveTree Investors for verified, utility-audited Coimbatore real estate investments.",
+    "title_tamil": "கோவையில் நிலம் வாங்கும் முன் நிலத்தடி நீர் சோதனை செய்தீர்களா?",
+    "caption_tamil": "கோவையில் மனை வாங்குவதற்கு முன் வெறும் சாலையை மட்டும் பார்க்காமல், நிலத்தடி நீர் தரம் மற்றும் TDS அளவை களத்தில் சோதியுங்கள். பயன்பாட்டு வசதிகள் உறுதியானால் மட்டுமே உங்கள் முதலீடு பாதுகாப்பானது. கூடுதல் தகவல்களுக்கு OliveTree Investors உடன் இணையுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#LandDueDiligence",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
