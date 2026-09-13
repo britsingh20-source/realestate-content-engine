@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260913-3AAH",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T16:31:17.153Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "Gbp4nDE-j6w",
+      "title": "Wish to live in this city forever !! #makkah #madina #ummrah #hajj #pbuh #love #lifeisbutadream",
+      "description": "",
+      "publishedAt": "2026-08-29T03:22:43Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 20,
+      "views": 1465,
+      "likes": 79,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=Gbp4nDE-j6w",
+      "ageHours": 373.10103888888887,
+      "velocity": 3.9265503102399117,
+      "outlier": 1.3330300272975433,
+      "velocityRatio": 0.996008267982064,
+      "engagementRatio": 1.8731704972883463
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 22,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2529
+  },
+  "pack": {
+    "subject_classification": "portfolio strategy",
+    "source_evidence_points": [
+      "Emotional wealth aspirations require fixed timeline targets to transition from passive wishes into executed goals.",
+      "First-person forward movement visually signals active progress along a clear, structured path.",
+      "Systematic tracking against a specific target deadline prevents endless personal delay and capital inefficiency."
+    ],
+    "topic": "Converting Vague Property Wishes into a Structured 2026 Acquisition Timeline in Coimbatore",
+    "source_script_insight": "A desire to reach a destination or milestone remains an unfulfilled wish until bound by a concrete target date and systematic execution.",
+    "coimbatore_angle": "Coimbatore investors frequently wish to secure a prime property in growing corridors like Avinashi Road or Saravanampatti, but delay action. Defining a clear 2026 goal backed by financial verification converts emotional intent into disciplined real estate acquisition.",
+    "visual_strategy": "The visuals follow a first-person journey of goal planning: starting with a deadline calendar and spreadsheet evaluation, moving to document verification and layout site inspection, and ending with a clear boundary survey stone in a Coimbatore layout to embody concrete goal completion.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Don't just wish to own land in Coimbatore; set a structured 2026 timeline and verify your numbers to make it a reality.",
+    "voiceover_tamil": "வெறும் ஆசையா? அல்லது தெளிவான திட்டமா? 2026-க்குள் கோவை சொத்து இலக்கை நிஜமாக்க, முறையான நிதி திட்டமிடல் அவசியம். இடத்தின் ஆவணங்களை சரிபாருங்கள். உங்கள் முதலீட்டு திறனை கணித்துக் கொள்ளுங்கள். தாமதிக்காமல் சரியான முடிவெடுங்கள். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ் உடன் திட்டமிடுங்கள்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Emotional wealth aspirations require fixed timeline targets to transition from passive wishes into executed goals.",
+        "purpose": "Establish central tension between passive wishing and structured milestone setting.",
+        "visual": "High-angle close-up of a desk calendar where 'Coimbatore Property Goal 2026' is circled in pen next to a smartphone showing a active target reminder.",
+        "on_screen_text": "Wish vs Goal?",
+        "voiceover_tamil": "வெறும் ஆசையா? அல்லது தெளிவான திட்டமா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "First-person forward movement visually signals active progress along a clear, structured path.",
+        "purpose": "Show first-person perspective of moving forward toward a property objective in Coimbatore.",
+        "visual": "First-person perspective walking along a clean paved walkway toward an established residential neighborhood in Coimbatore under bright natural sunlight.",
+        "on_screen_text": "Set Target 2026",
+        "voiceover_tamil": "2026-க்குள் கோவை சொத்து இலக்கை நிஜமாக்க..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Systematic tracking against a specific target deadline prevents endless personal delay.",
+        "purpose": "Demonstrate practical budget and milestone structuring.",
+        "visual": "Close-up shot of hands holding a clipboard with an investment milestone checklist, ticking off 'Target Savings' and 'Location Audit'.",
+        "on_screen_text": "Structured Plan",
+        "voiceover_tamil": "முறையான நிதி திட்டமிடல் அவசியம்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Systematic tracking against a specific target deadline prevents endless personal delay.",
+        "purpose": "Illustrate concrete site verification and layout evaluation.",
+        "visual": "Over-the-shoulder view of a buyer holding a physical layout blueprint map over a clean table surface with clear daylight.",
+        "on_screen_text": "Verify First",
+        "voiceover_tamil": "இடத்தின் ஆவணங்களை சரிபாருங்கள்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Systematic tracking against a specific target deadline prevents endless personal delay.",
+        "purpose": "Show analytical calculation of EMI capability and portfolio readiness.",
+        "visual": "Macro view of fingers entering numbers into a financial planner spreadsheet on a laptop, calculating target acquisition metrics.",
+        "on_screen_text": "Track Growth",
+        "voiceover_tamil": "உங்கள் முதலீட்டு திறனை கணித்துக் கொள்ளுங்கள்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "First-person forward movement visually signals active progress along a clear, structured path.",
+        "purpose": "Show decisive physical execution on site.",
+        "visual": "Eye-level side view of an investor holding legal verification documents while standing near a clean Coimbatore layout plot under clear blue sky.",
+        "on_screen_text": "Action Steps",
+        "voiceover_tamil": "தாமதிக்காமல் சரியான முடிவெடுங்கள்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "Emotional wealth aspirations require fixed timeline targets to transition from passive wishes into executed goals.",
+        "purpose": "Deliver concrete proof of goal completion with brand overlay.",
+        "visual": "Low-angle ground level shot focused on a concrete boundary stone in a newly developed Coimbatore layout with soft evening light. Text overlay shows 'OliveTree Investors'.",
+        "on_screen_text": "Plan Your 2026",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ் உடன் திட்டமிடுங்கள்."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10 SECONDS. Native Portrait 9:16 vertical composition, full screen. No horizontal black bars, no blur borders, no cropped landscape.\n\nB. REALISM LOCK\n- Ultra-photorealistic live-action footage from Coimbatore, Tamil Nadu, India.\n- Natural lighting, realistic shadows, photorealistic skin textures, accurate foliage (coconut palms, local flora), physically plausible materials (concrete, paper, glass, stone).\n- Absolutely NO animation, NO 3D renders, NO cartoon assets, NO motion graphics explainer look.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Portfolio Strategy & Goal Timeline Execution for Coimbatore Real Estate.\n- Primary Message: Shift from passive wishing to disciplined deadline-based acquisition (Target 2026).\n- Coimbatore Context: Grounded in real estate preparation in Coimbatore suburban residential zones.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- First-person goal-tracking perspective. Physical artifacts of planning: calendar, clipboard checklist, blueprint map, financial planner spreadsheet, and concrete layout boundary stone in Coimbatore.\n- NO generic family moving into house, NO generic construction timelapse, NO stock property cinematic sequence.\n\nE. CAMERA + IMAGE QUALITY\n- Handheld stabilized / mirrorless camera aesthetic. 4K crystal-clear detail, natural daylight exposure, authentic Tamil Nadu climate and color tones.\n\nF. EXACT 7-SHOT PLAN (0.0 to 10.0 SECONDS)\n\nShot 1 (0.0s - 1.4s):\n- Visual: High-angle close-up of a desk calendar where 'Coimbatore Property Goal 2026' is circled in pen beside a modern smartphone.\n- Text Overlay: 'Wish vs Goal?'\n- Audio (Tamil VO): 'வெறும் ஆசையா? அல்லது தெளிவான திட்டமா?'\n\nShot 2 (1.4s - 2.8s):\n- Visual: First-person walking perspective along a paved neighborhood road in Coimbatore with neat modern wall enclosures.\n- Text Overlay: 'Set Target 2026'\n- Audio (Tamil VO): '2026-க்குள் கோவை சொத்து இலக்கை நிஜமாக்க...'\n\nShot 3 (2.8s - 4.2s):\n- Visual: Close-up on a clipboard held by hands, showing a structured budget checklist with checkmarks.\n- Text Overlay: 'Structured Plan'\n- Audio (Tamil VO): 'முறையான நிதி திட்டமிடல் அவசியம்.'\n\nShot 4 (4.2s - 5.6s):\n- Visual: Over-the-shoulder view reviewing an approved physical layout plan on paper under warm sunlight.\n- Text Overlay: 'Verify First'\n- Audio (Tamil VO): 'இடத்தின் ஆவணங்களை சரிபாருங்கள்.'\n\nShot 5 (5.6s - 7.0s):\n- Visual: Macro shot of laptop screen displaying a spreadsheet tracking EMI and investment targets.\n- Text Overlay: 'Track Growth'\n- Audio (Tamil VO): 'உங்கள் முதலீட்டு திறனை கணித்துக் கொள்ளுங்கள்.'\n\nShot 6 (7.0s - 8.4s):\n- Visual: Eye-level shot of an investor checking approval documents while standing on a vacant layout plot in Coimbatore.\n- Text Overlay: 'Action Steps'\n- Audio (Tamil VO): 'தாமதிக்காமல் சரியான முடிவெடுங்கள்.'\n\nShot 7 (8.4s - 10.0s):\n- Visual: Ground-level crisp focus on a clean concrete survey boundary marker stone in a Coimbatore layout with soft sunset glow. Small minimal text overlay: 'OliveTree Investors'.\n- Text Overlay: 'Plan Your 2026'\n- Audio (Tamil VO): 'ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ் உடன் திட்டமிடுங்கள்.'\n\nG. MOTION-GRAPHICS LIMIT\n- Only simple, minimal 1-3 word text overlays centered or at the lower third. No flashy transitions or animated lower thirds.\n\nH. FINAL REAL SCENE\n- Ends directly on the real boundary marker stone shot in Coimbatore. No standalone branding card.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Banned: Toon, cartoon, 3D architectural render, CGI, fake skyline, floating text graphics, generic happy family payoff, landscape video in vertical frame, fast whip pans, blurry textures, religious symbols, unverified location claims.",
+    "title_english": "Turn Your Property Wish Into a 2026 Coimbatore Goal",
+    "caption_english": "Wishing to own property in Coimbatore without a timeline rarely leads to execution. By setting a strict 2026 acquisition target and pairing it with rigorous document verification and budget structuring, you shift from passive desire to measurable progress. Focus on growth corridors with clear legal titles and structured financial planning. Partner with OliveTree Investors to define your 2026 Coimbatore real estate strategy today.",
+    "title_tamil": "2026-க்குள் கோவை சொத்து இலக்கை அடைய எளிய வழி",
+    "caption_tamil": "கோவையில் நிலம் வாங்க வேண்டும் என்ற வெறும் ஆசையை, தெளிவான 2026 இலக்காக மாற்றுங்கள். சரியான திட்டமிடல் மற்றும் ஆவண சரிபார்ப்புடன் உங்கள் முதலீட்டு பயணத்தை இன்றே தொடங்குங்கள். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ் உடன் இணைந்து உங்கள் இலக்கை அடையுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
