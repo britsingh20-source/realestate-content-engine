@@ -1,0 +1,131 @@
+{
+  "contentId": "DOC-20260913-933Q",
+  "niche": "documentation",
+  "label": "PROPERTY DOCUMENTATION & LEGAL",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T05:25:03.473Z",
+  "candidate": {
+    "niche": "documentation",
+    "creator": "IndiaLaw LLP",
+    "creatorKey": "indialaw",
+    "source": {
+      "id": "KwoRmDSbicU",
+      "title": "Andhra Pradesh High Court on Passport Denial Based on FIR",
+      "description": "Can your passport be denied just because an FIR has been filed against you?\n\nThe Andhra Pradesh High Court held that the answer is no.\n\nThe Court clarified that a mere FIR or pending police investigation is not enough to refuse a passport. Under the Passports Act, a passport can be denied only when criminal proceedings are pending before a competent court.\n\nThe judgment also reiterates that the right to travel abroad forms part of personal liberty under Article 21 of the Constitution.\n\n{Andhra Pradesh High Court, Passport, FIR, Passports Act, Article 21, Right to travel, Criminal proceedings, Personal liberty, Legal updates, IndiaLaw}\n\n#IndiaLaw #Passport #Article21 #AndhraPradeshHighCourt #LegalAwareness",
+      "publishedAt": "2026-08-08T13:00:18Z",
+      "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
+      "channelTitle": "INDIALAW LLP",
+      "durationSeconds": 53,
+      "views": 525,
+      "likes": 11,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=KwoRmDSbicU",
+      "ageHours": 856.3898780555555,
+      "velocity": 0.6130385393998576,
+      "outlier": 10.714285714285714,
+      "velocityRatio": 0.6130385393998576,
+      "engagementRatio": 9.26095238095238
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 43,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3557,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.7-flash"
+  },
+  "pack": {
+    "topic": "Mere FIR or Police Complaint vs Court Stay in Property Registration",
+    "source_script_insight": "A mere complaint or FIR at the police stage does not legally bar rights (like passport issuance) unless formal court proceedings/cognizance take place under statutory law. Similarly, in property documentation, a mere police complaint or unadjudicated objection letter cannot automatically freeze property registration without a formal court injunction or competent authority order.",
+    "coimbatore_angle": "Coimbatore buyers often panic when a seller mentions a local police complaint or minor boundary FIR from neighbours, assuming registration is automatically blocked at the Sub-Registrar Office (SRO). Knowing that an active civil court injunction is required to legally halt registration prevents buyers from walking away from clean titles unnecessarily.",
+    "core_takeaway": "An unadjudicated police complaint or FIR alone does not legally bar property registration; verify whether a formal court injunction or stay order actually exists.",
+    "voiceover_tamil": "புகார் மட்டும் இருந்தால், பத்திரம் பதிய முடியாதா? வெறும் எஃப்.ஐ.ஆர் போதுமானதல்ல! நீதிமன்ற தடை உத்தரவு தேவை! வில்லங்க சான்றிதழ் சரிபாருங்கள்! பதிவு துறை விதிகளை அறிவீர்! ஆலிவ்ட்ரீ சேஃப்பாய் உடன் பாதுகாப்பாய் வாங்குங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Visual Hook - Police FIR document next to Tamil Nadu Sale Deed on a desk",
+        "visual": "Extreme close-up top-down shot of a Tamil Nadu Sale Deed draft beside an official police FIR notice paper on a wooden office desk in Coimbatore.",
+        "camera": "Top-down 9:16 macro, steady slow downward tilt",
+        "on_screen_text": "FIR = Blocked?",
+        "voiceover_tamil": "புகார் மட்டும் இருந்தால்,"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Addressing the Common Misconception",
+        "visual": "A property buyer looking hesitant at a Sub-Registrar Office counter exterior in Coimbatore with stamp paper folders in hand.",
+        "camera": "Eye-level medium shot, subtle handheld movement",
+        "on_screen_text": "Registration Stop?",
+        "voiceover_tamil": "பத்திரம் பதிய முடியாதா?"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Core Legal Insight - FIR alone is insufficient",
+        "visual": "Close-up of legal documents where a red warning mark turns into a grey inquiry icon over a complaint document, showing no court order attached.",
+        "camera": "Over-the-shoulder focus shift on document detail",
+        "on_screen_text": "FIR Not Enough",
+        "voiceover_tamil": "வெறும் எஃப்.ஐ.ஆர் போதுமானதல்ல!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "The Statutory Requirement - Court Injunction / Stay Order",
+        "visual": "A green checkmark graphic highlights an official Civil Court Injunction Order document on the lawyer's table.",
+        "camera": "45-degree angle medium close-up, smooth push-in",
+        "on_screen_text": "Court Order Needed",
+        "voiceover_tamil": "நீதிமன்ற தடை உத்தரவு தேவை!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Practical Verification - Encumbrance Certificate (EC) Inspection",
+        "visual": "Hands holding a fresh Tamil Nadu Encumbrance Certificate (EC) document under natural morning daylight, pointing to the entry lines.",
+        "camera": "Close-up hand-held tracking shot over EC paper",
+        "on_screen_text": "Check EC Details",
+        "voiceover_tamil": "வில்லங்க சான்றிதழ் சரிபாருங்கள்!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Rule Awareness - Registration Act Compliance",
+        "visual": "Real estate plot in Saravanampatti, Coimbatore with concrete boundary pillars and clear access road, showing verified physical status.",
+        "camera": "Low angle gimbal walk forward past boundary stone",
+        "on_screen_text": "Verify TN Rules",
+        "voiceover_tamil": "பதிவு துறை விதிகளை அறிவீர்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Brand Payoff & Safety Takeaway",
+        "visual": "Real estate advisor placing a verified seal on a document folder at a sunlit site office overlooking a Coimbatore residential plot layout.",
+        "camera": "Eye-level medium shot, slow rack focus to background plot",
+        "on_screen_text": "SafeBuy Verification",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ சேஃப்பாய் உடன் பாதுகாப்பாய் வாங்குங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "OliveTree SafeBuy educational video concept. COIMBATORE ONLY context. EXACTLY 10 SECONDS TOTAL, EXACTLY 7 DISTINCT SCENES (0.0-1.4s, 1.4-2.8s, 2.8-4.2s, 4.2-5.6s, 5.6-7.0s, 7.0-8.5s, 8.5-10.0s). Native vertical 9:16 portrait video format. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE throughout. At least 90% photorealistic visuals recorded on location in Coimbatore, Tamil Nadu. Daylight lighting, natural textures, real legal document paper, Tamil Nadu stamp papers, genuine office desks, and real plot environments. \n\nSCENE 1 (0.0-1.4s): Extreme macro top-down view of a Tamil Nadu green stamp paper deed next to a police FIR notice on a dark teakwood desk in Coimbatore. Text overlay: 'FIR = Blocked?'. Lens: 35mm macro, f/2.8. Lighting: Soft morning daylight through window shutters.\nSCENE 2 (1.4-2.8s): Medium shot of a middle-aged male buyer carrying a green paper document folder outside a clean Sub-Registrar Office in Coimbatore (SRO style building). Text overlay: 'Registration Stop?'. Camera: Eye-level, subtle hand-held micro-jib motion.\nSCENE 3 (2.8-4.2s): Over-the-shoulder close-up of legal papers on a desk; a thin red translucent highlight box appears over a police complaint sheet while text overlay shows 'FIR Not Enough'. Natural office interior lighting.\nSCENE 4 (4.2-5.6s): Close-up shot of a formal court order document with stamp on a lawyer's table, overlaid with a subtle translucent green checkmark line. Text overlay: 'Court Order Needed'. Camera: 45-degree angle slow push-in.\nSCENE 5 (5.6-7.0s): Close-up shot of hands holding an official Tamil Nadu Encumbrance Certificate (EC) document in bright natural lighting outdoors. Text overlay: 'Check EC Details'. Camera: Smooth tracking shot over document lines.\nSCENE 6 (7.0-8.5s): Low-angle gimbal forward tracking shot moving past a granite boundary pillar on a clear residential layout plot in Saravanampatti, Coimbatore, showing red soil, green grass, and concrete road edges. Text overlay: 'Verify TN Rules'.\nSCENE 7 (8.5-10.0s): Eye-level medium shot of an advisor placing a 'VERIFIED' stamp on a property file on a desk with a view of a clean sunny Coimbatore plot layout through the window. Overlay text: 'SafeBuy Verification'.\n\nCONTINUITY & STYLE: Realistic Indian colors, natural skin tones, real Tamil Nadu registration paper textures, authentic Coimbatore outdoor scenery, clean typography. No floating CGI houses, no 2D cartoon characters, no white studio backgrounds, no fake futuristic graphics. Motion graphics restricted strictly to minimalist transparent 2D labels and small outline boxes over real camera footage.\n\nNEGATIVE PROMPT: animated cartoon, 3D render, glossy plastic visuals, floating 3D text, studio backdrop, fake city, camera crew, religious icons, non-Tamil documents, generic foreign buildings, landscape aspect ratio, black bars, blurred borders.",
+    "title_english": "Does an FIR Stop Property Registration in Coimbatore?",
+    "caption_english": "Does a police complaint or FIR automatically stop property registration in Coimbatore? Many buyers assume a police objection locks the title, but under Tamil Nadu registration principles, a mere FIR or unverified complaint is not legal grounds to withhold registration. Only a formal civil court stay or injunction order legally halts the process. Before walking away from a plot or getting trapped in delays, verify whether an actual court order exists on record with OliveTree SafeBuy.",
+    "title_tamil": "எஃப்.ஐ.ஆர் இருந்தால் பத்திரம் பதிய முடியாதா?",
+    "caption_tamil": "கோவை நிலப் பதிவில் புகார் அல்லது எஃப்.ஐ.ஆர் இருந்தால் பத்திரம் பதிய முடியாது என்பது உண்மையா? நீதிமன்ற தடை உத்தரவு இல்லாமல் வெறும் புகார் மட்டும் பதிவை தடுக்காது. சரியான சட்ட உண்மைகளை அறிந்து பத்திரப் பதிவை பாதுகாப்பாக மேற்கொள்ள ஆலிவ்ட்ரீ சேஃப்பாய் உடன் சரிபாருங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyDocumentation",
+      "#OliveTreeSafeBuy"
+    ]
+  }
+}

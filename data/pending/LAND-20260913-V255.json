@@ -1,0 +1,131 @@
+{
+  "contentId": "LAND-20260913-V255",
+  "niche": "land_selection",
+  "label": "SMART LAND SELECTION",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T05:27:57.764Z",
+  "candidate": {
+    "niche": "land_selection",
+    "creator": "Nemmadi Home Inspection",
+    "creatorKey": "nemmadi",
+    "source": {
+      "id": "vk9NEu7Apws",
+      "title": "Neutral & Body Earthing Clubbed Together? This Shouldn’t Be Done | RWA HOTO",
+      "description": "Neutral & Body Earthing Clubbed Together? This Shouldn’t Be Done | RWA HOTO\n\nNeutral earthing and body earthing serve different purposes in an electrical system. A situation where neutral and body earthing have been clubbed into one, which ideally should not be done.\n\nBook Now: https://nemmadi.in/quote-for-rwa/\n\n#rwa #neutralearthing #bodyearthing #earthing #electricalsafety #electricalinspection  #electricalsafetyinspection #rwahoto #constructiondefects #nemmadi",
+      "publishedAt": "2026-09-12T02:00:37Z",
+      "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+      "channelTitle": "Nemmadi. In",
+      "durationSeconds": 25,
+      "views": 1190,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=vk9NEu7Apws",
+      "ageHours": 27.40792638888889,
+      "velocity": 43.41809676205287,
+      "outlier": 1.0696629213483146,
+      "velocityRatio": 25.53605513729913,
+      "engagementRatio": 0.6312391228680823
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 41,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4498,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash"
+  },
+  "pack": {
+    "topic": "Electrical Earthing & Safety Inspection During Plot Handover",
+    "source_script_insight": "Critical electrical safety hazard where transformer neutral and body earthing are improperly combined into a single connection, bypassing safety redundancy and creating severe shock hazards.",
+    "coimbatore_angle": "Essential electrical safety checks for newly developed gated plots or independent villa projects in fast-growing Coimbatore suburbs like Saravanampatti or Thudiyalur before taking final handover.",
+    "core_takeaway": "Never accept combined neutral and body earthing in common utility connections; verify professional electrical compliance to prevent fatal shock hazards.",
+    "voiceover_tamil": "கோவையில் புது Plot வாங்கும்போது... Transformer Earthing-ல இந்த தப்பு இருக்கானு பாருங்க! Neutral-ம் Body-யும் ஒன்னா இணைச்சிருக்க கூடாது. கரண்ட் ஷாக் ஆபத்து! OliveTree SafeBuy மூலம் சரிபார்க்கவும்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook the viewer with an outdoor utility yard inspection in Coimbatore",
+        "visual": "A site inspector in a white safety hard hat and black t-shirt walking past a gravel-filled electrical yard toward a large distribution transformer.",
+        "camera": "Eye-level, steady handheld portrait gimbal shot, 24mm lens feel, slight forward push.",
+        "on_screen_text": "Earthing Check!",
+        "voiceover_tamil": "கோவையில் புது Plot வாங்கும்போது..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Show close-up of electrical earthing strips running down a wall",
+        "visual": "Metal earthing flats running vertically down a weathered concrete wall near covered earthing pits in bright Tamil Nadu daylight.",
+        "camera": "Low angle, tight framing, static shot with subtle pan down.",
+        "on_screen_text": "Pit Strips",
+        "voiceover_tamil": "Transformer Earthing-ல..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.3,
+        "purpose": "Highlight the connection point on the transformer unit",
+        "visual": "Inspector pointing finger at the metal terminal strip connected to the base of a transformer unit labeled with yellow-black hazard stripes.",
+        "camera": "Close-up, steady portrait framing, slight rack focus onto the metal joint.",
+        "on_screen_text": "Check Terminals",
+        "voiceover_tamil": "இந்த தப்பு இருக்கானு பாருங்க!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.7,
+        "purpose": "Reveal the core defect: combined neutral and body earthing",
+        "visual": "Close-up of the metal busbar where neutral earthing and body earthing cables are improperly clamped into a single common connection point.",
+        "camera": "Macro shot, steady handheld, clear detail on metal bolts and dust textures.",
+        "on_screen_text": "Clubbed Together!",
+        "voiceover_tamil": "Neutral-ம் Body-யும்..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "purpose": "Emphasize safety danger of the electrical shortcut",
+        "visual": "Red warning highlight overlay pulsing over the improperly shared earthing strip against the concrete transformer plinth.",
+        "camera": "Slight push-in, sharp focus, realistic outdoor contrast and shadows.",
+        "on_screen_text": "Major Hazard",
+        "voiceover_tamil": "ஒன்னா இணைச்சிருக்க கூடாது!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.5,
+        "purpose": "Show professional inspection standard review",
+        "visual": "Inspector stepping back over concrete earthing pit covers in a gated community utility area in Coimbatore.",
+        "camera": "Wide portrait shot, tracking movement backwards.",
+        "on_screen_text": "Safety Risk",
+        "voiceover_tamil": "கரண்ட் ஷாக் ஆபத்து!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Provide final brand takeaway and inspection advice",
+        "visual": "Professional inspector checking paperwork on a clipboard with a transformer and boundary wall in the soft background.",
+        "camera": "Eye-level steady shot, clean natural daylight, professional finish.",
+        "on_screen_text": "OliveTree SafeBuy",
+        "voiceover_tamil": "OliveTree SafeBuy மூலம் சரிபார்க்கவும்."
+      }
+    ],
+    "gemini_video_prompt": "Production-grade video generation prompt for OliveTree SafeBuy. COIMBATORE ONLY. EXACTLY 10 SECONDS TOTAL. EXACTLY 7 DISTINCT SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE ONLY: 90%+ real-world live-action video of a genuine outdoor electrical substation and transformer yard in Coimbatore, Tamil Nadu. Native vertical portrait 9:16 aspect ratio. No landscape, no black bars, no blurred sidebars. Real-world visual environment featuring weathered concrete plinths, yellow-black hazard stripes, loose gravel switchyard ground, metal earthing flats, industrial distribution transformer labeled with cable markings, and concrete earthing pit covers under natural Tamil Nadu daylight. Motion graphics strictly limited to tiny overlays (short red warning box, text labels, check/warning icons). NO toon animation, NO cartoon style, NO flat 2D explainer, NO white-background infographic, NO glossy corporate motion graphics, NO game-like 3D render, NO plastic CGI, NO floating documents or houses. Scene breakdown: Scene 1 (0.0-1.4s) Inspector in white hard hat walking in gravel utility yard; Scene 2 (1.4-2.8s) Close-up of metal earthing strips on concrete wall; Scene 3 (2.8-4.3s) Inspector pointing at transformer terminal strip; Scene 4 (4.3-5.7s) Macro shot of improper combined neutral and body earthing connection; Scene 5 (5.7-7.1s) Red warning graphic overlay highlighting the joint; Scene 6 (7.1-8.5s) Inspector stepping back over earthing pit covers; Scene 7 (8.5-10.0s) Inspector with clipboard near transformer yard with 'OliveTree SafeBuy' subtle text overlay. NEGATIVE PROMPT: animated, cartoon, CGI, 3D render, illustration, fake city, blurred sidebars, landscape, watermark, ugly, deformed, indoor studio, white background, stock footage look, generic actors.",
+    "title_english": "Danger! Check This Electrical Fault Before Taking Plot Handover in Coimbatore",
+    "caption_english": "Spotting hidden electrical hazards can save lives! In many new developments across Coimbatore, common utility transformers are poorly installed with neutral and body earthing improperly clubbed together into a single connection. This dangerous shortcut bypasses essential safety redundancy and creates severe shock risks for residents. Before you accept final handover of your property, ensure a professional engineering inspection is done. Protect your investment with expert checks. Book your inspection with OliveTree SafeBuy today! #CoimbatoreRealEstate #SafeBuy #PropertyInspection",
+    "title_title": "கோவையில் Plot வாங்கும் முன் இந்த எலக்ட்ரிக்கல் தவறை கவனியுங்கள்!",
+    "caption_tamil": "கோவையில் புதிய பிளாட் அல்லது வில்லா வாங்கும் முன் டிரான்ஸ்பார்மர் எர்த் சரியா இருக்கானு பாருங்க! Neutral மற்றும் Body earthing ஒன்னா இணைக்கப்பட்டிருந்தால் அது பெரிய ஷாக் ஆபத்து. OliveTree SafeBuy மூலம் முழுமையான இன்ஸ்பெக்ஷன் செய்யுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#SafeBuy",
+      "#PropertyInspection"
+    ]
+  }
+}

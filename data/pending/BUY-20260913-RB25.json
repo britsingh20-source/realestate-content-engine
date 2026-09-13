@@ -1,0 +1,131 @@
+{
+  "contentId": "BUY-20260913-RB25",
+  "niche": "buyer_education",
+  "label": "PROPERTY BUYER EDUCATION",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T05:23:40.067Z",
+  "candidate": {
+    "niche": "buyer_education",
+    "creator": "Buildofy",
+    "creatorKey": "buildofy",
+    "source": {
+      "id": "vq8AER-EO_Q",
+      "title": "The Waterfall House | Official Promo #buildofy #architecture #madhyapradesh #waterfall #home #shorts",
+      "description": "",
+      "publishedAt": "2026-08-24T10:30:35Z",
+      "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
+      "channelTitle": "Buildofy",
+      "durationSeconds": 72,
+      "views": 17399,
+      "likes": 535,
+      "comments": 4,
+      "url": "https://www.youtube.com/watch?v=vq8AER-EO_Q",
+      "ageHours": 474.8187013888889,
+      "velocity": 36.64345980709333,
+      "outlier": 1.281977600943118,
+      "velocityRatio": 1.7506836950667226,
+      "engagementRatio": 1.1362274971103066
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 22,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5514,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.6-flash"
+  },
+  "pack": {
+    "topic": "Coimbatore Villa Roof Drainage Inspection",
+    "source_script_insight": "The source highlights a custom roof water channel system designed to direct rainwater. For Coimbatore home buyers, inspecting roof drainage channels, gutters, and slopes is critical to prevent water logging and structural dampness during monsoons.",
+    "coimbatore_angle": "Focuses on independent villas and penthouses in Coimbatore (e.g., Saravanampatti, Vadavalli) where heavy seasonal rains require robust roof drainage checks before purchase.",
+    "core_takeaway": "Always inspect roof drainage slopes, gutter joints, and rainwater outlets to prevent water stagnation and ceiling dampness.",
+    "voiceover_tamil": "கோயம்புத்தூர் வில்லா வாங்குறீங்களா? மொட்டை மாடி மழைநீர் வடிகால் சரிவை செக் பண்ணுங்க! கசிவு இல்லாத வீட்டை தேர்வு செய்ய ஆலிவ்ட்ரீ சேஃப்பாய் நாடுங்கள்!",
+    "title_english": "Don't Buy a Coimbatore Villa Without Checking This Roof Detail!",
+    "caption_english": "Buying your dream villa in Coimbatore? Don't let monsoon rains turn your beautiful ceiling into an unwanted indoor waterfall! Before signing the papers, inspect the terrace drainage channels, gutter slopes, and rainwater pipe joints. Poorly designed roof channels lead to severe dampness and structural damage. Ensure a leak-free home with OliveTree SafeBuy's expert property inspection services in Coimbatore. DM us today to book an inspection before you buy!",
+    "title_tamil": "கோயம்புத்தூர் வில்லா வாங்குவோர் கவனத்திற்கு! மொட்டை மாடி வடிகால் செக் பண்ணுங்க!",
+    "caption_tamil": "கோயம்புத்தூரில் உங்கள் கனவு இல்லத்தை வாங்குகிறீர்களா? மழைக்காலத்தில் உங்கள் வீட்டு கூரையில் கசிவு ஏற்படாமல் தடுக்க, மொட்டை மாடி மழைநீர் வடிகால் அமைப்பை வாங்குவதற்கு முன் சரிபார்க்கவும். ஆலிவ்ட்ரீ சேஃப்பாய் மூலம் பாதுகாப்பான வீட்டை தேர்வு செய்யுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#HomeInspection",
+      "#SafeBuy"
+    ],
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook - Show the risk of poor roof drainage",
+        "visual": "Close-up of rainwater overflowing from a clogged concrete roof gutter, splashing down a villa's exterior wall. Real-world Coimbatore villa setting with wet brick textures.",
+        "camera": "Low-angle tight shot, handheld smartphone style, slight camera shake.",
+        "on_screen_text": "Roof Leakage?",
+        "voiceover_tamil": "கோயம்புத்தூர் வில்லா வாங்குறீங்களா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Actionable check - Inspecting the roof slope",
+        "visual": "A professional inspector's hand placing a spirit level tool inside a concrete roof drainage channel on a sunny day in Coimbatore.",
+        "camera": "Close-up shot, slow tilt down to focus on the spirit level bubble.",
+        "on_screen_text": "Check Slope",
+        "voiceover_tamil": "மொட்டை மாடி"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Identifying failure points - Pipe joints",
+        "visual": "Close-up of a cracked PVC rainwater downpipe joint connected to the edge of a concrete roof slab. Visible dust and minor moss growth.",
+        "camera": "Macro shot, static, sharp focus on the hairline crack.",
+        "on_screen_text": "Pipe Joints",
+        "voiceover_tamil": "மழைநீர் வடிகால்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Showing the consequence - Ceiling dampness",
+        "visual": "Interior view of a villa bedroom ceiling directly below the roof, showing yellow-brown water dampness patches on the white plaster.",
+        "camera": "Slow pan up from a window to the damp corner of the ceiling.",
+        "on_screen_text": "Ceiling Dampness",
+        "voiceover_tamil": "சரிவை செக் பண்ணுங்க!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Showing the solution - Proper rainwater harvesting filter",
+        "visual": "Clean rainwater flowing smoothly through a well-installed PVC filter system attached to the villa's external wall.",
+        "camera": "Medium shot, eye-level, tracking the water flow down the pipe.",
+        "on_screen_text": "RWH Filter",
+        "voiceover_tamil": "கசிவு இல்லாத"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "purpose": "Trust building - Professional inspection",
+        "visual": "An inspector in a safety vest holding a digital tablet, checking off a roof drainage checklist on a modern Coimbatore villa terrace.",
+        "camera": "Over-the-shoulder shot, slight push-in towards the tablet screen.",
+        "on_screen_text": "SafeBuy Check",
+        "voiceover_tamil": "வீட்டை தேர்வு செய்ய"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "purpose": "Call to Action with brand overlay",
+        "visual": "A beautiful, dry, perfectly sloped modern villa roof in Coimbatore under a clear blue sky. Transparent OliveTree SafeBuy logo overlay.",
+        "camera": "Wide drone shot, slowly rising and backing away from the villa.",
+        "on_screen_text": "OliveTree SafeBuy",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ சேஃப்பாய் நாடுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "Create a highly realistic, 10-second, 7-scene vertical 9:16 video concept for OliveTree SafeBuy, targeted strictly at Coimbatore, Tamil Nadu. The video must look like high-quality, authentic smartphone or gimbal footage taken during real-world property inspections. No 2D/3D animations, cartoon styles, or glossy corporate graphics. \n\nScene 1 (0.0-1.4s): Start with a strong hook. A close-up shot of rainwater overflowing from a clogged concrete roof gutter, cascading down a villa's exterior wall. The setting is a realistic Coimbatore villa with wet brick textures. Camera is low-angle, handheld style with slight natural shake. Overlay text: 'Roof Leakage?'. Tamil VO: 'கோயம்புத்தூர் வில்லா வாங்குறீங்களா?'.\n\nScene 2 (1.4-2.8s): Transition to a close-up of an inspector's hand placing a professional spirit level tool inside a concrete roof drainage channel on a sunny day. Camera tilts down to focus on the spirit level bubble. Overlay text: 'Check Slope'. Tamil VO: 'மொட்டை மாடி'.\n\nScene 3 (2.8-4.2s): Show a macro shot of a cracked PVC rainwater downpipe joint connected to the edge of a concrete roof slab. Visible dust and minor moss growth on the concrete. Static camera, sharp focus on the hairline crack. Overlay text: 'Pipe Joints'. Tamil VO: 'மழைநீர் வடிகால்'.\n\nScene 4 (4.2-5.6s): Show the interior consequence. A slow pan up from a bedroom window to the ceiling corner directly below the roof, revealing yellow-brown dampness patches on the white plaster. Overlay text: 'Ceiling Dampness'. Tamil VO: 'சரிவை செக் பண்ணுங்க!'.\n\nScene 5 (5.6-7.0s): Show a positive solution. Clean rainwater flowing smoothly through a well-installed PVC filter system attached to the villa's external wall. Medium eye-level shot tracking the water flow. Overlay text: 'RWH Filter'. Tamil VO: 'கசிவு இல்லாத'.\n\nScene 6 (7.0-8.4s): Show an inspector wearing a safety vest holding a digital tablet, checking off a roof drainage checklist on a modern Coimbatore villa terrace. Over-the-shoulder shot with a slight push-in. Overlay text: 'SafeBuy Check'. Tamil VO: 'வீட்டை தேர்வு செய்ய'.\n\nScene 7 (8.4-10.0s): End with a wide drone shot slowly rising and backing away from a beautiful, dry, perfectly sloped modern villa roof in Coimbatore under a clear blue sky. Transparent 'OliveTree SafeBuy' logo overlay. No full-screen end card. Tamil VO: 'ஆலிவ்ட்ரீ சேஃப்பாய் நாடுங்கள்!'.\n\nNEGATIVE PROMPT: Do not use any cartoon, 2D explainer, flat vector graphics, glossy corporate motion graphics, plastic CGI, fake futuristic cities, or floating 3D documents. No presenters on camera. No religious symbols. Do not show any city other than Coimbatore. Do not use landscape format or black bars."
+  }
+}
