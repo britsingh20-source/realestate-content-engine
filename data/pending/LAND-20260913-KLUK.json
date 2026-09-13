@@ -1,0 +1,131 @@
+{
+  "contentId": "LAND-20260913-KLUK",
+  "niche": "land_selection",
+  "label": "SMART LAND SELECTION",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T03:16:33.166Z",
+  "candidate": {
+    "niche": "land_selection",
+    "creator": "Nemmadi Home Inspection",
+    "creatorKey": "nemmadi",
+    "source": {
+      "id": "Ow_Q2rMCRVQ",
+      "title": "3 plumbing defects found in a single bathroom | Home Inspection",
+      "description": "1️⃣ No bottle trap; a plain wastewater pipe was provided instead\n2️⃣ Leakage observed from the wastewater pipe\n3️⃣ Water oozing out from the floor trap\n\nSmall shortcuts like these cause damp floors, bad smells, and long-term water damage in new apartments. Always get these checked before handover.\n\nBook Now: https://nemmadi.in/quote-for-b2c/\n\n#homeinspection #plumbingfail #waterleak #floortrap #bottletrap #snagging #bangalore #newhome #realestate #homebuyers #nemmadi",
+      "publishedAt": "2026-09-11T02:00:14Z",
+      "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+      "channelTitle": "Nemmadi. In",
+      "durationSeconds": 14,
+      "views": 2704,
+      "likes": 7,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=Ow_Q2rMCRVQ",
+      "ageHours": 49.235205,
+      "velocity": 54.92005161753668,
+      "outlier": 2.430561797752809,
+      "velocityRatio": 32.21104619613685,
+      "engagementRatio": 0.4861521721053185
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 46,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3399,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.8-flash"
+  },
+  "pack": {
+    "topic": "Coimbatore Home Handover: Bathroom Plumbing & Tile Slope Inspection",
+    "source_script_insight": "Using a systematic walkthrough to identify hidden bathroom defects like poor floor slope, hollow tiles, and under-sink plumbing leaks before handover.",
+    "coimbatore_angle": "Helping home buyers in Coimbatore (Saravanampatti, Vadavalli, Thudiyalur) inspect newly built villas and apartments for construction defects before final settlement.",
+    "core_takeaway": "Never accept a property handover without a thorough wet-area inspection; check floor slopes, tile hollows, and plumbing connections to avoid costly repairs.",
+    "voiceover_tamil": "கோயம்புத்தூர்ல புது வீடு வாங்குறீங்களா? பாத்ரூம் பைப் லீக், தண்ணீர் தேங்கும் தரை, ஹோலோ டைல்ஸ்னு எல்லாத்தையும் ஹேண்டோவருக்கு முன்னாடி செக் பண்ணுங்க. ஒலிவ்ட்ரீ சேஃப்பாய் மூலம் உங்கள் முதலீட்டை பாதுகாத்திடுங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook: Show a modern Coimbatore bathroom sink with running water to test drainage.",
+        "visual": "A close-up, high-angle shot of a chrome deck-mounted faucet running water into a clean white ceramic washbasin in a newly built Coimbatore apartment. Natural daylight streams through a small ventilator window.",
+        "camera": "Subtle handheld tilt-down following the water flow.",
+        "on_screen_text": "புது வீடா?",
+        "voiceover_tamil": "கோயம்புத்தூர்ல புது வீடு வாங்குறீங்களா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Inspect under-sink plumbing for leaks.",
+        "visual": "Camera pans down below the granite counter ledge to show a white corrugated waste pipe connected to the wall outlet. A hand gently checks the joint for moisture.",
+        "camera": "Smooth downward pan, close-up focus on the pipe joint.",
+        "on_screen_text": "பைப் லீக்?",
+        "voiceover_tamil": "பாத்ரூம் பைப் லீக்,"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Show water pooling on bathroom floor tiles due to poor slope.",
+        "visual": "Low-angle shot of water stagnating on matte grey anti-skid floor tiles instead of flowing toward the stainless steel floor drain trap.",
+        "camera": "Static low-angle shot focusing on the standing water.",
+        "on_screen_text": "தண்ணீர் தேங்குதா?",
+        "voiceover_tamil": "தண்ணீர் தேங்கும் தரை,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.5,
+        "purpose": "Highlight the defect marking process.",
+        "visual": "A hand uses white chalk to mark a circle and write 'SLOPE' on a defective floor tile right next to the drain trap.",
+        "camera": "Close-up shot, high angle looking straight down at the tile.",
+        "on_screen_text": "தவறான ஸ்லோப்!",
+        "voiceover_tamil": "ஹோலோ டைல்ஸ்னு"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.5,
+        "end_sec": 7,
+        "purpose": "Check for hollow tiles using a tapping tool.",
+        "visual": "An inspector's hand taps a floor tile with a small metallic testing rod, showing a realistic inspection technique.",
+        "camera": "Close-up tracking shot following the tapping tool.",
+        "on_screen_text": "செக் பண்ணுங்க!",
+        "voiceover_tamil": "எல்லாத்தையும் ஹேண்டோவருக்கு முன்னாடி செக் பண்ணுங்க."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Show the inspection checklist/snag list.",
+        "visual": "An engineer holds a clipboard with a 'Bathroom Snag List' document inside the bathroom, ticking off items like 'Floor Slope' and 'Plumbing Joints'.",
+        "camera": "Medium shot, over-the-shoulder angle.",
+        "on_screen_text": "ஸ்னாக் லிஸ்ட்",
+        "voiceover_tamil": "ஒலிவ்ட்ரீ சேஃப்பாய் மூலம்"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Call to action with brand overlay.",
+        "visual": "A wide, clean shot of the fully inspected, modern bathroom. A transparent overlay with the OliveTree SafeBuy logo and contact info appears.",
+        "camera": "Slow backward pull-out shot.",
+        "on_screen_text": "SafeBuy செக்!",
+        "voiceover_tamil": "உங்கள் முதலீட்டை பாதுகாத்திடுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "Create an EXACTLY 10-second, 7-scene vertical 9:16 video focusing on bathroom construction quality inspection for home buyers in Coimbatore, Tamil Nadu. The video must look 90%+ like photorealistic live-action smartphone or gimbal footage, with natural daylight, realistic textures, and no cartoon or 3D explainer animation. Brand: OliveTree SafeBuy. Location context: Coimbatore. \n\nScene 1 (0.0-1.4s): Close-up of a modern chrome faucet running water into a white ceramic washbasin in a newly built Coimbatore apartment. Natural light from a side window. Text overlay: 'புது வீடா?'. Voice-over: 'கோயம்புத்தூர்ல புது வீடு வாங்குறீங்களா?'\n\nScene 2 (1.4-2.8s): Camera pans down below the granite counter to show a white flexible waste pipe and stainless steel inlet hoses. A hand checks the joint for leaks. Text overlay: 'பைப் லீக்?'. Voice-over: 'பாத்ரூம் பைப் லீக்,'\n\nScene 3 (2.8-4.2s): Low-angle shot of water pooling on matte grey floor tiles, failing to drain toward a circular steel drain trap. Text overlay: 'தண்ணீர் தேங்குதா?'. Voice-over: 'தண்ணீர் தேங்கும் தரை,'\n\nScene 4 (4.2-5.5s): Close-up of a hand marking 'SLOPE' in white chalk on a floor tile next to the drain. Text overlay: 'தவறான ஸ்லோப்!'. Voice-over: 'ஹோலோ டைல்ஸ்னு'\n\nScene 5 (5.5-7.0s): Close-up of a hand tapping a floor tile with a metallic key or rod to check for hollow sounds. Text overlay: 'செக் பண்ணுங்க!'. Voice-over: 'எல்லாத்தையும் ஹேண்டோவருக்கு முன்னாடி செக் பண்ணுங்க.'\n\nScene 6 (7.0-8.5s): Over-the-shoulder shot of an engineer holding a clipboard with a 'Bathroom Snag List' in the bathroom. Text overlay: 'ஸ்னாக் லிஸ்ட்'. Voice-over: 'ஒலிவ்ட்ரீ சேஃப்பாய் மூலம்'\n\nScene 7 (8.5-10.0s): Wide, clean shot of the modern bathroom. A transparent overlay with the OliveTree SafeBuy logo and text 'SafeBuy செக்!' appears. Voice-over: 'உங்கள் முதலீட்டை பாதுகாத்திடுங்கள்!'\n\nCONTINUITY & REALISM RULES:\n- Maintain consistent lighting (bright morning daylight) and bathroom materials (grey floor tiles, white ceramic, chrome fixtures) across all scenes.\n- No visible cameraman, no cartoon elements, no floating 3D houses.\n- All text overlays must be clean, modern, and placed in the lower or upper third of the screen.\n\nNEGATIVE PROMPT:\nDo not include any cartoon, 2D explainer, anime, 3D render, glossy corporate graphics, floating documents, fake futuristic elements, or landscape orientation. No black bars or blurred sidebars.",
+    "title_english": "Don't Accept Your Coimbatore Home Without This Bathroom Check!",
+    "caption_english": "Buying a new villa or apartment in Coimbatore? Don't let minor bathroom defects turn into major renovation headaches later! Before signing the final handover document, perform a thorough wet-area audit. Check for proper floor slopes to prevent water stagnation, inspect under-sink plumbing for hidden leaks, and tap floor tiles to identify hollow spots. OliveTree SafeBuy helps Coimbatore home buyers verify construction quality and secure their hard-earned investments. Get a professional snagging checklist before you move in!",
+    "title_tamil": "புது வீடு வாங்கும் முன் இந்த பாத்ரூம் செக் அத்தியாவசியம்!",
+    "caption_tamil": "கோயம்புத்தூரில் புதிய வீடு அல்லது அபார்ட்மெண்ட் வாங்குகிறீர்களா? ஹேண்டோவர் வாங்குவதற்கு முன் பாத்ரூம் தரையின் ஸ்லோப், பைப் லீக் மற்றும் டைல்ஸ் தரத்தை அவசியம் சரிபார்க்கவும். ஒலிவ்ட்ரீ சேஃப்பாய் மூலம் உங்கள் சொத்தின் தரத்தை உறுதி செய்து ஏமாற்றங்களைத் தவிர்க்கவும்!",
+    "hashtags": [
+      "CoimbatoreRealEstate",
+      "HomeInspection",
+      "SafeBuy"
+    ]
+  }
+}

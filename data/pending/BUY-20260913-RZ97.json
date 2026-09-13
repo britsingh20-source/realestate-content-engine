@@ -1,0 +1,131 @@
+{
+  "contentId": "BUY-20260913-RZ97",
+  "niche": "buyer_education",
+  "label": "PROPERTY BUYER EDUCATION",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T03:12:53.008Z",
+  "candidate": {
+    "niche": "buyer_education",
+    "creator": "Buildofy",
+    "creatorKey": "buildofy",
+    "source": {
+      "id": "zP7DzvlmSNw",
+      "title": "Layered Horizon | Official Promo #buildofy #architecture #tamilnadu #landscape #shorts #reels #home",
+      "description": "",
+      "publishedAt": "2026-09-10T10:30:34Z",
+      "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
+      "channelTitle": "Buildofy",
+      "durationSeconds": 64,
+      "views": 9569,
+      "likes": 221,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=zP7DzvlmSNw",
+      "ageHours": 64.68298888888889,
+      "velocity": 147.93688672051678,
+      "outlier": 0.7052104060726656,
+      "velocityRatio": 7.009269038848657,
+      "engagementRatio": 0.8477630310841723
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 35,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5425,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.8-flash"
+  },
+  "pack": {
+    "topic": "Evaluating Spatial Layout vs Decorative Cladding in Coimbatore Villas",
+    "source_script_insight": "True quality in residential architectural design comes from spatial layout, natural light, and low-maintenance functionality rather than stacking heavy decorative materials or superficial luxury finishes.",
+    "coimbatore_angle": "In Coimbatore's warm climate (areas like Vadavalli, Saravanampatti, and Kovaipudur), home buyers often get distracted by heavy exterior cladding and decorative panels that hide moisture traps or increase thermal radiation. SafeBuy emphasizes inspecting spatial ventilation, layout quality, and maintenance overhead before buying.",
+    "core_takeaway": "Don't pay extra for flashy surface paneling that increases maintenance; prioritize spatial planning, natural light, and low-maintenance durability.",
+    "voiceover_tamil": "அலங்கார கிளாடிங் பார்த்து ஏமாறாதீங்க! கோயம்புத்தூர் வீடுகளில் காற்றோட்டம் மற்றும் குறைந்த பராமரிப்பு வடிவமைப்பு இருக்கான்னு செக் பண்ணுங்க. OliveTree SafeBuy மூலம் சரிபார்க்கவும்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Visual hook highlighting heavy exterior paneling masking underlying wall condition.",
+        "visual": "Hand touching an opulent synthetic wood cladding panel on a villa exterior in Vadavalli, Coimbatore, revealing trapped heat and moisture behind the seam.",
+        "camera": "Close-up tracking shot, eye-level, smooth forward motion, 9:16 vertical.",
+        "on_screen_text": "Decorative Cladding?",
+        "voiceover_tamil": "அலங்கார கிளாடிங் பார்த்து"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Identify maintenance and thermal risks of over-decorated exteriors.",
+        "visual": "Handheld moisture meter pressed against the inner masonry wall behind decorative louvers, showing elevated humidity readings on a sunny afternoon.",
+        "camera": "Over-the-shoulder macro angle, slow tilt down, natural bright daylight.",
+        "on_screen_text": "High Maintenance Risk",
+        "voiceover_tamil": "ஏமாறாதீங்க!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Demonstrate practical layout inspection for natural cross-ventilation.",
+        "visual": "A buyer sliding open wide glass patio doors facing an open-to-sky inner courtyard in a newly built Coimbatore home, feeling fresh airflow.",
+        "camera": "Medium shot, gentle pan following the sliding glass frame, warm afternoon sunlight.",
+        "on_screen_text": "Check Cross Ventilation",
+        "voiceover_tamil": "கோயம்புத்தூர் வீடுகளில்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Highlight framed daylight and spatial proportion checks.",
+        "visual": "An inspector checking durable, clean plaster window frames and natural lighting levels in the living area overlooking garden greenery.",
+        "camera": "Low angle wide shot looking across polished grey oxide flooring towards window.",
+        "on_screen_text": "Natural Light & Air",
+        "voiceover_tamil": "காற்றோட்டம் மற்றும்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Verify low-maintenance material choices vs high-upkeep synthetic finishes.",
+        "visual": "Inspector tapping on exposed rendered cement wall and durable local granite sill, showing zero cracks and smooth finish.",
+        "camera": "Tight close-up, horizontal camera drift, crisp sunlight details.",
+        "on_screen_text": "Low Maintenance Materials",
+        "voiceover_tamil": "குறைந்த பராமரிப்பு வடிவமைப்பு"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "purpose": "Verify layout orientation and Vastu-compliant circulation flow.",
+        "visual": "Digital blueprint overlaid with green checkmarks on a tablet, held inside the ventilated villa living room.",
+        "camera": "Medium close-up on tablet screen with real room visible in background blur.",
+        "on_screen_text": "Layout Verified",
+        "voiceover_tamil": "இருக்கான்னு செக் பண்ணுங்க."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "purpose": "Call to action overlay on high-quality real villa courtyard scene.",
+        "visual": "Bright, serene view of a low-maintenance Coimbatore villa courtyard with green tropical border plants and durable stone flooring.",
+        "camera": "Wide slow push-in shot, 9:16 vertical, natural natural light.",
+        "on_screen_text": "OliveTree SafeBuy Verified",
+        "voiceover_tamil": "OliveTree SafeBuy மூலம் சரிபார்க்கவும்!"
+      }
+    ],
+    "gemini_video_prompt": "Create a photorealistic 9:16 vertical short-form video for OliveTree SafeBuy, targeted exclusively at Coimbatore, Tamil Nadu home buyers. Total duration: EXACTLY 10 SECONDS, EXACTLY 7 SCENES. Visual style: 100% realistic live-action footage captured on modern smartphone or gimbal in real Coimbatore residential surroundings (Vadavalli/Saravanampatti style independent villas). No 3D render, no flat vector animation, no CGI graphics, no white background explainers. Sunlight and textures must look authentic to Tamil Nadu daytime conditions.\n\nSCENE BREAKDOWN (Exact 10 seconds total duration):\n\nScene 1 (0.0s - 1.4s): Close-up shot, eye-level. A home inspector's hand touches an expensive-looking synthetic wood wall cladding on the exterior facade of a modern villa in Coimbatore. A subtle red transparent highlight box appears around a tiny gap where dust and moisture accumulate behind the panel. Text overlay: 'Decorative Cladding?' in clean white sans-serif font. Audio: Tamil voiceover fragment 'அலங்கார கிளாடிங் பார்த்து'.\n\nScene 2 (1.4s - 2.8s): Over-the-shoulder macro view. Inspector presses a electronic moisture sensor against the wall behind the decorative louver panel, revealing hidden moisture retained from monsoon rains. Natural daylight casting real shadows on painted masonry. Text overlay: 'High Maintenance Risk'. Audio: Tamil voiceover fragment 'ஏமாறாதீங்க!'.\n\nScene 3 (2.8s - 4.2s): Medium shot indoors. A home buyer smoothly opens a large powder-coated sliding glass door that leads to an open-to-sky central courtyard inside a villa in Vadavalli, Coimbatore. Bright natural daylight fills the room as curtains rustle slightly in the breeze. Text overlay: 'Check Cross Ventilation'. Audio: Tamil voiceover fragment 'கோயம்புத்தூர் வீடுகளில்'.\n\nScene 4 (4.2s - 5.6s): Low-angle wide shot looking across sleek polished grey floor tiles toward a deep window nook framing tropical outdoor greenery. Inspector checks window seal condition and light angle. Text overlay: 'Natural Light & Air'. Audio: Tamil voiceover fragment 'காற்றோட்டம் மற்றும்'.\n\nScene 5 (5.6s - 7.0s): Close-up shot, camera drifting slowly horizontally. Inspector taps a plain rendered cement finish and local black granite window ledge, demonstrating durable, low-upkeep finishes that handle Coimbatore heat effortlessly. Text overlay: 'Low Maintenance Materials'. Audio: Tamil voiceover fragment 'குறைந்த பராமரிப்பு வடிவமைப்பு'.\n\nScene 6 (7.0s - 8.4s): Medium close-up. Inspector holding a tablet showing floor plan layout inspection checklist with green checkmarks, with the airy villa living area naturally illuminated in the soft background blur. Text overlay: 'Layout Verified'. Audio: Tamil voiceover fragment 'இருக்கான்னு செக் பண்ணுங்க.'.\n\nScene 7 (8.4s - 10.0s): Wide cinematic push-in shot of a beautifully planned, simple, low-maintenance open villa courtyard with potted Frangipani plant and stone paving under bright blue Coimbatore skies. Minimal overlay graphics displaying 'OliveTree SafeBuy Verified' with a small green check mark at the bottom center. Audio: Tamil voiceover fragment 'OliveTree SafeBuy மூலம் சரிபார்க்கவும்!'.\n\nCONTINUITY & REALISM RULES:\n- Ensure natural realistic daylight consistency throughout all 7 scenes.\n- Subject remains focused on independent villa inspections in Coimbatore.\n- Only simple, non-intrusive text overlays (1-3 words) and small green/red highlight boxes are permitted over photorealistic live footage.\n- Camera movement must be smooth and physical, like a professional mobile video shooter walking through a real house.\n\nNEGATIVE PROMPT:\nDo NOT include cartoon characters, flat vector graphics, 3D CGI house renders, floating glossy graphics, fake futuristic cities, blue screen cutouts, unnatural high-contrast video game visuals, stock photos of foreign houses, exaggerated camera speeds, full-screen graphics cards, logos covering the screen, or text outside Tamil Nadu context.",
+    "title_english": "Coimbatore Villa Check: Prioritize Ventilation Over Flashy Cladding",
+    "caption_english": "Buying a villa in Coimbatore? Don't let flashy exterior paneling and costly wall cladding blind you to poor spatial planning. In hot climates like Vadavalli or Saravanampatti, heavy exterior cladding often traps moisture and increases heat absorption, leading to high long-term maintenance costs.\n\nTrue home luxury lies in open spatial planning, natural light, cross-ventilation, and durable, low-maintenance materials.\n\nBefore paying a premium for decorative exteriors, get your layout and construction quality verified independently with OliveTree SafeBuy.",
+    "title_tamil": "கோவை villa வாங்குறீங்களா? இந்த தப்பை செய்யாதீங்க!",
+    "caption_tamil": "கோயம்புத்தூரில் வீடு அல்லது வில்லா வாங்குவதற்கு முன், வெறும் வெளிப்பக்க அலங்கார கிளாடிங்கை மட்டும் பார்க்காதீர்கள். காற்றோட்டம், இயற்கை வெளிச்சம் மற்றும் குறைந்த பராமரிப்பு வடிவமைப்பு இருக்கிறதா என்று செக் செய்யுங்கள்.\n\nOliveTree SafeBuy மூலம் உங்கள் கனவு வீட்டை வாங்குவதற்கு முன் முழுமையாக சரிபார்க்கவும்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#OliveTreeSafeBuy",
+      "#HomeBuyerEducation"
+    ]
+  }
+}

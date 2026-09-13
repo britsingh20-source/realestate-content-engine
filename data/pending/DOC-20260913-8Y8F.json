@@ -1,0 +1,131 @@
+{
+  "contentId": "DOC-20260913-8Y8F",
+  "niche": "documentation",
+  "label": "PROPERTY DOCUMENTATION & LEGAL",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T03:14:18.956Z",
+  "candidate": {
+    "niche": "documentation",
+    "creator": "IndiaLaw LLP",
+    "creatorKey": "indialaw",
+    "source": {
+      "id": "tt3DjxThVNI",
+      "title": "Death Does Not Discharge Debt: Bombay HC on Maintenance",
+      "description": "A maintenance decree does not automatically end with the husband’s death.\n\nThe Bombay High Court held that existing maintenance arrears and the amount fixed under a decree can be recovered from the deceased husband’s estate. However, a divorced wife cannot seek enhancement after his death, as the personal obligation to maintain ends with him.\n\nDeath may not erase the decree, but it limits any fresh claim for increased maintenance.\n\n{Maintenance decree, divorced wife rights, Bombay High Court, maintenance after death, family law}\n\n#MaintenanceLaw #BombayHighCourt #FamilyLaw #DivorceLaw #LegalRights #IndiaLaw #LegalUpdate",
+      "publishedAt": "2026-08-29T13:23:06Z",
+      "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
+      "channelTitle": "INDIALAW LLP",
+      "durationSeconds": 55,
+      "views": 321,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=tt3DjxThVNI",
+      "ageHours": 349.830085,
+      "velocity": 0.9175883200554349,
+      "outlier": 6.551020408163265,
+      "velocityRatio": 0.9175883200554349,
+      "engagementRatio": 5.507788161993769
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 45,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2977,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.6-flash"
+  },
+  "pack": {
+    "topic": "Inherited Property Debt and Court Decree Liability in Coimbatore",
+    "source_script_insight": "Under civil law, the death of a property owner does not extinguish pre-existing legal debts, maintenance decrees, or court-ordered charges attached to their estate. When legal heirs inherit or sell the deceased person's property, the estate remains legally bound to satisfy established liabilities and prior decrees.",
+    "coimbatore_angle": "In Coimbatore micro-markets like Vadavalli, Thondamuthur, and Saravanampatti, buyers purchasing inherited or ancestral layout land must verify that deceased owners have no pending court attachments, maintenance decree liens, or estate liabilities on the TNREGINET EC before signing sale agreements.",
+    "core_takeaway": "An owner's demise does not erase court decrees or estate liabilities; always verify long-term ECs and court records before purchasing inherited property.",
+    "voiceover_tamil": "சொத்தின் உரிமையாளர் மறைந்தாலும், பழைய கோர்ட் தீர்ப்புகளோ கடன்களோ மறையாது! வாரிசுகள் விற்கும் போது, முழு வில்லங்கத்தையும் நீதிமன்ற உத்தரவுகளையும் சரிபாருங்கள். பாதுகாப்பான நிலத்திற்கு OliveTree SafeBuy!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook the viewer with inherited property paperwork containing a red flag.",
+        "visual": "A crisp close-up of a Tamil Nadu legal heir certificate and sale deed laid on a teakwood table under morning daylight, a ballpoint pen pointing at the deceased owner's entry.",
+        "camera": "Top-down 9:16 macro shot, quick downward tilt.",
+        "on_screen_text": "வாரிசு சொத்தா?",
+        "voiceover_tamil": "சொத்தின் உரிமையாளர் மறைந்தாலும்,"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Show that liabilities on the estate survive the owner's death.",
+        "visual": "A Tamil Nadu EC Form 15 document being held in hand outdoors, with a translucent red highlighted box snapping over an existing charge/court attachment entry.",
+        "camera": "Eye-level handheld portrait shot with shallow depth of field.",
+        "on_screen_text": "கடன்கள் அழியாது!",
+        "voiceover_tamil": "பழைய கோர்ட் தீர்ப்புகளோ..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Establish that inherited property remains bound to past decrees.",
+        "visual": "Hands comparing a Patta copy and a court decree paper over a physical survey sketch in a well-lit document verification room in Coimbatore.",
+        "camera": "Over-the-shoulder medium close-up, subtle rack focus from deed to survey sketch.",
+        "on_screen_text": "சொத்தில் பொறுப்புண்டு",
+        "voiceover_tamil": "...சொத்தின் மீதான கடன்களோ மறையாது!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Illustrate buyer risk during an inherited land transaction.",
+        "visual": "A prospective homebuyer and legal consultant in formal attire reviewing registered family settlement deeds outside a Sub-Registrar Office corridor in Tamil Nadu.",
+        "camera": "Slight low-angle tracking shot, slow push-in.",
+        "on_screen_text": "வாரிசு விற்பனை சோதனை",
+        "voiceover_tamil": "வாரிசுகள் விற்கும் போது..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Demonstrate the actionable check: multi-year EC and encumbrance search.",
+        "visual": "A tablet screen resting on the hood of a car at a Coimbatore layout site, displaying the TNREGINET encumbrance portal while a finger scrolls through 30-year entries.",
+        "camera": "Close-up 45-degree angle, sunlight glinting off tablet glass.",
+        "on_screen_text": "30 வருட EC பாருங்கள்",
+        "voiceover_tamil": "...முழு வில்லங்கத்தையும்..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Show ground-level verification of court stay or boundary encumbrances.",
+        "visual": "A surveyor in Coimbatore stretching steel measuring tape next to a granite boundary stone marked with survey numbers on a plotted land parcel.",
+        "camera": "Ground-level low angle looking past the boundary stone toward lush green coconut palms.",
+        "on_screen_text": "நீதிமன்ற உத்தரவு சரிபார்ப்பு",
+        "voiceover_tamil": "...நீதிமன்ற உத்தரவுகளையும் பாருங்கள்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Deliver the brand payoff with verified safety assurance.",
+        "visual": "An OliveTree SafeBuy document audit checklist clipboard with a clean green verification tick over a survey map at a bright Coimbatore site office desk.",
+        "camera": "Direct top-down angle, crisp focus with soft natural vignetting.",
+        "on_screen_text": "SafeBuy பாதுகாப்பு!",
+        "voiceover_tamil": "பாதுகாப்பான நிலத்திற்கு OliveTree SafeBuy!"
+      }
+    ],
+    "gemini_video_prompt": "OliveTree SafeBuy, COIMBATORE ONLY, EXACTLY 10 SECONDS, EXACTLY 7 SCENES, PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE, 90%+ real-looking visuals, portrait 9:16, motion graphics only as tiny subtle overlays, no toon/cartoon/explainer-animation style.\n\nSCENE 1 (0.0-1.4s): Top-down macro shot of an authentic Tamil Nadu Legal Heirship certificate and ancestral sale deed on a warm teak desk in Coimbatore daylight. A metal ballpoint pen points at the deceased owner's name. Tiny clean text overlay: 'வாரிசு சொத்தா?'. Voiceover: 'சொத்தின் உரிமையாளர் மறைந்தாலும்,'\n\nSCENE 2 (1.4-2.8s): Eye-level handheld shot of a real printed TNREGINET EC Form 15 held in hand, showing authentic Tamil stamp paper seals and encumbrance rows. A minimal transparent red highlight box outlines an active decree row. Natural outdoor light in Coimbatore. Text overlay: 'கடன்கள் அழியாது!'. Voiceover: 'பழைய கோர்ட் தீர்ப்புகளோ...'\n\nSCENE 3 (2.8-4.2s): Over-the-shoulder close-up inside a Coimbatore legal office. Hands review a computer-printed Patta extract alongside a succession certificate on a wooden desk with a brass magnifying glass nearby. Realistic paper textures, sharp focus. Text overlay: 'சொத்தில் பொறுப்புண்டு'. Voiceover: '...சொத்தின் மீதான கடன்களோ மறையாது!'\n\nSCENE 4 (4.2-5.6s): Eye-level tracking shot outside a bustling Tamil Nadu Sub-Registrar Office in Coimbatore. A buyer in a linen shirt reviews a settlement deed folder with a professional legal advisor. Realistic building textures, yellow stone arches, natural shadows. Text overlay: 'வாரிசு விற்பனை சோதனை'. Voiceover: 'வாரிசுகள் விற்கும் போது...'\n\nSCENE 5 (5.6-7.0s): High-angle 45-degree close-up of a tablet resting on a vehicle bonnet at a plotted land layout in Saravanampatti. A hand scrolls through a verified 30-year EC PDF on the screen with clear Tamil and English registration tables. Text overlay: '30 வருட EC பாருங்கள்'. Voiceover: '...முழு வில்லங்கத்தையும்...'\n\nSCENE 6 (7.0-8.5s): Ground-level low-angle shot on plotted red soil land in Coimbatore. A steel measuring tape extends past a weathered concrete boundary stone marked with black survey paint, with coconut trees and EB poles in the background. Text overlay: 'நீதிமன்ற உத்தரவு சரிபார்ப்பு'. Voiceover: '...நீதிமன்ற உத்தரவுகளையும் பாருங்கள்.'\n\nSCENE 7 (8.5-10.0s): Clean top-down shot of an OliveTree SafeBuy physical legal verification checklist on a wooden clipboard, stamped with a green approved checkmark over an authentic Coimbatore FMB sketch. Morning sunbeam across desk. Text overlay: 'SafeBuy பாதுகாப்பு!'. Voiceover: 'பாதுகாப்பான நிலத்திற்கு OliveTree SafeBuy!'\n\nCONTINUITY & REALISM RULES: Real Coimbatore natural daylight (golden 9 AM sun). Genuine Tamil document formats, real granite boundary stones, actual plotted layout red soil. Smartphone/gimbal camera motion with micro-shakes. No synthetic gloss.\n\nNEGATIVE PROMPT: animated characters, 2d cartoon, flat explainer animation, glossy 3d renders, CGI buildings, floating neon graphics, white studio background, non-Tamil documents, fake generic cities, distorted hands, impossible drone flips, full-screen end logo card.",
+    "title_english": "Inherited Property in Coimbatore: Do Past Debts Disappear After Death?",
+    "caption_english": "Buying an inherited plot or ancestral property in Coimbatore? A common misconception is that when the original property owner passes away, their previous debts, court decrees, and maintenance attachments disappear. In reality, the estate remains legally bound to satisfy established liabilities, meaning legal heirs can only transfer title subject to these prior claims.\n\nBefore paying an advance for family-owned land in areas like Vadavalli, Saravanampatti, or Thondamuthur, always verify a 30-year Encumbrance Certificate (EC), court decree records, and succession documents.\n\nProtect your hard-earned capital with thorough legal due diligence from OliveTree SafeBuy.",
+    "title_tamil": "வாரிசு சொத்து வாங்கும் முன்: பழைய கடன்கள் மறையுமா?",
+    "caption_tamil": "கோவையில் வாரிசுதாரர்களிடம் இருந்து நிலம் வாங்குகிறீர்களா? உரிமையாளர் மறைந்தாலும், சொத்தின் மீதான பழைய நீதிமன்ற தீர்ப்புகளோ அல்லது சட்டப்பூர்வ பொறுப்புகளோ அழியாது. முழுமையான 30 வருட வில்லங்கச் சான்று மற்றும் நீதிமன்ற ஆவணங்களை சரிபாருங்கள். பாதுகாப்பான நில தேர்வுக்கு OliveTree SafeBuy-ஐ அணுகுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyDocumentation",
+      "#OliveTreeSafeBuy"
+    ]
+  }
+}
