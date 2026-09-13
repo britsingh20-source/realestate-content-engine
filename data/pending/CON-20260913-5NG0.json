@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260913-5NG0",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T17:04:57.226Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "XGLmu3oF-8k",
+      "title": "Easy sheet molding trick #trending #shorts",
+      "description": "Duct installation work",
+      "publishedAt": "2026-07-31T10:54:53Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 31,
+      "views": 1847,
+      "likes": 8,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=XGLmu3oF-8k",
+      "ageHours": 1062.1124691666666,
+      "velocity": 1.7389872105062056,
+      "outlier": 8.065502183406114,
+      "velocityRatio": 1.7389872105062056,
+      "engagementRatio": 0.22509805795980645
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 40,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5692,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash"
+  },
+  "pack": {
+    "topic": "Manual Sheet Metal Profile Bending Precision",
+    "source_script_insight": "Custom manual bending brakes enable rapid, highly uniform sheet metal channel production directly on site using simple mechanical leverage.",
+    "coimbatore_angle": "For Coimbatore residential construction, custom site-fabricated metal profiles ensure exact-fit flashings and edge channels without delay.",
+    "core_takeaway": "Using a rigid manual bending jig produces consistent 90-degree metal profiles for precise site fitment.",
+    "voiceover_tamil": "தளத்தில் கஸ்டம் சீட் பெண்டிங் jig. சரியான clamping alignment. ஒரே சீரான 90 டிகிரி வளைவு. வேகமான manual process. துல்லியமான U-channel profile. கசிவு இல்லாத கச்சிதமான fit. ஆலிவ்ட்ரீ பில்டர்ஸ் தரமான வேலை.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Visual Hook showing manual bending jig in action on a Coimbatore building site.",
+        "visual": "A site worker wearing safety gloves and vest pulls out a freshly bent steel U-channel from a manual steel bending jig.",
+        "camera": "Eye-level handheld gimbal tracking medium shot, subtle push-in.",
+        "on_screen_text": "Site Bending Jig",
+        "voiceover_tamil": "தளத்தில் கஸ்டம் சீட் பெண்டிங் jig."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Demonstrate precise alignment under the clamping angle bar.",
+        "visual": "Close-up of thin silver galvanised sheet metal sliding under the steel angle clamping bar, aligned flush to the stop marker.",
+        "camera": "Low-angle close-up shot, static focus on clamping bar edge.",
+        "on_screen_text": "Exact Clamping",
+        "voiceover_tamil": "சரியான clamping alignment."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Show the first 90-degree bend execution.",
+        "visual": "Operator pulls the hinged counterweighted bending handle upward, folding the sheet edge into a crisp 90-degree angle.",
+        "camera": "Side-profile medium shot, quick upward tilt following handle motion.",
+        "on_screen_text": "Clean 90° Bend",
+        "voiceover_tamil": "ஒரே சீரான 90 டிகிரி வளைவு."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Show material flip and repositioning for the second flange.",
+        "visual": "Worker flips the sheet metal piece 180 degrees and re-inserts the opposite unbent edge into the clamping gap.",
+        "camera": "Over-the-shoulder close-up tracking worker's hands.",
+        "on_screen_text": "Fast Cycle",
+        "voiceover_tamil": "வேகமான manual process."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Demonstrate completion of the U-channel profile.",
+        "visual": "Operator pulls the bending lever again, producing a finished, perfectly symmetrical U-shaped profile.",
+        "camera": "Three-quarter tight shot focusing on the bending seam.",
+        "on_screen_text": "Uniform Profile",
+        "voiceover_tamil": "துல்லியமான U-channel profile."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "purpose": "Show site application and fitment test.",
+        "visual": "Worker aligns the completed U-channel against a roof edge beam section, showing zero gap and exact fitment.",
+        "camera": "High-angle close-up looking down at the beam joint.",
+        "on_screen_text": "Exact Fitment",
+        "voiceover_tamil": "கசிவு இல்லாத கச்சிதமான fit."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "purpose": "Final quality takeaway with stack of uniform finished channels.",
+        "visual": "Worker places the completed channel onto a neat stack of identical site-fabricated metal profiles with bright daylight.",
+        "camera": "Medium pan revealing a stack of finished metal profiles.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ பில்டர்ஸ் தரமான வேலை."
+      }
+    ],
+    "gemini_video_prompt": "OliveTree Builders video concept. Target audience: COIMBATORE ONLY. Total duration: EXACTLY 10 SECONDS across EXACTLY 7 SCENES in native 9:16 portrait format. Must feature PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE (at least 90% photorealistic visuals, no toon, cartoon, flat 2D explainer, CGI plastic look, or 3D animations). Motion graphics are restricted to minor text callouts only.\n\nSetting: Active residential construction site in Coimbatore, Tamil Nadu, under natural bright Indian sunlight. Real site surroundings including brick masonry, concrete dust, metal stock, and working tools.\n\nScene 1 (0.0s - 1.4s): Eye-level medium tracking shot. A construction worker wearing high-vis orange vest and dark protective gloves lifts a freshly folded sheet metal U-channel from a heavy steel manual bending brake jig mounted on a sawhorse frame. Overlay text: 'Site Bending Jig'. Audio context: Ambient site clanking. Tamil VO: 'தளத்தில் கஸ்டம் சீட் பெண்டிங் jig.'\n\nScene 2 (1.4s - 2.8s): Tight close-up of thin galvanised sheet metal with protective film sliding under a heavy steel angle clamping bar. Hands align the sheet parallel to the bending edge. Overlay text: 'Exact Clamping'. Tamil VO: 'சரியான clamping alignment.'\n\nScene 3 (2.8s - 4.2s): Side profile medium shot. Primary worker smoothly pulls the hinged bending brake lever upward, folding the sheet edge into a sharp 90-degree flange. Overlay text: 'Clean 90° Bend'. Tamil VO: 'ஒரே சீரான 90 டிகிரி வளைவு.'\n\nScene 4 (4.2s - 5.6s): Over-the-shoulder close-up. The worker rapidly flips the metal sheet 180 degrees and re-inserts the flat edge under the clamp bar. Assistant holds the far end steady. Overlay text: 'Fast Cycle'. Tamil VO: 'வேகமான manual process.'\n\nScene 5 (5.6s - 7.0s): Three-quarter tight shot. Second lever pull creates the second flange, forming a clean U-channel profile. Overlay text: 'Uniform Profile'. Tamil VO: 'துல்லியமான U-channel profile.'\n\nScene 6 (7.0s - 8.4s): High-angle close-up on roof fascia beam line. A worker places the folded profile against the framing edge, confirming seamless flush fitment. Overlay text: 'Exact Fitment'. Tamil VO: 'கசிவு இல்லாத கச்சிதமான fit.'\n\nScene 7 (8.4s - 10.0s): Smooth medium pan showing the finished profile placed on top of a neat stack of identical U-channels stacked outdoors. Transparent subtle brand overlay: 'OliveTree Builders'. Tamil VO: 'ஆலிவ்ட்ரீ பில்டர்ஸ் தரமான வேலை.'\n\nContinuity & Style Rules: Maintain consistent daylight lighting, realistic metal sheen, natural dust, correct safety gear on workers, consistent worker clothing, high sharpness, realistic 9:16 vertical framings without letterboxing.\n\nNEGATIVE PROMPT: animation, cartoon, 3D render, CGI, glossy explainer graphics, landscape frame, letterbox, black bars, floating documents, fake landmarks, presenter facing camera, studio lighting, over-saturated colors, missing safety gear.",
+    "title_english": "Site Sheet Bending Jig for Perfect Edge Profiles",
+    "caption_english": "Achieving tight, uniform metal profiles on-site requires consistent mechanical leverage rather than loose hand-folding. Using a rigid manual bending brake on our Coimbatore residential sites ensures every sheet metal channel bends to an exact 90-degree angle for leak-free roof flashing and edge protection. Quality construction starts with precise site tooling. Partner with OliveTree Builders for uncompromised structural quality across Coimbatore.",
+    "title_tamil": "தளத்தில் துல்லியமான சீட் பெண்டிங் செய்யும் முறை",
+    "caption_tamil": "கோயம்புத்தூர் கட்டுமான தளங்களில் கஸ்டம் மெட்டல் ப்ரொஃபைல்களை துல்லியமாக வளைக்க சரியான bending jig அவசியம். ஆலிவ்ட்ரீ பில்டர்ஸ் வழங்கும் தரமான கட்டுமான வழிகாட்டி.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#SiteWorkmanship"
+    ]
+  }
+}
