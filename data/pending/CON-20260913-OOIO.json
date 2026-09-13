@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260913-OOIO",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T03:11:13.154Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "4a6wzd3cBLA",
+      "title": "First payment then work 😀 #automation",
+      "description": "",
+      "publishedAt": "2026-08-10T11:49:20Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 16,
+      "views": 2089,
+      "likes": 8,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=4a6wzd3cBLA",
+      "ageHours": 807.3451761111111,
+      "velocity": 2.5874930101923357,
+      "outlier": 9.12227074235808,
+      "velocityRatio": 2.5874930101923357,
+      "engagementRatio": 0.19902159552501794
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 44,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4325,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.8-flash"
+  },
+  "pack": {
+    "topic": "Structural Steel Welding Inspection & Precision Joinery in Residential Construction",
+    "source_script_insight": "The source reel demonstrates high-precision automated arc welding on steel components, emphasizing that proper technique, exact alignment, and systematic execution create flawless structural joints.",
+    "coimbatore_angle": "In Coimbatore residential construction—especially for porticos, steel staircases, roof trusses, and compound gates exposed to humid weather—inspecting structural weld joints for complete seam penetration and slag removal prevents premature rust and joint failure.",
+    "core_takeaway": "Ensure structural steel joints have continuous, uniform weld seams without slag residue or gaps before painting or enclosure.",
+    "voiceover_tamil": "ஸ்ட்ரக்சரல் ஸ்டீல் வெல்டிங் சரியா இருக்கா? கேப் இருந்தா பலம் குறையும்! சீரான கரெக்ட் வெல்டிங் அவசியம். ஸ்லாக் நீக்கி சோதியுங்கள்! ஜாயிண்ட் தரம் உறுதி செய்யுங்கள். உறுதியான வீடு உருவாகும்! ஆலிவ்ட்ரீ பில்டர்ஸ் கோவை.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook - Inspecting a welded steel structural joint on site.",
+        "visual": "A site supervisor holding a weld thickness gauge up to a newly welded steel structural beam joint at a residential house build site.",
+        "camera": "Close-up shot, eye-level, 50mm lens, slow forward push-in.",
+        "on_screen_text": "Steel Joint Check?",
+        "voiceover_tamil": "ஸ்ட்ரக்சரல் ஸ்டீல் வெல்டிங் சரியா இருக்கா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Problem - Highlighting defective, uneven weld with slag and gaps.",
+        "visual": "Extreme close-up of a flawed weld seam showing visible air pockets and dark slag crust along a metal joint.",
+        "camera": "Macro shot, 85mm lens, static lock-off with sharp focus on weld flaw.",
+        "on_screen_text": "Gaps = Weak Joint",
+        "voiceover_tamil": "கேப் இருந்தா பலம் குறையும்!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Mechanism - Proper arc welding execution with clamps.",
+        "visual": "A professional welder in safety helmet and thick gloves using a MIG/ARC welder on a clamped structural steel junction, bright blue-white sparks bouncing naturally.",
+        "camera": "Medium side-angle shot, low angle looking up slightly, 35mm lens, smooth handheld stabilization.",
+        "on_screen_text": "Uniform Arc Welding",
+        "voiceover_tamil": "சீரான கரெக்ட் வெல்டிங் அவசியம்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Execution detail - Chipping away slag to reveal clean weld bead.",
+        "visual": "A chipping hammer tapping off dark slag coating from the welded joint, uncovering a shiny silver continuous ripple weld bead beneath.",
+        "camera": "Close-up macro shot, eye-level, 50mm lens, fast slight tilt down.",
+        "on_screen_text": "Slag Removal",
+        "voiceover_tamil": "ஸ்லாக் நீக்கி சோதியுங்கள்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Verification - Visual quality check with gauge.",
+        "visual": "An engineer measuring the weld throat thickness using a metal pocket caliper tool directly against the steel beam joint.",
+        "camera": "Over-the-shoulder angle, 50mm lens, steady camera focus movement.",
+        "on_screen_text": "Quality Gauge Inspection",
+        "voiceover_tamil": "ஜாயிண்ட் தரம் உறுதி செய்யுங்கள்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "purpose": "Outcome - Completed, rock-solid structural steel frame.",
+        "visual": "Wide view of a pristine, freshly primed red-oxide structural steel porch frame standing straight against a blue Coimbatore sky.",
+        "camera": "Low-angle wide shot, 24mm lens, upward slow pan motion.",
+        "on_screen_text": "Strong Structural Frame",
+        "voiceover_tamil": "உறுதியான வீடு உருவாகும்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "purpose": "Call to action - Brand sign-off over completed house frame visual.",
+        "visual": "Supervisor checking off an inspection clipboard in front of the modern structural steel residential gate framework.",
+        "camera": "Medium shot, eye-level, 35mm lens, subtle gimbal tracking shot.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ பில்டர்ஸ் கோவை."
+      }
+    ],
+    "gemini_video_prompt": "OliveTree Builders video concept. COIMBATORE ONLY. EXACTLY 10 SECONDS. EXACTLY 7 SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE. 90%+ real-looking visuals. Native portrait 9:16 aspect ratio only. Motion graphics allowed only as short transparent text overlays over real footage.\n\nOverall Context & Environment: A real active residential construction site in Coimbatore, Tamil Nadu, under natural bright South Indian daylight. Authentic site textures including red brick walls, grey M-sand mortar, steel structural beams, red-oxide primer, real tools, safety helmets, dusty ground, and tropical clear sky background.\n\nScene 1 (0.0s - 1.4s): Hook / Setup\n- Location: Outdoor courtyard of an active residential house construction site in Coimbatore.\n- Visual: Close-up eye-level shot of a civil engineer holding a stainless steel weld fillet gauge against a steel structural column joint.\n- Camera: 50mm lens feel, eye-level angle, gentle forward tracking push-in. High depth of field with background construction site slightly softened.\n- Lighting: Bright 10:00 AM sunny daylight, realistic daylight shadows.\n- Text Overlay: Small white text overlay reading 'Steel Joint Check?'.\n- Voice-over (Tamil): 'ஸ்ட்ரக்சரல் ஸ்டீல் வெல்டிங் சரியா இருக்கா?'\n\nScene 2 (1.4s - 2.8s): Defect Inspection\n- Location: Focused close-up on a structural steel angle joint on site.\n- Visual: Extreme close-up macro view showing a defective weld seam with uneven slag crust, visible micro-gaps, and black burn marks on raw steel.\n- Camera: 85mm macro lens feel, static locked-off perspective focusing sharply on the metal texture.\n- Text Overlay: Subtle red highlight box over the defect with text 'Gaps = Weak Joint'.\n- Voice-over (Tamil): 'கேப் இருந்தா பலம் குறையும்!'\n\nScene 3 (2.8s - 4.2s): Proper Welding Execution\n- Location: Workshop corner on the active construction site.\n- Visual: A skilled Indian fabricator wearing leather welding gloves and protective face shield performing arc welding on a steel beam clamped securely to a heavy worktable. Real bright blue-white electrical arcs and shower of golden sparks bouncing naturally off metal.\n- Camera: 35mm wide-angle lens feel, medium side profile, low angle looking up slightly, smooth handheld gimbal movement.\n- Text Overlay: Transparent pill tag 'Uniform Arc Welding'.\n- Voice-over (Tamil): 'சீரான கரெக்ட் வெல்டிங் அவசியம்.'\n\nScene 4 (4.2s - 5.6s): Slag Removal Technique\n- Location: Site welding bench area.\n- Visual: Hands using a pointed weld chipping hammer to tap dark crusty slag off a fresh weld line, revealing a smooth, continuous silver wave pattern underneath.\n- Camera: 50mm macro lens feel, close-up tilt down tracking the hammer head movement.\n- Text Overlay: Small white overlay 'Slag Removal'.\n- Voice-over (Tamil): 'ஸ்லாக் நீக்கி சோதியுங்கள்!'\n\nScene 5 (5.6s - 7.0s): Quality Verification\n- Location: Structural framed section of the residential site.\n- Visual: Over-the-shoulder view of an engineer using dial calipers to check the thickness of the weld bead along a steel column junction.\n- Camera: 50mm portrait lens feel, eye-level over-the-shoulder tracking shot.\n- Text Overlay: Small green checkmark graphic and text 'Quality Gauge Inspection'.\n- Voice-over (Tamil): 'ஜாயிண்ட் தரம் உறுதி செய்யுங்கள்.'\n\nScene 6 (7.0s - 8.4s): Completed Structural Framing\n- Location: Main exterior driveway/carport zone of the Coimbatore house build.\n- Visual: Wide low-angle perspective looking up at a fully assembled, neatly painted red-oxide steel roof frame standing straight and square against the blue sky.\n- Camera: 24mm wide lens feel, low angle panning up smoothly.\n- Text Overlay: White bold overlay 'Strong Structural Frame'.\n- Voice-over (Tamil): 'உறுதியான வீடு உருவாகும்!'\n\nScene 7 (8.4s - 10.0s): Practical Brand Takeaway\n- Location: Exterior entrance of the completed structural framework.\n- Visual: Site engineer holding a clipboard, making a tick mark while looking at the steel frame, smiling naturally. Real site background continues smoothly; no blank screens or isolated logos.\n- Camera: 35mm lens feel, medium shot, slight gimbal track right.\n- Text Overlay: Elegant bottom overlay reading 'OliveTree Builders | Quality First'.\n- Voice-over (Tamil): 'ஆலிவ்ட்ரீ பில்டர்ஸ் கோவை.'\n\nContinuity & Realism Rules:\n- Maintain strict visual continuity of materials, engineer attire (white hardhat, high-vis vest), and natural daylight across all 7 scenes.\n- 100% natural motion physics: realistic spark dispersion, metal textures, hammer impact, and light reflection.\n- NO toon animation, 2D vector graphics, glossy CGI, artificial studio lighting, floating 3D models, or blue-screen background replacements.\n\nNEGATIVE PROMPT: animated elements, 2D flat illustration, cartoon characters, glossy 3D CGI render, text floating in empty space, full screen logo card, unreal sparks, hyper-saturated artificial colors, non-Indian construction workers, blurred sidebars, 16:9 landscape aspect ratio, fake landmarks, glossy plastic surfaces.",
+    "title_english": "Inspect Structural Steel Welds Before Painting Your Coimbatore Home",
+    "caption_english": "Weak steel weld joints can compromise the structural safety of your home's roof trusses, staircases, and shade structures. When building in Coimbatore, always ensure your fabricators chip off weld slag to reveal a continuous, uniform weld bead beneath. Unchecked slag hides dangerous air gaps and incomplete joint penetration that invite moisture and rust over time. At OliveTree Builders, every structural steel connection undergoes rigorous gauge inspection and surface preparation before primer application. Build with verified strength. Contact OliveTree Builders today for high-standard residential construction in Coimbatore.",
+    "title_tamil": "உங்கள் வீட்டு ஸ்ட்ரக்சரல் ஸ்டீல் வெல்டிங் பாதுகாப்பானதா?",
+    "caption_tamil": "கோவை வீடுகளில் ஸ்ட்ரக்சரல் ஸ்டீல் வெல்டிங் செய்யும் போது ஸ்லாக் நீக்கி முழுமையான சீரான வெல்டிங் உள்ளதா என சோதிப்பது அவசியம். வெல்டிங் ஜாயிண்ட்டுகளில் கேப் இருந்தால் பிற்காலத்தில் துரு பிடித்து பலம் குறையும். ஆலிவ்ட்ரீ பில்டர்ஸ் கோவை.",
+    "hashtags": [
+      "#CoimbatoreConstruction",
+      "#SteelStructureInspection",
+      "#OliveTreeBuilders"
+    ]
+  }
+}
