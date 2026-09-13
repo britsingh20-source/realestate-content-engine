@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260913-2MTD",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-13T12:08:25.632Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "Xb0FDqyrLS4",
+      "title": "Living my life on this one thought #dothingsyoudontwanttodo #realestate #faith #destiny #life",
+      "description": "",
+      "publishedAt": "2026-08-29T03:18:55Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 22,
+      "views": 2067,
+      "likes": 51,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=Xb0FDqyrLS4",
+      "ageHours": 368.7911916666667,
+      "velocity": 5.6047976380853095,
+      "outlier": 1.883371298405467,
+      "velocityRatio": 1.40188049592188,
+      "engagementRatio": 0.8686909713603759
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 23,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 1891
+  },
+  "pack": {
+    "subject_classification": "buyer psychology",
+    "source_evidence_points": [
+      "Frantic anxiety and panic-driven effort do not create better results than calm trust in alignment.",
+      "What is destined/meant for your long-term interest will arrive when you maintain right standards.",
+      "Patience and attentive care to present duties prevent bad hasty choices.",
+      "Emotional rushing often leads to chasing wrong opportunities out of fear of missing out."
+    ],
+    "topic": "Avoiding FOMO Property Buying in Coimbatore Through Disciplined Evaluation",
+    "source_script_insight": "The source reel's core insight is that frantically rushing or stressing over outcomes is unnecessary because what is genuinely meant for you will find you when you maintain calm discipline. In Coimbatore property investing, this translates to resisting market FOMO (Fear Of Missing Out) and aggressive sales pressure, relying instead on systematic verification so the right asset naturally aligns with your investment goals.",
+    "coimbatore_angle": "In fast-expanding Coimbatore corridors like Saravanampatti, Trichy Road, and Kovaipudur, buyers are frequently bombarded with artificial urgency and 'act now before price hike' pitches. Instead of panic buying unverified plots or overpriced units, investors in Coimbatore must practice calm due diligence.",
+    "visual_strategy": "The physical evidence centers on human posture and document touchpoints: shifting from a stress-inducing smartphone screen packed with red promotional alert popups to calm, physical document review and quiet on-site measurement under Coimbatore daylight. The camera moves from tight, tense handheld angles on screens to steady, eye-level cinematic tracking shots of verified land boundaries.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Don't let FOMO force a hasty property purchase in Coimbatore; disciplined verification ensures the right investment comes to you.",
+    "voiceover_tamil": "பதற்றத்தில் அவசரப்பட்டு சொத்து வாங்காதீங்க. FOMO பயத்தை விட்டுட்டு, தெளிவான சரிபார்ப்பில் கவனம் வையுங்க. சரியான முதலீடு உங்க இலக்குக்கு ஏற்ப கண்டிப்பா உங்களைத் தேடி வரும். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Emotional rushing often leads to chasing wrong opportunities out of fear of missing out.",
+        "purpose": "Establish the central tension: FOMO pressure on a smartphone screen showing fast real estate ads.",
+        "visual": "Macro shot of a finger frantically scrolling through smartphone real estate alerts showing bold red text 'URGENT SALE - PRICES HIKE TOMORROW' against a blurred Coimbatore street backdrop.",
+        "on_screen_text": "DON'T PANIC",
+        "voiceover_tamil": "பதற்றத்தில் அவசரப்பட்டு"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Frantic anxiety and panic-driven effort do not create better results than calm trust in alignment.",
+        "purpose": "Show the deliberate pause and rejection of artificial urgency.",
+        "visual": "Eye-level medium shot of an investor locking the smartphone screen, placing it face down on a clean wooden table in a brightly lit office.",
+        "on_screen_text": "STOP FOMO",
+        "voiceover_tamil": "சொத்து வாங்காதீங்க."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Patience and attentive care to present duties prevent bad hasty choices.",
+        "purpose": "Introduce systematic verification over panic buying.",
+        "visual": "Close-up hands opening a structured physical verification checklist folder containing legal title documents and a site plan.",
+        "on_screen_text": "VERIFY FIRST",
+        "voiceover_tamil": "FOMO பயத்தை விட்டுட்டு,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Patience and attentive care to present duties prevent bad hasty choices.",
+        "purpose": "Show physical inspection on site rather than emotional buying.",
+        "visual": "Low-angle tracking shot of a surveyor's measuring tape being pulled taut against a granite boundary stone on a quiet plot with Coimbatore Western Ghats faint in background.",
+        "on_screen_text": "CHECK FACTS",
+        "voiceover_tamil": "தெளிவான சரிபார்ப்பில்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "What is destined/meant for your long-term interest will arrive when you maintain right standards.",
+        "purpose": "Demonstrate calm confidence walking through a verified neighborhood.",
+        "visual": "Steady eye-level shot following an investor walking calmly along a wide, tree-lined residential street in Coimbatore under warm sunlight.",
+        "on_screen_text": "RIGHT ALIGNMENT",
+        "voiceover_tamil": "கவணம் வையுங்க."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "What is destined/meant for your long-term interest will arrive when you maintain right standards.",
+        "purpose": "Show the decision payoff of finding the right aligned asset.",
+        "visual": "Medium close-up of a hand placing a stamp of approval or closing a clean signed contract binder outdoors with natural sunlight casting crisp shadows.",
+        "on_screen_text": "RIGHT ASSET",
+        "voiceover_tamil": "சரியான முதலீடு உங்களைத் தேடி வரும்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Frantic anxiety and panic-driven effort do not create better results than calm trust in alignment.",
+        "purpose": "Deliver final brand proof and core takeaway without generic end card.",
+        "visual": "Wide cinematic sunset shot of a peaceful, well-planned residential plot layout in Coimbatore with green foliage, subtle text overlay appearing at bottom.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10.0 seconds.\n- Aspect Ratio: Native Portrait 9:16 vertical video composition.\n- Framing: Full vertical coverage, no horizontal bars, no black bands, no pillarboxing.\n\nB. REALISM LOCK\n- Style: Ultra-photorealistic real-world documentary footage captured on a 35mm cinema lens.\n- Location: Authentic Coimbatore, Tamil Nadu, India settings (residential avenues, red soil plot borders, modern clean office interiors).\n- Lighting & Texture: Natural warm South Indian sunlight, realistic sky exposure, soft lens flares, natural foliage movement, genuine tactile textures of paper, stone, glass, and wood. NO 3D renders, NO architectural CGI visualizers, NO cartoon animation, NO stock video look.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Buyer Psychology (Overcoming FOMO and Panic Buying in Real Estate).\n- Evidence Points Illustrated:\n  1. Panic scrolling and artificial urgency cause poor investment choices.\n  2. Turning away from digital noise allows disciplined verification.\n  3. Hands-on physical verification (boundary checks, document review) ensures quality.\n  4. The right asset aligns naturally when strict standards are maintained without frantic rushing.\n- Local Setting: Coimbatore residential corridors.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Opening Tension: Stressful smartphone scrolling with high-contrast alert notifications.\n- Visual Transition: Rejection of phone -> Physical paper checklist -> Grounded site survey -> Calm walk -> Satisfactory deal completion.\n- Forbidden Sequence: DO NOT show empty plot turning into 3D house, DO NOT show family hugging, DO NOT show generic construction workers.\n\nE. CAMERA & IMAGE QUALITY\n- Gear feel: Handheld tension in Scene 1, smooth steadycam stabilization in Scenes 2-7.\n- Color Profile: Natural cinematic tone, realistic skin tones, rich greens of Coimbatore flora, warm sunset color palette in final frame.\n\nF. EXACT 7-SHOT BREAKDOWN\n- Shot 1 (0.0s - 1.4s):\n  - Frame: Close-up macro 9:16.\n  - Action: Finger rapidly scrolling on a modern smartphone screen displaying loud promotional property notifications with red text ('PRICE HIKE SOON'). Background shows slightly out-of-focus Coimbatore traffic street daylight.\n  - Text Overlay: 'DON'T PANIC'\n  - Tamil VO: 'பதற்றத்தில் அவசரப்பட்டு'\n\n- Shot 2 (1.4s - 2.8s):\n  - Frame: Eye-level medium shot.\n  - Action: Investor hand resolutely turns off the smartphone screen and places it face-down onto a sleek teak wooden office desk.\n  - Text Overlay: 'STOP FOMO'\n  - Tamil VO: 'சொத்து வாங்காதீங்க.'\n\n- Shot 3 (2.8s - 4.2s):\n  - Frame: Top-down close-up.\n  - Action: Hands opening a crisp white document folder labeled with legal verification checklists and land survey maps.\n  - Text Overlay: 'VERIFY FIRST'\n  - Tamil VO: 'FOMO பயத்தை விட்டுட்டு,'\n\n- Shot 4 (4.2s - 5.6s):\n  - Frame: Low-angle tracking shot.\n  - Action: A yellow measuring tape extended tight against a granite boundary stone embedded in red soil, with coconut trees and faint Coimbatore hills under blue sky in background.\n  - Text Overlay: 'CHECK FACTS'\n  - Tamil VO: 'தெளிவான சரிபார்ப்பில்'\n\n- Shot 5 (5.6s - 7.0s):\n  - Frame: Eye-level forward-tracking shot.\n  - Action: A well-dressed investor walking calmly along a wide paved avenue lined with leafy neem trees and clean residential plot fencing in Coimbatore.\n  - Text Overlay: 'RIGHT ALIGNMENT'\n  - Tamil VO: 'கவணம் வையுங்க.'\n\n- Shot 6 (7.0s - 8.5s):\n  - Frame: Medium close-up.\n  - Action: Hands neatly closing a verified property deed binder, sunlight reflecting warmly off the leather cover.\n  - Text Overlay: 'RIGHT ASSET'\n  - Tamil VO: 'சரியான முதலீடு உங்களைத் தேடி வரும்.'\n\n- Shot 7 (8.5s - 10.0s):\n  - Frame: Wide cinematic landscape shot (composed vertically).\n  - Action: Golden hour sunset illumination over a serene, fully-developed residential neighborhood layout in Coimbatore. Quiet atmospheric haze.\n  - Text Overlay: 'OliveTree Investors'\n  - Tamil VO: 'ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்.'\n\nG. MOTION-GRAPHICS LIMIT\n- Only clean, minimalist sans-serif white text overlays positioned at lower third. No floating 3D icons, no glowing arrows, no cartoon callouts.\n\nH. FINAL REAL SCENE\n- Concludes on real golden-hour physical footage of a verified Coimbatore layout with minimal logo branding. No separate graphic end card.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Strict prohibition of: 3D render, animation, cartoon, graphic explainer, architectural visualizer, fake skyline, blurred sidebars, 16:9 padded video, fast whip pans, fisheye lens, duplicated people, generic happy family, construction site progress timelapse.",
+    "title_english": "Stop FOMO Property Buying in Coimbatore | OliveTree Investors",
+    "caption_english": "Frantic decisions often lead to costly real estate mistakes in high-growth cities like Coimbatore. When marketing hype creates artificial urgency, impulsive buyers rush into unverified deals out of fear of missing out. True investment success requires patience, strict legal due diligence, and clear location criteria. What is genuinely meant for your long-term wealth will align when you stick to systematic evaluation over emotional panic. Focus on verified titles, clear access, and calm analysis. Partner with OliveTree Investors for disciplined, stress-free property investments in Coimbatore.",
+    "title_tamil": "கோவையில் அவசரப்பட்டு சொத்து வாங்காதீங்க!",
+    "caption_tamil": "அவசரத்தில் எடுக்கும் சொத்து முடிவுகள் பெரிய இழப்பை ஏற்படுத்தலாம். கோவையின் வளர்ந்து வரும் இடங்களில் FOMO பயத்தால் தவறான இடங்களை வாங்காதீர்கள். தெளிவான ஆவணச் சரிபார்ப்பு மற்றும் பொறுமையான அணுகுமுறையே சரியான சொத்தை உங்களிடம் சேர்க்கும். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸுடன் இணைந்து சரியான முதலீட்டைத் தேர்ந்தெடுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
