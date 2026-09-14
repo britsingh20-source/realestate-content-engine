@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-14T05:36:22.335Z",
+  "scannedAt": "2026-09-14T12:43:31.283Z",
   "niche": "documentation",
   "skippedCreators": [],
   "creators": [
@@ -16,14 +16,41 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 49,
+        "views": 65.5,
         "velocity": 1,
-        "engagement": 0.0022624434389140274
+        "engagement": 0.007525601333650869
       },
-      "videoCount": 17
+      "videoCount": 18
     }
   ],
   "candidates": [
+    {
+      "niche": "documentation",
+      "creator": "IndiaLaw LLP",
+      "creatorKey": "indialaw",
+      "source": {
+        "id": "KwoRmDSbicU",
+        "title": "Andhra Pradesh High Court on Passport Denial Based on FIR",
+        "description": "Can your passport be denied just because an FIR has been filed against you?\n\nThe Andhra Pradesh High Court held that the answer is no.\n\nThe Court clarified that a mere FIR or pending police investigation is not enough to refuse a passport. Under the Passports Act, a passport can be denied only when criminal proceedings are pending before a competent court.\n\nThe judgment also reiterates that the right to travel abroad forms part of personal liberty under Article 21 of the Constitution.\n\n{Andhra Pradesh High Court, Passport, FIR, Passports Act, Article 21, Right to travel, Criminal proceedings, Personal liberty, Legal updates, IndiaLaw}\n\n#IndiaLaw #Passport #Article21 #AndhraPradeshHighCourt #LegalAwareness",
+        "publishedAt": "2026-08-08T13:00:18Z",
+        "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
+        "channelTitle": "INDIALAW LLP",
+        "durationSeconds": 53,
+        "views": 526,
+        "likes": 11,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=KwoRmDSbicU",
+        "ageHours": 887.720356388889,
+        "velocity": 0.592528937986381,
+        "outlier": 8.030534351145038,
+        "velocityRatio": 0.592528937986381,
+        "engagementRatio": 2.7788540212735233
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 43,
+      "priority": "priority"
+    },
     {
       "niche": "documentation",
       "creator": "IndiaLaw LLP",
@@ -40,43 +67,43 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=tt3DjxThVNI",
-        "ageHours": 376.22120416666667,
-        "velocity": 0.8532214464387191,
-        "outlier": 6.551020408163265,
-        "velocityRatio": 0.8532214464387191,
-        "engagementRatio": 5.507788161993769
+        "ageHours": 383.3403563888889,
+        "velocity": 0.8373759627706763,
+        "outlier": 4.900763358778626,
+        "velocityRatio": 0.8373759627706763,
+        "engagementRatio": 1.6558223904728104
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 44,
-      "priority": "priority"
+      "viralScore": 42,
+      "priority": "strong"
     },
     {
       "niche": "documentation",
       "creator": "IndiaLaw LLP",
       "creatorKey": "indialaw",
       "source": {
-        "id": "KwoRmDSbicU",
-        "title": "Andhra Pradesh High Court on Passport Denial Based on FIR",
-        "description": "Can your passport be denied just because an FIR has been filed against you?\n\nThe Andhra Pradesh High Court held that the answer is no.\n\nThe Court clarified that a mere FIR or pending police investigation is not enough to refuse a passport. Under the Passports Act, a passport can be denied only when criminal proceedings are pending before a competent court.\n\nThe judgment also reiterates that the right to travel abroad forms part of personal liberty under Article 21 of the Constitution.\n\n{Andhra Pradesh High Court, Passport, FIR, Passports Act, Article 21, Right to travel, Criminal proceedings, Personal liberty, Legal updates, IndiaLaw}\n\n#IndiaLaw #Passport #Article21 #AndhraPradeshHighCourt #LegalAwareness",
-        "publishedAt": "2026-08-08T13:00:18Z",
+        "id": "ikwJdyJzlY0",
+        "title": "India’s vehicle scrapping framework may soon become more regulated and digitally monitored.",
+        "description": "The Draft Motor Vehicles (RVSF) Amendment Rules, 2026 propose expanded End-of-Life Vehicle definitions, stronger Vscrap-VAHAN integration, verified scrapping certificates, stricter equipment standards, and tougher compliance requirements for registered scrapping facilities.\n\nThe proposed changes aim to make vehicle scrapping more transparent, accountable, and environmentally compliant.\n\n{Vehicle scrapping rules, RVSF Amendment Rules 2026, End-of-Life Vehicles, Vscrap portal, VAHAN}\n\n#VehicleScrapping #RVSF #MotorVehiclesAct #EnvironmentalLaw #TransportLaw #IndiaLaw #LegalUpdate",
+        "publishedAt": "2026-09-14T06:04:01Z",
         "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
         "channelTitle": "INDIALAW LLP",
-        "durationSeconds": 53,
-        "views": 525,
-        "likes": 11,
+        "durationSeconds": 59,
+        "views": 75,
+        "likes": 0,
         "comments": 0,
-        "url": "https://www.youtube.com/watch?v=KwoRmDSbicU",
-        "ageHours": 880.6012041666667,
-        "velocity": 0.5961836044691986,
-        "outlier": 10.714285714285714,
-        "velocityRatio": 0.5961836044691986,
-        "engagementRatio": 9.26095238095238
+        "url": "https://www.youtube.com/watch?v=ikwJdyJzlY0",
+        "ageHours": 6.6584119444444445,
+        "velocity": 11.263947113181768,
+        "outlier": 1.1450381679389312,
+        "velocityRatio": 11.263947113181768,
+        "engagementRatio": 0
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 43,
-      "priority": "priority"
+      "viralScore": 42,
+      "priority": "candidate"
     },
     {
       "niche": "documentation",
@@ -94,15 +121,15 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=r28B4LiHs7g",
-        "ageHours": 928.9914819444444,
-        "velocity": 0.47578477154049137,
-        "outlier": 9.020408163265307,
-        "velocityRatio": 0.47578477154049137,
-        "engagementRatio": 2
+        "ageHours": 936.1106341666666,
+        "velocity": 0.47216641267351056,
+        "outlier": 6.748091603053435,
+        "velocityRatio": 0.47216641267351056,
+        "engagementRatio": 0.6012658227848102
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 42,
+      "viralScore": 35,
       "priority": "priority"
     },
     {
@@ -121,15 +148,15 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=TaZFY0JRoJE",
-        "ageHours": 64.0645375,
-        "velocity": 1.48287966646134,
-        "outlier": 1.9387755102040816,
-        "velocityRatio": 1.48287966646134,
-        "engagementRatio": 4.652631578947368
+        "ageHours": 71.18368972222223,
+        "velocity": 1.334575383359803,
+        "outlier": 1.450381679389313,
+        "velocityRatio": 1.334575383359803,
+        "engagementRatio": 1.39873417721519
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 30,
+      "viralScore": 23,
       "priority": "candidate"
     },
     {
@@ -148,15 +175,15 @@
         "likes": 6,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=CiJ5O6OqRTE",
-        "ageHours": 1287.8284263888888,
-        "velocity": 0.06833208383725055,
-        "outlier": 1.7959183673469388,
-        "velocityRatio": 0.06833208383725055,
-        "engagementRatio": 30.136363636363633
+        "ageHours": 1294.947578611111,
+        "velocity": 0.06795641881842346,
+        "outlier": 1.3435114503816794,
+        "velocityRatio": 0.06795641881842346,
+        "engagementRatio": 9.059982738780207
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 21,
+      "viralScore": 18,
       "priority": "candidate"
     },
     {
@@ -175,15 +202,15 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Yy-KRCrIbRs",
-        "ageHours": 640.9456486111111,
-        "velocity": 0.118574796731497,
-        "outlier": 1.5510204081632653,
-        "velocityRatio": 0.118574796731497,
-        "engagementRatio": 5.81578947368421
+        "ageHours": 648.0648008333334,
+        "velocity": 0.11727222324414649,
+        "outlier": 1.1603053435114503,
+        "velocityRatio": 0.11727222324414649,
+        "engagementRatio": 1.7484177215189873
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 20,
+      "viralScore": 16,
       "priority": "candidate"
     },
     {
@@ -202,15 +229,15 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=PgBuCX9b7pw",
-        "ageHours": 327.9984263888889,
-        "velocity": 0.1676837313078742,
-        "outlier": 1.1224489795918366,
-        "velocityRatio": 0.1676837313078742,
-        "engagementRatio": 8.036363636363635
+        "ageHours": 335.1175786111111,
+        "velocity": 0.16412150096078673,
+        "outlier": 0.8396946564885496,
+        "velocityRatio": 0.16412150096078673,
+        "engagementRatio": 2.4159953970080554
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 18,
+      "viralScore": 16,
       "priority": "candidate"
     },
     {
@@ -229,42 +256,15 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=D4eeNU3Vkxo",
-        "ageHours": 976.1284263888889,
-        "velocity": 0.05224722344033206,
-        "outlier": 1.0408163265306123,
-        "velocityRatio": 0.05224722344033206,
-        "engagementRatio": 17.333333333333332
+        "ageHours": 983.2475786111111,
+        "velocity": 0.05186893017528727,
+        "outlier": 0.7786259541984732,
+        "velocityRatio": 0.05186893017528727,
+        "engagementRatio": 5.210970464135022
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 17,
-      "priority": "candidate"
-    },
-    {
-      "niche": "documentation",
-      "creator": "IndiaLaw LLP",
-      "creatorKey": "indialaw",
-      "source": {
-        "id": "urPj2QVM7Ik",
-        "title": "Supreme Court on Contempt and Elephant Welfare",
-        "description": "Can breaking a promise made to the Supreme Court lead to contempt proceedings?\n\nThe Supreme Court answered yes in a case involving a captive elephant named Raman.\n\nAfter finding that an undertaking given to the Court regarding the elephant's welfare had been violated, the Court held the respondent guilty of contempt, imposed a fine, and directed the Kerala authorities to take temporary custody of Raman for his protection.\n\nThe ruling reinforces that an undertaking given before the Supreme Court is legally binding, especially where animal welfare is at stake.\n\n{Supreme Court, Contempt of court, Animal welfare, Captive elephant, Raman elephant, Undertaking, Kerala, Legal updates, IndiaLaw}\n\n#IndiaLaw #SupremeCourt #AnimalWelfare #ContemptOfCourt #LegalAwareness",
-        "publishedAt": "2026-08-20T13:30:07Z",
-        "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
-        "channelTitle": "INDIALAW LLP",
-        "durationSeconds": 70,
-        "views": 100,
-        "likes": 0,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=urPj2QVM7Ik",
-        "ageHours": 592.1042597222222,
-        "velocity": 0.1688891751039144,
-        "outlier": 2.0408163265306123,
-        "velocityRatio": 0.1688891751039144,
-        "engagementRatio": 0
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 13,
+      "viralScore": 15,
       "priority": "candidate"
     },
     {
@@ -283,15 +283,42 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=4OCpthqOVbw",
-        "ageHours": 423.3723152777778,
-        "velocity": 0.05904968061881257,
-        "outlier": 0.5102040816326531,
-        "velocityRatio": 0.05904968061881257,
-        "engagementRatio": 17.68
+        "ageHours": 430.4914675,
+        "velocity": 0.05807316030020967,
+        "outlier": 0.3816793893129771,
+        "velocityRatio": 0.05807316030020967,
+        "engagementRatio": 5.315189873417722
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 13,
+      "priority": "candidate"
+    },
+    {
+      "niche": "documentation",
+      "creator": "IndiaLaw LLP",
+      "creatorKey": "indialaw",
+      "source": {
+        "id": "urPj2QVM7Ik",
+        "title": "Supreme Court on Contempt and Elephant Welfare",
+        "description": "Can breaking a promise made to the Supreme Court lead to contempt proceedings?\n\nThe Supreme Court answered yes in a case involving a captive elephant named Raman.\n\nAfter finding that an undertaking given to the Court regarding the elephant's welfare had been violated, the Court held the respondent guilty of contempt, imposed a fine, and directed the Kerala authorities to take temporary custody of Raman for his protection.\n\nThe ruling reinforces that an undertaking given before the Supreme Court is legally binding, especially where animal welfare is at stake.\n\n{Supreme Court, Contempt of court, Animal welfare, Captive elephant, Raman elephant, Undertaking, Kerala, Legal updates, IndiaLaw}\n\n#IndiaLaw #SupremeCourt #AnimalWelfare #ContemptOfCourt #LegalAwareness",
+        "publishedAt": "2026-08-20T13:30:07Z",
+        "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
+        "channelTitle": "INDIALAW LLP",
+        "durationSeconds": 70,
+        "views": 100,
+        "likes": 0,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=urPj2QVM7Ik",
+        "ageHours": 599.2234119444445,
+        "velocity": 0.1668826651407126,
+        "outlier": 1.5267175572519085,
+        "velocityRatio": 0.1668826651407126,
+        "engagementRatio": 0
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 10,
       "priority": "candidate"
     },
     {
@@ -310,15 +337,15 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=dX64NzP5b6c",
-        "ageHours": 495.9200930555556,
-        "velocity": 0.08670751720314529,
-        "outlier": 0.8775510204081632,
-        "velocityRatio": 0.08670751720314529,
+        "ageHours": 503.03924527777775,
+        "velocity": 0.0854804081463971,
+        "outlier": 0.6564885496183206,
+        "velocityRatio": 0.0854804081463971,
         "engagementRatio": 0
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 6,
+      "viralScore": 4,
       "priority": "candidate"
     },
     {
@@ -337,15 +364,15 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=H5JdjjFybb4",
-        "ageHours": 1171.4945375,
-        "velocity": 0.03414441870583626,
-        "outlier": 0.8163265306122449,
-        "velocityRatio": 0.03414441870583626,
+        "ageHours": 1178.6136897222223,
+        "velocity": 0.03393817698607189,
+        "outlier": 0.6106870229007634,
+        "velocityRatio": 0.03393817698607189,
         "engagementRatio": 0
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 5,
+      "viralScore": 4,
       "priority": "candidate"
     },
     {
@@ -364,15 +391,15 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=DvyIBjqEVrg",
-        "ageHours": 975.9098152777777,
-        "velocity": 0.020493696945047435,
-        "outlier": 0.40816326530612246,
-        "velocityRatio": 0.020493696945047435,
+        "ageHours": 983.0289675,
+        "velocity": 0.020345280415147073,
+        "outlier": 0.3053435114503817,
+        "velocityRatio": 0.020345280415147073,
         "engagementRatio": 0
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 3,
+      "viralScore": 2,
       "priority": "candidate"
     },
     {
@@ -391,10 +418,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=_3RtddXWXwk",
-        "ageHours": 233.04064861111112,
-        "velocity": 0.07294864694772163,
-        "outlier": 0.3469387755102041,
-        "velocityRatio": 0.07294864694772163,
+        "ageHours": 240.15980083333332,
+        "velocity": 0.07078620127519884,
+        "outlier": 0.2595419847328244,
+        "velocityRatio": 0.07078620127519884,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -414,14 +441,14 @@
         "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
         "channelTitle": "INDIALAW LLP",
         "durationSeconds": 58,
-        "views": 13,
+        "views": 14,
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Y-OsFnQVwx4",
-        "ageHours": 112.03481527777778,
-        "velocity": 0.11603535889953454,
-        "outlier": 0.2653061224489796,
-        "velocityRatio": 0.11603535889953454,
+        "ageHours": 119.1539675,
+        "velocity": 0.11749503850973322,
+        "outlier": 0.21374045801526717,
+        "velocityRatio": 0.11749503850973322,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -445,15 +472,15 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Lyb9L-ZuuEk",
-        "ageHours": 167.15648194444444,
-        "velocity": 0.06580660152716018,
-        "outlier": 0.22448979591836735,
-        "velocityRatio": 0.06580660152716018,
+        "ageHours": 174.27563416666666,
+        "velocity": 0.06311840466166524,
+        "outlier": 0.16793893129770993,
+        "velocityRatio": 0.06311840466166524,
         "engagementRatio": 0
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 2,
+      "viralScore": 1,
       "priority": "candidate"
     },
     {
@@ -472,10 +499,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=pOUvrfQATI0",
-        "ageHours": 1046.9889819444445,
-        "velocity": 0.010506318776699107,
-        "outlier": 0.22448979591836735,
-        "velocityRatio": 0.010506318776699107,
+        "ageHours": 1054.1081341666666,
+        "velocity": 0.01043536203114127,
+        "outlier": 0.16793893129770993,
+        "velocityRatio": 0.01043536203114127,
         "engagementRatio": 0
       },
       "confirmations": 0,
