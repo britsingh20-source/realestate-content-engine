@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260914-R1ZU",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-14T19:57:47.676Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "0-bHohjUTPo",
+      "title": "Assam ki pani puri aka Puchka #assamese #assamfood",
+      "description": "",
+      "publishedAt": "2026-09-02T12:39:02Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 14,
+      "views": 1179,
+      "likes": 24,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=0-bHohjUTPo",
+      "ageHours": 295.2217572222222,
+      "velocity": 3.9936080968196785,
+      "outlier": 1.0708446866485013,
+      "velocityRatio": 1.103783165292562,
+      "engagementRatio": 0.6901804692491394
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 15,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2035
+  },
+  "pack": {
+    "subject_classification": "portfolio strategy",
+    "source_evidence_points": [
+      "Customization of ingredients (khatta, meetha, medium spice) based on individual customer choice rather than a standardized blend.",
+      "Combining distinct flavor profiles in precise proportions yields a balanced and superior result.",
+      "Local context and customer preference dictate the exact proportion of each component."
+    ],
+    "topic": "Tailoring Property Investment Mix in Coimbatore",
+    "source_script_insight": "Just as a skilled street vendor customizes flavors to match a buyer's exact preference, property investment should never be a one-size-fits-all package. Investors must mix high-yield cash-flow assets and long-term capital appreciation assets in custom proportions based on individual risk and income goals.",
+    "coimbatore_angle": "Coimbatore real estate investors often get pushed into generic land deals. A smart investor balances immediate rental yield (e.g., commercial/tenanted space) with long-term capital appreciation (e.g., suburban layout plots) specifically tailored to their life stage.",
+    "visual_strategy": "The visuals strictly focus on the physical mechanics of custom portfolio allocation: side-by-side comparisons of distinct asset types, interactive allocation sliders on modern financial dashboards, clear visual split between tenanted physical assets and growth corridors in Coimbatore, avoiding generic building construction or happy families.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never accept a rigid, pre-packaged real estate pitch in Coimbatore; demand a customized investment mix tailored to your balance of monthly yield and capital growth.",
+    "voiceover_tamil": "ஒரே விதமான முதலீடு அனைவருக்கும் சரியாகாது! கோயம்புத்தூரில் உங்கள் தேவைகளுக்கேற்ப, மாத வருமானம் மற்றும் நீண்டகால வளர்ச்சி இரண்டையும் சரியான அளவில் கலக்க வேண்டும்! வாடகை அல்லது நில வளர்ச்சி — உங்கள் இலக்குக்கு ஏற்ப போர்ட்ஃபோலியோவை அமைத்துக் கொள்ளுங்கள். ஆலிவ் ட்ரீ இன்வெஸ்டர்ஸ் உடன் திட்டமிடுங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Rejection of one-size-fits-all standardized offering",
+        "purpose": "Visualizes central tension between generic property options and tailored investor needs",
+        "visual": "Macro top-down shot on a desk in Coimbatore: A hand pushes aside a generic brochure labeled 'Standard Plot Deal' to reveal a customized financial planning breakdown with split allocation charts.",
+        "on_screen_text": "One Size Fits All?",
+        "voiceover_tamil": "ஒரே விதமான முதலீடு அனைவருக்கும் சரியாகாது!"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Customization of ingredients based on individual preference",
+        "purpose": "Demonstrates evaluating distinct property asset types side-by-side",
+        "visual": "Eye-level over-the-shoulder shot of an investor tapping a tablet screen showing two distinct asset cards side-by-side: 'Rental Yield Asset' vs 'Land Growth Asset'.",
+        "on_screen_text": "Custom Mix",
+        "voiceover_tamil": "கோயம்புத்தூரில் உங்கள் தேவைகளுக்கேற்ப..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Combining distinct components in precise proportions",
+        "purpose": "Illustrates the balancing mechanism between monthly cash flow and growth",
+        "visual": "Close-up shot of a digital slider UI overlaid on a real desk, adjusting the ratio between 'Cash Flow %' and 'Appreciation %' until it locks in balance.",
+        "on_screen_text": "Yield + Growth",
+        "voiceover_tamil": "மாத வருமானம் மற்றும் நீண்டகால வளர்ச்சி..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "First key asset component: immediate income generation",
+        "purpose": "Provides visual evidence of the cash-flow yield asset component",
+        "visual": "Street-level shot in a busy Coimbatore commercial neighborhood showing an active, occupied tenanted shopfront with clear foot traffic.",
+        "on_screen_text": "Monthly Rent",
+        "voiceover_tamil": "...இரண்டையும் சரியான அளவில் கலக்க வேண்டும்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Second key asset component: long-term appreciation",
+        "purpose": "Provides visual evidence of the land appreciation component",
+        "visual": "Low-angle static shot of a clean, well-demarcated residential layout plot in an expanding Coimbatore suburban growth zone under bright sunlight.",
+        "on_screen_text": "Capital Growth",
+        "voiceover_tamil": "வாடகை அல்லது நில வளர்ச்சி..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Tailored composition tailored to exact goals",
+        "purpose": "Shows the final personalized portfolio breakdown on paper and screen",
+        "visual": "Overhead close-up of a pen marking a tailored allocation ratio (60% Appreciation / 40% Income) on a printed financial planner.",
+        "on_screen_text": "Tailored Strategy",
+        "voiceover_tamil": "உங்கள் இலக்குக்கு ஏற்ப போர்ட்ஃபோலியோவை அமைத்துக் கொள்ளுங்கள்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Final actionable payoff and strategy execution",
+        "purpose": "Delivers the subject-specific proof and call to action without a generic end card",
+        "visual": "Medium shot of an investor standing on a sunlit balcony overlooking the modern Coimbatore cityscape, holding a phone with the custom portfolio plan confirmed. Subtle text overlay at top right.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "ஆலிவ் ட்ரீ இன்வெஸ்டர்ஸ் உடன் திட்டமிடுங்கள்!"
+      }
+    ],
+    "title_english": "Customizing Your Coimbatore Property Portfolio Mix",
+    "caption_english": "Are you accepting a standard 'one-size-fits-all' real estate pitch in Coimbatore? Just like a custom recipe, an effective property portfolio requires the right balance of immediate monthly cash flow (tenanted commercial assets) and long-term capital appreciation (suburban growth plots). Depending on your financial goals, age, and risk appetite, your optimal mix will differ from everyone else's. Stop buying generic options—tailor your asset allocation for maximum efficiency. Partner with OliveTree Investors to build a customized Coimbatore investment strategy tailored strictly to your goals.",
+    "title_tamil": "கோவை சொத்து முதலீட்டில் உங்களுக்கான சரியான கலவை!",
+    "caption_tamil": "அனைவருக்கும் ஒரே வகையான சொத்து முதலீடு சரியாக இருக்குமா? கண்டிப்பாய் இருக்காது! உங்கள் நிதி இலக்குகளுக்கு ஏற்ப வாடகை வருமானம் தரும் சொத்துக்கள் மற்றும் நீண்டகால நில வளர்ச்சி ஆகியவற்றை சரியான விகிதத்தில் கலப்பதே புத்திசாலித்தனமான போர்ட்ஃபோலியோ வியூகம். உங்களின் பிரத்யேக முதலீட்டு திட்டத்தை அமைக்க ஆலிவ் ட்ரீ இன்வெஸ்டர்ஸ் உடன் இணைந்து செயல்படுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PortfolioStrategy",
+      "#OliveTreeInvestors"
+    ],
+    "gemini_video_prompt": "Produce an ultra-photorealistic 10-second vertical video (9:16 aspect ratio) designed for high-performing social video reels. The entire video must be strictly grounded in real-world physical footage shot in Coimbatore, Tamil Nadu, India. Do NOT use animation, 3D architecture renders, cartoon graphics, or generic promotional stock slides.\n\n--- MANDATORY SPECIFICATIONS ---\n- DURATION: Exactly 10.0 seconds.\n- FORMAT: Native vertical 9:16 composition.\n- LOCATION: Coimbatore, Tamil Nadu, India only.\n- BRAND FOCUS: OliveTree Investors (Property Investment Insights).\n- CORE SUBJECT: Real Estate Portfolio Allocation & Asset Customization (Balancing Yield vs Capital Appreciation).\n- FORBIDDEN PLOTLINE: Do NOT show generic empty plot -> construction -> villa -> happy family moving in -> end card. Every shot must explicitly prove portfolio allocation mechanics.\n\n--- SUBJECT & EVIDENCE MAPPING ---\n- Evidence Point 1: Rejection of rigid one-size-fits-all pitches (Scene 1).\n- Evidence Point 2: Side-by-side comparison of distinct property types (Scene 2).\n- Evidence Point 3: Proportional balancing of cash flow and growth (Scene 3).\n- Evidence Point 4: Income-generating physical commercial asset in Coimbatore (Scene 4).\n- Evidence Point 5: High-growth residential plot layout in Coimbatore (Scene 5).\n- Evidence Point 6: Documented custom allocation breakdown (Scene 6).\n- Evidence Point 7: Final confident investor strategy review in Coimbatore cityscape (Scene 7).\n\n--- DETAILED 7-SHOT SEQUENCE ---\n\n1. SHOT 1 (0.0s - 1.4s)\n- Context: Desk setup in a bright modern Coimbatore office.\n- Subject: A hand pushing aside a paper brochure titled 'Generic Plot Deal' to reveal a printed financial matrix sheet with split pie charts.\n- Camera: Top-down macro angle, fast gentle pull-back.\n- Lighting: Natural bright morning sunlight through window glass.\n- Text Overlay: 'One Size Fits All?' (Small, crisp sans-serif font at top).\n- Voiceover (Tamil): 'ஒரே விதமான முதலீடு அனைவருக்கும் சரியாகாது!'\n\n2. SHOT 2 (1.4s - 2.8s)\n- Context: Investor reviewing options.\n- Subject: Over-the-shoulder shot of a modern tablet showing two interactive property cards: 'Commercial Yield' and 'Land Growth'.\n- Camera: Eye-level shoulder shot, subtle 35mm shallow depth of field.\n- Lighting: Warm ambient office interior.\n- Text Overlay: 'Custom Mix'\n- Voiceover (Tamil): 'கோயம்புத்தூரில் உங்கள் தேவைகளுக்கேற்ப...'\n\n3. SHOT 3 (2.8s - 4.2s)\n- Context: Financial customization interface.\n- Subject: Close-up of a digital slider interface on screen adjusting ratio bars labeled 'Monthly Cash Flow' and '5-Yr Appreciation'.\n- Camera: Close-up macro lens, stable hold.\n- Lighting: Screen luminescence mixed with natural room light.\n- Text Overlay: 'Yield + Growth'\n- Voiceover (Tamil): 'மாத வருமானம் மற்றும் நீண்டகால வளர்ச்சி...'\n\n4. SHOT 4 (4.2s - 5.6s)\n- Context: Real estate asset type 1 - Cash Flow.\n- Subject: Street-level view of a well-maintained, active tenanted retail commercial building in Coimbatore (e.g., street front shop).\n- Camera: Handheld stabilized 50mm eye-level panning past the storefront.\n- Lighting: Crisp daytime sunlight, natural street shadows.\n- Text Overlay: 'Monthly Rent'\n- Voiceover (Tamil): '...இரண்டையும் சரியான அளவில் கலக்க வேண்டும்!'\n\n5. SHOT 5 (5.6s - 7.0s)\n- Context: Real estate asset type 2 - Capital Appreciation.\n- Subject: Low-angle perspective of a clean residential layout plot with concrete boundary corner stones in a green suburban area of Coimbatore.\n- Camera: Low-angle tracking forward across boundary line.\n- Lighting: Clear blue sky, subtle tropical sun flare.\n- Text Overlay: 'Capital Growth'\n- Voiceover (Tamil): 'வாடகை அல்லது நில வளர்ச்சி...'\n\n6. SHOT 6 (7.0s - 8.5s)\n- Context: Strategy finalization.\n- Subject: Overhead close-up shot of a fountain pen underlining a customized breakdown '60% Land Growth / 40% Rental Yield' on an investor plan document.\n- Camera: High macro lens, static focus.\n- Lighting: Soft office lamp lighting.\n- Text Overlay: 'Tailored Strategy'\n- Voiceover (Tamil): 'உங்கள் இலக்குக்கு ஏற்ப போர்ட்ஃபோலியோவை அமைத்துக் கொள்ளுங்கள்!'\n\n7. SHOT 7 (8.5s - 10.0s)\n- Context: Modern decision maker in Coimbatore.\n- Subject: Medium shot of an Indian investor standing on a contemporary high-rise apartment balcony, looking out toward the Coimbatore cityscape skyline while holding a smartphone displaying the confirmed plan. No separate end card; text sits cleanly on top.\n- Camera: Eye-level medium shot, slow steady pan.\n- Lighting: Golden hour warm sunlight.\n- Text Overlay: 'OliveTree Investors' (Minimal minimalist brand mark in top right corner).\n- Voiceover (Tamil): 'ஆலிவ் ட்ரீ இன்வெஸ்டர்ஸ் உடன் திட்டமிடுங்கள்!'\n\n--- CAMERA & VISUAL STYLE LOCK ---\n- Real 4K-quality physical footage with rich textures, realistic skin tones, authentic road/building surface materials, and accurate shadows.\n- Stabilized, intentional camera movement only. No erratic camera shake, no impossible zooms, no 3D fly-throughs.\n- Color Palette: Natural South Indian sunlight, warm greens, crisp architectural neutrals, grounded and professional tones.\n\n--- STRICT NEGATIVE PROMPTS ---\n- DO NOT generate 3D renders, CGI architectural models, cartoon graphics, or animated whiteboards.\n- DO NOT show empty plot turning into a house magically.\n- DO NOT show generic happy family entering a house key handoff.\n- DO NOT use landscape video inside portrait frames or black sidebars.\n- DO NOT include fake landmarks, distorted text overlays, duplicated people, or visible camera equipment.\n- DO NOT generate a separate branded closing screen; keep Scene 7 as live action."
+  }
+}
