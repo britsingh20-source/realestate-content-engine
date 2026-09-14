@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260914-LLCC",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-14T13:12:59.766Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "5cxb3Ekazfk",
+      "title": "When Your Building Is Demolished, Who Owns the Land?",
+      "description": "You bought an apartment. But what exactly do you own?\n\nIf the building is demolished or collapses, your ownership doesn't simply disappear. \n\nUnderstanding your rights over the flat, underlying land, society and conveyance is crucial for every apartment owner.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-08-24T13:59:00Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 76,
+      "views": 9812,
+      "likes": 228,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=5cxb3Ekazfk",
+      "ageHours": 503.0797591666667,
+      "velocity": 19.503865582374495,
+      "outlier": 1.0408953482204424,
+      "velocityRatio": 0.9916521474351021,
+      "engagementRatio": 1.0513103119054807
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 16,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 6387
+  },
+  "pack": {
+    "subject_classification": "legal risk",
+    "source_evidence_points": [
+      "Without a Conveyance Deed, land ownership remains with the original developer even if the building collapses.",
+      "Redevelopment is legally impossible if the housing society does not own the underlying land.",
+      "Deemed Conveyance must be filed while the building is still standing and occupied; once collapsed, this legal recourse is lost."
+    ],
+    "topic": "Land Conveyance Risk for Apartment Owners",
+    "source_script_insight": "Flat owners often mistake apartment ownership for land ownership; without a Conveyance Deed, they lose everything if the building collapses.",
+    "coimbatore_angle": "Coimbatore apartment buyers and housing societies must proactively verify Conveyance Deeds and apply for Deemed Conveyance under Tamil Nadu cooperative rules before structures age.",
+    "visual_strategy": "Focus on physical legal documents, stamp papers, building cracks, and society boards in Coimbatore settings to emphasize the legal reality rather than generic lifestyle shots.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Ensure your Coimbatore housing society secures the Land Conveyance Deed while the building is standing to protect your long-term real estate equity.",
+    "voiceover_tamil": "கட்டிடம் இடிந்தால் நிலம் யாருக்கு சொந்தம்? சொசைட்டி பெயரில் 'Conveyance Deed' இல்லைனா, உங்களுக்கு நில உரிமை இல்லை. உடனே சரிபாருங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Without a Conveyance Deed, land ownership remains with the original developer even if the building collapses.",
+        "purpose": "Establish the central tension of building collapse vs. land ownership.",
+        "visual": "A close-up of a legal document folder labeled 'Cooperative Society Registry' being opened, revealing a blank 'Conveyance Deed' section.",
+        "on_screen_text": "கட்டிடம் இடிந்தால்?",
+        "voiceover_tamil": "கட்டிடம் இடிந்தால்"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Deemed Conveyance must be filed while the building is still standing and occupied.",
+        "purpose": "Show the physical risk of structural damage and urgency.",
+        "visual": "Extreme close-up of structural cracks on a concrete pillar of an apartment building in Coimbatore with red soil and greenery in the background.",
+        "on_screen_text": "நிலம் யாருக்கு?",
+        "voiceover_tamil": "நிலம் யாருக்கு சொந்தம்?"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Without a Conveyance Deed, land ownership remains with the original developer.",
+        "purpose": "Introduce the legal document required to prevent ownership loss.",
+        "visual": "A hand pointing at a Tamil Nadu stamp paper document, highlighting the words 'Land Ownership / நில உரிமை'.",
+        "on_screen_text": "Conveyance Deed",
+        "voiceover_tamil": "சொசைட்டி பெயரில்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Redevelopment is legally impossible if the housing society does not own the underlying land.",
+        "purpose": "Show the housing society's role and local Coimbatore context.",
+        "visual": "A wide shot of a housing society name board in Coimbatore ('Vasantham Apartments Owners Association') with a rusty gate.",
+        "on_screen_text": "உரிமை உள்ளதா?",
+        "voiceover_tamil": "'Conveyance Deed'"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Deemed Conveyance must be filed while the building is still standing and occupied.",
+        "purpose": "Demonstrate the legal action required.",
+        "visual": "Close-up of a pen signing an application form titled 'Deemed Conveyance Application - Deputy Registrar'.",
+        "on_screen_text": "இல்லை என்றால்...",
+        "voiceover_tamil": "இல்லைனா,"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Without a Conveyance Deed, land ownership remains with the original developer.",
+        "purpose": "Visualize the physical land footprint that is at risk.",
+        "visual": "A drone shot looking straight down at an apartment building footprint in Coimbatore, showing parking and common areas.",
+        "on_screen_text": "நிலம் போச்சு!",
+        "voiceover_tamil": "உங்களுக்கு நில உரிமை இல்லை."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "Deemed Conveyance must be filed while the building is still standing and occupied.",
+        "purpose": "Deliver the final call to action with OliveTree Investors branding.",
+        "visual": "An investor reviewing a clean, stamped land registration document on a wooden desk with a window overlooking Coimbatore's Western Ghats skyline in the distance. Minimal OliveTree Investors logo overlay.",
+        "on_screen_text": "சரிபாருங்கள்!",
+        "voiceover_tamil": "உடனே சரிபாருங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "# GEMINI VIDEO GENERATION PROMPT\n\n## A. MANDATORY OUTPUT FORMAT LOCK\n- **Duration**: Exactly 10.0 seconds.\n- **Aspect Ratio**: Native portrait 9:16, full-screen vertical composition. No letterboxing, no black bars, no rotated landscape footage.\n\n## B. REALISM LOCK\n- This video must consist of photorealistic, real-world physical footage. Absolutely no 2D/3D explainer graphics, cartoons, anime, architectural renders, or game-engine visuals.\n- Set entirely in Coimbatore, Tamil Nadu, India. Visuals must reflect local architecture, red soil, natural sunlight, tropical vegetation, and regional document styles (Tamil Nadu stamp papers).\n\n## C. SOURCE SUBJECT LOCK\n- **Subject**: Legal risk (specifically, Land Conveyance and Deemed Conveyance risk for apartment owners).\n- **Core Concept**: If an apartment building collapses or is demolished, and the housing society does not hold the Conveyance Deed, the land ownership reverts to the original developer. Flat owners lose their entire asset. Proactive legal action is required while the building is standing.\n\n## D. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Avoid the default sequence of empty plot -> construction -> happy family.\n- Focus heavily on physical legal evidence: stamp papers, registration folders, structural cracks, housing society boards, and land survey perspectives.\n- Camera movements must be slow, deliberate, and observational (macro close-ups, eye-level shots, and static top-down perspectives).\n\n## E. CAMERA + IMAGE QUALITY\n- Shot on professional mirrorless cameras with natural depth of field.\n- Realistic lighting: soft morning sunlight, natural shadows, authentic textures on paper and concrete.\n- Sharp 4K clarity, stable geometry, no plastic CGI surfaces.\n\n## F. EXACT 7-SHOT PLAN\n\n### Scene 1 (0.0s - 1.4s)\n- **Location**: Office desk.\n- **Subject**: Legal document folder labeled 'Cooperative Society Registry' in English and Tamil.\n- **Camera**: Macro close-up, shallow depth of field. A hand opens the folder to reveal a blank, unsigned page titled 'Conveyance Deed'.\n- **Lighting**: Soft side-lighting from a window.\n- **On-Screen Text**: கட்டிடம் இடிந்தால்?\n- **Voiceover (Tamil)**: கட்டிடம் இடிந்தால்\n\n### Scene 2 (1.4s - 2.8s)\n- **Location**: Apartment exterior, Coimbatore.\n- **Subject**: A structural concrete pillar showing deep, realistic weathering cracks.\n- **Camera**: Eye-level close-up, slow tilt down the crack. Background shows typical Coimbatore red soil and green coconut palms, slightly out of focus.\n- **Lighting**: Bright, natural daylight.\n- **On-Screen Text**: நிலம் யாருக்கு?\n- **Voiceover (Tamil)**: நிலம் யாருக்கு சொந்தம்?\n\n### Scene 3 (2.8s - 4.2s)\n- **Location**: Wooden desk.\n- **Subject**: Official Tamil Nadu Government stamp paper (greenish-blue header).\n- **Camera**: Close-up, overhead angle. A finger points directly to the Tamil text 'நில உரிமை' (Land Ownership).\n- **Lighting**: Warm indoor desk lamp light.\n- **On-Screen Text**: Conveyance Deed\n- **Voiceover (Tamil)**: சொசைட்டி பெயரில்\n\n### Scene 4 (4.2s - 5.6s)\n- **Location**: Apartment entrance, Coimbatore.\n- **Subject**: A weathered metal signboard reading 'Vasantham Apartments Owners Association' in English and Tamil.\n- **Camera**: Static eye-level shot. The background shows a typical residential street in Coimbatore.\n- **Lighting**: Natural overcast daylight.\n- **On-Screen Text**: உரிமை உள்ளதா?\n- **Voiceover (Tamil)**: 'Conveyance Deed'\n\n### Scene 5 (5.6s - 7.0s)\n- **Location**: Lawyer's office.\n- **Subject**: A formal application document titled 'Deemed Conveyance Application - Deputy Registrar' in clear, legible print.\n- **Camera**: Close-up, tracking the tip of a fountain pen as it signs the bottom of the page.\n- **Lighting**: Soft overhead office lighting.\n- **On-Screen Text**: இல்லை என்றால்...\n- **Voiceover (Tamil)**: இல்லைனா,\n\n### Scene 6 (7.0s - 8.4s)\n- **Location**: Residential area, Coimbatore.\n- **Subject**: An apartment building's footprint, including the parking lot and common compound wall.\n- **Camera**: Top-down drone shot, slowly descending. No sweeping or dramatic movements; strictly functional framing of the land parcel boundaries.\n- **Lighting**: Mid-day sun with realistic shadows.\n- **On-Screen Text**: நிலம் போச்சு!\n- **Voiceover (Tamil)**: உங்களுக்கு நில உரிமை இல்லை.\n\n### Scene 7 (8.4s - 10.0s)\n- **Location**: Modern office overlooking Coimbatore.\n- **Subject**: A clean, stamped land registration deed resting on a wooden desk. In the far background, the hazy blue silhouette of the Western Ghats is visible through the window.\n- **Camera**: Static eye-level shot. Minimalist 'OliveTree Investors' logo appears in the bottom corner.\n- **Lighting**: Bright, natural morning light.\n- **On-Screen Text**: சரிபாருங்கள்!\n- **Voiceover (Tamil)**: உடனே சரிபாருங்கள்!\n\n## G. MOTION-GRAPHICS LIMIT\n- No full-screen graphics. Text overlays must be clean, white, sans-serif font, positioned in the lower-third of the frame, occupying less than 10% of the screen.\n\n## H. FINAL REAL SCENE\n- The video ends on Scene 7's real-world office setting with the Western Ghats background. No transition to a black screen or generic animated end card.\n\n## I. NEGATIVE PROMPT / FIXED RULES\n- Do not use cartoons, 3D renders, or architectural visualizations.\n- Do not show fake landmarks or non-Tamil Nadu environments.\n- No fast camera movements, whip pans, or speed ramps.\n- No floating text or distorted fonts.\n- Do not include any religious symbols or ceremonial markings.",
+    "title_english": "Does Your Coimbatore Apartment Society Own the Land?",
+    "caption_english": "Many apartment buyers in Coimbatore believe that owning a flat automatically guarantees a share of the land forever. But here is the legal reality: if your residential building collapses or is demolished, and your Co-operative Housing Society does not hold the registered Conveyance Deed, the land ownership remains entirely with the original developer. Without this crucial document, you lose your asset completely. Protect your real estate equity. Ensure your society proactively applies for Deemed Conveyance while the structure is standing. Contact OliveTree Investors for expert property legal checklists in Coimbatore.",
+    "title_tamil": "உங்கள் அடுக்குமாடி குடியிருப்பு நிலம் உங்களுக்கே சொந்தமா?",
+    "caption_tamil": "கோயம்புத்தூரில் பிளாட் வாங்கும் பலர், கட்டிடம் இருக்கும் நிலமும் தங்களுக்கு சொந்தம் என்றே நினைக்கிறார்கள். ஆனால் சட்டப்படி, உங்கள் குடியிருப்பு சொசைட்டி பெயரில் 'Conveyance Deed' பதிவு செய்யப்படவில்லை எனில், கட்டிடம் இடிந்த பின் நிலத்தின் உரிமை அசல் டெவலப்பருக்கே செல்லும். கட்டிடம் இருக்கும்போதே இந்த நில உரிமையை மாற்றுவது எப்படி? உங்கள் முதலீட்டைப் பாதுகாக்க உடனே சரிபாருங்கள். கோயம்புத்தூர் சொத்து வழிகாட்டுதலுக்கு OliveTree Investors-ஐ அணுகவும்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyLegalTips",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
