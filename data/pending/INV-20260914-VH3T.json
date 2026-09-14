@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260914-VH3T",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-14T23:55:57.412Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "zgT2qhfJh-k",
+      "title": "Assam ke log bohot acche hai ❤️ #assam  #assamese #foodie",
+      "description": "",
+      "publishedAt": "2026-09-02T11:25:51Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 26,
+      "views": 883,
+      "likes": 20,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=zgT2qhfJh-k",
+      "ageHours": 300.4762125,
+      "velocity": 2.9386685643210444,
+      "outlier": 0.8019981834695731,
+      "velocityRatio": 0.8220814451177019,
+      "engagementRatio": 0.7679527871316868
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 13,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4066
+  },
+  "pack": {
+    "subject_classification": "micro-location access mechanics",
+    "source_evidence_points": [
+      "Hyper-specific positioning relative to traffic light poles dictating natural vehicle and pedestrian stopping points.",
+      "Proximity directly opposite transit/parking infrastructure generating organic consumer pause and footfall.",
+      "Unobstructed curb visibility and direct front-facing sightlines for incoming road traffic.",
+      "Immediate accessibility and friction-free curb entry converting passing commuters into walk-ins."
+    ],
+    "topic": "Why commercial road frontage fails without micro-location access in Coimbatore",
+    "source_script_insight": "The source video highlights a vendor thriving not merely because of a good product, but because of extreme micro-locational positioning: precisely situated between two traffic signal poles, directly opposite the old railway station and across from parking. In real estate, broad locality hype is worthless if physical micro-access—median breaks, signal queues, parking friction, and curb visibility—prevents customers from actually stopping.",
+    "coimbatore_angle": "Coimbatore commercial corridors (such as busy feeder roads connecting to Avinashi Road, Sathy Road, or Pollachi Road) often have high vehicle speeds and concrete central medians. A retail frontage located just 30 meters on the wrong side of a median divider or U-turn loses 80% of reachable footfall.",
+    "visual_strategy": "Show physical street infrastructure evidence: concrete road median barriers, signal waiting lanes, turning sightlines, vehicular curb drop-in ease, and pedestrian crosswalk alignment. No generic residential montages.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Commercial rental yield in Coimbatore depends on micro-location access, signal positioning, and median breaks, not just the street name.",
+    "voiceover_tamil": "ஏரியா நல்லா இருந்தாலும், வண்டி நிக்க முடியலனா வாடகை வராது! ரோடு மீடியன் எங்க முடியுது? பார்க்கிங் சுலபமா? சிக்னல், பஸ் ஸ்டாப் நேரா இருக்கா? கோவை வணிக நிலங்களில் மைக்ரோ லொகேஷன் பார்த்து முதலீடு செய்யுங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Hyper-specific positioning relative to traffic light poles dictating natural vehicle and pedestrian stopping points.",
+        "purpose": "Establish core tension: a commercial plot blocked by a solid concrete road median where vehicles speed past without stopping.",
+        "visual": "Eye-level street view along a busy Coimbatore commercial road showing continuous concrete central median railing blocking direct right-side vehicle access to roadside retail shops.",
+        "on_screen_text": "Wrong Median?",
+        "voiceover_tamil": "ஏரியா நல்லா இருந்தாலும்,"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Hyper-specific positioning relative to traffic light poles dictating natural vehicle and pedestrian stopping points.",
+        "purpose": "Demonstrate the friction point of high-speed traffic passing by.",
+        "visual": "Low-angle tracking shot of two-wheelers and cars accelerating past the curb without decelerating due to lack of a signal or median opening.",
+        "on_screen_text": "No Stop",
+        "voiceover_tamil": "வண்டி நிக்க முடியலனா வாடகை வராது!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Unobstructed curb visibility and direct front-facing sightlines for incoming road traffic.",
+        "purpose": "Introduce the ideal physical metric: median cut and clear deceleration buffer.",
+        "visual": "Overhead 45-degree angle showing a natural median gap opening directly aligned with an accessible commercial plot frontage.",
+        "on_screen_text": "Median Gap",
+        "voiceover_tamil": "ரோடு மீடியன் எங்க முடியுது?"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Proximity directly opposite transit/parking infrastructure generating organic consumer pause and footfall.",
+        "purpose": "Show parking ease and transit-facing advantage.",
+        "visual": "Eye-level footage of a commuter scooter effortlessly pulling into a wide, level paved curb apron right in front of commercial retail space.",
+        "on_screen_text": "Easy Parking",
+        "voiceover_tamil": "பார்க்கிங் சுலபமா?"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Proximity directly opposite transit/parking infrastructure generating organic consumer pause and footfall.",
+        "purpose": "Demonstrate footfall generated by signal queues and bus/auto transit stops.",
+        "visual": "Medium shot of commuter crowd waiting at a Coimbatore road traffic signal and pedestrian crossing directly facing the commercial frontage.",
+        "on_screen_text": "Signal Queue",
+        "voiceover_tamil": "சிக்னல், பஸ் ஸ்டாப் நேரா இருக்கா?"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Immediate accessibility and friction-free curb entry converting passing commuters into walk-ins.",
+        "purpose": "Show investor surveying curb depth and line of sight on-site.",
+        "visual": "Close-up of an investor using a measuring wheel along the road frontage curb, verifying 40-foot clear visibility from the junction.",
+        "on_screen_text": "Micro-Location",
+        "voiceover_tamil": "கோவை வணிக நிலங்களில்"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "Immediate accessibility and friction-free curb entry converting passing commuters into walk-ins.",
+        "purpose": "Payoff of smart selection: thriving commercial property with active customer flow.",
+        "visual": "Dusk shot of well-lit commercial road frontage in Coimbatore with active customer movement and clear vehicular pull-in, with minimal OliveTree Investors text.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "மைக்ரோ லொகேஷன் பார்த்து முதலீடு செய்யுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: Exactly 10.0 seconds.\n- Aspect Ratio: Native Portrait 9:16 (1080x1920). Full-screen vertical composition throughout.\n- Location Constraint: Exclusively Coimbatore, Tamil Nadu, India. Tailored for OliveTree Investors.\n\nB. REALISM LOCK\n- 100% photorealistic physical real-world footage. Absolutely zero 3D architectural animation, CGI renders, cartoon graphics, explainer video animations, or synthetic video effects.\n- Real Tamil Nadu urban environment: authentic asphalt road textures, concrete kerb stones with yellow-black paint stripes, genuine Coimbatore commercial traffic (TVS XL mopeds, Honda Activas, autos, local buses), authentic roadside shade trees (neem, gulmohar), natural sun glare, realistic shadows, and accurate ground level perspective.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Micro-Location Access Mechanics in Commercial Real Estate.\n- Core Mechanism: High vehicle traffic counts mean nothing if physical road barriers (high median dividers, lack of U-turns, blind sightlines, signal acceleration zones) prevent vehicles from pulling over. Commercial rental yield and tenant viability depend strictly on the micro-level access geometry.\n- Source Evidence Points: (1) Signal stopping queue alignment, (2) Direct proximity to parking and transit crossing, (3) Unobstructed driver line-of-sight, (4) Zero-friction vehicular pull-in curb.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- FORBIDDEN DEFAULT STORY BANNED: Do not show empty plot -> layout boundary -> villa construction -> happy family key handover. No residential sales tropes.\n- Visual Language: Street-level engineering and pedestrian-traffic dynamics. Cameras capture median barriers, vehicular braking patterns, sightline obstacles, measuring wheels, and curb parking aprons.\n\nE. CAMERA + IMAGE QUALITY\n- Cinematic smartphone/mirrorless 4K street documentary realism. Natural Coimbatore morning/dusk daylight with realistic atmospheric haze, sharp asphalt surface detail, stabilized fluid movements, genuine motion blur on moving vehicles, and no AI distortion.\n\nF. EXACT 7-SHOT PLAN (0.0s - 10.0s)\n- Shot 1 (0.0 - 1.4s): Eye-level street perspective on a major Coimbatore arterial road. Foreground shows a tall concrete median railing with fast-moving traffic. In the background, retail shopfronts sit stranded on the opposite side where motorists cannot cross. On-screen text: 'Wrong Median?'. VO: 'ஏரியா நல்லா இருந்தாலும்,'\n- Shot 2 (1.4 - 2.8s): Low-angle static street shot capturing wheels of two-wheelers and cars speeding past without braking, proving that high road speed without a signal prevents retail stops. On-screen text: 'No Stop'. VO: 'வண்டி நிக்க முடியலனா வாடகை வராது!'\n- Shot 3 (2.8 - 4.2s): Static high-angle (30 degrees, 4-meter elevation) looking down at a clean median cut / U-turn break situated right before a commercial land frontage in Coimbatore. Clear road geometry visible. On-screen text: 'Median Gap'. VO: 'ரோடு மீடியன் எங்க முடியுது?'\n- Shot 4 (4.2 - 5.6s): Eye-level tracking shot showing a two-wheeler commuter effortlessly slowing down and gliding into a paved curb parking apron directly in front of roadside commercial frontage. On-screen text: 'Easy Parking'. VO: 'பார்க்கிங் சுலபமா?'\n- Shot 5 (5.6 - 7.0s): Eye-level shot looking across a pedestrian zebra crossing at a Coimbatore traffic light junction; stationary vehicles waiting at the red light have direct, unblocked sightlines straight into the commercial frontage. On-screen text: 'Signal Queue'. VO: 'சிக்னல், பஸ் ஸ்டாப் நேரா இருக்கா?'\n- Shot 6 (7.0 - 8.4s): Close-up macro/low-angle shot of a civil engineer/investor's hand rolling a digital survey measuring wheel along the commercial roadside kerb, checking frontage road width and entry clearance. On-screen text: 'Micro-Location'. VO: 'கோவை வணிக நிலங்களில்'\n- Shot 7 (8.4 - 10.0s): Dusk ambient lighting shot of an accessible, functioning commercial frontage in Coimbatore with customers smoothly arriving on two-wheelers, warm shopfront lighting, realistic evening sky exposure. Subtle bottom text overlay: 'OliveTree Investors'. VO: 'மைக்ரோ லொகேஷன் பார்த்து முதலீடு செய்யுங்கள்!'\n\nG. MOTION GRAPHICS & OVERLAYS\n- Minimal, elegant, ultra-clean white typography with subtle shadow. No loud cartoon boxes, no giant pop-ups. Exactly 1 to 2 words per shot.\n\nH. FINAL REAL SCENE\n- Concludes on authentic bustling dusk frontage footage with customer activity. No animated logo splash screen, no graphic end-card.\n\nI. NEGATIVE PROMPT\n- Ban: cartoon, 3D render, anime, explainer graphics, architectural BIM model, CGI cars, fake city skyline, unreal skyscrapers, artificial green turf, distorted Tamil text, duplicated pedestrians, visible gimbal operators, landscape canvas with black bars, fantasy lighting, motion blur artifacts.",
+    "title_english": "The 1 Fatal Mistake in Coimbatore Commercial Land Investments",
+    "caption_english": "High road traffic doesn't guarantee commercial rental success in Coimbatore. If your commercial plot sits behind an unbroken concrete median divider or in an acceleration zone where vehicles cannot decelerate, customer walk-ins plummet regardless of neighborhood prestige. Micro-location access—such as U-turn openings, signal wait queues, and dedicated curb parking—determines true tenant profitability. Evaluate micro-access before committing capital. Partner with OliveTree Investors for site-verified commercial property decisions in Coimbatore.",
+    "title_tamil": "கோவை வணிக நில முதலீட்டில் இந்த தப்பை பண்ணாதீங்க!",
+    "caption_tamil": "கோவையில் பிரதான சாலையில் இடம் அமைந்திருந்தாலும், ரோடு மீடியன் மற்றும் பார்க்கிங் வசதி சரியாக இல்லையென்றால் வாடகை வருமானம் பாதிக்கப்படும். சிக்னல் நிறுத்தம், மீடியன் இடைவெளி மற்றும் அணுகுமுறையை சரிபார்த்து முதலீடு செய்யுங்கள். சரியான வணிக நிலத் தேர்வுக்கு OliveTree Investors உடன் இணையுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#CommercialProperty",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
