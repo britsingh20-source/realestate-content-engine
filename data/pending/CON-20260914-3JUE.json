@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260914-3JUE",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-14T06:00:26.221Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Nemmadi Home Inspection",
+    "creatorKey": "nemmadi",
+    "source": {
+      "id": "nJkslTrMmYc",
+      "title": "Transformer Yard Fence Earthing Not Done | A Serious Electrical Safety Issue?",
+      "description": "Transformer yard fence earthing is an important electrical safety requirement. If the transformer yard fencing is not properly earthed, it can create a serious safety risk.\n\n\nBook Now: https://nemmadi.in/quote-for-rwa/\n\n#transformeryard #earthing #electricalsafety #transformer #electricalinspection #rwaaudit  #buildinginspection #nemmadi",
+      "publishedAt": "2026-09-07T05:28:42Z",
+      "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+      "channelTitle": "Nemmadi. In",
+      "durationSeconds": 17,
+      "views": 2095,
+      "likes": 5,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=nJkslTrMmYc",
+      "ageHours": 168.49029805555554,
+      "velocity": 12.433950347154262,
+      "outlier": 1.8823000898472597,
+      "velocityRatio": 7.541992786911427,
+      "engagementRatio": 0.4481948426091992
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 39,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 1665,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Transformer Yard Fence Earthing Inspection in Residential Construction",
+    "source_script_insight": "A site engineer discovers that the transformer yard perimeter fence lacks proper earthing connection, highlighting severe electrical safety risks.",
+    "coimbatore_angle": "Ensuring proper electrical earthing for compound and transformer fences in Coimbatore independent homes to prevent fatal shock hazards during monsoon surges.",
+    "core_takeaway": "Always verify that metal perimeter and transformer yard fences are properly bonded to the earthing pit to guarantee electrical safety.",
+    "voiceover_tamil": "டிரான்ஸ்பார்மர் வேலி எர்த் செய்யலைனா... ஷாக் அடிக்கலாம்! கம்பி இணைப்பு கட்டாயம் இருக்கணும்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook",
+        "visual": "Close-up of a site engineer pointing at a loose metallic strip near a transformer yard boundary wall at a Coimbatore residential site.",
+        "camera": "Eye-level handheld smartphone shot, tight focus.",
+        "on_screen_text": "Earthing Missed?",
+        "voiceover_tamil": "டிரான்ஸ்பார்மர் வேலி"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Problem reveal",
+        "visual": "An unattached grounding cable lying on gravel near the metal mesh fence base, dusty site conditions.",
+        "camera": "Low angle, slow push-in.",
+        "on_screen_text": "No Ground Wire",
+        "voiceover_tamil": "எர்த் செய்யலைனா..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Demonstration",
+        "visual": "Engineer's hand touching the unbonded metal fence pole to show lack of physical continuity to earth pit.",
+        "camera": "Close-up tracking shot.",
+        "on_screen_text": "Safety Hazard",
+        "voiceover_tamil": "ஷாக் அடிக்கலாம்!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.7,
+        "purpose": "Technical context",
+        "visual": "Wide shot of the perimeter wall and transformer enclosure under bright Tamil Nadu daylight.",
+        "camera": "Medium pan right.",
+        "on_screen_text": "Check Continuity",
+        "voiceover_tamil": "கம்பி இணைப்பு"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "purpose": "Inspection detail",
+        "visual": "Clear view of the bare metal tape intended for grounding left disconnected on the gravel floor.",
+        "camera": "Macro steady shot.",
+        "on_screen_text": "Critical Flaw",
+        "voiceover_tamil": "கட்டாயம்"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.5,
+        "purpose": "Corrective focus",
+        "visual": "Engineer pointing toward where the earth pit connection should be securely bolted to the fence base.",
+        "camera": "Medium angle push-in.",
+        "on_screen_text": "Fix Before Power",
+        "voiceover_tamil": "இருக்கணும்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Takeaway",
+        "visual": "OliveTree Builders site supervisor checking electrical compliance documents against the installed transformer yard fence in Coimbatore.",
+        "camera": "Static medium shot with subtle handheld drift.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "பாதுகாப்பு முதலீடு."
+      }
+    ],
+    "gemini_video_prompt": "Produce an original 10-second vertical 9:16 video for OliveTree Builders, COIMBATORE ONLY, highlighting a critical electrical safety lesson on transformer yard fence earthing. EXACTLY 10 SECONDS, EXACTLY 7 SCENES, PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE, 90%+ real-looking visuals shot on smartphone/gimbal in portrait 9:16. Motion graphics allowed only as tiny overlays over real footage (short labels, warning icons). NO toon animation, cartoon, flat 2D explainer, white-background infographic, glossy corporate motion graphics, or CGI. Real active Coimbatore residential construction site, natural daylight, dusty gravel ground, concrete boundary walls, metal mesh fencing, and a site safety engineer inspecting an unbonded earthing strip near a transformer yard. \n\nSCENE BREAKDOWN (Total 10 seconds):\n- Scene 1 (0.0-1.4s): Close-up of engineer pointing at loose metallic strip near transformer yard boundary wall. Text overlay: 'Earthing Missed?'.\n- Scene 2 (1.4-2.8s): Low-angle shot of unattached grounding cable on gravel. Text overlay: 'No Ground Wire'.\n- Scene 3 (2.8-4.2s): Close-up tracking shot of hand touching unbonded metal fence pole. Text overlay: 'Safety Hazard'.\n- Scene 4 (4.2-5.7s): Medium pan across perimeter wall and transformer enclosure in bright daylight. Text overlay: 'Check Continuity'.\n- Scene 5 (5.7-7.1s): Macro steady shot of bare metal grounding tape left disconnected. Text overlay: 'Critical Flaw'.\n- Scene 6 (7.1-8.5s): Medium push-in on where earth pit connection should bolt to fence. Text overlay: 'Fix Before Power'.\n- Scene 7 (8.5-10.0s): Static medium shot of OliveTree Builders site supervisor reviewing compliance at Coimbatore site. Text overlay: 'OliveTree Builders'.\n\nNEGATIVE PROMPT: 3D render, CGI, cartoon, animation, floating houses, fake futuristic elements, landscape 16:9, black bars, blurred sidebars, non-Coimbatore environments, religious symbols, studio lighting, plastic textures.",
+    "title_english": "Transformer Fence Earthing Mistake! | Coimbatore Construction Safety",
+    "caption_english": "Never overlook electrical earthing in your Coimbatore independent home construction! In this quick site inspection, we highlight a missing transformer yard fence earthing connection—a serious safety hazard during power surges. Proper metal bonding and earthing pits protect your family from accidental electrical shocks. Trust OliveTree Builders for uncompromising site quality and rigorous MEP safety checks across Coimbatore. Contact us today to build safely! #OliveTreeBuilders #CoimbatoreConstruction #ElectricalSafety #HomeInspection",
+    "title_tamil": "டிரான்ஸ்பார்மர் வேலி எர்த் தவறு! | கோயம்புத்தூர் வீடு",
+    "caption_tamil": "கோயம்புத்தூரில் வீடு கட்டும்போது டிரான்ஸ்பார்மர் வேலி எர்த் செய்யப்பட்டுள்ளதா என்பதை சரிபார்க்கவும். ஒழிவுட்ரீ பில்டர்ஸ் தரம் மற்றும் பாதுகாப்பு.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#ElectricalSafety"
+    ]
+  }
+}
