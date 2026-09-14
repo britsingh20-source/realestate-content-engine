@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260914-19V5",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-14T05:12:08.272Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "DvE63QqpxU8",
+      "title": "little closer to where we’re needed #Humanity #Hope #Journey #Clouds",
+      "description": "",
+      "publishedAt": "2026-08-29T11:54:15Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 19,
+      "views": 1271,
+      "likes": 49,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=DvE63QqpxU8",
+      "ageHours": 377.2443788888889,
+      "velocity": 3.3691688229882204,
+      "outlier": 1.1549295774647887,
+      "velocityRatio": 0.8898540718021614,
+      "engagementRatio": 1.3604727719473348
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 18,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 1790
+  },
+  "pack": {
+    "subject_classification": "location selection",
+    "source_evidence_points": [
+      "Evaluating the trajectory and mid-transit process matters more than hyper-focusing solely on the end product.",
+      "A higher-level analytical perspective reveals structural growth factors obscured at ground level.",
+      "Long-term security requires verifying foundational steps rather than rushing to a final destination."
+    ],
+    "topic": "Evaluating Growth Corridor Journey vs Rushing to Final Property Destination",
+    "source_script_insight": "The source clip emphasizes that the journey carries more weight than just reaching the destination. In property investment, buyers often rush into evaluating a finished house or plot without auditing the location's infrastructure journey, legal clearance path, and connectivity corridor.",
+    "coimbatore_angle": "Coimbatore property buyers often get dazzled by a shiny elevation or plot layout while neglecting the surrounding growth corridor, road access expansion, and legal paperwork process. We adapt this into a structured location audit principle for Coimbatore.",
+    "visual_strategy": "The camera follows physical tools of strategic evaluation: map routes on a vehicle dashboard, physical masterplan blueprints on a car hood, wide access road measurements, document verification against physical survey markers, and real-time commute checks across Coimbatore arterial routes.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Before choosing a property destination in Coimbatore, audit the growth corridor and legal journey behind it.",
+    "voiceover_tamil": "Destination-அ விட transit path-தான் முக்கியம்! End property பார்க்குறதுக்கு முன்னாடி... Infrastructure valarchi மற்றும் road access... Clear paper clearance journey செக் பண்ணுங்க! Real connectivity சரியா அமைஞ்சா... உங்க முதலீடு பாதுகாப்பா வளரும். OliveTree Investors-உடன் சரியான பாதை தேர்ந்தெடுங்கள்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Evaluating the trajectory and mid-transit process matters more than hyper-focusing solely on the end product.",
+        "purpose": "Hook: Contrast immediate view with strategic route planning.",
+        "visual": "Macro close-up shot inside a vehicle showing a digital map route displayed on a phone mount, with a blurred Coimbatore road visible through the windshield.",
+        "on_screen_text": "The Journey",
+        "voiceover_tamil": "Destination-அ விட transit path-தான் முக்கியம்!"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "A higher-level analytical perspective reveals structural growth factors obscured at ground level.",
+        "purpose": "Demonstrate macro layout evaluation before property inspection.",
+        "visual": "Eye-level shot of an investor outdoors under bright daylight unrolling a physical area layout map over a stationary car bonnet near a suburban road.",
+        "on_screen_text": "Audit Corridor",
+        "voiceover_tamil": "End property பார்க்குறதுக்கு முன்னாடி..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Long-term security requires verifying foundational steps rather than rushing to a final destination.",
+        "purpose": "Show physical evidence of surrounding road width and access quality.",
+        "visual": "Smooth forward-tracking camera at bumper height showing a clean, wide Coimbatore connecting road framed by green trees and clear sunlight.",
+        "on_screen_text": "Road Access",
+        "voiceover_tamil": "Infrastructure valarchi மற்றும் road access..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Long-term security requires verifying foundational steps rather than rushing to a final destination.",
+        "purpose": "Show tangible legal paper evaluation against field reality.",
+        "visual": "Close-up hand-held shot of physical survey documents being cross-referenced with granite boundary stones along a clean plot edge.",
+        "on_screen_text": "Clear Papers",
+        "voiceover_tamil": "Clear paper clearance journey செக் பண்ணுங்க!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Evaluating the trajectory and mid-transit process matters more than hyper-focusing solely on the end product.",
+        "purpose": "Verify actual commute connectivity between key nodes.",
+        "visual": "Over-the-shoulder shot of a hand holding a smartphone showing an active route timer between Coimbatore industrial belts and residential zones.",
+        "on_screen_text": "Commute Test",
+        "voiceover_tamil": "Real connectivity சரியா அமைஞ்சா..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "A higher-level analytical perspective reveals structural growth factors obscured at ground level.",
+        "purpose": "Visual proof of well-planned spatial connectivity from above.",
+        "visual": "Restrained 90-degree top-down drone shot showing a clean T-junction road connecting a local neighborhood seamlessly to an arterial corridor.",
+        "on_screen_text": "Safe Growth",
+        "voiceover_tamil": "உங்க முதலீடு பாதுகாப்பா வளரும்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Evaluating the trajectory and mid-transit process matters more than hyper-focusing solely on the end product.",
+        "purpose": "Deliver final decision clarity and subtle brand sign-off.",
+        "visual": "Eye-level steady shot looking down a clear, peaceful Coimbatore residential arterial road illuminated by late afternoon golden sunlight.",
+        "on_screen_text": "Choose Smart",
+        "voiceover_tamil": "OliveTree Investors-உடன் சரியான பாதை தேர்ந்தெடுங்கள்."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Exact duration: 10.0 seconds.\n- Aspect ratio: 9:16 native portrait (full-screen vertical composition, no black bars, no letterboxing, no pillarboxing).\n- Target platform: Short-form social video for Coimbatore, Tamil Nadu audience.\n- Brand context: OliveTree Investors.\n\nB. REALISM LOCK\n- Photorealistic physical-world footage shot on professional 4K camera equipment.\n- Pure real-world lighting, natural Tamil Nadu atmospheric daylight, authentic pavement textures, real concrete and granite boundary stones, natural breeze in roadside neem/coconut foliage, authentic shadow placement, zero CGI/3D render aesthetics, zero plastic surfaces, zero artificial lens flares.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Location Selection & Growth Corridor Evaluation (Derived from 'the journey is bigger than the destination').\n- Core Principle: In property investment, evaluating the corridor trajectory, access infrastructure, and legal clearance process (the journey) is far more important than hyper-focusing on the final constructed house or layout plot (the destination).\n- Grounded Coimbatore Application: Focus on real-world verification of road width, legal document correlation, and connectivity timing in developing Coimbatore corridors.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Visual Evidence Focus: Dashboard map navigation, physical masterplan blueprints, physical road width tracking shot, survey stone document audit, smartphone commute time check, vertical overhead layout junction shot, and golden hour street vista.\n- Forbidden Generic Sequence: Absolutely NO empty plot turning into a house, NO construction workers, NO generic happy family receiving keys, NO corporate presenter speaking to camera.\n\nE. CAMERA + IMAGE QUALITY\n- Natural focal lengths (24mm to 50mm equivalent), crisp focus on physical evidence, subtle depth of field, natural motion blur, rock-steady camera stabilization. Realistic highlights and balanced exposure without over-saturation.\n\nF. EXACT 7-SHOT PLAN\n\nShot 1 (0.0s - 1.4s):\n- Location: Inside a moving car on a paved Coimbatore road.\n- Visual: Macro close-up on a smartphone mounted on a dashboard, displaying an active GPS route map with real-time green traffic paths. Through the windshield, a slightly blurred wide road is visible under bright daylight.\n- Camera: Static macro interior frame with natural road vibrations.\n- Overlay Text: 'The Journey'\n- Audio (Tamil VO): 'Destination-அ விட transit path-தான் முக்கியம்!'\n\nShot 2 (1.4s - 2.8s):\n- Location: Outdoors beside a quiet Coimbatore suburban road.\n- Visual: Eye-level medium shot of an investor's hands unrolling a detailed paper town-planning blueprint over the clean bonnet of a dark SUV under natural sunlight.\n- Camera: Slow hand-held tilt tracking down to the map details.\n- Overlay Text: 'Audit Corridor'\n- Audio (Tamil VO): 'End property பார்க்குறதுக்கு முன்னாடி...'\n\nShot 3 (2.8s - 4.2s):\n- Location: Newly paved 40-foot connecting road in Coimbatore suburban corridor.\n- Visual: Smooth forward-moving low-angle camera gliding over crisp asphalt road markings, bordered by neat kerb stones and lush natural greenery.\n- Camera: Low-angle tracking shot moving straight forward at 15 km/h.\n- Overlay Text: 'Road Access'\n- Audio (Tamil VO): 'Infrastructure valarchi மற்றும் road access...'\n\nShot 4 (4.2s - 5.6s):\n- Location: Boundary of a clear land plot in Coimbatore.\n- Visual: Crisp close-up of hands holding official survey plan documents next to a weathered granite survey stone embedded in natural soil.\n- Camera: Sharp macro focus on the document numbers matching the stone.\n- Overlay Text: 'Clear Papers'\n- Audio (Tamil VO): 'Clear paper clearance journey செக் பண்ணுங்க!'\n\nShot 5 (5.6s - 7.0s):\n- Location: Car interior, pulled over safely near a major road junction.\n- Visual: Over-the-shoulder close-up of a person holding a smartphone showing an active commute time analysis showing fast access to major commercial hubs.\n- Camera: Stable over-the-shoulder shot with soft background bokeh.\n- Overlay Text: 'Commute Test'\n- Audio (Tamil VO): 'Real connectivity சரியா அமைஞ்சா...'\n\nShot 6 (7.0s - 8.5s):\n- Location: Vertical overhead perspective of a Coimbatore layout access point.\n- Visual: Clean 90-degree straight-down top-down drone shot showing a wide, structured internal layout road connecting cleanly into a main paved roadway.\n- Camera: Slow steady altitude gain, perfectly vertical framing.\n- Overlay Text: 'Safe Growth'\n- Audio (Tamil VO): 'உங்க முதலீடு பாதுகாப்பா வளரும்.'\n\nShot 7 (8.5s - 10.0s):\n- Location: Well-planned residential street in Coimbatore at late afternoon.\n- Visual: Beautiful eye-level vista of a wide, tree-lined asphalt road bathed in warm golden hour sunlight, conveying peace, order, and long-term stability.\n- Camera: Slow push forward over the asphalt road.\n- Overlay Text: 'Choose Smart' | 'OliveTree Investors'\n- Audio (Tamil VO): 'OliveTree Investors-உடன் சரியான பாதை தேர்ந்தெடுங்கள்.'\n\nG. MOTION-GRAPHICS LIMIT\n- Minimal, ultra-clean 1-2 word text overlays centered or positioned in lower third. High legibility, crisp sans-serif typography.\n\nH. FINAL REAL SCENE\n- Scene 7 serves as the final proof and conclusion. No static corporate end-card. Minimal text 'OliveTree Investors' sits seamlessly over the real golden-hour road vista.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- DO NOT generate 3D architectural renders, cartoon elements, anime, 2D vector explainers, plastic CGI textures, fake city skylines, floating text graphics, morphing objects, exaggerated speed ramps, fisheye distortion, or duplicated human faces.\n- DO NOT change the 9:16 vertical aspect ratio.\n- DO NOT include landscape black bars or blurred side borders.\n- DO NOT show construction activity or house-building generic montages.",
+    "title_english": "Look Beyond the House: Audit the Growth Journey First",
+    "caption_english": "Buying property in Coimbatore isn't just about picking a nice finished site—it's about auditing the entire growth journey of the location. Before making a financial commitment, evaluate the surrounding infrastructure trajectory, legal clearance paper trail, and real daily commute connectivity. A great property destination situated on a stagnant corridor limits your capital growth. At OliveTree Investors, we guide you through evaluating every physical and legal step of the location pathway so your capital grows with complete security. Invest with ground-level clarity. Contact OliveTree Investors today.",
+    "title_tamil": "வீடு மட்டும் பார்க்காதீங்க... வளர்ச்சியை பாருங்க!",
+    "caption_tamil": "கோவையில் சொத்து வாங்கும் போது, வெறும் கட்டிடத்தை மட்டும் பார்க்காமல், அந்த இடத்தின் வளர்ச்சி பாதையையும் ஆராய வேண்டும். அணுகுசாலை அகலம், சட்டப்பூர்வ ஆவணங்கள் மற்றும் இணைப்பு வசதிகளை சரியாக சரிபார்ப்பதே சிறந்த முதலீட்டு பாதை. OliveTree Investors உடன் இணைந்து தெளிவான முடிவுகளை எடுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
