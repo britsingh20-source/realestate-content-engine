@@ -4,7 +4,7 @@
   "label": "CONSTRUCTION KNOWLEDGE",
   "brand": "olivetree_builders",
   "brandLabel": "OliveTree Builders",
-  "status": "awaiting_video",
+  "status": "published",
   "createdAt": "2026-09-15T06:01:49.582Z",
   "candidate": {
     "niche": "construction",
@@ -127,5 +127,30 @@
       "#ConstructionQuality",
       "#OliveTreeBuilders"
     ]
-  }
+  },
+  "publishResult": {
+    "stagedVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/construction/CON-20260915-TP18-master.mp4",
+    "targets": {
+      "olivetree_builders": {
+        "variantVideo": "https://pub-b48b8123f665446694bd97b4cdc1652d.r2.dev/social-ready/construction/CON-20260915-TP18-olivetree_builders.mp4",
+        "youtube": {
+          "platform": "youtube",
+          "videoId": "pzWuBUIrAf4",
+          "url": "https://youtube.com/shorts/pzWuBUIrAf4"
+        },
+        "instagramReel": {
+          "platform": "instagram",
+          "mediaType": "REELS",
+          "mediaId": "17895913062393978"
+        },
+        "instagramStory": {
+          "platform": "instagram",
+          "mediaType": "STORIES",
+          "mediaId": "17906071350507066"
+        }
+      }
+    }
+  },
+  "updatedAt": "2026-09-15T06:57:46.889Z",
+  "publishedAt": "2026-09-15T06:57:46.890Z"
 }
