@@ -1,0 +1,131 @@
+{
+  "contentId": "DOC-20260915-JXQ7",
+  "niche": "documentation",
+  "label": "PROPERTY DOCUMENTATION & LEGAL",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-15T17:31:08.188Z",
+  "candidate": {
+    "niche": "documentation",
+    "creator": "IndiaLaw LLP",
+    "creatorKey": "indialaw",
+    "source": {
+      "id": "TaZFY0JRoJE",
+      "title": "Reinstatement cannot rest on unsupported claims alone.",
+      "description": "In M/s Rifilis Engineering Pvt. Ltd. v. Arjun Gupta, the Supreme Court held that an employee seeking reinstatement must produce reliable evidence to justify unauthorised absence or prove an attempt to rejoin. The Court therefore set aside the order granting reinstatement and back wages.\n\nIn labour disputes, the burden of proof matters. Oral assertions without supporting evidence may not be enough.\n\n{Unauthorised absence, reinstatement, back wages, burden of proof, Supreme Court labour law}\n\n#LabourLaw #SupremeCourt #EmploymentLaw #BackWages #Reinstatement #IndiaLaw #LegalUpdate",
+      "publishedAt": "2026-09-11T13:32:30Z",
+      "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
+      "channelTitle": "INDIALAW LLP",
+      "durationSeconds": 63,
+      "views": 95,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=TaZFY0JRoJE",
+      "ageHours": 99.90245972222222,
+      "velocity": 0.9509275373614078,
+      "outlier": 1.450381679389313,
+      "velocityRatio": 0.9509275373614078,
+      "engagementRatio": 1.39873417721519
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 20,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 1973,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Land title documentation and oral vendor claims in Coimbatore property purchases",
+    "source_script_insight": "Oral claims without written documentary evidence are insufficient to validate rights or ownership transitions",
+    "coimbatore_angle": "Verifying ancestral property partition deeds and legal heir documents in Coimbatore sub-registrar jurisdictions rather than trusting verbal family settlements",
+    "core_takeaway": "Never rely on verbal assurances or unrecorded family claims during land purchase; verified written documentation is mandatory",
+    "voiceover_tamil": "வாய் வார்த்தை போதாது! கோயம்புத்தூர் நில வாங்குறப்ப, உரிமை ஆவணங்களை எழுத்துப்பூர்வமா சரி பாருங்க.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook",
+        "visual": "A person pointing at an unverified ancestral plot layout document on a wooden desk in a Coimbatore home.",
+        "camera": "Close-up, eye-level, stable gimbal shot, natural daylight.",
+        "on_screen_text": "வாய் வார்த்தை போதாது!",
+        "voiceover_tamil": "வாய் வார்த்தை போதாது!"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Context",
+        "visual": "Close-up of old Tamil Nadu stamp paper and legal heirship certificates spread on a table.",
+        "camera": "Macro shot, top-down angle, crisp focus on paper texture.",
+        "on_screen_text": "உரிமை ஆதாரம்?",
+        "voiceover_tamil": "கோயம்புத்தூர் நில வாங்குறப்ப,"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.3,
+        "purpose": "Problem",
+        "visual": "A hand flipping through pages of a partition deed showing missing signatures.",
+        "camera": "Medium close-up, panning slowly left to right.",
+        "on_screen_text": "ஆவணம் முடக்கம்",
+        "voiceover_tamil": "உரிமை ஆவணங்களை"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.8,
+        "purpose": "Mechanism",
+        "visual": "A magnifying glass inspecting the registrar seal on an EC document.",
+        "camera": "Close-up, shallow depth of field, handheld micro-movement.",
+        "on_screen_text": "பதிவு சரிபார்பு",
+        "voiceover_tamil": "எழுத்துப்பூர்வமா"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.8,
+        "end_sec": 7.2,
+        "purpose": "Warning",
+        "visual": "A red warning stamp mark pressed gently onto a defective sale agreement paper.",
+        "camera": "Medium shot, slight downward angle, realistic ink texture.",
+        "on_screen_text": "எச்சரிக்கை!",
+        "voiceover_tamil": "சரி பாருங்க!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.2,
+        "end_sec": 8.6,
+        "purpose": "Solution",
+        "visual": "An open laptop showing digitized Tamil Nadu Encumbrance Certificate records alongside property files.",
+        "camera": "Over-the-shoulder shot, static frame, natural indoor lighting.",
+        "on_screen_text": "பாதுகாப்பான நிலம்",
+        "voiceover_tamil": "உண்மையான ஆவணங்களை"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.6,
+        "end_sec": 10,
+        "purpose": "Takeaway and CTA",
+        "visual": "A clear legal file binder labeled 'SafeBuy Verified' resting on a desk with a Coimbatore street view blurred in the background.",
+        "camera": "Medium wide shot, eye-level, locked-off tripod frame.",
+        "on_screen_text": "OliveTree SafeBuy",
+        "voiceover_tamil": "உறுதி செய்வீர்கள்."
+      }
+    ],
+    "gemini_video_prompt": "OliveTree SafeBuy production. COIMBATORE ONLY. EXACTLY 10 SECONDS TOTAL. EXACTLY 7 DISTINCT SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE ONLY. At least 90% of visual content must look like real-world smartphone and gimbal footage shot in Coimbatore, Tamil Nadu. Vertical portrait 9:16 aspect ratio. Real physical environments: wooden desks, authentic stamp papers, registered sale deeds, Encumbrance Certificate paperwork, legal files, ink stamps, natural indoor and outdoor daylight, believable textures of paper, dust, wood, and office interiors. Motion graphics allowed ONLY as tiny overlays over real footage: short Tamil text labels, highlight boxes, and check marks. NO cartoon, NO toon animation, NO flat 2D explainer, NO white-background infographic, NO glossy corporate motion graphics, NO 3D render, NO plastic CGI, NO floating documents, NO fake futuristic elements. Avoid identifiable landmarks. Strict continuity across scenes. SCENE 1 (0.0-1.4s): Close-up of an unverified plot layout document on a wooden desk. SCENE 2 (1.4-2.8s): Macro top-down shot of old Tamil Nadu stamp papers and legal certificates. SCENE 3 (2.8-4.3s): Medium close-up of hands flipping through a partition deed. SCENE 4 (4.3-5.8s): Close-up magnifying glass inspecting a registrar seal. SCENE 5 (5.8-7.2s): Medium shot of a red warning stamp on a paper. SCENE 6 (7.2-8.6s): Over-the-shoulder shot of digital EC records on a laptop screen. SCENE 7 (8.6-10.0s): Medium wide shot of a 'SafeBuy Verified' file binder on a desk with blurred Coimbatore background. NEGATIVE PROMPT: Animation, cartoon, 3D render, CGI, CGI graphics, white background, stock explainer video style, landscape orientation, black bars, blurred sidebars, fake buildings, floating elements, unreal lighting, non-Indian documents.",
+    "title_english": "Oral Claims Aren't Enough: Verify Coimbatore Land Titles",
+    "caption_english": "Never rely on verbal assurances or unrecorded family claims when buying land in Coimbatore. Verbal promises hold no legal standing without verified partition deeds and official encumbrance certificates. Protect your investment by ensuring all property rights are backed by authentic written documentation before exchange of funds. Secure your future plot safely with professional scrutiny. Contact OliveTree SafeBuy for comprehensive documentation checks in Coimbatore.",
+    "title_tamil": "வாய் வார்த்தை நம்ப வேண்டாம்: கோயம்புத்தூர் நில ஆவணங்களை சரிபார்க்கவும்",
+    "caption_tamil": "கோயம்புத்தூரில் நிலம் வாங்கும் போது வாய் வார்த்தைகளை நம்ப வேண்டாம். முறையான ஆவணங்கள் இன்றி செய்யப்படும் வர்த்தகங்கள் ஆபத்தானது. OliveTree SafeBuy மூலம் உங்கள் நில ஆவணங்களை முழுமையாக சரிபாருங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#SafeBuy",
+      "#LandLegal"
+    ]
+  }
+}
