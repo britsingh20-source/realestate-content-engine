@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260915-KZQW",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-15T05:04:44.869Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "JaGZ229eDY0",
+      "title": "Ye kya horaha hai Assam me? Itni madad kyu karrahe hai? #assam",
+      "description": "",
+      "publishedAt": "2026-09-05T13:58:18Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 65,
+      "views": 263,
+      "likes": 14,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=JaGZ229eDY0",
+      "ageHours": 231.08304583333333,
+      "velocity": 1.1381189781862513,
+      "outlier": 0.23876532001815706,
+      "velocityRatio": 0.3232591465189145,
+      "engagementRatio": 2.320502205070538
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 13,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4612
+  },
+  "pack": {
+    "subject_classification": "legal risk / document verification protocol",
+    "source_evidence_points": [
+      "Master list and document survey before asset allocation to prevent fraud",
+      "Numbered token/deed cross-verification against official master registry",
+      "On-ground physical verification of asset specs matching paper registry records",
+      "Multi-step verification desk process before final sign-off"
+    ],
+    "topic": "3-Tier Property Verification Framework for Coimbatore Investors",
+    "source_script_insight": "The source demonstrates that structured multi-tier verification (survey list -> token cross-check -> physical inspection) eliminates error and ensures accurate asset delivery. In Coimbatore real estate, buyers must apply the exact same 3-step audit process—matching Patta records, FMB map sketches, and physical boundary stones—before committing funds.",
+    "coimbatore_angle": "Property buyers in Coimbatore often face title discrepancies between digital revenue records and actual physical boundaries. Applying a rigorous 3-tier verification check ensures clean plot titles across fast-growing industrial and residential sectors in Coimbatore.",
+    "visual_strategy": "Macro close-ups of parent deeds and Patta records, screen captures of digital revenue entry checks, handheld close-ups of FMB boundary maps, and physical measuring tape against concrete boundary stones on actual Coimbatore land parcels. Camera uses realistic eye-level macro focus and practical lighting.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never rely on a single document or verbal assurance. Verify revenue records, FMB maps, and ground survey markers in a strict 3-tier check before buying property in Coimbatore.",
+    "voiceover_tamil": "ஒரு சொத்து வாங்கும் முன் 3-அடுக்கு சரிபார்ப்பு அவசியம். பட்டா, FMB வரைபடம், மற்றும் கள ஆய்வு—மூன்றையும் ஒப்பிட்டு உறுதி செய்யுங்கள்! OliveTree Investors.",
+    "title_english": "The 3-Step Verification Rule for Coimbatore Land",
+    "caption_english": "Before signing any land deed in Coimbatore, single-point document checks are not enough. Follow a strict 3-tier verification framework: first, cross-check digital Patta and Encumbrance Certificates against legal records; second, audit the Field Measurement Book (FMB) sketch; third, physically inspect ground survey stones with a field surveyor. Matching all three steps protects your investment capital from boundary overlaps and title errors. Partner with OliveTree Investors for structured, fully verified property opportunities in Coimbatore.",
+    "title_tamil": "கோவை நில முதலீட்டிற்கு 3-அடுக்கு சரிபார்ப்பு விதி!",
+    "caption_tamil": "கோவையில் நிலம் வாங்குவதற்கு முன் 3-அடுக்கு சரிபார்ப்பு முறையைப் பின்பற்றுங்கள்: பட்டா மற்றும் வில்லங்கச் சான்று சரிபார்ப்பு, FMB வரைபட ஆய்வு, மற்றும் நிலத்தில் நேரிடி எல்லைக் கல் அளவீடு. உங்கள் முதலீட்டைப் பாதுகாக்க OliveTree Investors வழங்கும் வழிகாட்டுதலைப் பின்பற்றுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyVerification",
+      "#OliveTreeInvestors"
+    ],
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Master list and document survey before asset allocation",
+        "purpose": "Establish central tension of verification error",
+        "visual": "Macro top-down shot of hands spreading a real estate parent title deed alongside an Encumbrance Certificate on an office desk in Coimbatore.",
+        "on_screen_text": "1. Master Check",
+        "voiceover_tamil": "ஒரு சொத்து வாங்கும் முன்..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Numbered token/deed cross-verification against official master registry",
+        "purpose": "Demonstrate step 1 digital record auditing",
+        "visual": "Close-up of a finger tracing survey numbers on the Tamil Nadu e-Services portal laptop screen, matching numbers with paper records.",
+        "on_screen_text": "2. Record Audit",
+        "voiceover_tamil": "...3-அடுக்கு சரிபார்ப்பு அவசியம்."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Multi-step verification desk process before final sign-off",
+        "purpose": "Demonstrate step 2 FMB map cross-check",
+        "visual": "Over-the-shoulder macro view of a surveyor unfolding an official FMB (Field Measurement Book) plot sketch outdoors under sunlight.",
+        "on_screen_text": "3. Map Match",
+        "voiceover_tamil": "பட்டா சரிபார்ப்பு,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "On-ground physical verification of asset specs matching paper registry records",
+        "purpose": "Demonstrate step 3 ground boundary measurement",
+        "visual": "Low-angle eye-level shot of a surveyor extending a yellow measuring tape against a granite boundary stone marked with survey numbers on a red-soil Coimbatore plot.",
+        "on_screen_text": "4. Ground Check",
+        "voiceover_tamil": "FMB வரைபடம்,"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "On-ground physical verification matching paper records",
+        "purpose": "Verify physical tape dimension against paper clipboard",
+        "visual": "Handheld medium shot comparing the tape measure reading on site with the ledger checklist held on a wooden clipboard.",
+        "on_screen_text": "5. Boundary Audit",
+        "voiceover_tamil": "மற்றும் கள ஆய்வு—"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Multi-step verification desk process before final sign-off",
+        "purpose": "Show audit verification completion stamp/sign-off",
+        "visual": "Close-up of a pen checking off the final verification audit box on a printed document header reading 'COIMBATORE TITLE VERIFIED'.",
+        "on_screen_text": "6. Verified Title",
+        "voiceover_tamil": "மூன்றையும் ஒப்பிட்டு உறுதி செய்யுங்கள்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Master list and verified asset delivery",
+        "purpose": "Deliver subject payoff in real settings with minimal brand placement",
+        "visual": "Eye-level shot of investor receiving verified green file folder on clear, sunny Coimbatore plot parcel with coconut palm backdrop.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "OliveTree Investors."
+      }
+    ],
+    "gemini_video_prompt": "Production Prompt for AI Video Generator (OliveTree Investors - Coimbatore Only)\n\nA. MANDATORY OUTPUT FORMAT LOCK\n- Exact duration: 10.0 seconds total.\n- Aspect Ratio: Native 9:16 vertical video format (portrait composition only).\n- Target Audience: Property buyers in Coimbatore, Tamil Nadu.\n\nB. REALISM LOCK\n- Photorealistic real-world documentary footage captured on a professional mirrorless camera.\n- Settings: Authentic Tamil Nadu / Coimbatore daylight environments—red soil, coconut trees, local official paper forms, real measuring tapes, e-Services screen UI.\n- Natural bright sunlight, realistic dynamic range, natural skin tones, sharp paper details, soft depth of field.\n- ABSOLUTELY NO 3D renders, CGI, animated explainers, stock vector artwork, plastic surfaces, or architectural floorplan fly-throughs.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Legal Risk & Multi-Tier Document Verification Protocol.\n- Key Mechanisms: 1) Master Document Search, 2) Digital Patta/Revenue Registry Cross-check, 3) FMB Map Match, 4) Ground Boundary Survey Tape Verification.\n- Application: Property investment verification in Coimbatore, Tamil Nadu.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus tightly on physical verification items: official document ledgers, laptop showing government land records, FMB field sketches, land surveyor tools, and concrete plot boundary stones.\n- Camera Grammar: Macro document close-ups, handheld over-the-shoulder inspection shots, crisp low-angle site measurements.\n- Strictly avoid generic plot-to-house construction sequences or happy-family keys handovers.\n\nE. CAMERA AND IMAGE QUALITY\n- Cinematic 4K video feel, stable micro-movements, crisp optical focus, authentic filmic color grading, realistic Coimbatore sunlight shadows.\n\nF. EXACT 7-SHOT SEQUENCE PLAN\n\nShot 1 (0.0s - 1.4s)\n- Location: Well-lit Coimbatore property lawyer desk.\n- Visual: Top-down macro shot of hands laying out an official Tamil Nadu land title deed alongside an Encumbrance Certificate (EC).\n- Camera: Static overhead macro, natural desk light.\n- Text Overlay: '1. Master Check'\n- Tamil VO: 'ஒரு சொத்து வாங்கும் முன்...'\n\nShot 2 (1.4s - 2.8s)\n- Location: Office interior.\n- Visual: Close-up of a finger pointing at survey numbers on the Tamil Nadu revenue e-services portal display on a laptop, comparing with a printed physical document.\n- Camera: Shallow depth of field macro shot focusing on screen numbers and finger movement.\n- Text Overlay: '2. Record Audit'\n- Tamil VO: '...3-அடுக்கு சரிபார்ப்பு அவசியம்.'\n\nShot 3 (2.8s - 4.2s)\n- Location: Sunny outdoor plot boundary in Coimbatore.\n- Visual: Over-the-shoulder handheld shot of an auditor unfolding an official Field Measurement Book (FMB) diagram paper.\n- Camera: Over-the-shoulder medium close-up, natural daylight.\n- Text Overlay: '3. Map Match'\n- Tamil VO: 'பட்டா சரிபார்ப்பு,'\n\nShot 4 (4.2s - 5.6s)\n- Location: Coimbatore land parcel with red soil and coconut palms in soft background focus.\n- Visual: Low-angle shot of a field surveyor placing a yellow measuring tape against a marked concrete survey boundary stone.\n- Camera: Low-angle ground level, sharp focus on stone and tape text.\n- Text Overlay: '4. Ground Check'\n- Tamil VO: 'FMB வரைபடம்,'\n\nShot 5 (5.6s - 7.0s)\n- Location: Coimbatore plot site.\n- Visual: Handheld shot showing a inspector comparing the physical measuring tape length against a checklist on a wooden clipboard.\n- Camera: Slight pan down from tape to clipboard, realistic motion.\n- Text Overlay: '5. Boundary Audit'\n- Tamil VO: 'மற்றும் கள ஆய்வு—'\n\nShot 6 (7.0s - 8.5s)\n- Location: Office desk / clipboard.\n- Visual: Macro shot of a black pen checking off a box on a verified audit sheet titled 'Coimbatore Land Verification Passed'.\n- Camera: Macro tight shot focusing on pen movement.\n- Text Overlay: '6. Verified Title'\n- Tamil VO: 'மூன்றையும் ஒப்பிட்டு உறுதி செய்யுங்கள்!'\n\nShot 7 (8.5s - 10.0s)\n- Location: Sunny verified property site in Coimbatore.\n- Visual: Confident property buyer accepting a verified green document folder with Coimbatore green landscape in background.\n- Camera: Eye-level steady camera, slight push-in.\n- Text Overlay: 'OliveTree Investors'\n- Tamil VO: 'OliveTree Investors.'\n\nG. MOTION GRAPHICS LIMIT\n- Only clean, minimal 1-2 word text overlays centered or lower third. No flashy 2D graphic transition, no motion graphics takeovers.\n\nH. FINAL REAL SCENE\n- Finish on real location (Shot 7) with real sunlight and natural scenery. Overlay minimal brand mark 'OliveTree Investors'. No black screens or standalone graphic end-cards.\n\nI. NEGATIVE PROMPT & BANNED ELEMENTS\n- Ban: 2D/3D cartoon graphics, animated charts, house construction sequences, moving architectural models, non-Coimbatore landscapes, fake city skylines, duplicated human faces, camera crew reflections, heavy fantasy color filters, fisheye lenses, fast whip-pans."
+  }
+}
