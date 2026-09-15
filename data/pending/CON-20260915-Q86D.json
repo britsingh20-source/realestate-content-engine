@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260915-Q86D",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-15T12:42:42.934Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Buildofy",
+    "creatorKey": "buildofy",
+    "source": {
+      "id": "EBs_0GdbCbc",
+      "title": "Official Promo | Reflections #buildofy  #architecture  #home  #karnataka  #shorts  #reels",
+      "description": "",
+      "publishedAt": "2026-08-31T10:30:03Z",
+      "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
+      "channelTitle": "Buildofy",
+      "durationSeconds": 74,
+      "views": 21551,
+      "likes": 594,
+      "comments": 4,
+      "url": "https://www.youtube.com/watch?v=EBs_0GdbCbc",
+      "ageHours": 362.0666886111111,
+      "velocity": 59.52218383488882,
+      "outlier": 1.8536900051608465,
+      "velocityRatio": 3.1020763726503806,
+      "engagementRatio": 1.0249306875775548
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 32,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 6436,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.6-flash"
+  },
+  "pack": {
+    "topic": "Vertical Lightwell & Courtyard Structural Framing for Compact Coimbatore Urban Plots",
+    "source_script_insight": "Adapting traditional regional courtyard layouts (Manduva typology) into compact modern urban plots requires converting horizontal courtyards into multi-level vertical lightwells, demanding precise beam perimeter framing and base planter waterproofing.",
+    "coimbatore_angle": "In fast-growing Coimbatore residential hubs like Peelamedu, Vadavalli, and Saravanampatti where plot widths are tight, building a vertical central courtyard provides natural cross-ventilation and daylighting without sacrificing floor area.",
+    "core_takeaway": "When incorporating a vertical courtyard lightwell on compact Coimbatore plots, ensure continuous perimeter structural beams around the slab cutout and execute double-layer waterproofing with subsurface drainage at the base.",
+    "voiceover_tamil": "குறுகிய மனையில் வெளிச்சமும் காற்றோட்டமும் கிடைக்க, செங்குத்து லைட்வெல் சுற்றிலும் பீம் பிரேமிங்கை சரியாக அமைக்க வேண்டும். அடியில் முறையான வாட்டர்ப்ரூஃபிங் மற்றும் வடிகால் அமைத்தால், வீடு முழுவதும் இயற்கை காற்று வீசும்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook showing a compact Coimbatore site with dark interior vs vertical open cutout.",
+        "visual": "Low-angle shot looking up through a square slab cutout inside an active residential build in Vadavalli, Coimbatore, with bright sky light pouring down.",
+        "camera": "Low angle, wide lens, subtle slow tilt upward.",
+        "on_screen_text": "உள் முற்றம்? (Indoor Courtyard?)",
+        "voiceover_tamil": "குறுகிய மனையில் வெளிச்சமும்"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Demonstrate structural steel framing around the vertical core opening.",
+        "visual": "Close-up on TMT rebar binding around the square lightwell opening cutout on a slab formwork deck prior to concrete pour.",
+        "camera": "Eye level, 35mm lens, slow pan along perimeter steel rebar.",
+        "on_screen_text": "Beam Perimeter Framing",
+        "voiceover_tamil": "காற்றோட்டமும் கிடைக்க,"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Highlight shuttering precision around multi-level courtyard cutouts.",
+        "visual": "Mason inspecting steel shuttering plates edging the vertical courtyard core on the first-floor level.",
+        "camera": "Medium shot, side movement tracking worker checking shutter alignment.",
+        "on_screen_text": "Slab Opening Cutout",
+        "voiceover_tamil": "செங்குத்து லைட்வெல் சுற்றிலும்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Detailing courtyard base planter waterproofing and drainage system.",
+        "visual": "Site worker applying elastomeric liquid waterproofing coating inside the ground-floor recessed planter box base of the lightwell.",
+        "camera": "High angle close shot, hand movement applying brush coat on concrete surface.",
+        "on_screen_text": "Planter Waterproofing",
+        "voiceover_tamil": "பீம் பிரேமிங்கை சரியாக அமைக்க வேண்டும்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Show perforated drainage pipe installation at planter floor.",
+        "visual": "Close-up of flexible perforated drain pipe laid in gravel bedding at the bottom of the indoor courtyard lightwell.",
+        "camera": "Macro level shot, slow push-in on drainage pipe.",
+        "on_screen_text": "Subsurface Drainage",
+        "voiceover_tamil": "அடியில் முறையான வாட்டர்ப்ரூஃபிங்"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Display finished lightwell daylighting and cross ventilation in masonry walls.",
+        "visual": "Bright natural sunlight cascading down plaster brick walls framing the double-height vertical core with terracotta jaali vents.",
+        "camera": "Gimbal tracking shot moving smoothly along hallway beside the lightwell core.",
+        "on_screen_text": "Natural Air Flow",
+        "voiceover_tamil": "மற்றும் வடிகால் அமைத்தால்,"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Final payoff and branding overlay on completed courtyard home.",
+        "visual": "Sunlit living space with a thriving green central planter under the vertical lightwell cutout in a newly built Coimbatore home.",
+        "camera": "Wide aesthetic shot, static camera with soft ambient movement of plant leaves.",
+        "on_screen_text": "OliveTree Builders Quality",
+        "voiceover_tamil": "வீடு முழுவதும் இயற்கை காற்று வீசும்!"
+      }
+    ],
+    "title_english": "Vertical Courtyard Structural Framing for Compact Coimbatore Homes",
+    "caption_english": "Building on tight urban plots in Peelamedu, Vadavalli, or Saravanampatti doesn't mean sacrificing natural daylight and cross-ventilation. Reimagining traditional courtyard layouts into a vertical multi-level lightwell brings daylight deep into your home. However, proper execution requires strict perimeter beam framing around slab cutouts and two-layer waterproofing with subsurface drainage at the base planter to avoid moisture seepage. Build smart with engineered site practices.\n\nPlanning your dream home in Coimbatore? Contact OliveTree Builders today for turnkey engineering excellence!",
+    "title_tamil": "கோவையில் குறுகிய மனையிலும் வெளிச்சம் தரும் உள் முற்றம்!",
+    "caption_tamil": "கோயம்புத்தூரில் குறுகிய இடங்களில் வீடு கட்டும்போது போதிய வெளிச்சம் மற்றும் காற்றோட்டம் கிடைக்க செங்குத்து லைட்வெல் (Vertical Lightwell) சிறந்த தீர்வாகும். இதன் slab opening சுற்றிலும் சரியான பீம் பிரேமிங் மற்றும் அடியில் தரமான வாட்டர்ப்ரூஃபிங் - வடிகால் அமைப்பது மிக முக்கியம்.\n\nஉங்கள் கனவு இல்லத்தை தரமாக கட்ட இன்றே OliveTree Builders-ஐத் தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#HouseDesignCoimbatore"
+    ],
+    "gemini_video_prompt": "OliveTree Builders present COIMBATORE ONLY residential construction video guide. EXACTLY 10 SECONDS total duration, split into EXACTLY 7 SCENES in portrait 9:16 aspect ratio. MUST BE 90%+ PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE recorded on raw smartphone/gimbal cameras. Strictly NO 2D/3D cartoon animation, NO flat infographics, NO fake CGI cities, NO glossy floating elements. All scenes take place on active residential construction sites in Coimbatore, Tamil Nadu, showing authentic Indian site conditions, concrete textures, rebar, red bricks, clay terracotta tiles, daylighting, and Tamil construction workers in safety gear.\n\nSCENE BREAKDOWN (Exact Timestamps):\n\nSCENE 1 (0.0s - 1.4s): Low-angle shot looking directly up through a square 6ftx6ft slab cutout inside an under-construction house in Vadavalli, Coimbatore. Sharp morning sunlight streams down into the room. Concrete ceiling edges are visible with raw shuttering marks. Foreground: dark interior wall contrast. Small text overlay in bottom corner: 'உள் முற்றம்?'.\n\nSCENE 2 (1.4s - 2.8s): Close-up shot at slab level during reinforcement steel laying. TMT steel bars bound tightly into perimeter beams surrounding a lightwell cutout opening. Clear wire ties, concrete cover blocks, and wooden shuttering boards visible. Text overlay: 'Beam Perimeter Framing'.\n\nSCENE 3 (2.8s - 4.2s): Eye-level medium shot of an experienced Tamil mason inspecting shuttering plate edges lined around the multi-level vertical courtyard cutout on the first-floor slab. Masons wearing yellow helmet and reflective vest. Text overlay: 'Slab Opening Cutout'.\n\nSCENE 4 (4.2s - 5.6s): High-angle action shot inside the ground-floor sunken planter pit beneath the lightwell. Worker applying a thick black elastomeric waterproof membrane onto the smooth cement plaster pit walls using a wide roller brush. Wet glossy texture visible. Text overlay: 'Planter Waterproofing'.\n\nSCENE 5 (5.6s - 7.0s): Macro close-up on a black corrugated perforated drain pipe wrapped in geotextile fabric laid inside a gravel drainage layer at the base of the indoor courtyard pit. Natural daylight falls from top. Text overlay: 'Subsurface Drainage'.\n\nSCENE 6 (7.0s - 8.5s): Smooth gimbal forward tracking shot through a corridor. Sunlight floods down from the central vertical core onto white plastered brick walls and red terracotta jaali lattice ventilation blocks. Real Tamil Nadu home interior under construction finish. Text overlay: 'Natural Air Flow'.\n\nSCENE 7 (8.5s - 10.0s): Wide final shot of a completed modern residence living room in Coimbatore. Lush green indoor ficus planter in the central ground floor courtyard directly beneath the double-height vertical lightwell core. Sunlight fills the living room. Clean overlay graphics at bottom: 'OliveTree Builders Quality'.\n\nCONTINUITY & STYLE RULES: Strict physical continuity across all scenes. Realistic Indian site elements, authentic sun angles, realistic concrete, rebar, brick, and waterproofing material textures. Natural motion graphics overlays only (small clean text tags, subtle line highlights). Lens feel: 24mm to 35mm handheld/gimbal footage with natural depth of field.\n\nNEGATIVE PROMPT: No cartoon, 2D vector graphic, flat screen explainer, plastic rendering, 3D architecture software animation, floating fake text blocks, unrealistically clean CGI, non-Indian workers, foreign urban backdrop, landscape format, black side pillars, studio lighting, exaggerated visual effects."
+  }
+}
