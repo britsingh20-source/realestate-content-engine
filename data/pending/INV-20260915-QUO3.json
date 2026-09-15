@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260915-QUO3",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-15T11:59:32.730Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "ySFL5LcM9GI",
+      "title": "Assam mein Izzat daar logo ko ye shawl di jati hai. #assam",
+      "description": "",
+      "publishedAt": "2026-08-31T18:41:57Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 22,
+      "views": 712,
+      "likes": 19,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=ySFL5LcM9GI",
+      "ageHours": 353.20804,
+      "velocity": 2.0158091531551774,
+      "outlier": 0.6463912846118929,
+      "velocityRatio": 0.584034878404541,
+      "engagementRatio": 1.09609375
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 12,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2763
+  },
+  "pack": {
+    "subject_classification": "developer reputation",
+    "source_evidence_points": [
+      "Honor and credibility are not given randomly; they are reserved for those with verified respectability.",
+      "A physical, visible token (like the Gamosa) represents a public mark of trust and status.",
+      "Verifying the background and track record of who you deal with prevents misplaced trust."
+    ],
+    "topic": "Verifying Developer Track Record and Approvals in Coimbatore",
+    "source_script_insight": "Just as a traditional shawl is bestowed only upon individuals of verified honor and standing, a real estate developer's credibility must be verified through physical approvals and past project delivery before granting them your financial trust.",
+    "coimbatore_angle": "Focuses on Coimbatore land and property buyers performing due diligence by physically verifying DTCP/TNRERA approvals and past completed projects in Coimbatore neighborhoods rather than trusting unverified marketing claims.",
+    "visual_strategy": "The visual strategy uses close-up, high-definition physical evidence of credibility—such as official DTCP stamps, TNRERA online verification screens, physical parent deeds, and actual completed, occupied residential buildings in Coimbatore. The camera language is steady, observational, and grounded in reality, avoiding any generic CGI or empty land montages to emphasize rigorous verification.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never invest based on promises; verify a developer's track record and official approvals first.",
+    "voiceover_tamil": "மதிப்புள்ள முதலீட்டிற்கு அங்கீகாரம் தான் அடையாளம். வெறும் விளம்பரங்களை நம்பாமல் பத்திரங்களை நேரில் சரிபாருங்கள். முந்தைய திட்டங்களின் தரமே அவர்களின் உண்மையான நற்பெயர். OliveTree உடன் பாதுகாப்பாக முதலீடு செய்யுங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Honor and credibility are not given randomly; they are reserved for those with verified respectability.",
+        "purpose": "Establish the central tension of verifying credibility immediately with physical proof.",
+        "visual": "A close-up, high-angle shot of a hand holding a physical DTCP approval document under natural office light, pointing to a clear blue ink stamp.",
+        "on_screen_text": "நம்பகத்தன்மை முக்கியம்",
+        "voiceover_tamil": "மதிப்புள்ள முதலீட்டிற்கு..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Honor and credibility are not given randomly; they are reserved for those with verified respectability.",
+        "purpose": "Show digital verification as an active step in due diligence.",
+        "visual": "An eye-level shot of a smartphone screen displaying the official TNRERA registration portal, with a finger scrolling through verified project details.",
+        "on_screen_text": "TNRERA சரிபார்ப்பு",
+        "voiceover_tamil": "...அங்கீகாரம் தான் அடையாளம்."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "A physical, visible token represents a public mark of trust and status.",
+        "purpose": "Show physical, on-site markers of legal security.",
+        "visual": "A low-angle, static shot of a clean, weathered concrete boundary stone with engraved survey numbers next to a paved road in a Coimbatore layout.",
+        "on_screen_text": "உண்மைத்தன்மை",
+        "voiceover_tamil": "வெறும் விளம்பரங்களை நம்பாமல்..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Verifying the background and track record of who you deal with prevents misplaced trust.",
+        "purpose": "Highlight the physical inspection of legal history.",
+        "visual": "A close-up shot of hands turning the crisp pages of an old parent deed (mother document) on a wooden desk, illuminated by warm sunlight from a window.",
+        "on_screen_text": "பத்திர சரிபார்ப்பு",
+        "voiceover_tamil": "...பத்திரங்களை நேரில் சரிபாருங்கள்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "A physical, visible token represents a public mark of trust and status.",
+        "purpose": "Provide visual proof of a developer's completed work.",
+        "visual": "A smooth tracking shot from a vehicle passing a fully completed, occupied apartment building in Coimbatore, showing balconies with green plants and parked cars.",
+        "on_screen_text": "முந்தைய திட்டங்கள்",
+        "voiceover_tamil": "முந்தைய திட்டங்களின் தரமே..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Verifying the background and track record of who you deal with prevents misplaced trust.",
+        "purpose": "Show professional consultation and verification of layouts.",
+        "visual": "A mid-shot of an investor and a consultant's hands pointing to a physical layout map on a table, verifying plots and road widths.",
+        "on_screen_text": "நற்பெயர்",
+        "voiceover_tamil": "...அவர்களின் உண்மையான நற்பெயர்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Verifying the background and track record of who you deal with prevents misplaced trust.",
+        "purpose": "Deliver the final payoff scene showing a secure, completed layout with a subtle brand overlay.",
+        "visual": "A static, eye-level shot looking down a clean, well-lit tar road inside a premium Coimbatore layout, with clear blue skies above. Minimal OliveTree Investors logo on screen.",
+        "on_screen_text": "பாதுகாப்பான முதலீடு",
+        "voiceover_tamil": "OliveTree உடன் பாதுகாப்பாக முதலீடு செய்யுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "# MANDATORY OUTPUT FORMAT & REALISM LOCK\n- Format: 10 seconds total, native portrait 9:16 vertical composition. Full-screen, no black bars, no sidebars.\n- Style: Ultra-photorealistic, real-world physical footage. Absolutely no 3D architectural renders, no cartoon animations, no motion graphics templates, no plastic CGI surfaces, no fake skies.\n- Setting: Authentic Coimbatore, Tamil Nadu environments. Natural sunlight, realistic shadows, subtle atmospheric haze, natural vegetation movement, and believable physical scales.\n\n# SUBJECT & CONCEPT LOCK\n- Subject: Developer Reputation and Due Diligence.\n- Concept: Just as respect is earned and symbolized by traditional honors, a developer's credibility in Coimbatore must be verified through physical approvals (DTCP/TNRERA) and past project delivery before investing.\n- Forbidden Default Story: Do not show an empty plot transforming into a house, or a happy family entering a new home. Every scene must focus on the physical evidence of verification and track record.\n\n# EXACT 7-SHOT SEQUENCE (0.0 to 10.0 Seconds)\n\n## Scene 1 (0.0s - 1.4s)\n- Location: Indoor office desk, Coimbatore.\n- Visual: Close-up, high-angle shot of a person's hand holding a physical, white paper DTCP approval document. The camera focuses on a crisp, blue ink official stamp on the paper. Natural daylight streams from the side, casting soft shadows.\n- Camera: Static macro shot, shallow depth of field.\n- Text Overlay: \"நம்பகத்தன்மை முக்கியம்\" (small, clean sans-serif font at the bottom).\n- Voiceover (Tamil): \"மதிப்புள்ள முதலீட்டிற்கு...\"\n\n## Scene 2 (1.4s - 2.8s)\n- Location: Indoor setting.\n- Visual: Eye-level close-up of a modern smartphone held in a hand. The screen displays the live TNRERA registration portal website, showing a project list with green checkmarks. A thumb gently scrolls down the screen.\n- Camera: Static close-up, sharp focus on the phone screen with realistic reflections.\n- Text Overlay: \"TNRERA சரிபார்ப்பு\"\n- Voiceover (Tamil): \"...அங்கீகாரம் தான் அடையாளம்.\"\n\n## Scene 3 (2.8s - 4.2s)\n- Location: Outdoor residential layout in Coimbatore.\n- Visual: Low-angle shot of a solid, weathered concrete boundary stone planted firmly in the ground next to a clean asphalt road. Engraved survey numbers are clearly visible on the concrete surface. Green grass blades sway slightly in the background.\n- Camera: Static low-angle shot, sharp textures on the concrete and road.\n- Text Overlay: \"உண்மைத்தன்மை\"\n- Voiceover (Tamil): \"வெறும் விளம்பரங்களை நம்பாமல்...\"\n\n## Scene 4 (4.2s - 5.6s)\n- Location: Office table.\n- Visual: Close-up of hands carefully turning the aged, slightly yellowed pages of a physical parent deed (mother document). The paper texture and old ink writing are highly detailed under warm, natural light.\n- Camera: Slow, subtle push-in, focusing on the movement of the paper.\n- Text Overlay: \"பத்திர சரிபார்ப்பு\"\n- Voiceover (Tamil): \"...பத்திரங்களை நேரில் சரிபாருங்கள்.\"\n\n## Scene 5 (5.6s - 7.0s)\n- Location: Coimbatore suburban street.\n- Visual: Smooth tracking shot taken from a moving car window, showing a modern, fully completed and occupied apartment building. Balconies have potted plants, clothes drying, and cars are parked neatly in the stilt parking area.\n- Camera: Smooth, horizontal tracking shot, realistic motion blur on the foreground.\n- Text Overlay: \"முந்தைய திட்டங்கள்\"\n- Voiceover (Tamil): \"முந்தைய திட்டங்களின் தரமே...\"\n\n## Scene 6 (7.0s - 8.5s)\n- Location: Meeting room.\n- Visual: Mid-shot focusing on a wooden table where a physical paper layout map is spread out. Two hands point to specific plots and road markings, discussing details. Only the hands and the map are in focus; the people remain secondary and out of focus.\n- Camera: Static mid-shot, natural indoor lighting.\n- Text Overlay: \"நற்பெயர்\"\n- Voiceover (Tamil): \"...அவர்களின் உண்மையான நற்பெயர்.\"\n\n## Scene 7 (8.5s - 10.0s)\n- Location: Premium completed layout in Coimbatore.\n- Visual: Eye-level static shot looking down a perfectly paved, clean black tar road inside a completed layout. Modern streetlights line the road, and a clear, natural blue sky is visible above. No empty plot-to-house transition. A tiny, elegant \"OliveTree Investors\" logo appears at the top corner.\n- Camera: Static wide shot, balanced exposure, realistic perspective.\n- Text Overlay: \"பாதுகாப்பான முதலீடு\"\n- Voiceover (Tamil): \"OliveTree உடன் பாதுகாப்பாக முதலீடு செய்யுங்கள்!\"\n\n# MOTION-GRAPHICS & LOGO LIMITS\n- No full-screen graphics, no animated characters, no cartoon transitions. Only clean, minimal, semi-transparent text overlays in white, placed in the lower third of the frame.\n\n# NEGATIVE PROMPT / REMOVAL RULES\n- Absolutely ban: 2D/3D animated explainers, architectural walkthrough renders, game-engine visuals, plastic-looking CGI, fake skylines, floating text, distorted hand shapes, duplicated people, camera crew reflections, religious symbols, fake landmarks, landscape framing with black sidebars.",
+    "title_english": "Coimbatore Property: How to Verify Developer Reputation",
+    "caption_english": "In real estate, credibility and trust aren't just given—they must be earned through verified track records. Before investing your hard-earned money in Coimbatore, look past glossy brochures. Verify the DTCP and TNRERA approvals, inspect the parent documents, and physically visit the developer's completed projects to check their quality. A developer's past delivery is their true badge of honor. Partner with OliveTree Investors to navigate your property journey with absolute safety and clarity. DM us to get our due diligence checklist today!",
+    "title_tamil": "கோயம்புத்தூர் ரியல் எஸ்டேட்: டெவலப்பர் நம்பகத்தன்மையை கண்டறிவது எப்படி?",
+    "caption_tamil": "ரியல் எஸ்டேட்டில், நம்பகத்தன்மை என்பது வெறும் வார்த்தை அல்ல; அது முறையான அங்கீகாரங்கள் மூலம் நிரூபிக்கப்பட வேண்டிய ஒன்று. கோயம்புத்தூரில் முதலீடு செய்வதற்கு முன், வெற்று விளம்பரங்களை நம்பாமல் DTCP மற்றும் TNRERA அனுமதிகளைச் சரிபாருங்கள். தாய் பத்திரங்களை நேரில் ஆய்வு செய்து, டெவலப்பரின் முந்தைய திட்டங்களை நேரில் பார்வையிடுங்கள். அவர்களின் கடந்தகால செயல்பாடே அவர்களின் உண்மையான அடையாளம். பாதுகாப்பான மற்றும் தெளிவான முதலீட்டு வழிகாட்டுதலுக்கு OliveTree Investors-ஐ அணுகவும்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
