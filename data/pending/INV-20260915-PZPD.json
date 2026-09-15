@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260915-PZPD",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-15T17:12:17.340Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "FcJzQGwAaDQ",
+      "title": "Do a Thorough Due Diligence Before Buying Any Property",
+      "description": "A property being available at a huge discount can look like the deal of a lifetime. But what if the property has a complicated title or an outstanding bank claim?\n\nThis case shows how a buyer almost lost ₹60 crores because of a property-related dispute involving a bank, auction and title.\n\nNever look at the price alone. Do your title and legal due diligence before buying any property.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-09-15T13:30:21Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 89,
+      "views": 392,
+      "likes": 12,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=FcJzQGwAaDQ",
+      "ageHours": 3.6502422222222224,
+      "velocity": 107.39013362279154,
+      "outlier": 0.04322417025030323,
+      "velocityRatio": 5.7308712112236355,
+      "engagementRatio": 1.436640356986645
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 42,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2145
+  },
+  "pack": {
+    "subject_classification": "legal risk",
+    "source_evidence_points": [
+      "Bank auction purchases do not guarantee clear property titles",
+      "Existing civil court judgments can override bank sales certificates",
+      "Independent legal title due diligence is mandatory before bidding"
+    ],
+    "topic": "Bank Auction Legal Risks & Property Due Diligence",
+    "source_script_insight": "Buying through a bank auction can lead to severe litigation if previous court orders or third-party claims are ignored, regardless of the bank's sales certificate.",
+    "coimbatore_angle": "Focusing on legal title verification for properties in Coimbatore real estate transactions, avoiding disputed parcels in developing peripheral zones.",
+    "visual_strategy": "Using real documents, lawyer desk review, stamp paper inspection, land boundary examination, and civil court reference files to demonstrate legal risk rather than using generic land plots or happy families.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Always conduct independent legal title checks before buying any property through a bank auction in Coimbatore.",
+    "voiceover_tamil": "கோயம்புத்தூரில் வங்கி ஏலத்தில் சொத்து வாங்குறீங்களா? பேப்பர் தப்புன்னா... கோடிகள் வீண்! முன்கூட்டியே டைட்டில் டூ கிலிகன்ஸ் செய்யுங்க.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Bank auction purchases do not guarantee clear property titles",
+        "purpose": "Establish central tension of legal risk in property auctions",
+        "visual": "Extreme close-up of a stamped legal auction notice resting on a wooden office desk in Coimbatore, natural daylight from a side window illuminating the text.",
+        "on_screen_text": "Auction Risk?",
+        "voiceover_tamil": "கோயம்புத்தூரில் வங்கி ஏலத்தில்"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Existing civil court judgments can override bank sales certificates",
+        "purpose": "Showcase court paperwork and encumbrance records",
+        "visual": "A pair of hands flipping through yellowed Tamil Nadu civil court papers and encumbrance certificates in a lawyer's chamber.",
+        "on_screen_text": "Court Papers",
+        "voiceover_tamil": "சொத்து வாங்குறீங்களா?"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.3,
+        "evidence_point": "Independent legal title due diligence is mandatory",
+        "purpose": "Highlight legal inspection of property boundaries",
+        "visual": "A legal advisor pointing a pen at a property survey sketch showing land sub-division boundaries in Coimbatore.",
+        "on_screen_text": "Check Title",
+        "voiceover_tamil": "பேப்பர் தப்புன்னா..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.7,
+        "evidence_point": "Bank auction purchases do not guarantee clear property titles",
+        "purpose": "Demonstrate financial risk through auction document review",
+        "visual": "A close-up shot of a bank sales certificate document being checked against property tax receipts under warm desk lighting.",
+        "on_screen_text": "Verify First",
+        "voiceover_tamil": "கோடிகள் வீண்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "evidence_point": "Existing civil court judgments can override bank sales certificates",
+        "purpose": "Emphasize litigation warning against hidden claimants",
+        "visual": "Eye-level shot of an advocate highlighting a dispute clause in a legal file with a red marker.",
+        "on_screen_text": "Hidden Claims",
+        "voiceover_tamil": "முன்கூட்டியே"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.5,
+        "evidence_point": "Independent legal title due diligence is mandatory",
+        "purpose": "Show secure document verification process",
+        "visual": "A lawyer stamping a property verification report on a wooden table inside a Coimbatore office.",
+        "on_screen_text": "Legal Check",
+        "voiceover_tamil": "டைட்டில் டூ கிலிகன்ஸ்"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Independent legal title due diligence is mandatory",
+        "purpose": "Deliver final professional takeaway with OliveTree branding",
+        "visual": "Static shot of verified property deeds neatly organized with a professional pen, subtle OliveTree Investors watermark in the corner.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "செய்யுங்க."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK: Exactly 10 seconds total duration, native vertical 9:16 aspect ratio, full-screen photorealistic video composition tailored for Coimbatore, Tamil Nadu real estate market.\n\nB. REALISM LOCK: 100% photorealistic real-world footage. No animation, no CGI, no 3D renders, no cartoon elements, no explainer graphics. Natural lighting, realistic textures of paper, wood, ink, and legal documents in a authentic Coimbatore advocate office environment.\n\nC. SOURCE SUBJECT LOCK: Legal risk in bank auction property purchases. Source evidence points: 1) Bank auction purchases do not guarantee clear property titles, 2) Existing civil court judgments can override bank sales certificates, 3) Independent legal title due diligence is mandatory. Applied strictly to Coimbatore property investment advisory context without generic land promotion.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY: Focus exclusively on legal documents, court papers, title deeds, survey sketches, and lawyer verification desks. The default empty-plot, house, family, and construction sequence is strictly forbidden.\n\nE. CAMERA + IMAGE QUALITY: Stable 4K-like smartphone and mirrorless footage, realistic depth of field, natural shadows, clear macro details on text and stamps.\n\nF. EXACT 7-SHOT PLAN:\n- Scene 1 (0.0 - 1.4s): Extreme close-up of a stamped legal auction notice resting on a wooden office desk in Coimbatore. Text overlay: 'Auction Risk?'. Voiceover: 'கோயம்புத்தூரில் வங்கி ஏலத்தில்'.\n- Scene 2 (1.4 - 2.8s): Hands flipping through yellowed Tamil Nadu civil court papers and encumbrance certificates. Text overlay: 'Court Papers'. Voiceover: 'சொத்து வாங்குறீங்களா?'.\n- Scene 3 (2.8 - 4.3s): Legal advisor pointing a pen at a property survey sketch showing land sub-division boundaries. Text overlay: 'Check Title'. Voiceover: 'பேப்பர் தப்புன்னா...'.\n- Scene 4 (4.3 - 5.7s): Close-up of a bank sales certificate document being checked against property tax receipts. Text overlay: 'Verify First'. Voiceover: 'கோடிகள் வீண்!'.\n- Scene 5 (5.7 - 7.1s): Advocate highlighting a dispute clause in a legal file with a red marker. Text overlay: 'Hidden Claims'. Voiceover: 'முன்கூட்டியே'.\n- Scene 6 (7.1 - 8.5s): Lawyer stamping a property verification report on a wooden table. Text overlay: 'Legal Check'. Voiceover: 'டைட்டில் டூ கிலிகன்ஸ்'.\n- Scene 7 (8.5 - 10.0s): Static shot of verified property deeds with a professional pen and subtle 'OliveTree Investors' text overlay. Text overlay: 'OliveTree Investors'. Voiceover: 'செய்யுங்க.'.\n\nG. MOTION-GRAPHICS LIMIT: Only minimal text overlays on real physical footage. No cartoon elements.\n\nH. FINAL REAL SCENE: Ends on verified property deeds and legal stamp, with minimalist OliveTree Investors branding.\n\nI. NEGATIVE PROMPT / FIXED RULES: No cartoons, no 3D renders, no explainer graphics, no plastic CGI, no fake landmarks, no landscape framing, no black bars, no repetitive shots.",
+    "title_english": "Avoid Losing Crores: Bank Auction Legal Risks in Coimbatore",
+    "caption_english": "Buying a property through a bank auction in Coimbatore might seem like a great deal, but a bank sales certificate does not automatically guarantee a clear title. Hidden civil court disputes and third-party claims can trap buyers in years of litigation. Always conduct independent legal title due diligence before bidding or purchasing. Protect your capital with expert guidance from OliveTree Investors. \n\n#CoimbatoreRealEstate #LegalDueDiligence #PropertyInvestment #OliveTreeInvestors",
+    "title_tamil": "கோயம்புத்தூரில் வங்கி ஏல சொத்து வாங்குவதற்கு முன் கவனிக்க வேண்டியது!",
+    "caption_tamil": "கோயம்புத்தூரில் வங்கி ஏலத்தில் சொத்து வாங்குவது லாபமாகத் தோன்றலாம், ஆனால் டைட்டில் சரிபார்க்காவிட்டால் சிக்கல் நிச்சயம். முன்கூட்டியே சட்டப்பூர்வ பரிசோதனை செய்வது அவசியம்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyDueDiligence",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
