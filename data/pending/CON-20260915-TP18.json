@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260915-TP18",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-15T06:01:49.582Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civiconcepts / Bhushan Mahajan",
+    "creatorKey": "civiconcepts",
+    "source": {
+      "id": "pVAvvGS4YxU",
+      "title": "Empty House to Luxury Home 🏡 | Living Room, Bedroom & Kitchen Transformation Timelapse #shorts",
+      "description": "Watch an empty house transform into a stunning luxury home! See the living room, bedroom, and modular kitchen come to life step by step in a satisfying interior design timelapse. Perfect inspiration for modern home renovation and décor lovers. #InteriorDesign #HomeMakeover #LuxuryHome #Timelapse #Shorts\n\n\n\nhome transformation,empty house,luxury home,interior design,home makeover,living room design,bedroom design,modular kitchen,kitchen design,modern home,home renovation,timelapse,3d animation,AI video,architecture,home decor,dream home,house design,viral shorts,youtube shorts",
+      "publishedAt": "2026-08-04T16:06:38Z",
+      "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
+      "channelTitle": "Civiconcepts - Bhushan Mahajan",
+      "durationSeconds": 29,
+      "views": 881,
+      "likes": 11,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=pVAvvGS4YxU",
+      "ageHours": 997.8728461111111,
+      "velocity": 0.8828780174081442,
+      "outlier": 881,
+      "velocityRatio": 0.8828780174081442,
+      "engagementRatio": 147.55959137343928
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 44,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4152,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Practical Civil Construction Quality & Site Workmanship for Coimbatore Residential Projects",
+    "source_script_insight": "The source video demonstrates the step-by-step room transformation from raw structure to finished interior, highlighting how structural surfaces and finishes integrate. We adapt this progression into a rigorous site inspection sequence focusing on raw structural finishing, MEP rough-ins, masonry alignment, and quality checks before interior handover in Coimbatore homes.",
+    "coimbatore_angle": "Tailored for independent house builders and plot owners across Coimbatore neighborhoods (like RS Puram, Saibaba Colony, Vadavalli, and Singanallur) ensuring raw brickwork, concrete finishing, and MEP rough-ins meet local structural longevity standards.",
+    "core_takeaway": "Flawless luxury interiors start with precise raw construction: verify plumb-line masonry, clean concrete finishes, and conduit alignments before sealing walls in your Coimbatore home.",
+    "voiceover_tamil": "கச்சா சுவரில் இருந்து ஆடம்பர வீடு வரை! ப்ளாஸ்டிங் முதல் பிளம்பிங் வரை சரியான தரம் பார்ப்பது எப்படி? கோவையில் உங்கள் வீடு கட்டும்போது இதை கவனியுங்கள். கான்கிரீட் மற்றும் சுவரில் பிழை இருக்கக்கூடாது. பைப்கள் சரியாக பதிக்கப்பட வேண்டும். சரியான க்யூரிங் கட்டாயம். ஒலிவ் ட்ரீ பில்டர்ஸ் தரம்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook the viewer with raw unfinished brickwork transitioning to a structural wall check.",
+        "visual": "A raw brick masonry wall on an active Coimbatore residential construction site under bright morning sunlight. Rough cement mortar joints are visible, and a mason uses a spirit level tool to check vertical alignment.",
+        "camera": "Close-up shot, eye-level, smooth handheld gimbal movement pushing in slowly.",
+        "on_screen_text": "Raw Wall Check",
+        "voiceover_tamil": "கச்சா சுவரில் இருந்து"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Show structural concrete pillar and beam junction quality.",
+        "visual": "Exposed RCC column and beam joint showing smooth, honeycomb-free finished concrete after shuttering removal, with workers lightly brushing dust off the surface.",
+        "camera": "Medium shot, low angle looking up at the beam-column junction, steady handheld frame.",
+        "on_screen_text": "Column Finish",
+        "voiceover_tamil": "ஆடம்பர வீடு வரை!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Demonstrate MEP concealed electrical conduit routing before plastering.",
+        "visual": "Red clay brick wall with neatly chased vertical and horizontal chases holding blue PVC electrical conduits and junction boxes secured with metal nails.",
+        "camera": "Medium close-up, panning downwards along the conduit path, natural indoor shade lighting.",
+        "on_screen_text": "MEP Conduits",
+        "voiceover_tamil": "ப்ளாஸ்டிங் முதல் பிளம்பிங்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.7,
+        "purpose": "Highlight plumbing line pressure testing or sleeve placement in bathroom walls.",
+        "visual": "Upvc bathroom water supply pipes securely clamped against plastered brick masonry, with pressure gauge attached to test joint integrity.",
+        "camera": "Medium shot, static framing with subtle macro-focus on the brass fitting and pressure gauge.",
+        "on_screen_text": "Pressure Test",
+        "voiceover_tamil": "வரை சரியான தரம்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "purpose": "Show proper wall plastering and uniform mortar thickness application.",
+        "visual": "A plasterer using an aluminum screed board (patti) to level wet cement mortar across a brick wall, ensuring an even, plumb surface.",
+        "camera": "Medium-wide tracking shot moving sideways alongside the worker's hands, bright outdoor daylight.",
+        "on_screen_text": "Plaster Level",
+        "voiceover_tamil": "கோவையில் உங்கள் வீடு"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.5,
+        "purpose": "Display floor tile base preparation and screed compaction.",
+        "visual": "A leveled cement screed layer on a reinforced concrete floor slab, inspected with a long straight edge by a site engineer in a safety vest.",
+        "camera": "High angle pointing down, slow tilt forward, realistic dusty site environment.",
+        "on_screen_text": "Floor Screed",
+        "voiceover_tamil": "கட்டும்போது இதை கவனியுங்கள்"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Deliver final structural takeaway message with OliveTree Builders branding overlay.",
+        "visual": "A completed, well-lit residential living room with smooth painted walls, clean tiled flooring, and large aluminum windows letting in natural Coimbatore daylight.",
+        "camera": "Wide establishing shot, smooth forward dolly movement into the finished space.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "ஒலிவ் ட்ரீ பில்டர்ஸ் தரம்."
+      }
+    ],
+    "gemini_video_prompt": "Produce an EXACTLY 10-SECOND, EXACTLY 7-SCENE, photorealistic live-action video in 9:16 vertical format for OliveTree Builders in COIMBATORE ONLY. This video must be 90%+ real-looking raw footage shot on an active residential construction site in Tamil Nadu, featuring real dust, natural daylight, genuine materials (red bricks, RCC concrete, PVC conduits, cement mortar), and realistic workers. NO animations, NO 3D renders, NO cartoons, NO fake floating houses or glossy corporate infographics. Motion graphics are strictly limited to tiny text overlays: Scene 1 ('Raw Wall Check'), Scene 2 ('Column Finish'), Scene 3 ('MEP Conduits'), Scene 4 ('Pressure Test'), Scene 5 ('Plaster Level'), Scene 6 ('Floor Screed'), Scene 7 ('OliveTree Builders').\n\nSCENE BREAKDOWN (Total 10.0 seconds):\n- Scene 1 (0.0 - 1.4s): Close-up of raw red brick wall, mason checking alignment with spirit level.\n- Scene 2 (1.4 - 2.8s): Medium low-angle shot of smooth finished RCC column-beam junction.\n- Scene 3 (2.8 - 4.2s): Close-up panning down red brick wall with neatly chased blue PVC electrical conduits.\n- Scene 4 (4.2 - 5.7s): Medium shot of UPVC plumbing pipes clamped on masonry with a test pressure gauge.\n- Scene 5 (5.7 - 7.1s): Tracking shot of plasterer leveling wet mortar with aluminum screed board.\n- Scene 6 (7.1 - 8.5s): High-angle shot of floor screed layer inspection on concrete slab.\n- Scene 7 (8.5 - 10.0s): Wide dolly shot of a bright, naturally lit completed room interior.\n\nNEGATIVE PROMPT: animation, 3D render, cartoon, CGI, plastic texture, whiteboard explainer, landscape format, black bars, blurred sidebars, fake futuristic elements, floating text, non-Tamil Nadu settings, low resolution, shaky cam.",
+    "title_english": "Raw Wall to Luxury Finish: Coimbatore Construction Quality Check",
+    "caption_english": "Ever wondered how raw brickwork and concrete transform into a flawless luxury home in Coimbatore? Quality starts deep inside the walls. From checking plumb-line masonry and column finishes to secure MEP conduit rough-ins and even floor screed, every structural step determines your home's lifetime strength. Build with confidence across Coimbatore neighborhoods with expert site supervision. Partner with OliveTree Builders for uncompromised structural excellence from foundation to finish. DM us to discuss your dream project today!",
+    "title_tamil": "கச்சா சுவர் முதல் ஆடம்பர வீடு வரை தரமான கட்டுமானம்",
+    "caption_tamil": "கோவையில் உங்கள் கனவு இல்லத்தை கட்டும்போது கச்சா சுவரிலிருந்து பிரகாசமான பூச்சு வரை ஒவ்வொரு கட்டத்திலும் தரம் மிக முக்கியம்.",
+    "hashtags": [
+      "#CoimbatoreBuilders",
+      "#ConstructionQuality",
+      "#OliveTreeBuilders"
+    ]
+  }
+}
