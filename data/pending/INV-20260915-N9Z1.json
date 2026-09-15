@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260915-N9Z1",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-15T21:33:07.622Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "Uzbn-SPjmHE",
+      "title": "Assam ko ab milegi rahat ! Samaan aa gaya hai, flood victims ke liye #assam",
+      "description": "",
+      "publishedAt": "2026-09-03T02:09:17Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 13,
+      "views": 420,
+      "likes": 13,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=Uzbn-SPjmHE",
+      "ageHours": 307.37212694444446,
+      "velocity": 1.366421881434657,
+      "outlier": 0.38060715903942005,
+      "velocityRatio": 0.40643348024630016,
+      "engagementRatio": 1.376793803887184
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 11,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5430
+  },
+  "pack": {
+    "subject_classification": "site risk & physical verification",
+    "source_evidence_points": [
+      "Pre-deployment physical inspection of risk factors and logistics preparedness before commitment",
+      "Verification of physical infrastructure boundaries and access suitability under adverse monsoon/flood conditions",
+      "Visual audit of drainage mechanisms and ground elevation to ensure resource protection",
+      "Systematic mapping of site layout against regional environmental challenges"
+    ],
+    "topic": "Coimbatore Land Investment: Monsoon Drainage & Site Elevation Audit",
+    "source_script_insight": "Just as humanitarian relief teams thoroughly inspect logistics, high-sided transport, and weatherproofing tarps before entering flood-prone zones, real estate investors in Coimbatore must inspect physical site contours, natural storm-water drainage channels, and road levels during or after rains to prevent severe asset devaluation.",
+    "coimbatore_angle": "Evaluating plot safety, roadside storm-water infrastructure, and elevation contour maps in expanding Coimbatore micro-markets like Saravanampatti and Kovaipudur during monsoon periods.",
+    "visual_strategy": "The camera operates like a technical site inspector, focusing tightly on elevation contours, active storm-water channels, road level drops, and physical boundary stones rather than generic real estate imagery. This mirrors the source video's practical focus on heavy tarpaulins, vehicle clearance, and physical load inspection.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never buy land in Coimbatore based solely on dry-weather photos; physically audit slope elevation and roadside storm drainage systems first.",
+    "voiceover_tamil": "மழைக்காலத்தில் கோவை நிலத்தை சரிபார்த்தீர்களா? முறையான வடிகால் வசதி மிக அவசியம். சாலை மட்டம் மனை மட்டத்தை விட கீழ் இருக்க வேண்டும். சரியான மேடு-பள்ள கணக்கீடு அவசியம். தேங்கும் தண்னீரால் சொத்தின் மதிப்பு குறையும். மாஸ்டர் பிளான் வரைபடத்தை செக் பண்ணுங்கள். பாதுகாப்பான நில முதலீட்டிற்கு ஆலிவ்ட்ரீ ஃபாலோ செய்யுங்கள்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Pre-deployment physical inspection of risk factors and logistics preparedness before commitment",
+        "purpose": "Establish immediate visual tension around unseen waterlogging risks on Coimbatore plots.",
+        "visual": "Top-down macro shot of a hands-on topographical contour plan overlaid on a Coimbatore layout drawing, with red highlighting on low-lying runoff areas.",
+        "on_screen_text": "Monsoon Check?",
+        "voiceover_tamil": "மழைக்காலத்தில் கோவை நிலத்தை சரிபார்த்தீர்களா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Visual audit of drainage mechanisms and ground elevation to ensure resource protection",
+        "purpose": "Demonstrate functional infrastructure evidence in a real Coimbatore neighborhood.",
+        "visual": "Eye-level pan of a wide concrete roadside storm-water drain in Coimbatore with clear rainwater flowing smoothly away from adjacent plot boundaries.",
+        "on_screen_text": "Storm Drains",
+        "voiceover_tamil": "முறையான வடிகால் வசதி மிக அவசியம்."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Verification of physical infrastructure boundaries and access suitability under adverse monsoon/flood conditions",
+        "purpose": "Highlight physical level checking between asphalt road and vacant plot ground.",
+        "visual": "Low-angle close-up shot showing a measuring tape placed vertically between the asphalt tar road level and the higher plot surface in Saravanampatti.",
+        "on_screen_text": "Road Level",
+        "voiceover_tamil": "சாலை மட்டம் மனை மட்டத்தை விட கீழ் இருக்க வேண்டும்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Systematic mapping of site layout against regional environmental challenges",
+        "purpose": "Show actual physical terrain check being performed on site.",
+        "visual": "First-person perspective of an investor holding a digital level tool against a granite survey stone on a green Coimbatore plot.",
+        "on_screen_text": "Elevation Map",
+        "voiceover_tamil": "சரியான மேடு-பள்ள கணக்கீடு அவசியம்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Visual audit of drainage mechanisms and ground elevation to ensure resource protection",
+        "purpose": "Show negative consequence of poor site selection.",
+        "visual": "Static ground-level shot of water pooling around an un-elevated site corner lacking proper channel slopes.",
+        "on_screen_text": "Water Stagnation",
+        "voiceover_tamil": "தேங்கும் தண்னீரால் சொத்தின் மதிப்பு குறையும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Pre-deployment physical inspection of risk factors and logistics preparedness before commitment",
+        "purpose": "Demonstrate master plan audit action on mobile device.",
+        "visual": "Smartphone screen close-up displaying the Coimbatore DTCP flood plain zonal map layer over a live GPS location point.",
+        "on_screen_text": "Master Plan",
+        "voiceover_tamil": "மாஸ்டர் பிளான் வரைபடத்தை செக் பண்ணுங்கள்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "Systematic mapping of site layout against regional environmental challenges",
+        "purpose": "Deliver ultimate proof of a well-drained, secure land investment in Coimbatore.",
+        "visual": "Crisp eye-level shot of a elevated, well-drained developed layout in Coimbatore under soft sunlight, with clean roads and clear boundary lines.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "பாதுகாப்பான நில முதலீட்டிற்கு ஆலிவ்ட்ரீ ஃபாலோ செய்யுங்கள்."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Length: Exactly 10.0 seconds.\n- Aspect Ratio: Native Portrait 9:16 vertical video framing.\n- Resolution: 4K ultra-photorealistic real-world video footage.\n- Target Audience: Coimbatore, Tamil Nadu real estate investors.\n- Brand: OliveTree Investors.\n\nB. REALISM LOCK\n- 100% real-world physical footage shot in Coimbatore, Tamil Nadu. Absolutely NO 3D renders, architectural visualizations, CGI houses, graphic animations, cartoon elements, or stock footage effects.\n- Real local environments: authentic South Indian asphalt roads, granite boundary stones, local coconut palms, red soil, overcast monsoon light, clear natural reflections, realistic soil textures.\n\nC. SOURCE SUBJECT LOCK\n- Subject Classification: site risk & physical verification (Monsoon Drainage & Elevation Audit).\n- Concept Derived From Source (INV-20260915-N9Z1): Just as flood relief logistics require strict physical inspection of load elevation and weatherproofing before deployment, land buyers in Coimbatore must physically audit site contours, road clearance, and roadside storm drainage during monsoon conditions.\n- Source Evidence Points Applied:\n  1. Pre-deployment physical contour checks before contract sign-off.\n  2. Visual inspection of concrete storm-water drainage channels.\n  3. Measurement of plot elevation relative to main access roads.\n  4. Mobile verification of DTCP regional flood-plain overlays.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus exclusively on technical site inspection objects: measuring tapes against asphalt edges, contour maps, granite boundary stones, concrete storm-water drains, and mobile map apps.\n- FORBIDDEN: Do NOT show generic family scenes, house construction, floor plans, standard plot montages, or high-rise flyovers.\n\nE. CAMERA + IMAGE QUALITY\n- Camera: Professional 35mm handheld and stabilized ground-level cinematic camera.\n- Color Profile: Natural crisp morning daylight with atmospheric moisture, rich natural colors, accurate shadows, no over-saturated filters.\n\nF. EXACT 7-SHOT PLAN (10.0 SECONDS TOTAL)\n\nShot 1 (0.0 - 1.4s):\n- Location: Indoor engineering office desk in Coimbatore.\n- Visual: Close-up macro top-down view of an engineering contour map with hand holding a stylus tracing natural elevation drop lines.\n- On-Screen Text: 'Monsoon Check?' (top-left, clean white typography).\n- Tamil VO: 'மழைக்காலத்தில் கோவை நிலத்தை சரிபார்த்தீர்களா?'\n\nShot 2 (1.4 - 2.8s):\n- Location: Roadside in Saravanampatti, Coimbatore.\n- Visual: Ground-level tracking shot following clear rainwater flowing smoothly down a newly constructed concrete storm-water drain alongside a paved layout road.\n- On-Screen Text: 'Storm Drains'\n- Tamil VO: 'முறையான வடிகால் வசதி மிக அவசியம்.'\n\nShot 3 (2.8 - 4.2s):\n- Location: Vacant plot entry road in Kovaipudur, Coimbatore.\n- Visual: Low-angle close-up of a yellow measuring tape extended vertically from the black tar road surface up to the elevated edge of a red-soil plot.\n- On-Screen Text: 'Road Level'\n- Tamil VO: 'சாலை மட்டம் மனை மட்டத்தை விட கீழ் இருக்க வேண்டும்.'\n\nShot 4 (4.2 - 5.6s):\n- Location: Open land layout in Coimbatore.\n- Visual: First-person shot of hands holding a digital spirit level against a granite boundary stone marked with survey numbers.\n- On-Screen Text: 'Elevation Map'\n- Tamil VO: 'சரியான மேடு-பள்ள கணக்கீடு அவசியம்.'\n\nShot 5 (5.6 - 7.0s):\n- Location: Un-drained plot corner.\n- Visual: Static low shot of muddy water accumulating at a low-lying corner of an un-elevated plot due to lack of outflow slope.\n- On-Screen Text: 'Water Stagnation'\n- Tamil VO: 'தேங்கும் தண்னீரால் சொத்தின் மதிப்பு குறையும்.'\n\nShot 6 (7.0 - 8.4s):\n- Location: Outdoor plot boundary in Coimbatore.\n- Visual: Medium close-up of a smartphone screen showing a live GIS map app with DTCP flood master plan contours overlaid on current GPS coordinates.\n- On-Screen Text: 'Master Plan'\n- Tamil VO: 'மாஸ்டர் பிளான் வரைபடத்தை செக் பண்ணுங்கள்.'\n\nShot 7 (8.4 - 10.0s):\n- Location: High-ground residential layout in Coimbatore.\n- Visual: Wide crisp pan of a well-maintained, slightly elevated layout with clean paved access roads and neat boundary demarcation under soft sunlight.\n- On-Screen Text: 'OliveTree Investors' (minimalist white bottom banner).\n- Tamil VO: 'பாதுகாப்பான நில முதலீட்டிற்கு ஆலிவ்ட்ரீ ஃபாலோ செய்யுங்கள்.'\n\nG. MOTION-GRAPHICS LIMIT\n- Text overlays are strictly 1-2 words, semi-transparent white sans-serif, positioned in safe zones.\n\nH. FINAL REAL SCENE\n- Finish on real photorealistic footage of the well-drained layout in Shot 7 with minimal 'OliveTree Investors' watermark. No standalone logo end cards.\n\nI. NEGATIVE PROMPT\n- Ban: 3D architectural renders, animation, cartoon style, fake lens flares, flying drones over cityscape, happy family models, house key handovers, Chennai/Bengaluru landmarks, duplicated people, floating text boxes.",
+    "title_english": "Coimbatore Land Investment: Is Your Plot Flood-Safe?",
+    "caption_english": "Before committing to land in Coimbatore, physical verification of monsoon drainage and site elevation is essential. Rainwater stagnation can significantly degrade property value and increase future construction costs. Ensure your target plot features proper road clearance, natural contour slope, and connection to municipal storm drains. Always verify the DTCP zonal master plan against real ground conditions before investing.\n\nFollow OliveTree Investors for smart, risk-free property decisions across Coimbatore.",
+    "title_tamil": "கோவை நில முதலீடு: மழைநீர் தேங்கும் அபாயம் இருக்கா?",
+    "caption_tamil": "கோவையில் நிலம் வாங்குவதற்கு முன், மழைக்கால வடிகால் வசதி மற்றும் நிலத்தின் உயரத்தை நேரில் சென்று பரிசோதிப்பது அவசியம். சரியான வடிகால் இல்லாத நிலங்கள் எதிர்காலத்தில் மதிப்பையிழக்கும். பாதுகாப்பான சொத்து முதலீட்டுக்கு ஆலிவ்ட்ரீ ஃபாலோ செய்யுங்கள்.\n\n#CoimbatoreRealEstate #LandInvestment #OliveTreeInvestors",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#LandInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
