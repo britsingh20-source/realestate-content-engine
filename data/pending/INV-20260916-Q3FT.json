@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260916-Q3FT",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-16T05:01:26.977Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "-mk7zLQqCAM",
+      "title": "Keep Allah in your team always !",
+      "description": "",
+      "publishedAt": "2026-08-19T10:34:14Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 35,
+      "views": 290,
+      "likes": 11,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=-mk7zLQqCAM",
+      "ageHours": 666.4102022222222,
+      "velocity": 0.4351674074510884,
+      "outlier": 0.26244343891402716,
+      "velocityRatio": 0.13208123153652207,
+      "engagementRatio": 1.5262144132293527
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 10,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3466
+  },
+  "pack": {
+    "subject_classification": "portfolio_strategy",
+    "source_evidence_points": [
+      "Integrating a foundational guiding anchor before making any structural or tactical moves",
+      "Maintaining steadfast alignment and clarity when navigating complex or unpredictable conditions",
+      "Pacing deliberate decisions with structured timing rather than rushing into impulsive steps"
+    ],
+    "topic": "Strategic Portfolio Anchoring for Real Estate Investors",
+    "source_script_insight": "The source emphasizes holding a core guiding framework constant while navigating shifting external environments, ensuring resilience against uncertainty.",
+    "coimbatore_angle": "Applying a disciplined portfolio strategy to Coimbatore property investments, balancing asset types across expanding corridors like Avinashi Road and Thudiyalur without emotional overextension.",
+    "visual_strategy": "Uses tight, photorealistic inspection of portfolio allocation matrices, physical registry files on a wooden desk, and street-level environmental checks in Coimbatore to demonstrate structured decision-making, avoiding generic family or plot montages.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "A disciplined framework protects your real estate portfolio against market volatility.",
+    "voiceover_tamil": "சொத்து வாங்கும் முன்... சரியான திட்டம் இருக்கா? அவசரப்பட்டு இறங்காதீங்க. காலத்தை கணித்து செயல்படுங்கள். முதலீட்டில் தெளிவு வேண்டும். சந்தை மாறலாம், உங்கள் திட்டம் உறுதியாக இருக்கட்டும். சரியான முடிவுகள், நிலையான லாபம் தரும். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Integrating a foundational guiding anchor before making any tactical moves",
+        "purpose": "Establish portfolio decision tension",
+        "visual": "Close-up of a fountain pen hovering over a structured real estate portfolio allocation chart on a wooden desk in a Coimbatore office.",
+        "on_screen_text": "திட்டம் என்ன?",
+        "voiceover_tamil": "சொத்து வாங்கும் முன்..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Maintaining steadfast alignment and clarity when navigating complex conditions",
+        "purpose": "Show analytical focus on documentation",
+        "visual": "Macro focus on certified property title deeds and boundary maps, fingers gently turning crisp parchment paper.",
+        "on_screen_text": "சரியான கணக்கு",
+        "voiceover_tamil": "சரியான திட்டம் இருக்கா?"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Pacing deliberate decisions with structured timing",
+        "purpose": "Highlight deliberate pacing",
+        "visual": "Eye-level shot of a modern calculator displaying asset ratios next to a cup of filter coffee on an office desk, natural afternoon light.",
+        "on_screen_text": "அவசரம் வேண்டாம்",
+        "voiceover_tamil": "அவசரப்பட்டு இறங்காதீங்க."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Maintaining steadfast alignment",
+        "purpose": "Ground strategy in local reality",
+        "visual": "Static street-level view of mixed commercial and residential traffic along a bustling Coimbatore roadway under clear skies.",
+        "on_screen_text": "சந்தை நிலவரம்",
+        "voiceover_tamil": "காலத்தை கணித்து செயல்படுங்கள்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Integrating a foundational guiding anchor",
+        "purpose": "Reinforce portfolio clarity",
+        "visual": "A hand placing a metal paperweight labeled with asset categories onto a structured land investment roadmap.",
+        "on_screen_text": "தெளிவான பார்வை",
+        "voiceover_tamil": "முதலீட்டில் தெளிவு வேண்டும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Maintaining steadfast alignment under changing conditions",
+        "purpose": "Demonstrate long-term resilience",
+        "visual": "Medium shot of an investor reviewing architectural layout blueprints near a large glass window overlooking a green Coimbatore neighborhood.",
+        "on_screen_text": "உறுதியான முடிவு",
+        "voiceover_tamil": "சந்தை மாறலாம், உங்கள் திட்டம் உறுதியாக இருக்கட்டும்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Pacing deliberate decisions with structured timing",
+        "purpose": "Deliver final professional payoff",
+        "visual": "Clean, static shot of a polished wooden desk featuring organized property folders and a subtle OliveTree Investors logo watermark.",
+        "on_screen_text": "ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்",
+        "voiceover_tamil": "சரியான முடிவுகள், நிலையான லாபம் தரும். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK: Exact 10-second duration, native vertical 9:16 portrait orientation, full-screen composition designed for Instagram Reels and YouTube Shorts.\n\nB. REALISM LOCK: 100% photorealistic physical-world footage shot with a mirrorless camera (Sony FX3 style). No cartoonish rendering, no 3D animation, no CGI graphics, no plastic textures. Natural lighting, authentic textures of paper, wood, and concrete in Coimbatore.\n\nC. SOURCE SUBJECT LOCK: The core subject is portfolio strategy in real estate investment, emphasizing structured anchoring, disciplined timing, and clarity amidst market complexity. Applied specifically to Coimbatore investors.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY: Avoid generic plot-to-house tropes. Use close-up analytical shots, document inspection, and calm office environments to demonstrate deliberate portfolio planning.\n\nE. CAMERA + IMAGE QUALITY: Stable, professional cinematography, shallow depth of field, natural 50mm framing for desk shots, eye-level stability, realistic shadows and color grading.\n\nF. EXACT 7-SHOT PLAN:\n- Shot 1 (0.0 - 1.4s): Close-up of a fountain pen hovering over a structured real estate portfolio allocation chart on a wooden desk. Text: 'திட்டம் என்ன?'. VO: 'சொத்து வாங்கும் முன்...'\n- Shot 2 (1.4 - 2.8s): Macro focus on certified property title deeds and boundary maps, fingers turning paper. Text: 'சரியான கணக்கு'. VO: 'சரியான திட்டம் இருக்கா?'\n- Shot 3 (2.8 - 4.2s): Eye-level shot of a calculator and filter coffee cup on a desk. Text: 'அவசரம் வேண்டாம்'. VO: 'அவசரப்பட்டு இறங்காதீங்க.'\n- Shot 4 (4.2 - 5.6s): Street-level view of Coimbatore traffic and buildings under clear daylight. Text: 'சந்தை நிலவரம்'. VO: 'காலத்தை கணித்து செயல்படுங்கள்.'\n- Shot 5 (5.6 - 7.0s): A hand placing a paperweight on an investment roadmap. Text: 'தெளிவான பார்வை'. VO: 'முதலீட்டில் தெளிவு வேண்டும்.'\n- Shot 6 (7.0 - 8.5s): Medium shot of an investor reviewing blueprints near a window. Text: 'உறுதியான முடிவு'. VO: 'சந்தை மாறலாம், உங்கள் திட்டம் உறுதியாக இருக்கட்டும்.'\n- Shot 7 (8.5 - 10.0s): Polished wooden desk with organized property folders and subtle OliveTree Investors watermark. Text: 'ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்'. VO: 'சரியான முடிவுகள், நிலையான லாபம் தரும். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்.'\n\nG. MOTION-GRAPHICS LIMIT: Only minimal clean text overlays on real footage.\n\nH. FINAL REAL SCENE: Finish on the professional desk setup with OliveTree Investors branding.\n\nI. NEGATIVE PROMPT / FIXED RULES: No 2D/3D cartoon animations, no explainer graphics, no artificial CGI, no landscape orientation, no black bars, no fake landmarks, no duplicated people.",
+    "title_english": "Smart Real Estate Portfolio Strategy in Coimbatore",
+    "caption_english": "Building a solid real estate portfolio in Coimbatore requires more than just picking random plots—it demands a clear framework, disciplined timing, and strategic foresight. Avoid impulsive decisions and anchor your investments with structured planning. Connect with OliveTree Investors for professional guidance tailored to Coimbatore's growth corridors. #CoimbatoreRealEstate #RealEstatePortfolio #OliveTreeInvestors",
+    "title_tamil": "கோவையில் சொத்து முதலீட்டுத் திட்டம்",
+    "caption_tamil": "கோவையில் சொத்து வாங்கும் முன் சரியான திட்டம் அவசியம். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#RealEstatePortfolio",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
