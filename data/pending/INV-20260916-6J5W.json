@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260916-6J5W",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-16T17:12:05.845Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "E74fhy3bZ6M",
+      "title": "Biggest Mistakes Societies Make During Redevelopment",
+      "description": "Society redevelopment is a major decision, and small mistakes can have a big impact.\n\nFrom understanding your plot and conveyance to choosing the right developer and giving the redevelopment committee too much control, there are several things society members need to get right.\n\nBefore your society enters redevelopment, make sure you know what to watch out for!\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-09-16T13:30:36Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 90,
+      "views": 220,
+      "likes": 11,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=E74fhy3bZ6M",
+      "ageHours": 3.6391483333333334,
+      "velocity": 60.45370505644865,
+      "outlier": 0.02910630416087848,
+      "velocityRatio": 2.1340976054536407,
+      "engagementRatio": 2.768208735295964
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 31,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5692
+  },
+  "pack": {
+    "subject_classification": "redevelopment legal and builder selection due diligence",
+    "source_evidence_points": [
+      "Plot feasibility and land title verification (Deemed Conveyance) must precede any developer negotiation.",
+      "Evaluating builder track record and financial solvency instead of selecting purely by highest cash/corpus offers.",
+      "Mandating bank guarantees and legal FSI caps before society members vacate existing premises.",
+      "Appointing an independent Project Management Consultant (PMC) and maintaining total committee transparency."
+    ],
+    "topic": "Coimbatore Housing Society Redevelopment Safety & Builder Verification Checklist",
+    "source_script_insight": "Societies often lose leverage and risk stalled projects during redevelopment by chasing inflated promises, neglecting title conveyance, vacating prematurely without bank guarantees, and relying on biased advisors.",
+    "coimbatore_angle": "As older apartment communities and residential housing societies in Coimbatore explore structural upgrades and redevelopment, society committees must prioritize legal land title verification, independent PMC audits, and builder track records over unverified high offers.",
+    "visual_strategy": "Uses tangible real-world Tamil Nadu evidence—stamped legal conveyances, physical site feasibility charts, auditor audit sheets, clipboard structural inspections, bank guarantee clauses, and transparent meeting ledgers—to prove redevelopment due diligence in Coimbatore without generic construction montages.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never vacate or sign redevelopment terms based on high promises alone; verify legal title, enforce bank guarantees, and hire an independent PMC first.",
+    "voiceover_tamil": "ரீடெவலப்மென்ட்ல முதல்ல பார்க்க வேண்டியது நிலத்தின் சட்டப்பூர்வ உரிமையும் பிளான் அளவும்! அதிக பணம் தருவதாகச் சொல்லும் பில்டரை விட அனுபவமும் நம்பிக்கையும் உள்ளவரைத் தேர்ந்தெடுங்கள்! வங்கிக் உத்தரவாதம் இல்லாமல் வீட்டை காலி செய்யாதீர்! ஒவ்வொரு முடிவிலும் வெளிப்படைத்தன்மை அவசியம்! சரியான திட்டமிடலால் உங்கள் சொத்தைப் பாதுகாக்கவும்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Plot feasibility and land title verification (Deemed Conveyance) must precede any developer negotiation.",
+        "purpose": "Establish the immediate legal check required before starting redevelopment talks.",
+        "visual": "Extreme close-up of a legal land document stamped with Tamil Nadu Registration department seals resting on a dark wooden desk in a Coimbatore housing society office.",
+        "on_screen_text": "Land Title First",
+        "voiceover_tamil": "ரீடெவலப்மென்ட்ல முதல்ல பார்க்க வேண்டியது..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Plot feasibility and land title verification (Deemed Conveyance) must precede any developer negotiation.",
+        "purpose": "Show physical plot feasibility measurement and setback capacity evaluation.",
+        "visual": "Overhead view of an engineer's rule pointing to plot FSI and setback calculations on a printed architectural layout diagram.",
+        "on_screen_text": "Feasibility Check",
+        "voiceover_tamil": "...நிலத்தின் சட்டப்பூர்வ உரிமையும் பிளான் அளவும்!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Evaluating builder track record and financial solvency instead of selecting purely by highest cash/corpus offers.",
+        "purpose": "Contrast financial track record analysis against unverified promise sheets.",
+        "visual": "Macro shot of a financial audit paper highlighting completed past project completion dates versus unverified high-offer brochures.",
+        "on_screen_text": "Track Record > Offers",
+        "voiceover_tamil": "அதிக பணம் தருவதாகச் சொல்லும் பில்டரை விட..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Appointing an independent Project Management Consultant (PMC) and maintaining total committee transparency.",
+        "purpose": "Demonstrate independent technical inspection on site.",
+        "visual": "Eye-level side profile of an independent PMC inspector holding a structural assessment clipboard outside an established Coimbatore apartment wing.",
+        "on_screen_text": "Independent PMC",
+        "voiceover_tamil": "...அனுபவமும் நம்பிக்கையும் உள்ளவரைத் தேர்ந்தெடுங்கள்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Mandating bank guarantees and legal FSI caps before society members vacate existing premises.",
+        "purpose": "Highlight mandatory financial security clauses in redevelopment agreements.",
+        "visual": "Close-up of a pen underlying the 'Bank Guarantee & FSI Terms' clause on a finalized legal agreement.",
+        "on_screen_text": "Bank Guarantee",
+        "voiceover_tamil": "வங்கிக் உத்தரவாதம் இல்லாமல் வீட்டை காலி செய்யாதீர்!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Appointing an independent Project Management Consultant (PMC) and maintaining total committee transparency.",
+        "purpose": "Show committee communication and resident voting transparency.",
+        "visual": "Static shot of a glass bulletin board displaying transparent society meeting minutes and resident sign-off sheet.",
+        "on_screen_text": "Full Transparency",
+        "voiceover_tamil": "ஒவ்வொரு முடிவிலும் வெளிப்படைத்தன்மை அவசியம்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Core safety rule for society owners.",
+        "purpose": "Deliver final payoff showing secure, well-planned modern apartment community context in Coimbatore.",
+        "visual": "Grounded eye-level view of a vibrant, modern Coimbatore residential apartment block in soft morning daylight with clean green landscaping.",
+        "on_screen_text": "Protect Your Asset",
+        "voiceover_tamil": "சரியான திட்டமிடலால் உங்கள் சொத்தைப் பாதுகாக்கவும்!"
+      }
+    ],
+    "gemini_video_prompt": "Production-ready video concept prompt for OLIVETREE INVESTORS (Coimbatore Focus Only):\n\nA. MANDATORY OUTPUT FORMAT LOCK\n- Length: EXACTLY 10 seconds total duration.\n- Canvas: Native portrait 9:16 vertical video composition only. No landscape framing, no letterboxing, no blurred side fill.\n\nB. REALISM LOCK\n- 100% Ultra-photorealistic live-action physical footage. No 3D render, no CGI animation, no architectural visualization graphics, no cartoon style, no floating elements.\n- Authentic Coimbatore / Tamil Nadu context: realistic natural lighting, real paper textures, genuine legal documents, physical building facades, and authentic daylight atmosphere.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Housing Society Redevelopment Legal Due Diligence & Builder Vetting Checklist.\n- Source Evidence Points: 1) Verify legal land title (Deemed Conveyance) and plot feasibility first. 2) Prioritize developer track record and solvency over high rent/corpus promises. 3) Require bank guarantees and FSI protection before vacating. 4) Ensure independent PMC appointment and committee transparency.\n- Application: Specific to housing societies and apartment owners evaluating redevelopment in Coimbatore, Tamil Nadu.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus exclusively on tangible legal and structural inspection evidence: stamped legal title papers, architectural feasibility layouts, financial audit sheets, PMC clipboard inspections, bank guarantee contract clauses, and transparent society bulletin ledgers.\n- Absolutely no generic empty-land to villa construction sequence. No generic family moving into house.\n\nE. CAMERA + IMAGE QUALITY\n- Professional mirrorless camera look, 35mm / 50mm lenses, 4K crisp clarity, natural depth of field, steady locked-off or slow linear pan movements, true-to-life colors, realistic shadow depth.\n\nF. EXACT 7-SHOT PLAN (10.0 SECONDS TOTAL)\n\n- SHOT 1 (0.0s - 1.4s): Close-up of a stamped land title deed on a dark wooden office desk in Coimbatore with Tamil Nadu stamp seals clearly visible. Camera: Slow forward push. Text overlay: 'Land Title First'. VO: 'ரீடெவலப்மென்ட்ல முதல்ல பார்க்க வேண்டியது...'\n\n- SHOT 2 (1.4s - 2.8s): Overhead shot of an engineer's scale pointing to FSI and setback rules on a physical site plan layout. Camera: Locked top-down view. Text overlay: 'Feasibility Check'. VO: '...நிலத்தின் சட்டப்பூர்வ உரிமையும் பிளான் அளவும்!'\n\n- SHOT 3 (2.8s - 4.2s): Macro shot of an audit document comparing builder track record completion metrics. Camera: Static macro detail. Text overlay: 'Track Record > Offers'. VO: 'அதிக பணம் தருவதாகச் சொல்லும் பில்டரை விட...'\n\n- SHOT 4 (4.2s - 5.6s): Eye-level side view of an independent PMC consultant writing on an inspection clipboard outside a classic Coimbatore apartment complex. Camera: Handheld steady. Text overlay: 'Independent PMC'. VO: '...அனுபவமும் நம்பிக்கையும் உள்ளவரைத் தேர்ந்தெடுங்கள்!'\n\n- SHOT 5 (5.6s - 7.0s): Close-up of a pen underlining 'Bank Guarantee' and 'FSI Protection' clauses in a legal contract. Camera: Slow diagonal drift. Text overlay: 'Bank Guarantee'. VO: 'வங்கிக் உத்தரவாதம் இல்லாமல் வீட்டை காலி செய்யாதீர்!'\n\n- SHOT 6 (7.0s - 8.5s): Medium static shot of a glass bulletin board showing posted redevelopment meeting minutes and resident signatures. Camera: Locked-off eye level. Text overlay: 'Full Transparency'. VO: 'ஒவ்வொரு முடிவிலும் வெளிப்படைத்தன்மை அவசியம்!'\n\n- SHOT 7 (8.5s - 10.0s): Clean, realistic eye-level shot of a modern, well-maintained residential building in Coimbatore under bright natural sunlight, with small 'OliveTree Investors' text overlay at bottom. Camera: Gentle pan up. Text overlay: 'Protect Your Asset'. VO: 'சரியான திட்டமிடலால் உங்கள் சொத்தைப் பாதுகாக்கவும்!'\n\nG. MOTION GRAPHICS LIMIT\n- Minimal typography overlays only (1-3 words max), crisp white font with subtle dropshadow. No full-screen graphic animations.\n\nH. FINAL REAL SCENE\n- No branded graphic end card. Shot 7 is the final physical scene with minimal brand watermark.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Strict ban on 2D/3D cartoon graphics, architectural renders, fake landmarks, சென்னை/மும்பை tags, invented statistical claims, morphing transitions, whip pans, zoom bursts, duplicated people, and religious iconography.",
+    "title_english": "Avoid Stalled Redevelopment: Society Safety Checklist",
+    "caption_english": "Navigating redevelopment in older Coimbatore apartment societies requires strictly verified legal steps before signing any agreement. Choosing a developer purely based on promises of high rent or corpus often leads to stalled projects and compromised rights.\n\nPrioritize legal title verification (Deemed Conveyance), conduct independent plot feasibility studies, and demand mandatory bank guarantees before vacating premises. Always hire an independent PMC to safeguard society interests.\n\nLooking for clear, grounded advice on property investments in Coimbatore? Connect with OliveTree Investors today.",
+    "title_tamil": "ரீடெவலப்மென்ட் செய்யும் முன் இந்த தவறுகளை செய்யாதீர்கள்!",
+    "caption_tamil": "கோவையில் உங்கள் அப்பார்ட்மென்ட் ரீடெவலப்மென்ட் செய்யப்படுகிறதா? வெறும் அதிக தொகையை பார்த்து பில்டரை தேர்வு செய்யாதீர்கள்! நிலத்தின் சட்டப்பூர்வ உரிமை, பிளான் சாத்தியக்கூறு, மற்றும் வங்கிக் உத்தரவாதம் ஆகியவற்றை முதலில் சரிபார்க்கவும். சொத்து முதலீட்டு ஆலோசனைகளுக்கு OliveTree Investors-ஐ தொடர்பு கொள்ளவும்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
