@@ -1,0 +1,131 @@
+{
+  "contentId": "DOC-20260916-JL0F",
+  "niche": "documentation",
+  "label": "PROPERTY DOCUMENTATION & LEGAL",
+  "brand": "olivetree_safebuy",
+  "brandLabel": "OliveTree SafeBuy",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-16T21:54:55.503Z",
+  "candidate": {
+    "niche": "documentation",
+    "creator": "IndiaLaw LLP",
+    "creatorKey": "indialaw",
+    "source": {
+      "id": "ikwJdyJzlY0",
+      "title": "India’s vehicle scrapping framework may soon become more regulated and digitally monitored.",
+      "description": "The Draft Motor Vehicles (RVSF) Amendment Rules, 2026 propose expanded End-of-Life Vehicle definitions, stronger Vscrap-VAHAN integration, verified scrapping certificates, stricter equipment standards, and tougher compliance requirements for registered scrapping facilities.\n\nThe proposed changes aim to make vehicle scrapping more transparent, accountable, and environmentally compliant.\n\n{Vehicle scrapping rules, RVSF Amendment Rules 2026, End-of-Life Vehicles, Vscrap portal, VAHAN}\n\n#VehicleScrapping #RVSF #MotorVehiclesAct #EnvironmentalLaw #TransportLaw #IndiaLaw #LegalUpdate",
+      "publishedAt": "2026-09-14T06:04:01Z",
+      "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
+      "channelTitle": "INDIALAW LLP",
+      "durationSeconds": 59,
+      "views": 271,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=ikwJdyJzlY0",
+      "ageHours": 63.81122694444444,
+      "velocity": 4.246901571661347,
+      "outlier": 4.075187969924812,
+      "velocityRatio": 4.246901571661347,
+      "engagementRatio": 0
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 47,
+    "priority": "strong"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2841,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Land Document Verification & Legal Title Continuity for Coimbatore Plots",
+    "source_script_insight": "Just as vehicle scrapping rules require strict digital tracking, authorized certification, and tamper-proof documentation to prevent identity misuse, property land purchases in Coimbatore require verified, uncompromised document continuity and official digital EC records to prevent fraudulent ownership transfers.",
+    "coimbatore_angle": "Applying rigorous document tracking and digital verification principles to ancestral and converted agricultural plots across Coimbatore districts like Thudiyalur, Saravanampatti, and Vadavalli.",
+    "core_takeaway": "Never rely on physical token papers alone; cross-verify digital encumbrance records and legal title chains before buying Coimbatore land.",
+    "voiceover_tamil": "கோவையில் நிலம் வாங்கும் முன், பழைய பத்திரங்களை மட்டும் நம்பாதீர்கள்! டிஜிட்டல் ஆவணங்களைச் சரிபார்க்கவும்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook showing real property documents on a desk",
+        "visual": "Close-up of old Tamil Nadu land sale deeds and encumbrance certificates spread on a wooden office table under natural daylight.",
+        "camera": "Slight handheld push-in, macro lens feel, shallow depth of field.",
+        "on_screen_text": "Fake Land Title?",
+        "voiceover_tamil": "கோவையில் நிலம் வாங்கும் முன்,"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.9,
+        "purpose": "Highlighting digital verification risk",
+        "visual": "A finger pointing at a digital registration portal screen on a laptop displaying land survey numbers in Coimbatore.",
+        "camera": "Eye-level fixed shot, sharp focus on the laptop screen.",
+        "on_screen_text": "Check Digital EC",
+        "voiceover_tamil": "பழைய பத்திரங்களை மட்டும்"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.9,
+        "end_sec": 4.3,
+        "purpose": "Showing legal ownership chain inspection",
+        "visual": "An inspector turning pages of a historical legal ownership file in a bright Coimbatore property consultant office.",
+        "camera": "Medium close-up, panning slowly from left to right.",
+        "on_screen_text": "Verify Chain",
+        "voiceover_tamil": "நம்பாதீர்கள்!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.8,
+        "purpose": "Real land plot site inspection in Coimbatore outskirts",
+        "visual": "A surveyor holding a measuring tape across a vacant gated plot in a developing Coimbatore suburb with coconut trees in the background.",
+        "camera": "Low angle tracking shot, natural daylight, dusty gravel foreground.",
+        "on_screen_text": "Inspect Boundaries",
+        "voiceover_tamil": "டிஜிட்டல் ஆவணங்களைச்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.8,
+        "end_sec": 7.2,
+        "purpose": "Showing official government portal verification graphic overlay",
+        "visual": "Close-up of a tablet screen showing official Tamil Nadu land registration portal green checkmarks over land parcel records.",
+        "camera": "Close-up, steady handheld macro shot.",
+        "on_screen_text": "Official Approval",
+        "voiceover_tamil": "சரிபார்க்கவும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.2,
+        "end_sec": 8.6,
+        "purpose": "Highlighting SafeBuy professional document audit",
+        "visual": "A legal expert stamping a verified stamp on a property title deed document in an office setting.",
+        "camera": "Overhead angle, sharp focus on the stamp falling.",
+        "on_screen_text": "SafeBuy Audit",
+        "voiceover_tamil": "சட்டப்பூர்வ பாதுகாப்புடன்"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.6,
+        "end_sec": 10,
+        "purpose": "Final takeaway with brand call to action overlay",
+        "visual": "A clear view of a verified Coimbatore plot with a professional evaluation board planted near the entrance road.",
+        "camera": "Static wide establishing shot, bright afternoon sunlight.",
+        "on_screen_text": "OliveTree SafeBuy",
+        "voiceover_tamil": "நிலத்தை உறுதி செய்யுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "Production-grade video prompt for OliveTree SafeBuy. COIMBATORE ONLY. EXACTLY 10 SECONDS. EXACTLY 7 SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE. 90%+ real-looking visuals captured with a real smartphone camera or gimbal, portrait 9:16 aspect ratio, no black bars, no blurred sidebars. Real-world visual environment in Coimbatore, Tamil Nadu: real document desks, sale deeds, encumbrance certificate (EC) paperwork, survey sketches, boundary stones, measuring tape, and open plots. Motion graphics allowed only as tiny minimalist text overlays over real footage. NO toon animation, NO cartoon, NO flat 2D explainer, NO white-background infographic, NO glossy corporate motion graphics, NO game-like 3D render, NO plastic CGI, NO floating documents, NO fake futuristic cities. Natural Tamil Nadu daylight, physically believable textures, dust, paper fibers, ink, road surfaces, shadows, and vegetation. Scene 1: Close-up of real land sale deeds and EC documents on a wooden desk. Scene 2: Finger pointing at a digital land records portal on a laptop. Scene 3: Inspector reviewing historical legal title papers. Scene 4: Surveyor measuring a vacant plot in a Coimbatore suburb. Scene 5: Tablet screen displaying official portal verification checkmarks. Scene 6: Stamping a verified title deed. Scene 7: Wide shot of a verified plot with evaluation board. NEGATIVE PROMPT: Animation, cartoon, 3D render, CGI, whiteboard explainer, corporate vector graphics, futuristic elements, floating objects, blurred sidebars, landscape mode, non-Tamil Nadu locations.",
+    "title_english": "Avoid Land Fraud: How to Verify Coimbatore Property Documents Before Buying",
+    "caption_english": "Don't let hidden legal loops or unverified titles risk your hard-earned savings when buying land in Coimbatore! From Thudiyalur to Vadavalli, every plot requires rigorous title chain checks, digital EC verification, and physical boundary inspections. Protect your investment with expert legal scrutiny.\n\nSecure your dream plot safely with OliveTree SafeBuy. Contact us today for professional land documentation audits in Coimbatore.",
+    "title_tamil": "கோவையில் நிலம் வாங்கும் முன் கவனிக்க வேண்டியவை",
+    "caption_tamil": "கோவையில் நிலம் வாங்கும் போது போலி ஆவணங்கள் மற்றும் சட்ட சிக்கல்களை தவிர்க்க முழுக் கவனமும் தேவை. டிஜிட்டல் ஆவண சரிபார்ப்பு மற்றும் முறையான ஆய்வு மிகவும் முக்கியம்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#LandLegalVerification",
+      "#SafeBuy"
+    ]
+  }
+}
