@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260916-77N0",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-16T12:01:07.686Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "S3TZy2tSyQU",
+      "title": "A realtor’s isn’t that easy",
+      "description": "",
+      "publishedAt": "2026-08-19T10:30:14Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 12,
+      "views": 747,
+      "likes": 11,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=S3TZy2tSyQU",
+      "ageHours": 673.3313088888889,
+      "velocity": 1.1094092761447214,
+      "outlier": 0.6760180995475114,
+      "velocityRatio": 0.34290447052746115,
+      "engagementRatio": 0.6677408235737361
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 9,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4434
+  },
+  "pack": {
+    "subject_classification": "field inspection & site scouting",
+    "source_evidence_points": [
+      "High-volume property photos do not guarantee deal quality without physical ground inspection.",
+      "Exhaustive field travel and legwork are mandatory to verify physical site conditions.",
+      "Upfront scouting effort (checking boundaries, road access, site levels) yields genuine off-market deals."
+    ],
+    "topic": "Why Rigorous Field Inspection Drives Successful Property Investment in Coimbatore",
+    "source_script_insight": "Abrar Teli's reel highlights that behind every great property deal is grueling field work—thousands of photos, physical exhaustion, and extensive travel. Translating this to Coimbatore property buyers: digital listings and phone photos can be misleading; real investment value is uncovered only through thorough physical site scouting.",
+    "coimbatore_angle": "Focus on the practical realities of scouting land/properties in Coimbatore's expanding suburban belts (e.g., checking road widths, drainage levels, and survey stones on ground level rather than relying on polished WhatsApp brochures).",
+    "visual_strategy": "Use tactile, real-world physical proof of site inspection: smartphone scrolling through site photos contrasted with dusty boots on unpaved roads, measuring tape on asphalt, granite survey stones in red soil, and site plans spread on an SUV hood. Camera moves are eye-level and grounded.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Photos don't reveal site flaws or hidden potential; physical ground inspection is the only way to secure authentic property deals in Coimbatore.",
+    "voiceover_tamil": "Photo-வில் தெரியாத உண்மை, நேரில் ஆய்வில் தெரியும்! களத்தில் இறங்கி, அணுகுபாதை, வடிகால், எல்லைக் கற்களை ஆய்வது... சரியான டீலைத் தரும்! OliveTree Investors.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "High-volume property photos do not guarantee deal quality without physical ground inspection.",
+        "purpose": "Hook viewer by contrasting digital photo galleries with real ground truth.",
+        "visual": "Close-up of thumbs quickly scrolling through dozens of site photos on a smartphone screen inside a dusty SUV, with sunlight glinting on the glass.",
+        "on_screen_text": "Photos vs Reality",
+        "voiceover_tamil": "Photo-வில் தெரியாத உண்மை,"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Exhaustive field travel and legwork are mandatory to verify physical site conditions.",
+        "purpose": "Establish field mobility and active site hunting along Coimbatore feeder roads.",
+        "visual": "Low-angle shot of SUV tires kicking up red dust while turning off a paved road onto an unpaved layout access track lined with coconut palms.",
+        "on_screen_text": "Ground Check",
+        "voiceover_tamil": "நேரில் ஆய்வில் தெரியும்!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Exhaustive field travel and legwork are mandatory to verify physical site conditions.",
+        "purpose": "Demonstrate literal physical legwork across rough terrain.",
+        "visual": "Tracking close-up shot of mud-stained leather work boots walking across coarse red soil and gravel near a property boundary line.",
+        "on_screen_text": "Field Walk",
+        "voiceover_tamil": "களத்தில் இறங்கி,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Upfront scouting effort (checking boundaries, road access, site levels) yields genuine off-market deals.",
+        "purpose": "Show technical physical checking of access road width and drainage status.",
+        "visual": "Eye-level shot extending a yellow metallic measuring tape across an unpaved road edge next to a concrete storm-water drainage channel.",
+        "on_screen_text": "Road & Drain",
+        "voiceover_tamil": "அணுகுபாதை, வடிகால்,"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Upfront scouting effort (checking boundaries, road access, site levels) yields genuine off-market deals.",
+        "purpose": "Visualize concrete verification of legal boundary stones.",
+        "visual": "Extreme close-up of a weathered granite survey stone embedded in red dirt, brush cleared away to reveal crisp boundary markings.",
+        "on_screen_text": "Boundary Check",
+        "voiceover_tamil": "எல்லைக் கற்களை ஆய்வது..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Upfront scouting effort yields genuine off-market deals.",
+        "purpose": "Connect field inspection findings to deal evaluation.",
+        "visual": "Over-the-shoulder shot of a field inspector reviewing a printed layout survey map spread open across the bonnet of a white SUV under bright daylight.",
+        "on_screen_text": "Real Deals",
+        "voiceover_tamil": "சரியான டீலைத் தரும்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Physical inspection delivers verified investment opportunities.",
+        "purpose": "Deliver final brand proof on a verified, clear Coimbatore site with clean sunlight.",
+        "visual": "Grounded wide shot showing a well-demarcated plot in Coimbatore with clear access road and blue sky, with subtle brand overlay.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "OliveTree Investors."
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10.0 SECONDS.\n- Aspect Ratio: Native Portrait 9:16 vertical video format (1080x1920 style composition).\n- Platform: High-engagement social video for Coimbatore, Tamil Nadu.\n\nB. REALISM LOCK\n- Pure photorealistic real-world documentary video footage only.\n- ABSOLUTELY NO 3D renders, CGI, architectural visualizations, vector graphics, animated explainers, cartoon characters, or stock video feel.\n- Environment: Authentic Tamil Nadu / Coimbatore setting featuring signature red soil, coconut trees along field boundaries, dusty bypass feeder roads, bright tropical daylight with harsh realistic sun shadows.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Ground-Level Field Inspection & Deal Scouting in Real Estate.\n- Core Principle: A phone gallery with thousands of photos cannot replace physical ground due diligence. Genuine deal discovery requires checking approach roads, drainage levels, and physical granite survey stones on foot.\n- Location context: Coimbatore outskirts and suburban development corridors.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- The visual narrative relies on tactile physical inspection elements: scrolling through property photos in a phone -> dust behind SUV tires -> mud-stained boots walking land boundaries -> yellow measuring tape checking road width -> uncovering a buried granite survey stone -> layout map spread on SUV bonnet -> clean verified site.\n- Forbidden sequence: DO NOT show empty plot turning into a 3D house, generic family entering home, or construction workers as default symbols.\n\nE. CAMERA + IMAGE QUALITY\n- Mirrorless/cinema handheld camera look with realistic optical depth of field.\n- 4K clarity, natural daylight exposure, authentic dust particles in air, physically accurate metal/soil/stone textures.\n- Smooth stabilized camera motion without artificial whip-pans, speed ramps, or impossible fly-throughs.\n\nF. EXACT 7-SHOT PLAN (10.0 SECONDS TOTAL)\n\nShot 1 (0.0s - 1.4s):\n- Setting: Inside a parked white SUV in Coimbatore daylight.\n- Framing: Close-up on male hands scrolling rapidly through a smartphone photo gallery showing dozens of plot photos.\n- Details: Natural reflection on phone glass, dust motes in sunbeam.\n- Overlay Text: 'Photos vs Reality'\n- Audio/VO: Tamil: 'Photo-வில் தெரியாத உண்மை,'\n\nShot 2 (1.4s - 2.8s):\n- Setting: Unpaved access track branching off a Coimbatore feeder road.\n- Framing: Low-angle tracking shot of SUV tires kicking up fine red soil dust under intense sunlight.\n- Details: Realistic dust plume, coarse gravel, dry grass along curb.\n- Overlay Text: 'Ground Check'\n- Audio/VO: Tamil: 'நேரில் ஆய்வில் தெரியும்!'\n\nShot 3 (2.8s - 4.2s):\n- Setting: Field boundary line near coconut palms.\n- Framing: Medium close-up tracking shot following mud-dusted work boots stepping firmly across red soil and dry vegetation.\n- Details: Sunlight filtering through palm fronds, realistic shoe textures.\n- Overlay Text: 'Field Walk'\n- Audio/VO: Tamil: 'களத்தில் இறங்கி,'\n\nShot 4 (4.2s - 5.6s):\n- Setting: Edge of a newly formed layout road in suburban Coimbatore.\n- Framing: Eye-level detail shot pulling a yellow steel measuring tape across an unpaved road shoulder adjacent to a concrete culvert drain.\n- Details: Sharp numbers on yellow tape, rough concrete texture.\n- Overlay Text: 'Road & Drain'\n- Audio/VO: Tamil: 'அணுகுபாதை, வடிகால்,'\n\nShot 5 (5.6s - 7.0s):\n- Setting: Corner boundary of a land plot in red soil.\n- Framing: Macro close-up of a weathered granite survey stone tucked into red dirt being brushed clean by hand.\n- Details: Rough carved numbers on stone, dry earth crumbling away.\n- Overlay Text: 'Boundary Check'\n- Audio/VO: Tamil: 'எல்லைக் கற்களை ஆய்வது...'\n\nShot 6 (7.0s - 8.5s):\n- Setting: Outdoors next to vehicle in open sun.\n- Framing: Over-the-shoulder medium shot of a inspector reviewing a paper survey map laid out flat on an SUV hood.\n- Details: Sunlight highlighting map lines, breeze gently fluttering map edge.\n- Overlay Text: 'Real Deals'\n- Audio/VO: Tamil: 'சரியான டீலைத் தரும்!'\n\nShot 7 (8.5s - 10.0s):\n- Setting: Clear, open verified property plot in Coimbatore with blue sky.\n- Framing: Grounded eye-level wide shot of a neatly defined plot with clear road access and crisp morning light.\n- Details: Minimal clean look, authentic landscape.\n- Overlay Text: 'OliveTree Investors'\n- Audio/VO: Tamil: 'OliveTree Investors.'\n\nG. MOTION-GRAPHICS LIMIT\n- Only clean, crisp typography overlay (1-3 words max per scene) placed neatly in lower third. No full screen graphics or animated banners.\n\nH. FINAL REAL SCENE\n- Concludes on Shot 7 with real footage of the inspected land plot and subtle text overlay 'OliveTree Investors'. No graphic end card.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- DO NOT include: cartoon, 3D explainer, architectural rendering, anime, fake city skyline, floating graphics, morphing objects, exaggerated camera zooms, blurred sidebars, landscape video inside vertical frame, fake landmarks, duplicated people, or religious symbols.",
+    "title_english": "Why Property Photos Can Lie: Field Scouting in Coimbatore",
+    "caption_english": "Why do serious real estate investors never rely purely on online photos? A gallery filled with property photos means nothing until you inspect the actual ground reality in Coimbatore. True deal scouting demands physical legwork—checking approach road widths, inspecting drainage culverts, verifying physical granite survey stones, and assessing real elevation levels across layouts. What looks perfect on a smartphone screen often hides access bottlenecks or boundary disputes in person. At OliveTree Investors, we believe rigorous on-site due diligence is the only way to uncover authentic, high-value real estate opportunities. Don't invest from behind a screen; demand verified ground truth for every property deal in Coimbatore.",
+    "title_tamil": "Photo-வை மட்டும் நம்பி இடம் வாங்காதீங்க! கோவை ரியல் எஸ்டேட் உண்மை!",
+    "caption_tamil": "ஸ்மார்ட்போனில் பார்க்கும் போட்டோக்கள் மட்டும் ஒரு சொத்தின் முழு உண்மையையும் சொல்லிவிடாது! கோவையில் ஒரு நல்ல சொத்தை தேர்வு செய்ய நேரடி கள ஆய்வு மிகவும் அவசியம். அணுகுபாதையின் அகலம், வடிகால் வசதி, எல்லைக் கற்களின் சரியான அமைப்பு ஆகியவற்றை நேரில் சென்று பரிசோதிப்பதே சரியான முதலீட்டிற்கு வழிவகுக்கும். OliveTree Investors-ல் நாங்கள் ஒவ்வொரு இடத்தையும் நேரில் ஆய்வு செய்து, நம்பகமான முதலீட்டு வாய்ப்புகளை உங்களுக்கு கொண்டு வருகிறோம். திரைக்கு பின்னால் இருந்து முதலீடு செய்யாதீர்கள்; கள நிலவரத்தை அறிந்து சரியான முடிவெடுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
