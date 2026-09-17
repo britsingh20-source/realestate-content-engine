@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260917-W63Z",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-17T17:12:46.154Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "KRVQAl2mTJY",
+      "title": "Is Mumbai 3.0 the Next Boom?",
+      "description": "Maharashtra is targeting a $1 trillion economy by 2030. Its GDP is already neck-and-neck with the UAE’s GDP, but reaching the next milestone will require new growth centres beyond Mumbai & Pune.\n\nWith a long-term vision, Mumbai 3.0 will definitely be one of those growth centres. \n\nI had an insightful conversation about this with Jatin Agarwal of Eltria, who brings over 20 years of experience in real estate and land development.\n\nWatch the full podcast on my YouTube channel!\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property - https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-08-04T12:30:34Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 61,
+      "views": 2040,
+      "likes": 29,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=KRVQAl2mTJY",
+      "ageHours": 1060.645998611111,
+      "velocity": 1.9233561458501027,
+      "outlier": 0.2563941431533966,
+      "velocityRatio": 0.08113149665251923,
+      "engagementRatio": 0.6356896722747264
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 5,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3806
+  },
+  "pack": {
+    "subject_classification": "infrastructure impact",
+    "source_evidence_points": [
+      "Appreciation driven by multi-sector convergence rather than a single project",
+      "Self-sustaining economic ecosystem replacing speculative real estate pockets",
+      "Integration of 8 economic pillars including logistics, infrastructure, and tech",
+      "Macro economic scale matching massive regional growth targets"
+    ],
+    "topic": "Evaluating Multi-Sector Infrastructure Convergence for Property Investment",
+    "source_script_insight": "Real estate appreciation does not rely on a single infrastructure trigger, but on the simultaneous, interconnected convergence of multiple economic sectors forming a complete ecosystem.",
+    "coimbatore_angle": "Applying the multi-sector economic convergence principle to evaluating emerging growth corridors around Coimbatore without fabricating local project claims.",
+    "visual_strategy": "Using tight, eye-level and controlled-motion macro footage of urban connectivity, logistics transit points, and commercial clusters in Coimbatore to demonstrate multi-sector convergence, entirely avoiding generic aerial land panning or happy family tropes.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "True land value growth stems from complete economic ecosystem convergence, not isolated infrastructure announcements.",
+    "voiceover_tamil": "ஒற்றை திட்டத்தை நம்பி முதலீடு செய்யாதீர்கள். பல துறைகள் சங்கமிக்கும் இடமே உண்மையான வளர்ச்சி.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.3,
+        "evidence_point": "Appreciation driven by multi-sector convergence rather than a single project",
+        "purpose": "Establish the central tension between single-project hype and multi-sector reality.",
+        "visual": "A close-up shot of a dusty road junction sign in an outer Coimbatore corridor under harsh midday sun, showing converging tarmac paths with moderate truck traffic.",
+        "on_screen_text": "ஒற்றை திட்டம்?",
+        "voiceover_tamil": "ஒற்றை திட்டத்தை"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.3,
+        "end_sec": 2.8,
+        "evidence_point": "Self-sustaining economic ecosystem replacing speculative real estate pockets",
+        "purpose": "Showcase economic ecosystem activity instead of empty speculative land.",
+        "visual": "A medium-angle shot of a busy suburban industrial supply warehouse loading dock in Coimbatore with workers organizing logistics crates.",
+        "on_screen_text": "சங்கமிக்கும் இடம்",
+        "voiceover_tamil": "நம்பி முதலீடு"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.3,
+        "evidence_point": "Integration of 8 economic pillars including logistics, infrastructure, and tech",
+        "purpose": "Highlight infrastructure and transit integration.",
+        "visual": "A stable side-angle shot of multi-axle freight trucks moving steadily along a major four-lane Coimbatore bypass under realistic natural overcast lighting.",
+        "on_screen_text": "பல்வேறு துறைகள்",
+        "voiceover_tamil": "செய்யாதீர்கள். பல"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.8,
+        "evidence_point": "Integration of 8 economic pillars including logistics, infrastructure, and tech",
+        "purpose": "Display corporate employment and commercial convergence.",
+        "visual": "An eye-level shot of professionals entering a modern glass-façade IT park lobby in Peelamedu, Coimbatore, with authentic reflections.",
+        "on_screen_text": "உண்மையான வளர்ச்சி",
+        "voiceover_tamil": "துறைகள் சங்கமிக்கும்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.8,
+        "end_sec": 7.2,
+        "evidence_point": "Self-sustaining economic ecosystem replacing speculative real estate pockets",
+        "purpose": "Demonstrate educational and institutional growth integration.",
+        "visual": "A street-level perspective of a bustling college corridor perimeter wall with students walking past academic buildings in suburban Coimbatore.",
+        "on_screen_text": "சரியான மதிப்பீடு",
+        "voiceover_tamil": "இடமே உண்மையான"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.2,
+        "end_sec": 8.6,
+        "evidence_point": "Appreciation driven by multi-sector convergence rather than a single project",
+        "purpose": "Reinforce the transition from isolated plots to sustained economic demand.",
+        "visual": "A stable medium shot of a functioning commercial hub facade with active retail foot traffic along a paved Coimbatore avenue.",
+        "on_screen_text": "சுழற்சி முறை",
+        "voiceover_tamil": "வளர்ச்சி. ஆலிவ்ட்ரீ"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.6,
+        "end_sec": 10,
+        "evidence_point": "Macro economic scale matching massive regional growth targets",
+        "purpose": "Deliver final subject proof and brand overlay without generic payoff.",
+        "visual": "A clean, sharp eye-level shot of a detailed property assessment file and map spread across a wooden desk under soft indoor light, with subtle OliveTree Investors text overlay.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "இன்வெஸ்டர்ஸ்"
+      }
+    ],
+    "gemini_video_prompt": "CRITICAL OUTPUT LOCK: Produce a strictly vertical 9:16 portrait video, exactly 10 seconds in duration. This must be 100% photorealistic, physical-world footage shot with a professional mirrorless camera in Coimbatore, Tamil Nadu, India. Absolutely no animation, no 2D/3D graphics, no CGI, no cartoon or explainer styles, no aerial drone filler, no happy family tropes, and no generic construction house sequences.\n\nSUBJECT AND EVIDENCE FOCUS: The subject is 'infrastructure impact' demonstrating multi-sector convergence. Source evidence points: 1) Appreciation driven by multi-sector convergence rather than single project hype; 2) Self-sustaining economic ecosystem replacing speculative real estate pockets; 3) Integration of economic pillars including logistics, transport, and commercial zones; 4) Macro economic scale matching regional growth. The setting is Coimbatore ONLY.\n\nEXACT 7-SHOT BREAKDOWN (0.0s to 10.0s):\n- Shot 1 (0.0s - 1.3s): Close-up shot of a dusty road junction sign in an outer Coimbatore corridor under harsh midday sun, showing converging tarmac paths with moderate truck traffic. Text overlay: ஒற்றை திட்டம்? VO: ஒற்றை திட்டத்தை\n- Shot 2 (1.3s - 2.8s): Medium-angle shot of a busy suburban industrial supply warehouse loading dock in Coimbatore with workers organizing logistics crates. Text overlay: சங்கமிக்கும் இடம் VO: நம்பி முதலீடு\n- Shot 3 (2.8s - 4.3s): Stable side-angle shot of multi-axle freight trucks moving steadily along a major four-lane Coimbatore bypass under realistic natural overcast lighting. Text overlay: பல்வேறு துறைகள் VO: செய்யாதீர்கள். பல\n- Shot 4 (4.3s - 5.8s): Eye-level shot of professionals entering a modern glass-façade IT park lobby in Peelamedu, Coimbatore, with authentic reflections. Text overlay: உண்மையான வளர்ச்சி VO: துறைகள் சங்கமிக்கும்\n- Shot 5 (5.8s - 7.2s): Street-level perspective of a bustling college corridor perimeter wall with students walking past academic buildings in suburban Coimbatore. Text overlay: சரியான மதிப்பீடு VO: இடமே உண்மையான\n- Shot 6 (7.2s - 8.6s): Stable medium shot of a functioning commercial hub facade with active retail foot traffic along a paved Coimbatore avenue. Text overlay: சுழற்சி முறை VO: வளர்ச்சி. ஆலிவ்ட்ரீ\n- Shot 7 (8.6s - 10.0s): Clean, sharp eye-level shot of a detailed property assessment file and map spread across a wooden desk under soft indoor light, with subtle OliveTree Investors text overlay. Text overlay: OliveTree Investors VO: இன்வெஸ்டர்ஸ்\n\nCAMERA AND REALISM REQUIREMENTS: Natural sunlight, authentic material textures, realistic shadows and perspective, stable geometry, no digital distortion, no fake landmarks, no religious symbols, native 9:16 composition throughout.",
+    "title_english": "Why Single-Project Property Hype Fails in Coimbatore",
+    "caption_english": "True real estate appreciation doesn't rely on a single announcement—it relies on multi-sector economic convergence. When evaluating property corridors in Coimbatore, look beyond isolated infrastructure and analyze the full ecosystem of logistics, employment, and commercial activity. Build your portfolio on proven fundamentals. Connect with OliveTree Investors for disciplined property insights in Coimbatore.",
+    "title_tamil": "கோவையில் ஒற்றை திட்ட முதலீட்டின் உண்மை நிலை",
+    "caption_tamil": "ஒற்றை திட்டத்தை நம்பி முதலீடு செய்வதை விட பல துறைகளின் சங்கமத்தை ஆராயுங்கள். ஆலிவ்ட்ரீ இன்வெஸ்டர்ஸ்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
