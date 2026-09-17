@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260917-MO3M",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-17T11:55:09.063Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Real Estate With Mayank",
+    "creatorKey": "mayank",
+    "source": {
+      "id": "sMMWnFhSOTU",
+      "title": "Is Your 30-Year-Old Building Safe?",
+      "description": "Your building may look perfectly fine from the outside, but what’s happening inside the structure?\n\nAs buildings age, cracks, corrosion and other signs of deterioration can indicate structural issues that shouldn't be ignored. A proper structural audit can help identify potential problems before they become much bigger.\n\nIf your society building is getting older, don't wait for a serious problem to take place.\n\nSubscribe for more property insights, data breakdowns, and investment strategies.\n\nSubscribe to my edtech company Edstate's YouTube page to learn real estate in a structured way - https://www.youtube.com/@EdstateLearning\n\nFollow me on my personal Instagram to know everything related to Indian real estate -  https://www.instagram.com/realestatewithmayank/\n\nFollow my edtech company Edstate's Instagram handle to boost your career in real estate - https://www.instagram.com/edstatelearning?igsh=MTZwazRvYzZycHczbA==\n\nFor leadership lessons and industry conversations, follow me on LinkedIn! - https://www.linkedin.com/in/realestatewithmayank/\n\nYou can also get my book on How To Buy A Scam Free Home to safeguard your future property – https://shop.wyzr.in/products/how-to-buy-a-scam-free-home",
+      "publishedAt": "2026-09-02T13:30:06Z",
+      "channelId": "UCCUFbFnWiZxFdIGonxnIp5g",
+      "channelTitle": "Real Estate With Mayank",
+      "durationSeconds": 41,
+      "views": 1563,
+      "likes": 28,
+      "comments": 2,
+      "url": "https://www.youtube.com/watch?v=sMMWnFhSOTU",
+      "ageHours": 358.38523305555555,
+      "velocity": 4.361228800288514,
+      "outlier": 0.19816164817749604,
+      "velocityRatio": 0.17487545087899203,
+      "engagementRatio": 0.9134121677084205
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 7,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5050
+  },
+  "pack": {
+    "subject_classification": "construction quality",
+    "source_evidence_points": [
+      "Buildings aged 15 to 30 years require a professional structural audit every 5 years.",
+      "Buildings older than 30 years require a mandatory structural audit every 3 years under society regulations.",
+      "Non-Destructive Testing (NDT) identifies hidden rebar corrosion and internal beam fractures before visual failure occurs.",
+      "Routine structural audits directly protect resale value, building longevity, and resident safety in multi-story apartments."
+    ],
+    "topic": "Structural Audit Timelines and Safety Checks for Coimbatore Apartments",
+    "source_script_insight": "Older apartment buildings undergo invisible concrete carbonation and rebar oxidation over time. Establishing a disciplined structural audit schedule based on age thresholds prevents catastrophic structural degradation and maintains secondary market valuation.",
+    "coimbatore_angle": "In Coimbatore's mature residential clusters like RS Puram, Peelamedu, and Saibaba Colony, high-demand 15-to-30+ year old apartment complexes require periodic structural health audits to maintain property valuation and ensure long-term structural integrity against local weathering.",
+    "visual_strategy": "The camera operates as a physical structural engineering audit inspection—focusing on concrete distress, non-destructive ultrasonic testing devices, crack gauges, and official stability audit documentation on site in Coimbatore.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Maintain your Coimbatore apartment's safety and resale value by conducting structural audits every 5 years for 15-30 year old structures, and every 3 years for 30+ year old buildings.",
+    "voiceover_tamil": "உங்கள் அபார்ட்மெண்ட் 15 வருடம் பழமையானதா? 15-30 வருட கட்டிடங்களுக்கு 5 ஆண்டிற்கு ஒருமுறை... 30 வருடத்திற்கு மேலென்றால் 3 ஆண்டிற்கு ஒருமுறை ஆய்வறிக்கை அவசியம்! உள் கம்பிகளின் துருவை முன்கூட்டியே கண்டறியலாம். கட்டிடத்தின் ஆயுளையும் மதிப்பையும் உயர்த்தும். சரியான நேரத்தில் தணிக்கை செய்து சொத்தை பாதுகாப்போம். கோயம்புத்தூர் ரியல் எஸ்டேட் வழிகாட்டி - OliveTree Investors.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Buildings aged 15 to 30 years require structural evaluation due to cumulative environmental weathering.",
+        "purpose": "Establish central structural risk tension through localized concrete weathering visual.",
+        "visual": "Macro extreme close-up shot panning down a plaster crack with faint water seepage stains on an established residential apartment exterior in RS Puram, Coimbatore.",
+        "on_screen_text": "15+ Years Old?",
+        "voiceover_tamil": "உங்கள் அபார்ட்மெண்ட் 15 வருடம் பழமையானதா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Buildings aged 15 to 30 years require a professional structural audit every 5 years.",
+        "purpose": "Demonstrate the 5-year audit rule for 15-30 year old properties.",
+        "visual": "Eye-level medium close-up of a structural engineer placing a digital ultrasonic concrete pulse velocity sensor against a ground floor parking pillar.",
+        "on_screen_text": "5 Year Audit",
+        "voiceover_tamil": "15-30 வருட கட்டிடங்களுக்கு 5 ஆண்டிற்கு ஒருமுறை..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Buildings older than 30 years require a mandatory structural audit every 3 years under society regulations.",
+        "purpose": "Show strict 3-year frequency mandate for 30+ year old structures.",
+        "visual": "Close-up shot of an optical crack-width measuring gauge calibrated against a concrete lintel beam in a Coimbatore corridor.",
+        "on_screen_text": "3 Year Rule",
+        "voiceover_tamil": "30 வருடத்திற்கு மேலென்றால் 3 ஆண்டிற்கு ஒருமுறை ஆய்வறிக்கை அவசியம்!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Non-Destructive Testing (NDT) identifies hidden rebar corrosion and internal beam fractures before visual failure occurs.",
+        "purpose": "Show mechanical rebar diagnosis preventing catastrophic concrete spalling.",
+        "visual": "Low-angle close-up inside a basement parking lot showing an inspector marking an exposed ceiling rebar area with yellow chalk and recording NDT readings.",
+        "on_screen_text": "Detect Corrosion",
+        "voiceover_tamil": "உள் கம்பிகளின் துருவை முன்கூட்டியே கண்டறியலாம்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Routine structural audits directly protect resale value, building longevity, and resident safety.",
+        "purpose": "Display verifiable structural stability documentation and certification.",
+        "visual": "Over-the-shoulder shot of a hand holding a clip-board with a stamped 'Structural Stability Audit Report' document outdoors against an apartment backdrop.",
+        "on_screen_text": "Safety Certified",
+        "voiceover_tamil": "கட்டிடத்தின் ஆயுளையும் மதிப்பையும் உயர்த்தும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.4,
+        "evidence_point": "Active association management and timely audits protect property resale liquidity.",
+        "purpose": "Show proactive Coimbatore housing society committee members reviewing engineering reports.",
+        "visual": "Medium shot of two Coimbatore apartment association members discussing the stamped inspection report in a manicured compound garden in Peelamedu.",
+        "on_screen_text": "Protect Assets",
+        "voiceover_tamil": "சரியான நேரத்தில் தணிக்கை செய்து சொத்தை பாதுகாப்போம்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.4,
+        "end_sec": 10,
+        "evidence_point": "A structurally certified residential building preserves capital and long-term resale demand.",
+        "purpose": "Deliver high-value visual proof of a structurally sound, prime Coimbatore apartment complex.",
+        "visual": "Grounded low-angle slow tilt up looking at a modern, meticulously maintained multi-story apartment building in Coimbatore under clear skies and warm natural sunlight.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "கோயம்புத்தூர் ரியல் எஸ்டேட் வழிகாட்டி - OliveTree Investors."
+      }
+    ],
+    "gemini_video_prompt": "A production-grade, photorealistic 10-second vertical social video (9:16 portrait) about residential building structural health audits for OliveTree Investors, specifically contextualized for Coimbatore, Tamil Nadu.\n\n### MANDATORY OUTPUT FORMAT LOCK\n- Duration: EXACTLY 10.0 seconds.\n- Canvas: Native Portrait 9:16 (1080x1920), full screen vertical frame. No horizontal letterboxing, no blurred side fill.\n- Tone: Professional, authoritative real-estate inspection documentarian style.\n\n### REALISM & LOCATION LOCK\n- 100% photorealistic physical world footage recorded in real Coimbatore residential neighborhoods (RS Puram, Peelamedu, Saibaba Colony).\n- Natural overcast daylight and soft midday sun illumination; natural concrete textures, weathered plaster, realistic iron rebar, physical engineering meters, tactile paper reports.\n- ABSOLUTELY NO 3D CAD renders, 2D vector graphic explainers, architectural visualization style, cartoon art, floating icons, motion graphics titles, or unreal plastic textures.\n\n### SOURCE SUBJECT & VISUAL STRATEGY\n- Topic: Structural Quality & Audit Frequency Rules for Multi-Story Housing Societies.\n- Key Mechanisms: 15-30 year old buildings need 5-year structural audits; 30+ year old buildings require 3-year audits; Non-Destructive Testing (NDT) detects deep rebar oxidation and micro-cracks before concrete failure.\n- Visual Strategy: Direct physical visual evidence of structural inspection—weathered concrete facades, digital NDT pulse meters, crack gauges, certified engineering paperwork, active resident association review.\n- NO generic sequence: Do not show land plot, ground digging, generic floor plan overlays, or unrelated happy families moving furniture.\n\n### CAMERA & IMAGE QUALITY\n- Filmed on 35mm equivalent mirrorless camera on stable handheld gimbal / micro-dolly.\n- Sharp 4K focus, natural motion blur, authentic depth of field, real ambient shadows, no over-saturated HDR grading.\n\n### SHOT-BY-SHOT SPECIFICATIONS (7 FAST SHOTS OVER 10 SECONDS)\n\n- SHOT 1 (0.0s - 1.4s): Extreme Macro Close-Up\n  - Location: Exterior wall of an established 20-year-old apartment building in RS Puram, Coimbatore.\n  - Subject: Fine hairline plaster cracks and subtle moisture discoloration along an external masonry joint.\n  - Motion: Smooth vertical tilt down 10 inches.\n  - Dynamic Text Overlay: '15+ Years Old?' (Small, white sans-serif text top center).\n  - Audio VO (Tamil): 'உங்கள் அபார்ட்மெண்ட் 15 வருடம் பழமையானதா?'\n\n- SHOT 2 (1.4s - 2.8s): Eye-Level Medium Close-Up\n  - Location: Parking column inside a multi-story apartment block.\n  - Subject: A structural engineer in a safety vest placing a digital handheld Ultrasonic Concrete Tester sensor flat against a concrete pillar.\n  - Motion: Static locked-on shot with subtle hand micro-movement.\n  - Dynamic Text Overlay: '5 Year Audit' (Minimal white text bottom left).\n  - Audio VO (Tamil): '15-30 வருட கட்டிடங்களுக்கு 5 ஆண்டிற்கு ஒருமுறை...'\n\n- SHOT 3 (2.8s - 4.2s): Macro Detail\n  - Location: Corridor lintel beam.\n  - Subject: An optical crack-width measurement scale aligned against a horizontal beam fissure, displaying exact millimeter grading.\n  - Motion: Subtle rack focus from crack scale to background corridor.\n  - Dynamic Text Overlay: '3 Year Rule' (Minimal white text center right).\n  - Audio VO (Tamil): '30 வருடத்திற்கு மேலென்றால் 3 ஆண்டிற்கு ஒருமுறை ஆய்வறிக்கை அவசியம்!'\n\n- SHOT 4 (4.2s - 5.6s): Low-Angle Close-Up\n  - Location: Basement garage ceiling slab.\n  - Subject: Inspector pointing a LED inspection beam at exposed corroded rebar on a spalled concrete beam, marking boundary with yellow chalk.\n  - Motion: Slow tracking pan left along the damaged beam edge.\n  - Dynamic Text Overlay: 'Detect Corrosion' (Small white text top right).\n  - Audio VO (Tamil): 'உள் கம்பிகளின் துருவை முன்கூட்டியே கண்டறியலாம்.'\n\n- SHOT 5 (5.6s - 7.0s): Over-The-Shoulder Close-Up\n  - Location: Outdoor courtyard under natural shade.\n  - Subject: Hands holding a clipboard featuring an official stamped 'Structural Audit Report' document with technical load charts visible.\n  - Motion: Subtle zoom in towards the red rubber 'PASSED / CERTIFIED' stamp.\n  - Dynamic Text Overlay: 'Safety Certified' (Minimal white text bottom center).\n  - Audio VO (Tamil): 'கட்டிடத்தின் ஆயுளையும் மதிப்பையும் உயர்த்தும்.'\n\n- SHOT 6 (7.0s - 8.4s): Medium Eye-Level Shot\n  - Location: Well-kept apartment complex entrance in Peelamedu, Coimbatore.\n  - Subject: Two resident association members reviewing the structural audit binder together, nodding in agreement.\n  - Motion: Static framing with natural human interaction.\n  - Dynamic Text Overlay: 'Protect Assets' (Small white text top center).\n  - Audio VO (Tamil): 'சரியான நேரத்தில் தணிக்கை செய்து சொத்தை பாதுகாப்போம்.'\n\n- SHOT 7 (8.4s - 10.0s): Low-Angle Slow Tilt Up\n  - Location: A pristine, fully-maintained, modern multi-story residential building exterior in Coimbatore.\n  - Subject: Modern architecture bathed in warm afternoon sun, lush greenery along balconies, crisp clear sky.\n  - Motion: Slow steady tilt up framing the clean facade.\n  - Dynamic Text Overlay: 'OliveTree Investors' (Clean logo/text centered at final second).\n  - Audio VO (Tamil): 'கோயம்புத்தூர் ரியல் எஸ்டேட் வழிகாட்டி - OliveTree Investors.'\n\n### NEGATIVE PROMPT & FIXED BANS\n- No animated explainer characters, no 3D floor plan animations, no cartoon graphics, no floating text bubbles.\n- No fake skylines, no fictional city landmarks, no Chennai/Bengaluru references.\n- No fast whip-pans, no zoom-bursts, no speed ramping, no fisheye distortion.\n- No AI-generated face distortion, no multiple duplicated people, no camera crew members visible in frame.\n- No landscape video cropped inside black bars; must be true 9:16 vertical composition.",
+    "title_english": "Is Your Coimbatore Apartment Due for a Structural Audit?",
+    "caption_english": "If your apartment complex in Coimbatore is over 15 years old, regular structural audits are essential to protect your family and investment valuation. Under standard housing association frameworks, buildings aged 15–30 years require a structural audit every 5 years, while structures older than 30 years must undergo checks every 3 years. Timely Non-Destructive Testing catches concrete spalling, carbonation, and internal rebar oxidation long before structural risks arise—ensuring high resale value and long-term peace of mind in key Coimbatore micro-markets like RS Puram, Peelamedu, and Saibaba Colony. Partner with OliveTree Investors for grounded Coimbatore real estate strategies.",
+    "title_tamil": "உங்கள் அபார்ட்மெண்ட் கட்டிடத்திற்கு ஸ்ட்ரக்சரல் தணிக்கை செய்யப்பட்டதா?",
+    "caption_tamil": "கோயம்புத்தூரில் 15 வருடங்களுக்கு மேலான அபார்ட்மெண்டில் வசிக்கிறீர்களா? கட்டிடத்தின் பாதுகாப்பு மற்றும் மறுவிற்பனை மதிப்பை உயர்த்த ஸ்ட்ரக்சரல் தணிக்கை மிக அவசியம். 15-30 வருட கட்டிடங்களுக்கு 5 ஆண்டிற்கு ஒருமுறையும், 30 வருடத்திற்கு மேற்பட்ட கட்டிடங்களுக்கு 3 ஆண்டிற்கு ஒருமுறையும் தணிக்கை செய்ய வேண்டும். NDT பரிசோதனை மூலம் காங்கிரீட் உள் கம்பிகளின் துருவை முன்கூட்டியே கண்டறியலாம். கோவை ரியல் எஸ்டேட் குறித்த சரியான வழிகாட்டலுக்கு OliveTree Investors-ஐ தொடர்பு கொள்ளவும்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#StructuralAudit",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
