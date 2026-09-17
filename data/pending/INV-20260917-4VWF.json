@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260917-4VWF",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-17T21:34:06.447Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Sanat Thakur",
+    "creatorKey": "sanat-thakur",
+    "source": {
+      "id": "ZnvqcT0HcYo",
+      "title": "Haar Mat Maano, Ek Din Sab Badal Jayega! 🔥 #Motivation #sanatthakur #HardWork #Success #shorts",
+      "description": "",
+      "publishedAt": "2026-08-22T09:50:22Z",
+      "channelId": "UCnq2fsmXDDcXKqVfhveBzGg",
+      "channelTitle": "Sanat Thakur",
+      "durationSeconds": 40,
+      "views": 2735,
+      "likes": 213,
+      "comments": 11,
+      "url": "https://www.youtube.com/watch?v=ZnvqcT0HcYo",
+      "ageHours": 635.6820102777777,
+      "velocity": 4.302465628695188,
+      "outlier": 1.614521841794569,
+      "velocityRatio": 2.0503616664219746,
+      "engagementRatio": 1.0471505793537017
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 25,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3141
+  },
+  "pack": {
+    "subject_classification": "buyer psychology",
+    "source_evidence_points": [
+      "Effort and proactive evaluation are essential; passive waiting yields no result.",
+      "When results fall short, honest self-assessment and structural correction are required.",
+      "Success demands sacrificing comfort and refusing to flee from the struggle or difficult reality."
+    ],
+    "topic": "Overcoming Investor Procrastination and Fear in Coimbatore Real Estate",
+    "source_script_insight": "The source emphasizes that passive waiting ('baith-baith ke') achieves nothing; one must actively evaluate shortcomings, abandon comfortable hesitation, and confront challenges directly instead of running away.",
+    "coimbatore_angle": "Addressing Coimbatore retail buyers who endlessly delay property decisions out of hesitation, waiting for 'perfect market timing' while prices shift along Avinashi Road or Thudiyalur.",
+    "visual_strategy": "Uses macro close-ups of hesitation cues (tapping fingers on a phone screen showing property listings, a closed diary on a wooden desk) shifting to an active physical site visit under Coimbatore's harsh midday sun, proving that action beats hesitation.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Endless hesitation in property selection loses great opportunities; proactive analysis and fearless decision-making secure the right Coimbatore asset.",
+    "voiceover_tamil": "சும்மா காத்திருந்தா எதுவும் நடக்காது. தயக்கத்தை விட்டு, விலை உயர்வை பார்த்து பயப்படாம, சரியான இடத்தை உடனே ஆய்வு செஞ்சு முடிவு எடுங்க!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.3,
+        "evidence_point": "Effort and proactive evaluation are essential; passive waiting yields no result.",
+        "purpose": "Visualize the central tension of passive hesitation over property decisions.",
+        "visual": "Extreme close-up of a finger repeatedly tapping a smartphone screen displaying a Coimbatore real estate listing, ambient indoor lighting, realistic skin texture.",
+        "on_screen_text": "சும்மா காத்திருக்காதீங்க",
+        "voiceover_tamil": "சும்மா காத்திருந்தா"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.3,
+        "end_sec": 2.8,
+        "evidence_point": "When results fall short, honest self-assessment and structural correction are required.",
+        "purpose": "Show critical self-evaluation of past missed investment opportunities.",
+        "visual": "A person's hand turning the pages of a personal notebook filled with budget notes and property locations, sitting at a wooden desk in a Coimbatore apartment.",
+        "on_screen_text": "தவறுகளை திருத்துங்கள்",
+        "voiceover_tamil": "எதுவும் நடக்காது. தயக்கத்தை"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Success demands sacrificing comfort and refusing to flee from the struggle.",
+        "purpose": "Demonstrate breaking comfort zones to step out into the real market.",
+        "visual": "Medium close-up of feet stepping out of a parked car onto a dusty gravel road under bright Coimbatore afternoon sunlight.",
+        "on_screen_text": "வெளியே வாருங்கள்",
+        "voiceover_tamil": "விட்டு, விலை உயர்வை"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.7,
+        "evidence_point": "Effort and proactive evaluation are essential.",
+        "purpose": "Show active physical inspection of a property site boundary.",
+        "visual": "Eye-level shot of a buyer inspecting a survey stone on a plot, checking boundaries with focused attention.",
+        "on_screen_text": "நேரில் ஆய்வு",
+        "voiceover_tamil": "பார்த்து பயப்படாம,"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "evidence_point": "When results fall short, honest self-assessment and structural correction are required.",
+        "purpose": "Close-up verification of legal documents or layout papers.",
+        "visual": "Macro shot of a hand highlighting clear title deed boundaries on a printed layout map with a pen.",
+        "on_screen_text": "உண்மை சரிபார்ப்பு",
+        "voiceover_tamil": "சரியான இடத்தை"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.6,
+        "evidence_point": "Success demands sacrificing comfort and refusing to flee from struggle.",
+        "purpose": "Confident decision-making stance in a real Coimbatore setting.",
+        "visual": "Medium shot of an investor shaking hands with a property owner against the backdrop of a completed residential plot layout in Coimbatore.",
+        "on_screen_text": "துணிந்து முடிவு",
+        "voiceover_tamil": "உடனே ஆய்வு செஞ்சு"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.6,
+        "end_sec": 10,
+        "evidence_point": "Continuous effort, self-correction, and resilience lead to victory.",
+        "purpose": "Final impactful real-world proof of decisive action with minimal branding overlay.",
+        "visual": "Static wide shot of a verified plot under natural daylight with subtle OliveTree Investors branding at the bottom corner.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "முடிவு எடுங்க!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK: Exactly 10 seconds duration, native portrait 9:16 aspect ratio, full-screen vertical composition designed strictly for Coimbatore, Tamil Nadu audiences.\n\nB. REALISM LOCK: 100% photorealistic physical-world footage. Absolutely no animation, CGI, cartoon, 3D render, or explainer graphics. Show authentic Coimbatore environments, local architecture, genuine materials, natural sunlight, realistic shadows, and true-to-life human interactions.\n\nC. SOURCE SUBJECT LOCK: Subject is buyer psychology / overcoming investment procrastination. Source evidence points: 1. Passive waiting yields nothing. 2. Honest self-assessment and correction of missed opportunities is vital. 3. Success demands leaving comfort zones and facing market realities directly. Coimbatore application: addressing local investors who endlessly hesitate instead of evaluating plots or apartments on Avinashi Road or Thudiyalur.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY: Focus on physical cues of hesitation (smartphone tapping, reviewing notebooks) transitioning to active site visits, document checking, and confident handshake decisions. The generic empty-plot-to-mansion construction sequence is strictly forbidden.\n\nE. CAMERA + IMAGE QUALITY: Clean, stable mirrorless/smartphone footage, natural focal lengths, sharp textures, realistic depth of field, authentic daylight exposure without artificial grading.\n\nF. EXACT 7-SHOT PLAN:\n- Scene 1 (0.0 - 1.3s): Extreme close-up of a finger tapping a smartphone screen showing real estate listings, indoor lighting. Voiceover: 'சும்மா காத்திருந்தா'\n- Scene 2 (1.3 - 2.8s): Medium shot of a hand turning pages of a personal notebook with property notes on a wooden desk. Voiceover: 'எதுவும் நடக்காது. தயக்கத்தை'\n- Scene 3 (2.8 - 4.2s): Medium close-up of feet stepping out of a car onto a dusty gravel road under bright Coimbatore sun. Voiceover: 'விட்டு, விலை உயர்வை'\n- Scene 4 (4.2 - 5.7s): Eye-level shot of an investor inspecting a survey stone on a plot. Voiceover: 'பார்த்து பயப்படாம,'\n- Scene 5 (5.7 - 7.1s): Macro shot highlighting legal layout maps with a pen. Voiceover: 'சரியான இடத்தை'\n- Scene 6 (7.1 - 8.6s): Medium shot of a confident handshake between buyer and seller in Coimbatore. Voiceover: 'உடனே ஆய்வு செஞ்சு'\n- Scene 7 (8.6 - 10.0s): Static wide shot of a verified plot under natural daylight with minimal 'OliveTree Investors' text overlay. Voiceover: 'முடிவு எடுங்க!'\n\nG. MOTION-GRAPHICS LIMIT: Only subtle Tamil text overlays on real footage. No flashy transitions or explainer cartoons.\n\nH. FINAL REAL SCENE: End strictly on the handshake and verified plot shot with subtle branding. No separate end card.\n\nI. NEGATIVE PROMPT: No cartoons, no 3D renders, no fake skylines, no floating buildings, no warped text, no duplicated people, no landscape framing, no black bars.",
+    "title_english": "Stop Waiting! How to Overcome Property Hesitation in Coimbatore",
+    "caption_english": "Waiting endlessly for the 'perfect market timing' in Coimbatore often means missing out on the right assets. True success in property investment demands breaking out of hesitation, evaluating properties honestly, and making proactive decisions. Stop overthinking and start inspecting your next smart investment with OliveTree Investors today. Drop your thoughts below!\n\n#CoimbatoreRealEstate #PropertyInvestment #OliveTreeInvestors",
+    "title_tamil": "தயக்கத்தை விடுங்கள்! கோவையில் சரியான சொத்து முதலீடு",
+    "caption_tamil": "கோவையில் சரியான நேரத்திற்காக காத்திருந்து வாய்ப்புகளை நழுவ விடாதீர்கள். தயக்கத்தை விடுத்து, நேரில் ஆய்வு செய்து சரியான முடிவுகளை எடுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
