@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260917-TEW7",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_investors",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-17T05:05:18.756Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "2IHwrPpr8Uw",
+      "title": "Assam ki khubsurat masjid #assam #assamese #assamflood",
+      "description": "",
+      "publishedAt": "2026-08-31T10:24:45Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 10,
+      "views": 499,
+      "likes": 14,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=2IHwrPpr8Uw",
+      "ageHours": 402.6112272222222,
+      "velocity": 1.2394090533510527,
+      "outlier": 0.4457347029924073,
+      "velocityRatio": 0.3968021557411767,
+      "engagementRatio": 0.9006389072482927
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 9,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4118
+  },
+  "pack": {
+    "subject_classification": "Location Selection (Micro-Environment Assessment)",
+    "source_evidence_points": [
+      "Presence of natural water bodies/ponds and their impact on land elevation and drainage.",
+      "Proximity and integration of community or religious structures within the immediate neighborhood.",
+      "Observation of neighboring construction activity (active vs. stalled) to gauge development maturity.",
+      "Road access, parking feasibility, and physical layout boundaries of the residential micro-environment."
+    ],
+    "topic": "Coimbatore Neighborhood Micro-Environment Checklist",
+    "source_script_insight": "A property's value is deeply tied to its immediate micro-environment, including natural water features, community landmarks, and the development status of surrounding structures.",
+    "coimbatore_angle": "Applying a strict physical-inspection checklist to suburban Coimbatore plots (e.g., checking Noyyal-fed channels, local temple/mosque/church buffers, road-to-plot height differences, and red-brick construction quality) to ensure long-term livability and asset security.",
+    "visual_strategy": "The visual narrative avoids generic real estate montages. Instead, it uses a series of close-up and eye-level physical inspections of a real Coimbatore property site. The camera focuses on tangible evidence: a water channel boundary, a local community landmark in the background, active red-brick masonry, and a physical tape measurement of road-to-plot elevation. This directly proves the micro-environment checklist concept.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never buy land based on a layout map alone; physically inspect the water levels, community buffers, road heights, and surrounding construction to secure your Coimbatore investment.",
+    "voiceover_tamil": "கோயம்புத்தூரில் இடம் வாங்கும் முன், சுற்றியுள்ள நீர்நிலைகள், வழிபாட்டுத் தலங்கள் மற்றும் சாலை உயரத்தை ஒப்பிட்டுச் சரிபாருங்கள். இதுவே பாதுகாப்பான முதலீடு!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Road access, parking feasibility, and physical layout boundaries of the residential micro-environment.",
+        "purpose": "Establish the central tension of inspecting a real Coimbatore plot beyond the paper layout.",
+        "visual": "An eye-level shot of a vacant plot boundary stone in Coimbatore, with a quiet residential street and coconut trees in the background under an overcast sky.",
+        "on_screen_text": "LOCATION CHECK",
+        "voiceover_tamil": "கோயம்புத்தூரில் இடம் வாங்கும் முன்..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Presence of natural water bodies/ponds and their impact on land elevation and drainage.",
+        "purpose": "Demonstrate checking natural water bodies and drainage channels near the boundary.",
+        "visual": "A close-up camera tilt down to a natural rainwater drainage channel running parallel to the plot's edge, verifying soil stability and water flow.",
+        "on_screen_text": "WATER LEVEL",
+        "voiceover_tamil": "...சுற்றியுள்ள நீர்நிலைகள்..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Proximity and integration of community or religious structures within the immediate neighborhood.",
+        "purpose": "Show the assessment of community and religious landmarks in the immediate vicinity.",
+        "visual": "A slow horizontal pan showing a local Coimbatore neighborhood temple gopuram and a mosque minaret visible in the quiet, green midground.",
+        "on_screen_text": "COMMUNITY ZONE",
+        "voiceover_tamil": "...வழிபாட்டுத் தலங்கள்..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Observation of neighboring construction activity (active vs. stalled) to gauge development maturity.",
+        "purpose": "Inspect surrounding construction quality and active development status.",
+        "visual": "A medium shot of an adjacent house under construction, showing fresh red-brick masonry and active workers, indicating a growing, safe neighborhood.",
+        "on_screen_text": "GROWTH STAGE",
+        "voiceover_tamil": "...மற்றும் கட்டுமானங்களை..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Road access, parking feasibility, and physical layout boundaries of the residential micro-environment.",
+        "purpose": "Verify the physical elevation of the road relative to the plot to prevent flooding.",
+        "visual": "A low-angle close-up of a steel measuring tape showing the tar road level is significantly higher than the vacant plot's ground level.",
+        "on_screen_text": "ROAD HEIGHT",
+        "voiceover_tamil": "...சாலை உயரத்தோடு..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Road access, parking feasibility, and physical layout boundaries of the residential micro-environment.",
+        "purpose": "Show the physical verification process using a checklist on-site.",
+        "visual": "A hand holding a physical checklist clipboard against the backdrop of the plot, ticking off 'Elevation' and 'Drainage' with a pen.",
+        "on_screen_text": "VERIFY ALL",
+        "voiceover_tamil": "...ஒப்பிட்டுச் சரிபாருங்கள்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Road access, parking feasibility, and physical layout boundaries of the residential micro-environment.",
+        "purpose": "Deliver the final subject-specific proof of a well-selected, secure plot with minimal branding.",
+        "visual": "A wide, stable, eye-level shot of the secure, elevated plot under warm evening sunlight. A small, elegant OliveTree Investors logo appears in the corner.",
+        "on_screen_text": "OLIVETREE INVESTORS",
+        "voiceover_tamil": "இதுவே பாதுகாப்பான முதலீடு!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: Exactly 10 seconds.\n- Aspect Ratio: Native portrait 9:16, full-screen vertical composition.\n- Brand: OliveTree Investors.\n- Location Focus: Coimbatore, Tamil Nadu only.\n\nB. REALISM LOCK\n- This video must consist of ultra-photorealistic, real-world physical footage.\n- No 2D/3D animation, no motion graphics templates, no cartoon explainer elements, and no architectural CGI visualizations.\n- The environment must authentically look like suburban Coimbatore, Tamil Nadu, featuring local red-soil patches, coconut palms, native green vegetation, typical local tar roads, and regional building materials like red clay bricks.\n- Lighting must be natural daylight, transitioning from slightly overcast to warm evening sunlight in the final scene, with realistic shadows, physical reflections, and natural depth of field.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Location Selection (Micro-Environment Assessment).\n- The video must demonstrate a physical checklist for inspecting a property's immediate surroundings (water bodies, community structures, road heights, and neighboring construction) before purchasing land in Coimbatore.\n- Do not turn this into a generic layout advertisement. Every scene must show a specific physical check being performed.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Avoid the generic 'empty plot to happy family' story. Instead, show the physical reality of on-site due diligence.\n- Use physical markers: boundary stones, water channels, measuring tapes, local landmarks, and active brick masonry.\n- Camera movements must be slow, steady, and purposeful (pans, tilts, and macro close-ups), mimicking a professional surveyor's or careful buyer's perspective.\n\nE. CAMERA + IMAGE QUALITY\n- High-quality mirrorless camera look with sharp focus, natural colors, and realistic textures.\n- No impossible camera movements, no whip pans, no speed ramps, and no digital zoom bursts.\n- Keep human presence secondary—only hands or background workers are visible to maintain focus on the property elements.\n\nF. EXACT 7-SHOT PLAN\n\n- Shot 1 (0.0 - 1.4s): Eye-level shot of a concrete boundary stone marking a vacant plot in Coimbatore. In the background, a quiet residential street is visible under an overcast sky. Text overlay: 'LOCATION CHECK'. Tamil VO: 'கோயம்புத்தூரில் இடம் வாங்கும் முன்...'\n\n- Shot 2 (1.4 - 2.8s): Close-up camera tilt down to a natural rainwater drainage channel running along the plot's edge, showing stable earth and clear water flow. Text overlay: 'WATER LEVEL'. Tamil VO: '...சுற்றியுள்ள நீர்நிலைகள்...'\n\n- Shot 3 (2.8 - 4.2s): A slow, steady horizontal pan showing a local Coimbatore neighborhood temple gopuram and a mosque minaret in the quiet, green midground, framed by coconut trees. Text overlay: 'COMMUNITY ZONE'. Tamil VO: '...வழிபாட்டுத் தலங்கள்...'\n\n- Shot 4 (4.2 - 5.6s): Medium shot of an adjacent house under active construction with fresh red clay bricks and structural concrete pillars. A worker in the background is laying bricks. Text overlay: 'GROWTH STAGE'. Tamil VO: '...மற்றும் கட்டுமானங்களை...'\n\n- Shot 5 (5.6 - 7.0s): Low-angle close-up of a steel measuring tape held vertically against the edge of the tar road, showing that the road level is higher than the plot's ground level. Text overlay: 'ROAD HEIGHT'. Tamil VO: '...சாலை உயரத்தோடு...'\n\n- Shot 6 (7.0 - 8.5s): Close-up of a person's hand holding a clipboard with a physical paper checklist, ticking off 'Elevation' and 'Drainage' with a black pen against the blurred background of the plot. Text overlay: 'VERIFY ALL'. Tamil VO: '...ஒப்பிட்டுச் சரிபாருங்கள்.'\n\n- Shot 7 (8.5 - 10.0s): Wide, stable, eye-level shot of the secure, elevated plot under warm evening Coimbatore sunlight, showing a clean access road. A small, clean 'OliveTree Investors' logo is positioned in the top-right corner. Text overlay: 'OLIVETREE INVESTORS'. Tamil VO: 'இதுவே பாதுகாப்பான முதலீடு!'\n\nG. MOTION-GRAPHICS LIMIT\n- Only simple, clean, non-distorting white text overlays are permitted. No heavy graphic transitions or animated characters.\n\nH. FINAL REAL SCENE\n- The video ends on the real, sunlit plot in Coimbatore, delivering a sense of security and clarity, with the brand name integrated seamlessly.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- No cartoon, anime, or 3D explainer graphics.\n- No fake skylines or floating buildings.\n- No landscape video cropped with black bars; must be native 9:16 vertical.\n- Do not use generic happy-family footage or generic house construction animations.\n- Avoid any religious symbols or markings that are not part of the natural, realistic background architecture.",
+    "title_english": "Smart Location Checklist for Coimbatore Property Buyers",
+    "caption_english": "Before you lock in your next property investment in Coimbatore, look beyond the plot boundaries. A successful investment relies on a thorough micro-environment checklist. Assess nearby natural water bodies for drainage risks, evaluate proximity to community and religious landmarks for peaceful living, and check if the access road level is higher than your plot to avoid waterlogging. Observing neighboring construction stages also reveals the true growth pace of the locality. Use this practical checklist to secure your capital. Connect with OliveTree Investors for verified land-buying insights in Coimbatore.",
+    "title_tamil": "கோவை நில முதலீடு: கவனிக்க வேண்டிய முக்கிய விஷயங்கள்!",
+    "caption_tamil": "கோயம்புத்தூரில் நிலம் வாங்குவதற்கு முன், வெறும் வரைபடத்தை மட்டும் பார்க்காதீர்கள்! சுற்றியுள்ள நீர்நிலைகள், வழிபாட்டுத் தலங்களின் தூரம், மற்றும் சாலை உயரத்தை நேரடியாகச் சரிபார்ப்பது மிகவும் அவசியம். அண்டை வீடுகளின் கட்டுமான நிலையை கவனிப்பதன் மூலம் அப்பகுதியின் வளர்ச்சியை அறியலாம். பாதுகாப்பான மற்றும் லாபகரமான முதலீட்டிற்கு இந்த எளிய சரிபார்ப்புப் பட்டியலைப் பின்பற்றுங்கள். கோவையின் நம்பகமான ரியல் எஸ்டேட் வழிகாட்டுதலுக்கு OliveTree Investors-ஐத் தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyInvestment",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
