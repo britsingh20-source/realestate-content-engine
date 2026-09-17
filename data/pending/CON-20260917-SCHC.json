@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260917-SCHC",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-17T22:13:52.513Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "JJg9H-a3EBg",
+      "title": "world’s tallest self-propelled straight-boom aerial work platform #heavyequipment",
+      "description": "it has built the world’s tallest self-propelled straight-boom aerial work platform.\nThe monster AWP has a maximum working height of 270 feet, with a rated load capacity of three levels: 507 pounds, 661 pounds and 1,001 pounds.",
+      "publishedAt": "2026-08-26T14:09:42Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 11,
+      "views": 504,
+      "likes": 7,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=JJg9H-a3EBg",
+      "ageHours": 535.9691969444444,
+      "velocity": 0.9403525480070487,
+      "outlier": 2.7616438356164386,
+      "velocityRatio": 0.9403525480070487,
+      "engagementRatio": 0.5635311836790579
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 24,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2006,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "High-Reach Boom Lift Site Inspection and Structural Workmanship",
+    "source_script_insight": "Using specialized heavy-duty aerial platforms allows precise access and safe handling at extreme heights during structural and exterior construction work.",
+    "coimbatore_angle": "Applying professional high-reach access principles for multi-story residential construction inspections across growing Coimbatore neighborhoods like Peelamedu and RS Puram.",
+    "core_takeaway": "Using reliable high-reach access equipment ensures safe and accurate structural checks on upper-level exterior walls and high roofs.",
+    "voiceover_tamil": "உயரமான சுவர்களில்... சரியாக வேலை செய்ய... இந்த முறையைப் பயன்படுத்துங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.5,
+        "purpose": "Opening Hook",
+        "visual": "A medium close-up of a heavy industrial boom lift arm extending upward against a clear Coimbatore sky at an active residential construction site.",
+        "camera": "Low angle, steady smartphone gimbal shot, 24mm lens feel, slight upward tilt.",
+        "on_screen_text": "HIGH REACH CHECK",
+        "voiceover_tamil": "உயரமான சுவர்களில்"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.5,
+        "end_sec": 3,
+        "purpose": "Height Specification",
+        "visual": "The camera pans vertically along the steel hydraulic boom sections reaching high above a multi-story concrete building under construction.",
+        "camera": "Vertical tracking pan, fast smooth motion, 35mm lens.",
+        "on_screen_text": "EXTREME HEIGHT",
+        "voiceover_tamil": "சரியாக வேலை செய்ய"
+      },
+      {
+        "scene": 3,
+        "start_sec": 3,
+        "end_sec": 4.5,
+        "purpose": "Close-up Mechanism",
+        "visual": "Close-up of heavy-duty hydraulic steel joints and thick pins moving smoothly on the boom arm exterior.",
+        "camera": "Macro-style tight framing, eye-level, fixed position.",
+        "on_screen_text": "STRONG JOINTS",
+        "voiceover_tamil": "இந்த முறையைப்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.5,
+        "end_sec": 6,
+        "purpose": "Load Capacity Display",
+        "visual": "Wide shot showing the base chassis and heavy-duty stabilizing legs of the machine planted firmly on a concrete site driveway.",
+        "camera": "Medium-wide angle, static tripod feel, 28mm lens.",
+        "on_screen_text": "SAFE CAPACITY",
+        "voiceover_tamil": "பயன்படுத்துங்கள்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 6,
+        "end_sec": 7.5,
+        "purpose": "Platform Inspection",
+        "visual": "A construction worker wearing a safety helmet inside the elevated work platform checking exterior plastering work on a high brick wall.",
+        "camera": "Slight high-angle shot looking down at the platform bucket, 50mm lens.",
+        "on_screen_text": "EXPERT CHECK",
+        "voiceover_tamil": "பாதுகாப்பான முறை"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.5,
+        "end_sec": 9,
+        "purpose": "Structural Quality View",
+        "visual": "Clear view of finished exterior column and beam junctions on the top floor of a residential building in Coimbatore.",
+        "camera": "Slow forward push-in, 35mm lens, natural daylight.",
+        "on_screen_text": "QUALITY WORK",
+        "voiceover_tamil": "உறுதியான கட்டமைப்பு"
+      },
+      {
+        "scene": 7,
+        "start_sec": 9,
+        "end_sec": 10,
+        "purpose": "Takeaway Closing",
+        "visual": "Wide exterior shot of a completed modern residential building façade under bright sunlight with OliveTree Builders branding overlay.",
+        "camera": "Steady wide shot, eye-level, 24mm lens.",
+        "on_screen_text": "OLIVETREE BUILDERS",
+        "voiceover_tamil": "நம்பகமான வீடு"
+      }
+    ],
+    "gemini_video_prompt": "Produce a production-grade, photorealistic live-action smartphone video for OliveTree Builders, set exclusively in COIMBATORE ONLY. EXACTLY 10 SECONDS TOTAL. EXACTLY 7 SCENES. Native portrait 9:16 format. 90%+ real-world footage filmed on active construction sites with realistic dust, natural Tamil Nadu daylight, raw concrete textures, brick masonry, and heavy machinery. Motion graphics must be limited strictly to tiny minimalist text overlays, measurement lines, or check marks. NO cartoon style, NO toon animation, NO 3D renders, NO glossy corporate motion graphics, NO white-background explainers, NO fake futuristic cities. Scene-by-scene breakdown: Scene 1 (0.0-1.5s): Close-up of heavy boom lift arm extending against clear sky, text 'HIGH REACH CHECK'. Scene 2 (1.5-3.0s): Vertical pan along hydraulic boom sections, text 'EXTREME HEIGHT'. Scene 3 (3.0-4.5s): Tight shot of heavy-duty hydraulic steel joints, text 'STRONG JOINTS'. Scene 4 (4.5-6.0s): Wide shot of chassis and stabilizers on concrete, text 'SAFE CAPACITY'. Scene 5 (6.0-7.5s): Worker in bucket inspecting high wall plastering, text 'EXPERT CHECK'. Scene 6 (7.5-9.0s): Exterior column and beam junction view, text 'QUALITY WORK'. Scene 7 (9.0-10.0s): Wide view of modern Coimbatore residential building façade, text 'OLIVETREE BUILDERS'. NEGATIVE PROMPT: Animation, cartoon, 3d render, plastic CGI, illustration, fake lighting, distorted architecture, landscape orientation, black bars, blurred sidebars, watermarks, humans with floating objects, non-Coimbatore locations.",
+    "title_english": "High-Reach Boom Lift Inspection for Safe Construction Work | OliveTree Builders",
+    "caption_english": "Ensuring precision and safety at every height is crucial for top-tier residential construction. In growing Coimbatore neighborhoods, utilizing advanced high-reach equipment allows engineers to thoroughly inspect upper-level exterior walls, beams, and plastering with absolute accuracy. See how professional site equipment improves overall structural quality and workmanship. Partner with OliveTree Builders for reliable, high-standard home construction in Coimbatore. Contact us today to build your dream home safely.",
+    "title_tamil": "பாதுகாப்பான கட்டுமானத்திற்கான உயர் இயந்திர ஆய்வு | OliveTree Builders",
+    "caption_tamil": "கோவையில் உயர்தர கட்டுமானப் பணிகளுக்கு முறையான ஆய்வு அவசியம். OliveTree Builders.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#SiteSafety"
+    ]
+  }
+}
