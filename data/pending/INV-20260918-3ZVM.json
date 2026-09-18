@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260918-3ZVM",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-18T16:42:51.341Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Sanat Thakur",
+    "creatorKey": "sanat-thakur",
+    "source": {
+      "id": "4etZtCaERsc",
+      "title": "🇮🇳 15 August Special | Happy Independence Day! ❤️ #15August #JaiHind #sanatthakur #15AugustSpecial",
+      "description": "🇮🇳 Happy 15th August!\nदेश की आज़ादी के साथ Financial Freedom भी हासिल करें। 💰🔥\nBe Healthy. Be Wealthy. Be Free!\nJai Hind! 🙏🇮🇳\n\n#Happy15August #HappyIndependenceDay #15August #JaiHind #VandeMataram #FinancialFreedom #BeHealthy #BeWealthy #BeFree #ProudIndian #India",
+      "publishedAt": "2026-08-15T06:14:14Z",
+      "channelId": "UCnq2fsmXDDcXKqVfhveBzGg",
+      "channelTitle": "Sanat Thakur",
+      "durationSeconds": 26,
+      "views": 1702,
+      "likes": 121,
+      "comments": 9,
+      "url": "https://www.youtube.com/watch?v=4etZtCaERsc",
+      "ageHours": 826.3313877777778,
+      "velocity": 2.0597063420005446,
+      "outlier": 1,
+      "velocityRatio": 1,
+      "engagementRatio": 1
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 16,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 1505
+  },
+  "pack": {
+    "subject_classification": "loan/EMI",
+    "source_evidence_points": [
+      "National freedom parallels personal financial freedom; unmanageable debt liabilities directly destroy personal autonomy.",
+      "Financial and physical health require daily proactive discipline to prevent chronic stress and financial traps.",
+      "True freedom is sustained through conservative, prudent capital management rather than high-risk speculative over-leveraging."
+    ],
+    "topic": "Achieving True Financial Independence by Avoiding High-EMI Property Traps in Coimbatore",
+    "source_script_insight": "The creator ties national Independence Day to personal financial and health freedom, asserting that freedom requires daily discipline and avoiding debilitating traps. In real estate, financial freedom is lost when buyers over-leverage with crushing EMI burdens, mistaking debt-heavy purchases for genuine wealth.",
+    "coimbatore_angle": "In Coimbatore's conservative MSME and business-driven culture, real estate wealth is traditionally built on high-equity, low-leverage, clear-title assets. Over-borrowing to speculate on peripheral land leads to severe monthly EMI stress rather than financial independence.",
+    "visual_strategy": "The visuals track the tension between debt-stress and equity-freedom using real financial artifacts: high-interest loan deduction alerts, bank amortisation schedules, LTV calculation adjustments, a certified nil-encumbrance certificate, and peaceful asset ownership in Coimbatore, completely bypassing generic plot-to-villa montages.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Real estate independence means owning low-leverage, unencumbered assets that generate peace of mind, not debt stress.",
+    "voiceover_tamil": "சுதந்திரம்னா என்ன? அதிக கடன் சுமை இல்லாம, சரியான திட்டமிடல் மூலம் வில்லங்கம் இல்லாத சொத்து நிம்மதியான வருமானம் தரும்! கடன் பொறிக்குள் சிக்காதீங்க; சுதந்திரமான சொத்துக்களை உருவாக்குங்க!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "National freedom parallels personal financial freedom; unmanageable debt liabilities directly destroy personal autonomy.",
+        "purpose": "Establish immediate emotional and financial tension with a stressful monthly bank EMI auto-debit alert.",
+        "visual": "Macro top-down shot of a modern smartphone on a teak office desk in Coimbatore; screen illuminates with a high-value bank EMI auto-debit notification alongside a tight monthly balance.",
+        "on_screen_text": "EMI Burden?",
+        "voiceover_tamil": "சுதந்திரம்னா என்ன?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Financial and physical health require daily proactive discipline to prevent chronic stress and financial traps.",
+        "purpose": "Highlight the hidden cost of high-leverage borrowing on an authentic printed bank amortization schedule.",
+        "visual": "Close-up eye-level angle of an investor's hand using an orange highlighter over heavy initial interest deductions on a bank loan schedule sheet.",
+        "on_screen_text": "Interest Drain",
+        "voiceover_tamil": "அதிக கடன் சுமை இல்லாம..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "True freedom is sustained through conservative, prudent capital management rather than high-risk speculative over-leveraging.",
+        "purpose": "Show the practical mechanism of disciplined leverage by recalculating to a safer, sustainable loan-to-value ratio.",
+        "visual": "Angled macro view of fingers recalculating on a desktop calculator, adjusting loan-to-value down from 80% to a safe 40% alongside land evaluation notes.",
+        "on_screen_text": "Safe LTV",
+        "voiceover_tamil": "சரியான திட்டமிடல் மூலம்..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "National freedom parallels personal financial freedom; unmanageable debt liabilities directly destroy personal autonomy.",
+        "purpose": "Provide undeniable physical proof of true ownership with an unencumbered legal document.",
+        "visual": "Direct overhead macro focus on a Tamil Nadu registration department Encumbrance Certificate clearly stamped 'Nil Encumbrance' resting under soft window sunlight.",
+        "on_screen_text": "Nil EC",
+        "voiceover_tamil": "வில்லங்கம் இல்லாத சொத்து..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "True freedom is sustained through conservative, prudent capital management rather than high-risk speculative over-leveraging.",
+        "purpose": "Showcase physical stability in an established, calm Coimbatore residential neighborhood.",
+        "visual": "Smooth ground-level tracking shot along a quiet, tree-canopied residential avenue in Coimbatore with clean tarmac and mature compound walls in morning light.",
+        "on_screen_text": "Real Stability",
+        "voiceover_tamil": "நிம்மதியான வருமானம் தரும்!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Financial and physical health require daily proactive discipline to prevent chronic stress and financial traps.",
+        "purpose": "Portray genuine personal freedom and absence of financial anxiety in everyday life.",
+        "visual": "Eye-level medium shot of an investor peacefully holding a traditional stainless steel filter coffee dabarah at an open-air Coimbatore cafe, calm and unburdened.",
+        "on_screen_text": "Zero Stress",
+        "voiceover_tamil": "கடன் பொறிக்குள் சிக்காதீங்க;"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "True freedom is sustained through conservative, prudent capital management rather than high-risk speculative over-leveraging.",
+        "purpose": "Deliver conclusive proof of disciplined wealth preservation with secure physical deed storage.",
+        "visual": "Close-up shot of hands placing registered clean deed documents neatly into a secure wooden storage drawer in a sunlit Coimbatore office.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "சுதந்திரமான சொத்துக்களை உருவாக்குங்க!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Total Duration: Exactly 10.0 seconds.\n- Aspect Ratio: Native Portrait 9:16 (1080x1920). Full-screen vertical framing throughout. Absolutely no black sidebars, pillarboxing, letterboxing, or rotated landscape formats.\n\nB. REALISM LOCK\n- 100% photorealistic physical-world documentary footage. No 3D render, no CGI gloss, no cartoon graphics, no architectural visualizer styles, and no speculative animations.\n- Authentic Coimbatore, Tamil Nadu environments: real wood office desks, real Tamil Nadu government stamp paper, stainless steel South Indian dabarah sets, natural morning sunlight, genuine urban tree canopies, and realistic skin textures with zero plastic appearance.\n\nC. SOURCE SUBJECT LOCK\n- Subject: loan/EMI & Debt-Free Asset Strategy in Coimbatore Real Estate.\n- Core Thesis: True financial independence requires avoiding high-EMI debt traps. Real estate wealth must be anchored in safe leverage (low LTV), verified nil encumbrance, and genuine cash-flow peace of mind, not aggressive speculative borrowing.\n- Strict Coimbatore localization: Real office interiors, actual regional registration document layouts (EC), authentic avenue foliage (neem/gulmohar shade), and local lifestyle cues.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- FORBIDDEN DEFAULT SEQUENCE BANNED: Do not show an empty red-soil plot, followed by boundary pegs, followed by building construction, followed by a happy family walking into a villa. That sequence is strictly forbidden.\n- Every shot must use physical debt and equity evidence: bank SMS alert, interest amortization schedule, desk financial calculator, certified Nil-Encumbrance Certificate, serene Coimbatore avenue, stress-free morning filter coffee, and clean document archival.\n\nE. CAMERA & IMAGE QUALITY\n- Cinematic 4K aesthetic, natural depth of field (f/1.8 to f/4.0), perfectly stabilized documentary camera movement, crisp macro focus on document details, balanced natural exposure with authentic morning shadows, and natural color grading without surreal saturation.\n\nF. EXACT 7-SHOT PLAN (10.0 SECONDS TOTAL)\n\nShot 1 (0.0s – 1.4s) | Tension Hook\n- Location: Private office in Coimbatore.\n- Visual: Macro top-down shot of a smartphone resting on a dark teak desk. Screen wakes up with a clear push notification reading 'EMI Auto-Debit Successful: Rs. 68,450' with low remaining balance warning.\n- Camera: Static macro framing, sharp focus on phone glass, realistic reflections of warm morning window light.\n- On-Screen Text: EMI Burden?\n- Tamil VO: சுதந்திரம்னா என்ன?\n\nShot 2 (1.4s – 2.8s) | Financial Trap Proof\n- Location: Office desk environment.\n- Visual: Eye-level close-up of a printed bank amortisation schedule. A hand holding an orange highlighter firmly marks the disproportionately high 'Interest Component' column versus tiny principal repayment.\n- Camera: Slight slow lateral push-in (macro lens), crisp texture on matte paper fibers.\n- On-Screen Text: Interest Drain\n- Tamil VO: அதிக கடன் சுமை இல்லாம...\n\nShot 3 (2.8s – 4.2s) | Strategic Correction\n- Location: Professional consultation desk.\n- Visual: Tight angled macro shot of fingers punching keys on a desktop financial calculator, recalculating numbers to show a safe 40% Loan-to-Value figure beside handwritten property notes.\n- Camera: Fixed low-angle macro, sharp depth of field blurring the background desk accessories.\n- On-Screen Text: Safe LTV\n- Tamil VO: சரியான திட்டமிடல் மூலம்...\n\nShot 4 (4.2s – 5.6s) | Clean Asset Evidence\n- Location: Document inspection table.\n- Visual: Direct overhead top-down shot of a legal Tamil Nadu Encumbrance Certificate (EC), crisp Tamil and English registry lettering, with a clear rubber stamp showing 'NIL ENCUMBRANCE' bathed in clean morning daylight.\n- Camera: Completely static top-down lock.\n- On-Screen Text: Nil EC\n- Tamil VO: வில்லங்கம் இல்லாத சொத்து...\n\nShot 5 (5.6s – 7.0s) | Location Stability\n- Location: Established residential street in Coimbatore (Race Course / Ramanathapuram fringe).\n- Visual: Ground-level tracking shot moving forward along an asphalt residential lane lined with mature neem trees, compound stone walls, and established homes under soft sunlight.\n- Camera: Smooth forward gimbal dolly, eye-level, natural ambient motion of foliage.\n- On-Screen Text: Real Stability\n- Tamil VO: நிம்மதியான வருமானம் தரும்!\n\nShot 6 (7.0s – 8.5s) | Emotional Freedom Payoff\n- Location: Quiet outdoor cafe veranda in Coimbatore.\n- Visual: Medium shot of a mature Tamil investor sitting comfortably at an outdoor table, lifting a traditional stainless steel dabarah of steaming filter coffee, relaxed expression, enjoying financial autonomy without phone panic.\n- Camera: Eye-level static portrait framing, shallow depth of field softly rendering background greenery.\n- On-Screen Text: Zero Stress\n- Tamil VO: கடன் பொறிக்குள் சிக்காதீங்க;\n\nShot 7 (8.5s – 10.0s) | Resolution & Brand Anchor\n- Location: Private study/office in Coimbatore.\n- Visual: Close-up view of hands neatly placing verified property deeds inside an embossed leather folder and sliding it into an organized solid teak drawer, gently closing it.\n- Camera: Crisp static macro shot, warm interior lighting.\n- On-Screen Text: OliveTree Investors\n- Tamil VO: சுதந்திரமான சொத்துக்களை உருவாக்குங்க!\n\nG. MOTION GRAPHICS LIMIT\n- Minimal text overlays only (1-2 words). Crisp, modern, clean sans-serif white typography with subtle drop-shadow. No animated popups, cartoon arrows, or full-screen graphic slides.\n\nH. FINAL REAL SCENE\n- Scene 7 finishes on the physical action of securing verified deed documents. No standalone animated splash screen or logo bumper.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- STRICTLY BAN: 3D architectural renders, cartoon/anime visuals, whiteboard explainer graphics, unreal CGI shiny surfaces, generic developer promotional plots, flying camera through walls, rapid whip zooms, fake skyline backdrops, distorted fingers/documents, duplicated pedestrians, religious symbols, unverified numerical promises, landscape video letterboxing.",
+    "title_english": "Property Financial Freedom in Coimbatore: Escape the High-EMI Trap",
+    "caption_english": "True financial independence isn't about buying property on maximum leverage that drains your peace of mind through massive EMIs every month. In Coimbatore's stable real estate market, lasting wealth is built through conservative leverage, verified nil-encumbrance documentation, and sustainable asset equity. When your property creates genuine financial security rather than monthly debt anxiety, you achieve real freedom. Partner with OliveTree Investors for prudent, low-risk, and thoroughly vetted property strategies in Coimbatore.",
+    "title_tamil": "கோவையில் கடன் சுமையற்ற ரியல் எஸ்டேட் சுதந்திரம்: EMI வலையை தவிருங்கள்",
+    "caption_tamil": "மாதந்தோறும் அதிக EMI செலுத்தி நிம்மதியை இழப்பது உண்மையான நிதி சுதந்திரம் அல்ல. கோவையின் நிலையான ரியல் எஸ்டேட் சந்தையில், குறைந்த கடன் விகிதம் மற்றும் முறையான வில்லங்கமில்லா ஆவணங்கள் மூலமே உண்மையான சொத்து சுதந்திரம் சாத்தியமாகும். உங்கள் முதலீடு கடன் சுமையாக மாறாமல் பாதுகாப்பான சொத்தாக அமைய OliveTree Investors உடன் பயணியுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#FinancialFreedom",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
