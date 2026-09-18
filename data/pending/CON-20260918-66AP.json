@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260918-66AP",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-18T21:45:45.240Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "0ppRhMESvlI",
+      "title": "Viral tractor stunt #trending #shorts",
+      "description": "What a skill of tractor operator,  you never Seen",
+      "publishedAt": "2026-08-28T12:00:28Z",
+      "channelId": "UCPbozMHp8RnyE-GDTAKAsLg",
+      "channelTitle": "Civil Guruji WB",
+      "durationSeconds": 11,
+      "views": 531,
+      "likes": 5,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=0ppRhMESvlI",
+      "ageHours": 513.6247569444445,
+      "velocity": 1.033828671263669,
+      "outlier": 2.9095890410958902,
+      "velocityRatio": 1.033828671263669,
+      "engagementRatio": 0.3820550397824121
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 25,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2435,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.8-flash"
+  },
+  "pack": {
+    "topic": "Heavy Machinery Load Safety & Pit Edge Stability in Coimbatore Sites",
+    "source_script_insight": "The source video showcases dynamic weight distribution and high rear-wheel point loads under heavy machinery movement. In construction site civil engineering, heavy machinery such as tractors, backhoes, and material dumpers exert massive dynamic point loads on soil. Operating heavy equipment close to unbraced excavation pits can trigger sudden shear collapse of the pit walls.",
+    "coimbatore_angle": "In Coimbatore construction sites around Saravanampatti, Vadavalli, and Thudiyalur, deep pit excavations for column footings often encounter mixed soil layers (red soil over weathered quartz/gneiss). Moving heavy tractor-trailers carrying steel or backhoes right alongside open excavation edges creates dangerous surcharge loads that destabilize pit margins.",
+    "core_takeaway": "Always maintain a safe setback distance (at least equal to pit depth) and install slope protection when operating heavy vehicles near site excavation pits.",
+    "voiceover_tamil": "குழி அருகே டிராக்டர் வேண்டாம்! சுமை அழுத்தத்தால் மண் சரியும்! பாதுகாப்பான இடைவெளி அவசியம்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook - Heavy site tractor carrying loaded steel close to pit edge",
+        "visual": "A loaded site tractor carrying reinforcement steel bars driving very close to an open footing excavation pit on a Coimbatore site.",
+        "camera": "Eye-level close tracking shot, 35mm lens, rapid rightward tracking",
+        "on_screen_text": "DANGER ZONE!",
+        "voiceover_tamil": "குழி அருகே"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Problem demonstration - Heavy wheel pressure causing soil cracks",
+        "visual": "Macro shot of heavy tractor tire compressing red soil near pit edge, visible micro-cracks appearing in the unbraced earth soil edge.",
+        "camera": "Low-angle micro close-up, 50mm macro lens, static",
+        "on_screen_text": "HEAVY POINT LOAD",
+        "voiceover_tamil": "டிராக்டர் வேண்டாம்!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Failure mechanism - Soil shear slip near column excavation",
+        "visual": "Unbraced excavation bank slipping under dynamic vehicle surcharge load, red soil crumbling into pit bottom.",
+        "camera": "High-angle 45-degree angle downward looking into footing pit, 24mm lens",
+        "on_screen_text": "SOIL SHEAR COLLAPSE",
+        "voiceover_tamil": "சுமை அழுத்தத்தால்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Correct inspection principle - Setback line marking",
+        "visual": "Site engineer in high-vis vest and hard hat applying lime powder marker line at a safe 1.5-meter distance from excavation edge.",
+        "camera": "Medium shot, 35mm lens, smooth pan along setback line",
+        "on_screen_text": "SETBACK LINE",
+        "voiceover_tamil": "மண் சரியும்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Safety enforcement - Dynamic barrier setup",
+        "visual": "Yellow safety barricade cones placed along lime mark to block heavy machinery movement near footing trench.",
+        "camera": "Low-angle dolly forward shot, 28mm lens",
+        "on_screen_text": "NO VEHICLE ZONE",
+        "voiceover_tamil": "பாதுகாப்பான"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Proper execution - Tractor unloading at designated safe pad",
+        "visual": "Tractor unloads rebar at a designated hard packed material yard 5 meters away from excavation zone.",
+        "camera": "Wide shot, 24mm lens, subtle tilt up",
+        "on_screen_text": "SAFE UNLOADING AREA",
+        "voiceover_tamil": "இடைவெளி"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Final takeaway and brand payoff",
+        "visual": "Clean, engineered footing excavation with soil shoring timber and neat setback boundary under bright sunlight in Coimbatore.",
+        "camera": "Slight low-angle hero static shot, 35mm lens",
+        "on_screen_text": "OLIVETREE BUILDERS",
+        "voiceover_tamil": "அவசியம்!"
+      }
+    ],
+    "gemini_video_prompt": "OliveTree Builders, COIMBATORE ONLY, EXACTLY 10 SECONDS, EXACTLY 7 SCENES, PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE, 90%+ real-looking visuals, portrait 9:16 vertical video.\n\nSCENE 1 (0.0–1.4s): Real active residential construction site in Coimbatore, red soil ground under bright Indian afternoon sun. A green Mahindra agricultural tractor carrying heavy steel rebar bundles drives dangerously close to an open footing excavation pit. High contrast, realistic dust kicked up by rear tires. Camera at knee height, rapid tracking movement following tire edge. Text overlay: 'DANGER ZONE!'. Voiceover (Tamil): 'குழி அருகே'.\n\nSCENE 2 (1.4–2.8s): Extreme macro close-up of heavy rear tractor tire treads pressing down onto unreinforced red soil bank. Cracks instantly spread along the dirt edge adjacent to the open trench. Photorealistic soil texture, fine sand grains moving, authentic Tamil Nadu clay-gravel soil composition. Static ground-level macro lens. Text overlay: 'HEAVY POINT LOAD'. Voiceover (Tamil): 'டிராக்டர் வேண்டாம்!'.\n\nSCENE 3 (2.8–4.2s): High-angle 45-degree view looking down into a 6-foot deep column footing trench. Soil shear slip occurs under heavy vehicle weight, sending clods of dry red earth tumbling down over exposed leveling concrete (PCC). Natural harsh daylight shadows. Fast tilt down camera movement. Text overlay: 'SOIL SHEAR COLLAPSE'. Voiceover (Tamil): 'சுமை அழுத்தத்தால்'.\n\nSCENE 4 (4.2–5.6s): A civil site supervisor wearing white hardhat and neon yellow safety vest pouring bright white lime powder along the ground, marking a strict 1.5m safety setback boundary line parallel to the footing excavation edge. Realistic site context with red bricks and coconut trees in background. Medium tracking shot. Text overlay: 'SETBACK LINE'. Voiceover (Tamil): 'மண் சரியும்!'.\n\nSCENE 5 (5.6–7.0s): Low-angle perspective looking down the newly marked lime line where heavy-duty yellow and black safety cones are being aligned to block site tractor movement. Sunlight reflecting off hardhat and plastic cones. Dynamic low dolly push shot. Text overlay: 'NO VEHICLE ZONE'. Voiceover (Tamil): 'பாதுகாப்பான'.\n\nSCENE 6 (7.0–8.5s): Wide photorealistic shot showing the red tractor safely parked and unloading steel bundles on a hardened gravel unloading pad positioned 6 meters away from the excavation zone. Neat site organization, workers guiding unloading with ropes. Wide 24mm lens angle. Text overlay: 'SAFE UNLOADING AREA'. Voiceover (Tamil): 'இடைவெளி'.\n\nSCENE 7 (8.5–10.0s): Hero static shot of a pristine, safely excavated column footing pit with timber shoring supports along side walls, clean PCC bed at bottom, surrounded by clear setback boundary markers. Crisp natural lighting, realistic blue sky and local flora in far background. Clean minimalist text overlay: 'OLIVETREE BUILDERS'. Voiceover (Tamil): 'அவசியம்!'.\n\nCONTINUITY & STYLE RULES:\n- Maintain consistent sunlight intensity, red clay soil texture, and site environment across all 7 scenes.\n- Authentic Coimbatore residential construction site ambiance with local vegetation and realistic construction equipment.\n- No cartoon effects, 3D animations, studio graphics, or fake floating CAD models. Only realistic physical overlays.\n\nNEGATIVE PROMPT:\nDo NOT include cartoon, toon animation, 3D render, glossy CGI, white background explainer, landscape video, letterboxing, blurred sidebars, generic non-Indian landscapes, fake landmarks, presenter talking directly to camera, audio music overlays, religious symbols, unverified figures.",
+    "title_english": "Avoid Footing Collapse: Heavy Vehicle Setback Rule",
+    "caption_english": "Operating heavy tractors or backhoes near open excavation pits is a major cause of soil collapse on Coimbatore construction sites. Soil dynamic surcharge loads create shear failure along unbraced pit margins, endangering site workers and destabilizing foundation beds. Always enforce a strict equipment setback zone equal to or greater than the excavation depth. OliveTree Builders follows rigorous site safety protocols and structural soil management standards across all residential projects in Coimbatore. Build safe, build strong with engineered site discipline.",
+    "title_tamil": "குழி அருகில் டிராக்டர் இயக்கம் ஆபத்து - மண் சரிவை தடுக்கும் வழி!",
+    "caption_tamil": "கோவை வீடுகட்டுமான தளங்களில் அடித்தள குழி அருகில் டிராக்டர் மற்றும் கனரக வாகனங்களை இயக்கும்போது மண் சரிவு ஏற்பட அதிக வாய்ப்புள்ளது. வாகனங்களின் சுமை அழுத்தத்தால் குழியின் பக்கவாட்டு மண் சரிந்து பெரிய பாதிப்பை உண்டாக்கும். எப்போதும் குழியின் ஆழத்திற்கு இணையான பாதுகாப்பான இடைவெளியை கடைபிடியுங்கள். ஆலிவ்ட்ரீ பில்டர்ஸ் வழங்கிய கட்டுமான பாதுகாப்பு குறிப்பு.",
+    "hashtags": [
+      "#CoimbatoreConstruction",
+      "#SiteSafety",
+      "#OliveTreeBuilders"
+    ]
+  }
+}
