@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260918-DNCI",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-18T17:16:29.553Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Brick&Bolt",
+    "creatorKey": "brick-bolt",
+    "source": {
+      "id": "JamhrBUiEu8",
+      "title": "Floor Plan | G+1 | 30×40 Plot",
+      "description": "This thoughtfully planned G+1 residence on a 30×40 west-facing plot features 3 spacious bedrooms, open living spaces, ample natural light, and functional layouts perfect for modern family living.\n\nFrom a practical ground floor to a private first floor and an open terrace ready for future possibilities, every detail is designed with comfort in mind.\n\nWould you build a home like this? Let us know in the comments!\n#floorplan #homedesigninspo #houseplan #architecture #fyp",
+      "publishedAt": "2026-08-28T10:32:04Z",
+      "channelId": "UCZIsO0XIk0B78rcrLEqhJOA",
+      "channelTitle": "Brick & Bolt",
+      "durationSeconds": 82,
+      "views": 649,
+      "likes": 16,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=JamhrBUiEu8",
+      "ageHours": 510.6092791666667,
+      "velocity": 1.2710305638377588,
+      "outlier": 1.7011795543905637,
+      "velocityRatio": 1.2710305638377588,
+      "engagementRatio": 1.7121990504944267
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 25,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5178,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash"
+  },
+  "pack": {
+    "topic": "G+1 Residential Floor Plan & Space Optimization",
+    "source_script_insight": "Maximizing utility, light, and ventilation across multiple levels in a compact 30x40 plot without feeling cramped.",
+    "coimbatore_angle": "Designing space-efficient G+1 homes for standard urban plots in areas like RS Puram or Saibaba Colony in Coimbatore.",
+    "core_takeaway": "Smart layout planning ensures 3 bedrooms, parking, and multiple balconies fit perfectly in a 30x40 plot.",
+    "voiceover_tamil": "30க்கு 40 plot-லா G+1 வீடு கட்டணுமா? Space மிச்சம் பண்ணுங்க!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": "0.0",
+        "end_sec": "1.4",
+        "purpose": "Hook",
+        "visual": "A real-world 30x40 empty residential plot in Coimbatore under bright daylight, surrounded by existing concrete compound walls.",
+        "camera": "Eye-level steady smartphone shot, wide lens.",
+        "on_screen_text": "30x40 Plot Plan",
+        "voiceover_tamil": "30க்கு 40 plot-லா"
+      },
+      {
+        "scene": 2,
+        "start_sec": "1.4",
+        "end_sec": "2.8",
+        "purpose": "Ground Floor Parking",
+        "visual": "A newly cast ground floor car parking slab with smooth concrete finish on a Coimbatore residential site.",
+        "camera": "Low angle, slow push-in.",
+        "on_screen_text": "Ground Floor",
+        "voiceover_tamil": "G+1 வீடு கட்டணுமா?"
+      },
+      {
+        "scene": 3,
+        "start_sec": "2.8",
+        "end_sec": "4.2",
+        "purpose": "Living & Dining Flow",
+        "visual": "Open-concept brick masonry walls forming the living and dining transition area inside an active construction site.",
+        "camera": "Medium shot, pan right.",
+        "on_screen_text": "Open Layout",
+        "voiceover_tamil": "Space மிச்சம் பண்ணுங்க!"
+      },
+      {
+        "scene": 4,
+        "start_sec": "4.2",
+        "end_sec": "5.6",
+        "purpose": "First Floor Bedrooms",
+        "visual": "First floor brick walls marked out with three distinct bedroom doorway openings under natural sunlight.",
+        "camera": "Gimbal forward tracking shot.",
+        "on_screen_text": "3 Bedrooms",
+        "voiceover_tamil": "மூணு படுக்கையறை"
+      },
+      {
+        "scene": 5,
+        "start_sec": "5.6",
+        "end_sec": "7.0",
+        "purpose": "Balcony Ventilation",
+        "visual": "A newly erected first-floor cantilevered balcony slab overlooking a quiet Coimbatore residential street.",
+        "camera": "Slight tilt-up, steady shot.",
+        "on_screen_text": "Balcony View",
+        "voiceover_tamil": "நல்ல காற்று வெளிச்சம்"
+      },
+      {
+        "scene": 6,
+        "start_sec": "7.0",
+        "end_sec": "8.5",
+        "purpose": "Terrace Access",
+        "visual": "Staircase headroom masonry structure on a cured concrete roof terrace under clear blue Coimbatore sky.",
+        "camera": "High angle, slow pan.",
+        "on_screen_text": "Roof Terrace",
+        "voiceover_tamil": "டெரஸ் பகுதி"
+      },
+      {
+        "scene": 7,
+        "start_sec": "8.5",
+        "end_sec": "10.0",
+        "purpose": "Takeaway / CTA",
+        "visual": "Finished exterior brickwork and plastering of a modern G+1 residential building facade in Coimbatore.",
+        "camera": "Eye-level steady shot, subtle zoom.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "சரியான அமைப்பு."
+      }
+    ],
+    "gemini_video_prompt": "OliveTree Builders, COIMBATORE ONLY, EXACTLY 10 SECONDS, EXACTLY 7 SCENES, PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE, 90%+ real-looking visuals, portrait 9:16, motion graphics only as overlays, and no toon/cartoon/explainer-animation style. Scene 1 (0.0-1.4s): Eye-level steady smartphone shot of an empty 30x40 residential plot in Coimbatore under bright daylight, real dust and surrounding concrete walls, overlay text '30x40 Plot Plan'. Scene 2 (1.4-2.8s): Low angle push-in on a newly cast concrete parking slab, realistic rough texture, overlay text 'Ground Floor'. Scene 3 (2.8-4.2s): Medium pan shot of open brick masonry walls inside a building site, natural lighting, overlay text 'Open Layout'. Scene 4 (4.2-5.6s): Gimbal tracking shot showing three distinct bedroom door openings on the first floor, raw brickwork, overlay text '3 Bedrooms'. Scene 5 (5.6-7.0s): Tilt-up steady shot of a cantilevered first-floor concrete balcony slab overlooking a Coimbatore street, overlay text 'Balcony View'. Scene 6 (7.0-8.5s): High angle pan of a staircase headroom on a finished roof slab, realistic cement texture, overlay text 'Roof Terrace'. Scene 7 (8.5-10.0s): Steady eye-level shot of freshly plastered exterior walls of a G+1 house in Coimbatore, realistic daytime lighting, overlay text 'OliveTree Builders'. NEGATIVE PROMPT: animation, 3D render, cartoon, CG, toon, CGI, futuristic city, floating houses, blurry sidebars, black bars, landscape, white-background explainer, graphic design, fake CGI elements, extra people, watermark, logo overlay.",
+    "title_english": "Smart 30x40 G+1 Floor Plan Ideas in Coimbatore",
+    "caption_english": "Planning to build a dream home on a 30x40 plot in Coimbatore? Discover how smart space optimization brings 3 bedrooms, parking, and balconies together without feeling cramped. Build smart with OliveTree Builders. DM us for your next project layout planning!",
+    "title_tamil": "கோவையில் 30x40 வீட்டுத் திட்டம்",
+    "caption_tamil": "கோவையில் 30x40 plot-ல் G+1 வீடு கட்ட சரியான பிளான். 3 படுக்கையறை மற்றும் பால்கனியுடன் கூடிய சிறந்த வடிவமைப்பு.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#FloorPlan"
+    ]
+  }
+}
