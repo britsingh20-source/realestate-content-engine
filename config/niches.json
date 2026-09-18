@@ -3,37 +3,37 @@
     "label": "PROPERTY INVESTMENT",
     "emoji": "📈",
     "creatorConfig": "config/investment.creators.json",
-    "brand": "olivetree_investors",
-    "brandLabel": "OliveTree Investors",
-    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_INVESTORS",
-    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_INVESTORS"
+    "brand": "olivetree_builders",
+    "brandLabel": "OliveTree Builders",
+    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_BUILDERS",
+    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_BUILDERS"
   },
   "buyer_education": {
     "label": "PROPERTY BUYER EDUCATION",
     "emoji": "🏠",
     "creatorConfig": "config/buyer-education.creators.json",
-    "brand": "olivetree_safebuy",
-    "brandLabel": "OliveTree SafeBuy",
-    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_SAFEBUY",
-    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_SAFEBUY"
+    "brand": "olivetree_builders",
+    "brandLabel": "OliveTree Builders",
+    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_BUILDERS",
+    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_BUILDERS"
   },
   "documentation": {
     "label": "PROPERTY DOCUMENTATION & LEGAL",
     "emoji": "📑",
     "creatorConfig": "config/documentation.creators.json",
-    "brand": "olivetree_safebuy",
-    "brandLabel": "OliveTree SafeBuy",
-    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_SAFEBUY",
-    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_SAFEBUY"
+    "brand": "olivetree_builders",
+    "brandLabel": "OliveTree Builders",
+    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_BUILDERS",
+    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_BUILDERS"
   },
   "land_selection": {
     "label": "SMART LAND SELECTION",
     "emoji": "📍",
     "creatorConfig": "config/land-selection.creators.json",
-    "brand": "olivetree_safebuy",
-    "brandLabel": "OliveTree SafeBuy",
-    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_SAFEBUY",
-    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_SAFEBUY"
+    "brand": "olivetree_builders",
+    "brandLabel": "OliveTree Builders",
+    "youtubeSecretPrefix": "YOUTUBE_OLIVETREE_BUILDERS",
+    "instagramSecretPrefix": "INSTAGRAM_OLIVETREE_BUILDERS"
   },
   "construction": {
     "label": "CONSTRUCTION KNOWLEDGE",
