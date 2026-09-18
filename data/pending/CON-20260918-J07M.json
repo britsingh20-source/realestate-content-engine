@@ -1,0 +1,132 @@
+{
+  "contentId": "CON-20260918-J07M",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-18T05:46:01.800Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Buildofy",
+    "creatorKey": "buildofy",
+    "source": {
+      "id": "te-w-vdo_Rw",
+      "title": "Soori Residence | Official Promo #buildofy #architecture #coimbatore #home #tamilnadu #shorts #reels",
+      "description": "",
+      "publishedAt": "2026-09-17T10:30:27Z",
+      "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
+      "channelTitle": "Buildofy",
+      "durationSeconds": 57,
+      "views": 3645,
+      "likes": 107,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=te-w-vdo_Rw",
+      "ageHours": 19.205369722222223,
+      "velocity": 189.79067066761175,
+      "outlier": 0.2672189435871119,
+      "velocityRatio": 9.028233589855423,
+      "engagementRatio": 1.0873072105148147
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 40,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4554,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Sloping Roof Waterproofing & Drainage in Coimbatore Residential Construction",
+    "source_script_insight": "The source video highlights the architectural integration of sloping roofs and monsoon management in Coimbatore homes, emphasizing how traditional tile layouts handle heavy rainfall.",
+    "coimbatore_angle": "Coimbatore experiences intense seasonal downpours during the Northeast and Southwest monsoons, making proper sloping roof waterproofing, flashing, and gutter alignment critical to prevent water seepage into living spaces.",
+    "core_takeaway": "Ensure precision slope angles, waterproof underlays, and secure tile detailing on residential roofs to protect homes against heavy monsoon rains in Coimbatore.",
+    "voiceover_tamil": "கோயம்புத்தூர் மழையை எதிர்கொள்ள கூரை அமைப்பு எப்படிக் கட்டப்பட வேண்டும்?",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook the viewer with a real residential roof site check",
+        "visual": "Close-up of a worker in a construction site in Coimbatore inspecting concrete roof slope angles with a spirit level under bright daylight.",
+        "camera": "Low-angle shot, handheld gimbal motion, 35mm lens feel",
+        "on_screen_text": "Roof Slope Check",
+        "voiceover_tamil": "கோயம்புத்தூர் மழையை"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Show waterproofing layer application",
+        "visual": "A construction worker applying a dark liquid waterproofing membrane over a concrete slab surface on an open terrace.",
+        "camera": "Eye-level medium shot, steady push-in, 50mm lens feel",
+        "on_screen_text": "Waterproof Base",
+        "voiceover_tamil": "எதிர்கொள்ள கூரை"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.3,
+        "purpose": "Highlight flashing installation details",
+        "visual": "Detailed shot of metal flashing being secured along a parapet wall junction to prevent water seepage.",
+        "camera": "Macro close-up, static tripod feel, sharp focus on metal joint",
+        "on_screen_text": "Flashing Sealing",
+        "voiceover_tamil": "அமைப்பு எப்படிக்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.7,
+        "purpose": "Demonstrate tile laying on sloping roof structure",
+        "visual": "Masons laying traditional terracotta tiles over mortar beds on a sloped reinforced concrete roof framework.",
+        "camera": "High-angle wide shot, slow panning motion, natural outdoor lighting",
+        "on_screen_text": "Tile Alignment",
+        "voiceover_tamil": "கட்டப்பட வேண்டும்?"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "purpose": "Inspect gutter and drainage outlet connection",
+        "visual": "A site engineer pointing at a clean PVC rain-water drainage pipe connected securely to the roof edge.",
+        "camera": "Medium close-up, slight pan, realistic dust and site texture",
+        "on_screen_text": "Drainage Outlet",
+        "voiceover_tamil": "சரியான சரிவு"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.6,
+        "purpose": "Show final water runoff test",
+        "visual": "Water being poured onto the finished sloped roof, flowing smoothly down towards the outlet without pooling.",
+        "camera": "Ground-level tracking shot, fast dynamic movement, clear water stream",
+        "on_screen_text": "Flow Test",
+        "voiceover_tamil": "மற்றும் முறையான"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.6,
+        "end_sec": 10,
+        "purpose": "Deliver final structural takeaway for Coimbatore builders",
+        "visual": "A completed multi-tiered sloped tile roof of a modern Coimbatore residence under bright afternoon sunlight with lush surroundings.",
+        "camera": "Wide exterior shot, slow upward tilt, cinematic natural lighting",
+        "on_screen_text": "OliveTree Quality",
+        "voiceover_tamil": "நீர்ப்பூச்சு அவசியம்!"
+      }
+    ],
+    "gemini_video_prompt": "Produce a high-end, photorealistic 10-second vertical video (9:16 aspect ratio) for OliveTree Builders, tailored exclusively for Coimbatore, Tamil Nadu. EXACTLY 10 SECONDS. EXACTLY 7 SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE: 90%+ of visuals must look like real, on-site smartphone or gimbal footage shot at active residential construction sites in Coimbatore under natural daylight. NO cartoon, NO toon animation, NO 2D flat explainer graphics, NO 3D renders, NO CGI. Motion graphics are strictly limited to tiny text overlays ('Roof Slope Check', 'Waterproof Base', 'Flashing Sealing', 'Tile Alignment', 'Drainage Outlet', 'Flow Test', 'OliveTree Quality') and simple checkmark or arrow icons. Continuity rules: maintain consistent lighting, realistic dust, concrete textures, brickwork, and worker attire across all scenes. Scene 1 opens with a worker checking roof slope with a spirit level. Scene 2 shows liquid waterproofing application on a terrace slab. Scene 3 focuses on metal flashing sealing near parapet walls. Scene 4 displays masons laying terracotta tiles on a sloped concrete structure. Scene 5 shows an engineer checking a PVC drainage outlet pipe. Scene 6 depicts a water flow test running down the finished slope. Scene 7 reveals a completed residential sloped tile roof under Coimbatore daylight. NEGATIVE PROMPT: animated characters, cartoon style, flat vector graphics, white background studio setup, fake futuristic elements, landscape orientation, black bars, side-blur frames, unrealistic CGI rendering, floating text documents, random presenters.",
+    "title_english": "Mastering Sloping Roof Waterproofing in Coimbatore Homes",
+    "caption_image_alt": "Sloping roof construction and waterproofing inspection in Coimbatore",
+    "caption_english": "Heavy monsoon rains in Coimbatore demand meticulous sloping roof construction and waterproofing. In this quick site breakdown, OliveTree Builders demonstrates how precise slope angles, secure flashing, and proper tile alignment prevent water seepage and protect your interiors. Building in Coimbatore requires localized structural expertise to handle seasonal downpours effectively. Partner with OliveTree Builders for robust, weatherproof home construction. Contact us today to plan your dream project with absolute structural integrity.",
+    "title_tamil": "கோயம்புத்தூர் வீடுகளுக்கு சரியான கூரை நீர்ப்பூச்சு முறை",
+    "caption_tamil": "கோயம்புத்தூர் மழையை எதிர்கொள்ள முறையான கூரை அமைப்பு அவசியம்.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#RoofWaterproofing"
+    ]
+  }
+}
