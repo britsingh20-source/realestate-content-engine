@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260919-P5Q1",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-19T16:30:52.203Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Buildofy",
+    "creatorKey": "buildofy",
+    "source": {
+      "id": "4CzbKcUHdFA",
+      "title": "Pariha | Official Promo #buildofy #architecture #traditional #home #maharashtra #modernliving #reels",
+      "description": "",
+      "publishedAt": "2026-08-20T10:30:30Z",
+      "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
+      "channelTitle": "Buildofy",
+      "durationSeconds": 67,
+      "views": 20972,
+      "likes": 868,
+      "comments": 7,
+      "url": "https://www.youtube.com/watch?v=4CzbKcUHdFA",
+      "ageHours": 725.9507969444444,
+      "velocity": 28.88901023082002,
+      "outlier": 1.4979465019106462,
+      "velocityRatio": 1.4840742626023309,
+      "engagementRatio": 1.5684302194220578
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 24,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 5061,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Traditional Courtyard & Skylight Structural Integration in Residential Construction",
+    "source_script_insight": "Integrating traditional courtyards, skylights, and light wells with modern multi-level structural frameworks requires careful beam placement and waterproofing detailing around roof openings to prevent leaks while maximizing natural light.",
+    "coimbatore_angle": "In Coimbatore's tropical climate, building central courtyards and light wells requires precision beam shuttering and slab joint waterproofing to withstand heavy seasonal monsoon downpours without dampness.",
+    "core_takeaway": "Proper structural framing around skylights and courtyards ensures seamless architectural integration without compromising load-bearing strength or waterproofing integrity.",
+    "voiceover_tamil": "கோயம்புத்தூர் வெயிலுக்கும் மழைக்கும், வீட்டின் நடுவில் உள்முற்றம் கட்டும்போது கர்டர் பீம் மற்றும் வாட்டர் ப்ரூஃபிங் மிக முக்கியம்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook",
+        "visual": "A real Coimbatore residential construction site showing a freshly cast concrete roof slab with an open rectangular cut-out for a central courtyard light well, surrounded by steel reinforcement bars.",
+        "camera": "Low angle, steady handheld smartphone shot moving slowly forward towards the slab opening.",
+        "on_screen_text": "Skylight Slab Cutout",
+        "voiceover_tamil": "வீட்டின் நடுவில் உள்முற்றம்"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Problem / Setup",
+        "visual": "Close-up of a site engineer in a yellow hard hat inspecting the shuttering ply and wooden supports fitted along the inside edge of the roof slab opening.",
+        "camera": "Eye-level tight framing, subtle gimbal push-in.",
+        "on_screen_text": "Shuttering Check",
+        "voiceover_tamil": "சரியான ஃபார்ம்வொர்க் அமைப்பு"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.3,
+        "purpose": "Technical Detail",
+        "visual": "A construction worker applying blue polymer-based waterproofing compound along the concrete junction where the roof slab meets the vertical light well wall.",
+        "camera": "Medium close-up, fixed angle with a slight downward tilt.",
+        "on_screen_text": "Joint Waterproofing",
+        "voiceover_tamil": "தண்ணீர் கசிவை தடுக்க"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.7,
+        "purpose": "Material Focus",
+        "visual": "Detailed shot of bent steel rebar detailing (negative reinforcement) anchored securely around the perimeter beam of the courtyard cut-out.",
+        "camera": "Macro lens feel, low-angle tracking shot along the steel bars.",
+        "on_screen_text": "Rebar Detailing",
+        "voiceover_tamil": "பலமான கம்பி கட்டமைப்பு"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "purpose": "Workmanship",
+        "visual": "Workers pouring M20 grade concrete into the perimeter beam formwork around the light well, using a needle vibrator to eliminate air pockets.",
+        "camera": "Medium shot, eye-level, static tripod frame.",
+        "on_screen_text": "Vibrated Concrete",
+        "voiceover_tamil": "அடர்த்தியான கான்கிரீட்"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.5,
+        "purpose": "Quality Inspection",
+        "visual": "A site supervisor checking the cured concrete surface and slope of the terrace surrounding the light well with a spirit level to ensure proper drainage runoff.",
+        "camera": "Over-the-shoulder medium shot, slow pan to the right.",
+        "on_screen_text": "Slope Inspection",
+        "voiceover_tamil": "சரியான சரிவு அமைப்பு"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Takeaway",
+        "visual": "Completed bright open-to-sky courtyard in a finished Coimbatore home, natural sunlight streaming down onto polished granite floor tiles with lush indoor potted plants.",
+        "camera": "Wide angle, slow upward tilt from floor to sky opening.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "வலிமையான பாரம்பரிய வீடு!"
+      }
+    ],
+    "gemini_video_prompt": "Produce an original, highly educational 10-second vertical video (9:16 aspect ratio) for OliveTree Builders, set strictly in Coimbatore, Tamil Nadu. EXACTLY 10 SECONDS TOTAL. EXACTLY 7 DISTINCT SCENES. PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE ONLY. At least 90% of the output must look like authentic, gritty, real-world smartphone or gimbal video captured at active residential construction sites and newly completed homes in Tamil Nadu. No animation, no cartoons, no 3D renders, no CGI, no floating architectural models. Motion graphics are strictly limited to tiny text overlays: short labels, measurement lines, or check marks over real footage. \n\nScene 1 (0.0s-1.4s): Low angle smartphone shot of a real Coimbatore residential construction site showing a freshly cast concrete roof slab with an open rectangular cut-out for a courtyard light well. Text overlay: 'Skylight Slab Cutout'.\nScene 2 (1.4s-2.8s): Eye-level close-up of a site engineer inspecting wooden shuttering ply fitted along the inside edge of a roof slab opening. Text overlay: 'Shuttering Check'.\nScene 3 (2.8s-4.3s): Medium close-up of a worker applying blue polymer waterproofing compound along the concrete junction of a light well wall. Text overlay: 'Joint Waterproofing'.\nScene 4 (4.3s-5.7s): Macro-style tracking shot of bent steel rebar detailing anchored securely around a courtyard perimeter beam. Text overlay: 'Rebar Detailing'.\nScene 5 (5.7s-7.1s): Static medium shot of workers pouring concrete into a perimeter beam formwork while using a needle vibrator. Text overlay: 'Vibrated Concrete'.\nScene 6 (7.1s-8.5s): Over-the-shoulder shot of a supervisor checking the terrace slope with a spirit level. Text overlay: 'Slope Inspection'.\nScene 7 (8.5s-10.0s): Wide upward-tilting shot of a completed, bright open-to-sky courtyard in a finished Coimbatore home with natural sunlight hitting polished granite tiles and indoor plants. Text overlay: 'OliveTree Builders'.\n\nNEGATIVE PROMPT: Animation, cartoon, 3D render, CGI, fake futuristic city, white background, studio lighting, glossy corporate explainer, landscape format, black sidebars, blurred pillar boxes, actors wearing western winter clothes, snow, non-Indian architecture, floating text, AI artifacts, distorted hands.",
+    "title_english": "Building Safe Courtyards & Skylights in Coimbatore Homes",
+    "caption_english": "Planning a traditional courtyard or skylight for your home in Coimbatore? Integrating open-to-sky spaces into a multi-level concrete slab requires precision shuttering, heavy-duty rebar detailing, and meticulous waterproofing joints to withstand heavy monsoons without dampness. Watch how OliveTree Builders executes structural precision from foundation to roof slab. \n\nGet expert engineering for your next home build with OliveTree Builders, Coimbatore. Call us today!",
+    "title_tamil": "கோயம்புத்தூர் வீடுகளில் உள்முற்றம் மற்றும் வெளிச்சம் அமைப்பது எப்படி",
+    "caption_tamil": "கோயம்புத்தூரில் உங்கள் கனவு இல்லத்தில் உள்முற்றம் அமைக்கிறீர்களா? கான்கிரீட் ஸ்லாப் வெட்டுப்பகுதிகளில் சரியான வாட்டர் ப்ரூஃபிங் மற்றும் கம்பி அமைப்பு மிகவும் அவசியம். ஆலிவ்ட்ரீ பில்டர்ஸ் மூலம் உறுதியான கட்டுமானத்தை உறுதி செய்யுங்கள்.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#HomeBuilding"
+    ]
+  }
+}
