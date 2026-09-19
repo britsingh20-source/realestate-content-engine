@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-19T21:06:57.815Z",
+  "scannedAt": "2026-09-19T23:02:39.424Z",
   "niche": "land_selection",
   "skippedCreators": [],
   "creators": [
@@ -17,8 +17,8 @@
       },
       "baseline": {
         "views": 1116.5,
-        "velocity": 2.0436164415209834,
-        "engagement": 0.004034413477844135
+        "velocity": 2.038306322650536,
+        "engagement": 0.004410300184948072
       },
       "videoCount": 21
     },
@@ -35,9 +35,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 3870.5,
-        "velocity": 3.137652074704481,
-        "engagement": 0.014062779479254842
+        "views": 3874,
+        "velocity": 3.1356456180050802,
+        "engagement": 0.01405691307050209
       },
       "videoCount": 3
     }
@@ -59,15 +59,15 @@
         "likes": 14,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Ow_Q2rMCRVQ",
-        "ageHours": 211.11216916666666,
-        "velocity": 24.053563657863194,
+        "ageHours": 213.0403938888889,
+        "velocity": 23.83585529159521,
         "outlier": 4.548141513658755,
-        "velocityRatio": 11.77009695613971,
-        "engagementRatio": 0.6833684639554419
+        "velocityRatio": 11.693951506071947,
+        "engagementRatio": 0.6251254621453709
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 56,
+      "viralScore": 55,
       "priority": "strong"
     },
     {
@@ -86,15 +86,15 @@
         "likes": 22,
         "comments": 5,
         "url": "https://www.youtube.com/watch?v=GtzhK4pTPJU",
-        "ageHours": 1384.8046691666666,
-        "velocity": 6.632704383880547,
+        "ageHours": 1386.7328938888888,
+        "velocity": 6.623481739329061,
         "outlier": 8.226600985221674,
-        "velocityRatio": 3.2455720403893826,
-        "engagementRatio": 0.8635558124185667
+        "velocityRatio": 3.249502621723774,
+        "engagementRatio": 0.7899555727255168
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 51,
+      "viralScore": 50,
       "priority": "priority"
     },
     {
@@ -113,15 +113,15 @@
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=FC96Po3F3Ws",
-        "ageHours": 91.11466916666667,
-        "velocity": 11.436138763715169,
+        "ageHours": 93.04289388888888,
+        "velocity": 11.199135758227259,
         "outlier": 0.9332736229287953,
-        "velocityRatio": 5.59602992585228,
-        "engagementRatio": 1.6651367850123484
+        "velocityRatio": 5.494334013380446,
+        "engagementRatio": 1.52321837657111
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 39,
+      "viralScore": 38,
       "priority": "candidate"
     },
     {
@@ -140,15 +140,15 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ZsMVpmwRJ2k",
-        "ageHours": 39.02689138888889,
-        "velocity": 7.558890536795038,
+        "ageHours": 40.95511611111111,
+        "velocity": 7.203007292169942,
         "outlier": 0.264218540080609,
-        "velocityRatio": 3.6987814265035235,
-        "engagementRatio": 1.6804576561577405
+        "velocityRatio": 3.533819824884527,
+        "engagementRatio": 1.5372334609075997
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 34,
+      "viralScore": 32,
       "priority": "candidate"
     },
     {
@@ -167,11 +167,11 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=nJkslTrMmYc",
-        "ageHours": 303.63772472222223,
-        "velocity": 6.93260365432432,
+        "ageHours": 305.56594944444447,
+        "velocity": 6.888856575240607,
         "outlier": 1.8853560232870579,
-        "velocityRatio": 3.392321334606535,
-        "engagementRatio": 0.5887589175374507
+        "velocityRatio": 3.3796964169166683,
+        "engagementRatio": 0.5385794192015938
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -194,11 +194,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=vk9NEu7Apws",
-        "ageHours": 187.10578027777777,
-        "velocity": 6.472274657694412,
+        "ageHours": 189.034005,
+        "velocity": 6.406254789978131,
         "outlier": 1.084639498432602,
-        "velocityRatio": 3.1670691848991743,
-        "engagementRatio": 0.8187200802089735
+        "velocityRatio": 3.1429303430937114,
+        "engagementRatio": 0.7489411576676167
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -221,15 +221,15 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=2x1MLvmDPQQ",
-        "ageHours": 952.6068913888889,
-        "velocity": 2.3556411572125793,
+        "ageHours": 954.5351161111112,
+        "velocity": 2.3508826046571456,
         "outlier": 2.0098522167487687,
-        "velocityRatio": 1.1526826215291985,
-        "engagementRatio": 0.5522894480464945
+        "velocityRatio": 1.1533509848510637,
+        "engagementRatio": 0.5052182163187856
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 21,
+      "viralScore": 20,
       "priority": "candidate"
     },
     {
@@ -244,15 +244,15 @@
         "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
         "channelTitle": "Civiconcepts - Bhushan Mahajan",
         "durationSeconds": 59,
-        "views": 5879,
+        "views": 5886,
         "likes": 58,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=uwLmZjxyDdA",
-        "ageHours": 1205.4543913888888,
-        "velocity": 4.876999115019516,
-        "outlier": 1.518925203462085,
-        "velocityRatio": 1.554346689468065,
-        "engagementRatio": 0.7015414996654562
+        "ageHours": 1207.382616111111,
+        "velocity": 4.87500807238584,
+        "outlier": 1.5193598347960764,
+        "velocityRatio": 1.5547063240798729,
+        "engagementRatio": 0.7009996105413474
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -275,11 +275,11 @@
         "likes": 11,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=qKupROZxdfs",
-        "ageHours": 567.6857802777778,
-        "velocity": 1.731591725829388,
+        "ageHours": 569.614005,
+        "velocity": 1.7257300406439269,
         "outlier": 0.8804299149126735,
-        "velocityRatio": 0.8473173784708017,
-        "engagementRatio": 2.773695368378366
+        "velocityRatio": 0.8466490151489365,
+        "engagementRatio": 2.5372953106028286
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -302,11 +302,11 @@
         "likes": 10,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=MCl3iSFYdOo",
-        "ageHours": 1095.3918913888888,
-        "velocity": 1.2360872950074628,
+        "ageHours": 1097.320116111111,
+        "velocity": 1.2339152268515403,
         "outlier": 1.212718316166592,
-        "velocityRatio": 0.6048528823185096,
-        "engagementRatio": 1.8306314939679964
+        "velocityRatio": 0.6053629982597531,
+        "engagementRatio": 1.6746080907228282
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -329,11 +329,11 @@
         "likes": 10,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=gU29nlviq3s",
-        "ageHours": 907.1080025,
-        "velocity": 1.209337804293045,
+        "ageHours": 909.0362272222222,
+        "velocity": 1.2067725874381774,
         "outlier": 0.9825347066726378,
-        "velocityRatio": 0.591763591113498,
-        "engagementRatio": 2.7114038754778496
+        "velocityRatio": 0.5920467272401609,
+        "engagementRatio": 2.4803128767606673
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -356,11 +356,11 @@
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5PGIZa3DvTI",
-        "ageHours": 973.3605025,
-        "velocity": 1.6273518351439373,
+        "ageHours": 975.2887272222222,
+        "velocity": 1.6241344289003365,
         "outlier": 1.4187192118226601,
-        "velocityRatio": 0.796309817282916,
-        "engagementRatio": 1.0953740719588807
+        "velocityRatio": 0.7968058632072406,
+        "engagementRatio": 1.002016129032258
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -380,18 +380,18 @@
         "channelTitle": "Nemmadi. In",
         "durationSeconds": 24,
         "views": 1136,
-        "likes": 4,
+        "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=27KAKU9wic4",
-        "ageHours": 427.11216916666666,
-        "velocity": 2.6597228597266045,
+        "ageHours": 429.0403938888889,
+        "velocity": 2.6477693386935415,
         "outlier": 1.0174652933273622,
-        "velocityRatio": 1.3014784994326416,
-        "engagementRatio": 0.8727729024058687
+        "velocityRatio": 1.2990046242168758,
+        "engagementRatio": 0.997983870967742
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 17,
+      "viralScore": 18,
       "priority": "candidate"
     },
     {
@@ -410,11 +410,11 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=k78BHMib1Qg",
-        "ageHours": 1339.1132802777777,
-        "velocity": 1.1895931609830332,
+        "ageHours": 1341.041505,
+        "velocity": 1.187882697187661,
         "outlier": 1.426780116435289,
-        "velocityRatio": 0.5821019721771595,
-        "engagementRatio": 0.4667937933771501
+        "velocityRatio": 0.5827792829700805,
+        "engagementRatio": 0.42700929469655546
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -437,11 +437,11 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ZNh9U3ALemw",
-        "ageHours": 1411.1121691666667,
-        "velocity": 0.7802356354493041,
+        "ageHours": 1413.040393888889,
+        "velocity": 0.7791709315328847,
         "outlier": 0.9861173309449172,
-        "velocityRatio": 0.3817916217529574,
-        "engagementRatio": 1.1256471584162886
+        "velocityRatio": 0.3822639035528676,
+        "engagementRatio": 1.02970906214292
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -464,11 +464,11 @@
         "likes": 32,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=3pyMS646SuE",
-        "ageHours": 1331.6121691666667,
-        "velocity": 1.3983050343894454,
-        "outlier": 0.481074796537915,
-        "velocityRatio": 0.44565331053193474,
-        "engagementRatio": 1.2984585003345437
+        "ageHours": 1333.540393888889,
+        "velocity": 1.3962831636243203,
+        "outlier": 0.4806401652039236,
+        "velocityRatio": 0.4452936759201269,
+        "engagementRatio": 1.2990003894586526
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -491,11 +491,11 @@
         "likes": 6,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=OJce4MEeX4M",
-        "ageHours": 1243.1157802777777,
-        "velocity": 0.2550044050837851,
+        "ageHours": 1245.044005,
+        "velocity": 0.25460947462656147,
         "outlier": 0.283922973578146,
-        "velocityRatio": 0.12478095199410087,
-        "engagementRatio": 4.691498503784228
+        "velocityRatio": 0.12491227240833801,
+        "engagementRatio": 4.2916454665716905
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -518,11 +518,11 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=juy9L_SpLcM",
-        "ageHours": 805.9668913888889,
-        "velocity": 1.0198930114653741,
+        "ageHours": 807.8951161111111,
+        "velocity": 1.0174588057380323,
         "outlier": 0.7362292879534259,
-        "velocityRatio": 0.49906283329092216,
-        "engagementRatio": 0.9046259280411194
+        "velocityRatio": 0.4991687433981795,
+        "engagementRatio": 0.8275253119849305
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -545,11 +545,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5FRH3fd3S90",
-        "ageHours": 899.1705025,
-        "velocity": 0.11677429331596652,
+        "ageHours": 901.0987272222222,
+        "velocity": 0.11652441272853523,
         "outlier": 0.09404388714733543,
-        "velocityRatio": 0.05714100304901442,
-        "engagementRatio": 9.442571591743494
+        "velocityRatio": 0.05716727237396355,
+        "engagementRatio": 8.63778801843318
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -572,11 +572,11 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=1NOUEBMmcVg",
-        "ageHours": 519.2246691666667,
-        "velocity": 0.15985372985688728,
+        "ageHours": 521.1528938888889,
+        "velocity": 0.15926228362783648,
         "outlier": 0.07433945364979848,
-        "velocityRatio": 0.07822100400499539,
-        "engagementRatio": 5.9727109465847406
+        "velocityRatio": 0.07813461689150719,
+        "engagementRatio": 5.463661095996891
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -599,42 +599,15 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=JmdjbhHGga8",
-        "ageHours": 1284.3907802777778,
-        "velocity": 0.06462207707692313,
+        "ageHours": 1286.319005,
+        "velocity": 0.06452520694895586,
         "outlier": 0.07433945364979848,
-        "velocityRatio": 0.03162143138211761,
-        "engagementRatio": 5.9727109465847406
+        "velocityRatio": 0.03165628553074875,
+        "engagementRatio": 5.463661095996891
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 11,
-      "priority": "candidate"
-    },
-    {
-      "niche": "land_selection",
-      "creator": "Nemmadi Home Inspection",
-      "creatorKey": "nemmadi",
-      "source": {
-        "id": "ZFRDUfHEyAU",
-        "title": "\"You end up with a permanent solution\" — why owners bring in a third-party audit",
-        "description": "A client describes what changed after an independent Nemmadi quality audit: the actual issue was identified, the correct rectification procedure was established, and the result was a permanent solution instead of repeated guesswork.\n\n▶ Full video: https://www.youtube.com/watch?v=k2Bz-SvzXco\n\nNemmadi.in — independent third-party construction quality audits covering civil, electrical, plumbing, firefighting, STP and WTP. Builder-to-society handover (HOTO) audits for RWAs, and pre-purchase inspections for home buyers.",
-        "publishedAt": "2026-08-07T10:03:32Z",
-        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
-        "channelTitle": "Nemmadi. In",
-        "durationSeconds": 16,
-        "views": 327,
-        "likes": 2,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=ZFRDUfHEyAU",
-        "ageHours": 1043.0571691666667,
-        "velocity": 0.3135015123487922,
-        "outlier": 0.2928795342588446,
-        "velocityRatio": 0.15340526038999047,
-        "engagementRatio": 1.5160092005092765
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 10,
       "priority": "candidate"
     },
     {
@@ -653,15 +626,42 @@
         "likes": 2,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=wK47_UcznQ0",
-        "ageHours": 1143.4188358333333,
-        "velocity": 0.05334878006932839,
+        "ageHours": 1145.3470605555556,
+        "velocity": 0.05325896586351013,
         "outlier": 0.05463502015226153,
-        "velocityRatio": 0.02610508458701917,
-        "engagementRatio": 16.253606838247
+        "velocityRatio": 0.026129029416076283,
+        "engagementRatio": 14.868323638286622
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 10,
+      "priority": "candidate"
+    },
+    {
+      "niche": "land_selection",
+      "creator": "Nemmadi Home Inspection",
+      "creatorKey": "nemmadi",
+      "source": {
+        "id": "ZFRDUfHEyAU",
+        "title": "\"You end up with a permanent solution\" — why owners bring in a third-party audit",
+        "description": "A client describes what changed after an independent Nemmadi quality audit: the actual issue was identified, the correct rectification procedure was established, and the result was a permanent solution instead of repeated guesswork.\n\n▶ Full video: https://www.youtube.com/watch?v=k2Bz-SvzXco\n\nNemmadi.in — independent third-party construction quality audits covering civil, electrical, plumbing, firefighting, STP and WTP. Builder-to-society handover (HOTO) audits for RWAs, and pre-purchase inspections for home buyers.",
+        "publishedAt": "2026-08-07T10:03:32Z",
+        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+        "channelTitle": "Nemmadi. In",
+        "durationSeconds": 16,
+        "views": 327,
+        "likes": 2,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=ZFRDUfHEyAU",
+        "ageHours": 1044.985393888889,
+        "velocity": 0.312923034056081,
+        "outlier": 0.2928795342588446,
+        "velocityRatio": 0.1535211025834271,
+        "engagementRatio": 1.3868008286475288
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 9,
       "priority": "candidate"
     },
     {
@@ -676,15 +676,15 @@
         "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
         "channelTitle": "Civiconcepts - Bhushan Mahajan",
         "durationSeconds": 29,
-        "views": 904,
+        "views": 905,
         "likes": 11,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=pVAvvGS4YxU",
-        "ageHours": 1109.0055025,
-        "velocity": 0.8151447382020542,
-        "outlier": 0.23356155535460535,
-        "velocityRatio": 0.2597944956273804,
-        "engagementRatio": 1.0225952127504543
+        "ageHours": 1110.9337272222222,
+        "velocity": 0.8146300520219701,
+        "outlier": 0.23360867320598863,
+        "velocityRatio": 0.25979659415091794,
+        "engagementRatio": 1.0218915640960722
       },
       "confirmations": 0,
       "peerMatches": [],
