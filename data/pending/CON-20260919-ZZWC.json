@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260919-ZZWC",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-19T12:01:23.596Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Nemmadi Home Inspection",
+    "creatorKey": "nemmadi",
+    "source": {
+      "id": "ZsMVpmwRJ2k",
+      "title": "𝗟𝗲𝘁'𝘀 𝗱𝗶𝘀𝗰𝘂𝘀𝘀 𝘁𝗵𝗲 𝗞𝗮𝗿𝗻𝗮𝘁𝗮𝗸𝗮 𝗔𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 𝗢𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽 𝗮𝗻𝗱 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗔𝗰𝘁 𝟮𝟬𝟮𝟲 (𝗞𝗔𝗢𝗠𝗔)",
+      "description": "We caught up with 𝗖𝗔 𝗦𝘂𝗷𝗮𝘁𝗵𝗮 𝗚, who was part of the committee involved in shaping KAOMA. 🎥\n\nA Practicing Chartered Accountant specialising in Taxation, Real Estate & Technology Laws and an Independent Director, she brings first-hand insight into what this new law means for apartment owners, RWAs, and communities across Karnataka.\n\nIn this discussion, she breaks down the key aspects of KAOMA — your rights, your responsibilities, and what's changing under the new Act.\n\nThis is just a glimpse — the full video is dropping soon.\nFollow us and stay tuned so you don't miss it.\n\nStay Tuned: https://www.youtube.com/@NemmadiIn-HomeInspection\n\n#KAOMA #ApartmentOwnership #RealEstateLaw #Karnataka #Taxation #RWA #Nemmadi #Bengaluru #CharteredAccountant",
+      "publishedAt": "2026-09-18T06:05:21Z",
+      "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+      "channelTitle": "Nemmadi. In",
+      "durationSeconds": 50,
+      "views": 204,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=ZsMVpmwRJ2k",
+      "ageHours": 29.810299444444443,
+      "velocity": 6.843272419325468,
+      "outlier": 0.18263205013428827,
+      "velocityRatio": 3.3091474865003687,
+      "engagementRatio": 2.4278959678383547
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 34,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 7111,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash"
+  },
+  "pack": {
+    "topic": "Apartment Association and Deed of Declaration Legal Verification in Coimbatore",
+    "source_script_insight": "The source video emphasizes the critical legal distinction between signing a simple deed of declaration and having actual registered association management rights under state apartment acts.",
+    "coimbatore_angle": "Applying proper legal verification of undivided share (UDS) and apartment association registration frameworks under Tamil Nadu housing rules for buyers in Coimbatore.",
+    "core_takeaway": "Never assume an apartment association is fully registered just by signing a deed; verify your building's legal title and association framework in Coimbatore.",
+    "voiceover_tamil": "अपार्टमेंट வாங்குறீங்களா? டிட் ஆஃப் டிக்ளரேஷன் மட்டும் போதாது. அசோசியேஷன் ரெஜிஸ்ட்ரேஷன் சட்டப்படி இருக்கானு செக் பண்ணுங்க.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook the viewer with a legal document check on site",
+        "visual": "Close-up of a site engineer holding legal property papers and apartment blue-prints on a Coimbatore construction site.",
+        "camera": "Eye-level handheld smartphone shot with shallow depth of field.",
+        "on_screen_text": "Apartment Legal Check",
+        "voiceover_tamil": "அபார்ட்மெண்ட் வாங்குறீங்களா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Show deed paper clause",
+        "visual": "A hand pointing to a 'Deed of Declaration' document clause on a wooden table under bright indoor lighting.",
+        "camera": "Macro close-up shot, static, crisp document details.",
+        "on_screen_text": "Deed of Declaration",
+        "voiceover_tamil": "டிட் ஆஃப் டிக்ளரேஷன்"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Highlight registration illusion",
+        "visual": "Medium shot of an apartment lobby entrance in Coimbatore with finished tile flooring and notice board.",
+        "camera": "Gimbal pan moving smoothly across the entrance lobby.",
+        "on_screen_text": "Not Enough",
+        "voiceover_tamil": "மட்டும் போதாது."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Show association management gap",
+        "visual": "An incomplete apartment corridor with electrical conduits and switch boxes awaiting wiring.",
+        "camera": "Medium tracking shot walking down the corridor.",
+        "on_screen_text": "Association Rights",
+        "voiceover_tamil": "அசோசியேஷன் ரெஜிஸ்ட்ரேஷன்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Focus on statutory compliance",
+        "visual": "Close-up of structural columns and beam junctions in a newly constructed RC framed residential building.",
+        "camera": "Low angle tilt-up shot capturing concrete workmanship.",
+        "on_screen_text": "Verify Act Rules",
+        "voiceover_tamil": "சட்டப்படி இருக்கானு"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Expert check recommendation",
+        "visual": "A structural engineer inspecting utility meters and distribution board installation in a Coimbatore apartment complex.",
+        "camera": "Over-the-shoulder medium shot.",
+        "on_screen_text": "Check Before Buying",
+        "voiceover_tamil": "கண்டிப்பா செக் பண்ணுங்க"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Final takeaway and brand positioning",
+        "visual": "Wide exterior shot of a completed premium residential apartment building built by OliveTree Builders in Coimbatore under daylight.",
+        "camera": "Stable exterior pedestal shot.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "நம்பகமான வீடு."
+      }
+    ],
+    "gemini_video_prompt": "Produce an EXACTLY 10-SECOND, EXACTLY 7-SCENE, portrait 9:16 vertical video for OliveTree Builders, Coimbatore ONLY. Live-action smartphone and gimbal footage featuring real construction sites, property documents, and apartment buildings in Coimbatore, Tamil Nadu. Strictly 90%+ real-world live-action visual elements with natural daylight, dust, concrete, paper, and physical textures. NO cartoons, NO 2D explainers, NO animations, NO white-background graphics, NO fake CGI cities. Motion graphics limited strictly to tiny text overlays ('Apartment Legal Check', 'Deed of Declaration', 'Not Enough', 'Association Rights', 'Verify Act Rules', 'Check Before Buying', 'OliveTree Builders'). \n\nShot List:\n- Scene 1 (0.0-1.4s): Close-up of site engineer holding legal documents on Coimbatore site.\n- Scene 2 (1.4-2.8s): Macro close-up on 'Deed of Declaration' text clause.\n- Scene 3 (2.8-4.2s): Gimbal pan across finished apartment lobby.\n- Scene 4 (4.2-5.6s): Tracking shot down apartment corridor with electrical conduits.\n- Scene 5 (5.6-7.0s): Low angle tilt-up on RC framed structural columns.\n- Scene 6 (7.0-8.5s): Over-the-shoulder shot inspecting utility distribution board.\n- Scene 7 (8.5-10.0s): Wide exterior shot of completed OliveTree Builders residential apartment building in Coimbatore.\n\nNEGATIVE PROMPT: animation, cartoon, 3D render, CGI, plastic look, fake futuristic buildings, white background, landscape format, blurred sidebars, black bars, floating houses, fake graphics, religious symbols, non-Coimbatore locations.",
+    "title_english": "Apartment Legal Check in Coimbatore: Deed vs Association Registration",
+    "caption_english": "Just signing a deed of declaration isn't enough for your Coimbatore apartment! Ensure your building association is legally registered under the proper state apartment act to protect common areas and maintenance rights. Build smart with OliveTree Builders in Coimbatore.\n\n#OliveTreeBuilders #CoimbatoreRealEstate #ApartmentLegal",
+    "title_tamil": "கோimbatore அபார்ட்மெண்ட் வாங்குபவரா? இந்த சட்ட விதிகளை தெரிஞ்சுக்கோங்க!",
+    "caption_tamil": "கோவையில் அபார்ட்மெண்ட் வாங்கும் முன் டிட் ஆஃப் டிக்ளரேஷன் மற்றும் அசோசியேஷன் ரெஜிஸ்ட்ரேஷன் முறைகளை சரிபார்க்கவும். ஒலிவ் ட்ரீ பில்டர்ஸ் கோயம்புத்தூர்.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreRealEstate",
+      "#ApartmentLegal"
+    ]
+  }
+}
