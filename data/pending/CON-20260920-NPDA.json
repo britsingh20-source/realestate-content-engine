@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260920-NPDA",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-20T16:53:40.199Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Brick&Bolt",
+    "creatorKey": "brick-bolt",
+    "source": {
+      "id": "vriDWgesdIA",
+      "title": "Unique Homes | Villa KD45 Residence",
+      "description": "What if a house didn’t need a front or a back door?\nLocated in Ghaziabad, Uttar Pradesh, this 11,840 sq. ft. villa reimagines green architecture by blending its structure directly into the landscape.\n\nWith stepped pathways leading to a fully usable garden roof, preserved mature trees, and natural evaporative cooling pools, it effortlessly solves hot summer climate challenges while creating a seamless flow between indoor and outdoor living.\n\nProof that modern construction can thrive in complete harmony with nature.\n\nStay tuned for more inspiring homes!\n\n#uniquehomes #fyp #construction #homeconstruction #explorepage architecture",
+      "publishedAt": "2026-08-19T13:11:06Z",
+      "channelId": "UCZIsO0XIk0B78rcrLEqhJOA",
+      "channelTitle": "Brick & Bolt",
+      "durationSeconds": 76,
+      "views": 649,
+      "likes": 12,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=vriDWgesdIA",
+      "ageHours": 771.6553916666667,
+      "velocity": 0.8410490058240268,
+      "outlier": 1.6347607052896724,
+      "velocityRatio": 0.8410490058240268,
+      "engagementRatio": 1.1786294918991647
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 20,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3734,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Roof Thermal Insulation & Passive Cooling for Coimbatore Residences",
+    "source_script_insight": "The source video highlights Villa KD45's climate-smart design using landscaped terraced roofs, soil layers, deep cantilevers, and water bodies to prevent direct solar heat absorption on the building envelope.",
+    "coimbatore_angle": "In Coimbatore localities like Saravanampatti and Vadavalli, direct overhead sun during hot months warms RCC roof slabs, turning top-floor bedrooms into heat traps. Proper elastomeric waterproofing paired with thermal drainage mats and landscaped roof earth layers keeps top-floor ceilings up to 5°C cooler naturally.",
+    "core_takeaway": "Protect top-floor ceilings from intense solar heat gain by integrating multi-layer waterproofing, drainage mats, and landscaped soil insulation over RCC roof slabs.",
+    "voiceover_tamil": "கோவை வெயிலில் மொட்டை மாடி சூடாகிறதா? காங்கிரீட் தளத்தில் வெப்பம் பரவுவதை தடுப்பது எப்படி? முதலில் வாட்டர்ப்ரூஃபிங் மெம்பிரேன்! மேலே ட்ரைனேஜ் மேட் மற்றும் மண் அடுக்கு! இது வீட்டின் வெப்பத்தை குறைக்கும்! குளிர்ச்சியான உள் தரைக்கூரை! ஆலிவ்ட்ரீ பில்டர்ஸ் மூலம் சரியான இன்சுலேஷன் அமைப்போம்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook - Show harsh overhead summer sun beating down on a plain RCC roof slab in Coimbatore.",
+        "visual": "Sun glare shining over an exposed reinforced concrete roof terrace on a modern residential house site in Coimbatore.",
+        "camera": "Eye-level tilt up from RCC slab surface towards the bright Tamil Nadu sky, 24mm wide angle lens.",
+        "on_screen_text": "Roof Heat Problem?",
+        "voiceover_tamil": "கோவை வெயிலில் மொட்டை மாடி சூடாகிறதா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Problem identification - Close-up showing thermal heat absorbing directly into bare concrete roof slab.",
+        "visual": "Close-up of concrete terrace surface showing small thermal overlay graphic pointing to heat retention.",
+        "camera": "Low angle close-up static shot on concrete texture with subtle handheld movement.",
+        "on_screen_text": "Heat Transmission",
+        "voiceover_tamil": "காங்கிரீட் தளத்தில் வெப்பம் பரவுவதை தடுப்பது எப்படி?"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Solution step 1 - Primer and elastomeric waterproofing application on smooth screed roof.",
+        "visual": "Construction worker using a roller brush applying liquid elastomeric waterproofing membrane over a clean concrete slope.",
+        "camera": "Over-the-shoulder medium shot tracking the roller stroke across the gray concrete surface.",
+        "on_screen_text": "Waterproof Coat",
+        "voiceover_tamil": "முதலில் வாட்டர்ப்ரூஃபிங் மெம்பிரேன்!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Solution step 2 - Unrolling dimpled thermal drainage mat and geotextile fabric over waterproof membrane.",
+        "visual": "Hands unrolling black dimpled HDPE drainage board and white geotextile layer over cured waterproofed terrace.",
+        "camera": "Top-down 45-degree angle medium shot showing layer-by-layer installation.",
+        "on_screen_text": "Drainage Layer",
+        "voiceover_tamil": "மேலே ட்ரைனேஜ் மேட் மற்றும் மண் அடுக்கு!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Solution step 3 - Light soil substrate layer and turf planting on the terraced roof.",
+        "visual": "A site worker spreading rich lightweight soil mix over geotextile filter fabric, preparing green roof turfing.",
+        "camera": "Low angle side-tracking shot along the terrace planter bed.",
+        "on_screen_text": "Green Roof Layer",
+        "voiceover_tamil": "இது வீட்டின் வெப்பத்தை குறைக்கும்!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Result verification - Interior ceiling shot under insulated roof showing cool ambient living room.",
+        "visual": "Modern interior living room ceiling directly under terrace, beautifully finished without micro-cracks or dampness.",
+        "camera": "Slow interior pan across plastered ceiling and warm indirect LED light trough.",
+        "on_screen_text": "Cool Interior Ceiling",
+        "voiceover_tamil": "குளிர்ச்சியான உள் தரைக்கூரை!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Call to Action - Landscaped villa terrace exterior with OliveTree Builders quality assurance checklist overlay.",
+        "visual": "Finished residential green terrace in Coimbatore with green grass, perimeter parapet, and sunlight filtered by planters.",
+        "camera": "Smooth backward gimbal pull-out shot revealing complete landscaped terrace terrace.",
+        "on_screen_text": "OliveTree Builders Quality",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ பில்டர்ஸ் மூலம் சரியான இன்சுலேஷன் அமைப்போம்!"
+      }
+    ],
+    "gemini_video_prompt": "Production Shot List for OliveTree Builders, COIMBATORE ONLY. EXACTLY 10 SECONDS, EXACTLY 7 SCENES. Photorealistic 9:16 vertical video captured on smartphone or gimbal in high-resolution, look 100% like real site footage in Tamil Nadu. Motion graphics are strict light 2D overlays only (text, subtle checkmarks, arrows).\n\nSCENE 1 (0.0 - 1.4s): Real construction site in Coimbatore during hot daylight. Overhead sun flare shining down onto an open reinforced concrete roof terrace slab. Dust on concrete edge, realistic Indian residential site context. Camera: 24mm wide angle, eye-level tilt up to sky. Overlay text: 'Roof Heat Problem?'. Audio fragment: 'கோவை வெயிலில் மொட்டை மாடி சூடாகிறதா?'.\n\nSCENE 2 (1.4 - 2.8s): Detailed close-up shot of raw concrete screed floor on terrace under direct sun. Realistic pores, curing sand traces, rough aggregate texture. A small transparent orange thermal pulse overlay highlights heat absorption. Camera: Low angle close-up with slight natural handheld wobble. Overlay text: 'Heat Transmission'. Audio fragment: 'காங்கிரீட் தளத்தில் வெப்பம் பரவுவதை தடுப்பது எப்படி?'.\n\nSCENE 3 (2.8 - 4.2s): Construction worker wearing boots rolling black/dark-blue elastomeric waterproofing coat onto sloping concrete roof floor using a heavy paint roller. Smooth wet glossy finish contrasting against gray bare concrete. Camera: Medium over-the-shoulder tracking shot. Overlay text: 'Waterproof Coat'. Audio fragment: 'முதலில் வாட்டர்ப்ரூஃபிங் மெம்பிரேன்!'.\n\nSCENE 4 (4.2 - 5.6s): Close-up shot showing hands laying black dimpled HDPE drainage sheet and white geotextile fabric over the dark dry waterproofed floor. Clean site craftsmanship. Camera: Top-down 45-degree angled view. Overlay text: 'Drainage Layer'. Audio fragment: 'மேலே ட்ரைனேஜ் மேட் மற்றும் மண் அடுக்கு!'.\n\nSCENE 5 (5.6 - 7.0s): Worker using a wooden hand rake to gently spread lightweight potting soil mix over geotextile filter fabric in a designated roof garden bed. Sunlight dappled across terrace parapet wall. Camera: Low angle side-tracking shot. Overlay text: 'Green Roof Layer'. Audio fragment: 'இது வீட்டின் வெப்பத்தை குறைக்கும்!'.\n\nSCENE 6 (7.0 - 8.5s): Smooth pan inside the top-floor master bedroom or living room directly under the insulated terrace. Clean plastered white ceiling, indirect false ceiling cove lighting, air circulating smoothly, warm comfortable indoor ambiance. Camera: Slow interior upward pan. Overlay text: 'Cool Interior Ceiling'. Audio fragment: 'குளிர்ச்சியான உள் தரைக்கூரை!'.\n\nSCENE 7 (8.5 - 10.0s): Final exterior wide shot of a completed residential green roof terrace in Coimbatore featuring lush lawn patches, potted plants, neat glass parapet railings, and ambient afternoon sun. Subtle green checkmark graphic and text overlay: 'OliveTree Builders Quality'. Camera: Smooth backward gimbal pull-away shot. Audio fragment: 'ஆலிவ்ட்ரீ பில்டர்ஸ் மூலம் சரியான இன்சுலேஷன் அமைப்போம்!'.\n\nCONTINUITY & VISUAL RULES: Maintains realistic Tamil Nadu site materials, realistic natural sunlight, consistent concrete textures, authentic worker attire, and realistic architectural proportions. NO full-screen graphic cards or cartoon animations. NO CGI rendering, 3D architectural gloss, toon characters, floating houses, fake futuristic skylines, or random presenters. Strictly real site execution with accurate thermal roof insulation layers.",
+    "title_english": "Beat Roof Solar Heat in Coimbatore Homes | OliveTree Builders",
+    "caption_english": "Is your top-floor bedroom absorbing too much summer heat through the roof slab? Bare RCC roof slabs in Coimbatore easily absorb direct solar radiation, elevating indoor ceiling temperatures.\n\nAt OliveTree Builders, we execute systematic terrace thermal protection: high-grade elastomeric waterproofing membrane, followed by dimpled HDPE drainage board, filter geotextile, and lightweight green soil insulation layers. This multi-layered approach keeps top-floor ceilings up to 5°C cooler while preventing roof leakage.\n\nBuild climate-smart homes with proven engineering techniques. Contact OliveTree Builders Coimbatore today for professional site inspection and heat-resistant roof construction solutions.",
+    "title_tamil": "மொட்டை மாடி வெப்பத்தை தடுக்கும் வழி | OliveTree Builders",
+    "caption_tamil": "கோவை கோடையில் உங்கள் வீட்டின் மேல் தளம் அதிக வெப்பமாகிறதா? வெறும் காங்கிரீட் தளம் சூரிய வெப்பத்தை நேரடியாக உறிஞ்சி வீட்டிற்குள் பரப்பும்.\n\nஆலிவ்ட்ரீ பில்டர்ஸ் வழங்கும் முறையான மொட்டை மாடி இன்சுலேஷன் மூலம் வாட்டர்ப்ரூஃபிங் மெம்பிரேன், ட்ரைனேஜ் மேட் மற்றும் மண் அடுக்கு அமைத்து வீட்டின் உட்புற வெப்பத்தை 5°C வரை குறைக்கலாம்.\n\nஉங்கள் கனவு இல்லத்தை சரியான தொழில்நுட்பத்துடன் கட்ட ஆலிவ்ட்ரீ பில்டர்ஸை இன்றே தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreConstruction",
+      "#OliveTreeBuilders",
+      "#RoofInsulation"
+    ]
+  }
+}
