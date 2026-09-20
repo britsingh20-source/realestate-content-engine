@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-20T11:52:23.983Z",
+  "scannedAt": "2026-09-20T16:04:06.305Z",
   "niche": "documentation",
   "skippedCreators": [],
   "creators": [
@@ -18,7 +18,7 @@
       "baseline": {
         "views": 66.5,
         "velocity": 1,
-        "engagement": 0.007036207540126913
+        "engagement": 0.011474338018960445
       },
       "videoCount": 19
     }
@@ -40,15 +40,15 @@
         "likes": 12,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=KwoRmDSbicU",
-        "ageHours": 1030.868328611111,
-        "velocity": 0.51703984418467,
+        "ageHours": 1035.0634180555555,
+        "velocity": 0.5149442929799225,
         "outlier": 8.015037593984962,
-        "velocityRatio": 0.51703984418467,
-        "engagementRatio": 3.1997451988394605
+        "velocityRatio": 0.5149442929799225,
+        "engagementRatio": 1.9621237632494668
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 43,
+      "viralScore": 42,
       "priority": "priority"
     },
     {
@@ -67,15 +67,15 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=tt3DjxThVNI",
-        "ageHours": 526.4883286111111,
-        "velocity": 0.6115995027837441,
+        "ageHours": 530.6834180555555,
+        "velocity": 0.6067647660441707,
         "outlier": 4.842105263157895,
-        "velocityRatio": 0.6115995027837441,
-        "engagementRatio": 1.7654908809331598
+        "velocityRatio": 0.6067647660441707,
+        "engagementRatio": 1.0826210826210825
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 41,
+      "viralScore": 37,
       "priority": "strong"
     },
     {
@@ -90,19 +90,19 @@
         "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
         "channelTitle": "INDIALAW LLP",
         "durationSeconds": 59,
-        "views": 282,
+        "views": 284,
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ikwJdyJzlY0",
-        "ageHours": 149.80638416666667,
-        "velocity": 1.8824297880807381,
-        "outlier": 4.2406015037593985,
-        "velocityRatio": 1.8824297880807381,
-        "engagementRatio": 0.5039787798408488
+        "ageHours": 154.00147361111112,
+        "velocity": 1.8441381977757227,
+        "outlier": 4.2706766917293235,
+        "velocityRatio": 1.8441381977757227,
+        "engagementRatio": 0.30686970827815896
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 37,
+      "viralScore": 36,
       "priority": "strong"
     },
     {
@@ -121,10 +121,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=r28B4LiHs7g",
-        "ageHours": 1079.258606388889,
-        "velocity": 0.4095403987362175,
+        "ageHours": 1083.4536958333333,
+        "velocity": 0.40795467466658814,
         "outlier": 6.646616541353383,
-        "velocityRatio": 0.4095403987362175,
+        "velocityRatio": 0.40795467466658814,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -148,15 +148,15 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Gkc4A25NYJY",
-        "ageHours": 97.08443972222223,
-        "velocity": 0.8034243203460144,
+        "ageHours": 101.27952916666666,
+        "velocity": 0.7701457603702163,
         "outlier": 1.1729323308270676,
-        "velocityRatio": 0.8034243203460144,
-        "engagementRatio": 1.822077127116915
+        "velocityRatio": 0.7701457603702163,
+        "engagementRatio": 1.1173204762948352
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 20,
+      "viralScore": 16,
       "priority": "candidate"
     },
     {
@@ -175,15 +175,42 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=TaZFY0JRoJE",
-        "ageHours": 214.33166194444445,
-        "velocity": 0.44323829311146923,
+        "ageHours": 218.5267513888889,
+        "velocity": 0.4347293839139107,
         "outlier": 1.4285714285714286,
-        "velocityRatio": 0.44323829311146923,
-        "engagementRatio": 1.4960212201591512
+        "velocityRatio": 0.4347293839139107,
+        "engagementRatio": 0.9173789173789173
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 18,
+      "viralScore": 15,
+      "priority": "candidate"
+    },
+    {
+      "niche": "documentation",
+      "creator": "IndiaLaw LLP",
+      "creatorKey": "indialaw",
+      "source": {
+        "id": "dX64NzP5b6c",
+        "title": "CCPA Fines PhysicsWallah for Dark Patterns",
+        "description": "Can a pre-ticked donation box during online checkout violate consumer law?\n\nThe CCPA held that the answer is yes.\n\nPhysicsWallah was fined ₹5 lakh for using dark patterns, including a pre-selected donation checkbox, emotional prompts encouraging donations, and requiring users to share personal details to access \"\"free\"\" courses.\n\nThe Authority clarified that valid digital consent must be affirmative, informed, and voluntary. A pre-ticked checkbox is not valid consent.\n\nThe ruling reinforces that online platforms cannot use design tricks to influence consumer choices.\n\n{CCPA, PhysicsWallah, Dark patterns, Consumer protection, Digital consent, Basket sneaking, Confirm shaming, EdTech, Legal updates, IndiaLaw}\n\n#IndiaLaw #ConsumerProtection #DarkPatterns #CCPA #LegalAwareness",
+        "publishedAt": "2026-08-24T13:41:10Z",
+        "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
+        "channelTitle": "INDIALAW LLP",
+        "durationSeconds": 83,
+        "views": 50,
+        "likes": 1,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=dX64NzP5b6c",
+        "ageHours": 650.3823069444444,
+        "velocity": 0.07687786009263471,
+        "outlier": 0.7518796992481203,
+        "velocityRatio": 0.07687786009263471,
+        "engagementRatio": 1.743019943019943
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 14,
       "priority": "candidate"
     },
     {
@@ -202,15 +229,15 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Yy-KRCrIbRs",
-        "ageHours": 791.2127730555555,
-        "velocity": 0.10111060226069271,
+        "ageHours": 795.4078625,
+        "velocity": 0.100577331167631,
         "outlier": 1.2030075187969924,
-        "velocityRatio": 0.10111060226069271,
-        "engagementRatio": 1.776525198938992
+        "velocityRatio": 0.100577331167631,
+        "engagementRatio": 1.0893874643874644
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 17,
+      "viralScore": 13,
       "priority": "candidate"
     },
     {
@@ -229,15 +256,15 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=PgBuCX9b7pw",
-        "ageHours": 478.26555083333335,
-        "velocity": 0.11499887437882073,
+        "ageHours": 482.46064027777777,
+        "velocity": 0.11399893671809917,
         "outlier": 0.8270676691729323,
-        "velocityRatio": 0.11499887437882073,
-        "engagementRatio": 2.5840366530021703
+        "velocityRatio": 0.11399893671809917,
+        "engagementRatio": 1.5845635845635844
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 16,
+      "viralScore": 13,
       "priority": "candidate"
     },
     {
@@ -256,15 +283,15 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=D4eeNU3Vkxo",
-        "ageHours": 1126.3955508333333,
-        "velocity": 0.04794053026936191,
+        "ageHours": 1130.5906402777778,
+        "velocity": 0.047762645537851436,
         "outlier": 0.8120300751879699,
-        "velocityRatio": 0.04794053026936191,
-        "engagementRatio": 2.6318891836133216
+        "velocityRatio": 0.047762645537851436,
+        "engagementRatio": 1.6139073546480953
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 15,
+      "viralScore": 13,
       "priority": "candidate"
     },
     {
@@ -283,42 +310,15 @@
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=4OCpthqOVbw",
-        "ageHours": 573.6394397222223,
-        "velocity": 0.043581382779583525,
+        "ageHours": 577.8345291666667,
+        "velocity": 0.0432649811288608,
         "outlier": 0.37593984962406013,
-        "velocityRatio": 0.043581382779583525,
-        "engagementRatio": 5.684880636604775
+        "velocityRatio": 0.0432649811288608,
+        "engagementRatio": 3.486039886039886
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 12,
-      "priority": "candidate"
-    },
-    {
-      "niche": "documentation",
-      "creator": "IndiaLaw LLP",
-      "creatorKey": "indialaw",
-      "source": {
-        "id": "BdRta2re_fo",
-        "title": "Form F compliance under the PCPNDT Act is not merely a procedural formality.",
-        "description": "In Dr. Ramesh v. State of Maharashtra, the Supreme Court reaffirmed that deficiencies in mandatory Form F records can attract prosecution. The Court stressed that these records play a crucial role in monitoring prenatal diagnostic procedures and preventing illegal sex determination.\n\nUnder the PCPNDT Act, strict statutory record-keeping is essential, and claims of clerical error must be tested during trial.\n\n{PCPNDT Act, Form F compliance, Supreme Court, prenatal diagnostics, sex determination law}\n\n#PCPNDTAct #SupremeCourt #MedicalLaw #HealthcareLaw #LegalCompliance #IndiaLaw #LegalUpdate",
-        "publishedAt": "2026-09-18T11:57:02Z",
-        "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
-        "channelTitle": "INDIALAW LLP",
-        "durationSeconds": 62,
-        "views": 38,
-        "likes": 0,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=BdRta2re_fo",
-        "ageHours": 47.92277305555555,
-        "velocity": 0.7929424275166139,
-        "outlier": 0.5714285714285714,
-        "velocityRatio": 0.7929424275166139,
-        "engagementRatio": 0
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 11,
       "priority": "candidate"
     },
     {
@@ -337,10 +337,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=urPj2QVM7Ik",
-        "ageHours": 742.3713841666666,
-        "velocity": 0.13605050269195845,
+        "ageHours": 746.5664736111111,
+        "velocity": 0.13528601078409963,
         "outlier": 1.518796992481203,
-        "velocityRatio": 0.13605050269195845,
+        "velocityRatio": 0.13528601078409963,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -353,26 +353,26 @@
       "creator": "IndiaLaw LLP",
       "creatorKey": "indialaw",
       "source": {
-        "id": "dX64NzP5b6c",
-        "title": "CCPA Fines PhysicsWallah for Dark Patterns",
-        "description": "Can a pre-ticked donation box during online checkout violate consumer law?\n\nThe CCPA held that the answer is yes.\n\nPhysicsWallah was fined ₹5 lakh for using dark patterns, including a pre-selected donation checkbox, emotional prompts encouraging donations, and requiring users to share personal details to access \"\"free\"\" courses.\n\nThe Authority clarified that valid digital consent must be affirmative, informed, and voluntary. A pre-ticked checkbox is not valid consent.\n\nThe ruling reinforces that online platforms cannot use design tricks to influence consumer choices.\n\n{CCPA, PhysicsWallah, Dark patterns, Consumer protection, Digital consent, Basket sneaking, Confirm shaming, EdTech, Legal updates, IndiaLaw}\n\n#IndiaLaw #ConsumerProtection #DarkPatterns #CCPA #LegalAwareness",
-        "publishedAt": "2026-08-24T13:41:10Z",
+        "id": "BdRta2re_fo",
+        "title": "Form F compliance under the PCPNDT Act is not merely a procedural formality.",
+        "description": "In Dr. Ramesh v. State of Maharashtra, the Supreme Court reaffirmed that deficiencies in mandatory Form F records can attract prosecution. The Court stressed that these records play a crucial role in monitoring prenatal diagnostic procedures and preventing illegal sex determination.\n\nUnder the PCPNDT Act, strict statutory record-keeping is essential, and claims of clerical error must be tested during trial.\n\n{PCPNDT Act, Form F compliance, Supreme Court, prenatal diagnostics, sex determination law}\n\n#PCPNDTAct #SupremeCourt #MedicalLaw #HealthcareLaw #LegalCompliance #IndiaLaw #LegalUpdate",
+        "publishedAt": "2026-09-18T11:57:02Z",
         "channelId": "UCLjjVLU0pjnX6dmivTVSTUg",
         "channelTitle": "INDIALAW LLP",
-        "durationSeconds": 83,
-        "views": 48,
+        "durationSeconds": 62,
+        "views": 38,
         "likes": 0,
         "comments": 0,
-        "url": "https://www.youtube.com/watch?v=dX64NzP5b6c",
-        "ageHours": 646.1872175,
-        "velocity": 0.07428187791412015,
-        "outlier": 0.7218045112781954,
-        "velocityRatio": 0.07428187791412015,
+        "url": "https://www.youtube.com/watch?v=BdRta2re_fo",
+        "ageHours": 52.1178625,
+        "velocity": 0.7291166248423945,
+        "outlier": 0.5714285714285714,
+        "velocityRatio": 0.7291166248423945,
         "engagementRatio": 0
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 5,
+      "viralScore": 10,
       "priority": "candidate"
     },
     {
@@ -391,10 +391,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=H5JdjjFybb4",
-        "ageHours": 1321.7616619444445,
-        "velocity": 0.030262642011537822,
+        "ageHours": 1325.956751388889,
+        "velocity": 0.03016689643768662,
         "outlier": 0.6015037593984962,
-        "velocityRatio": 0.030262642011537822,
+        "velocityRatio": 0.03016689643768662,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -418,10 +418,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=DvyIBjqEVrg",
-        "ageHours": 1126.1769397222222,
-        "velocity": 0.017759198661031997,
+        "ageHours": 1130.3720291666666,
+        "velocity": 0.01769328989389839,
         "outlier": 0.3007518796992481,
-        "velocityRatio": 0.017759198661031997,
+        "velocityRatio": 0.01769328989389839,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -445,10 +445,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Y-OsFnQVwx4",
-        "ageHours": 262.30193972222224,
-        "velocity": 0.06862320583317837,
+        "ageHours": 266.49702916666666,
+        "velocity": 0.06754296682513049,
         "outlier": 0.2706766917293233,
-        "velocityRatio": 0.06862320583317837,
+        "velocityRatio": 0.06754296682513049,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -472,10 +472,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=_3RtddXWXwk",
-        "ageHours": 383.3077730555556,
-        "velocity": 0.04695965296114966,
+        "ageHours": 387.5028625,
+        "velocity": 0.046451269763200784,
         "outlier": 0.2706766917293233,
-        "velocityRatio": 0.04695965296114966,
+        "velocityRatio": 0.046451269763200784,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -499,10 +499,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Lyb9L-ZuuEk",
-        "ageHours": 317.4236063888889,
-        "velocity": 0.04410510030828651,
+        "ageHours": 321.61869583333333,
+        "velocity": 0.0435298077548793,
         "outlier": 0.21052631578947367,
-        "velocityRatio": 0.04410510030828651,
+        "velocityRatio": 0.0435298077548793,
         "engagementRatio": 0
       },
       "confirmations": 0,
@@ -526,10 +526,10 @@
         "likes": 0,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=pOUvrfQATI0",
-        "ageHours": 1197.2561063888888,
-        "velocity": 0.009187675002283109,
+        "ageHours": 1201.4511958333333,
+        "velocity": 0.009155594532801924,
         "outlier": 0.16541353383458646,
-        "velocityRatio": 0.009187675002283109,
+        "velocityRatio": 0.009155594532801924,
         "engagementRatio": 0
       },
       "confirmations": 0,
