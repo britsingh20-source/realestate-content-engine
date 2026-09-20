@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260920-DYEJ",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-20T12:14:19.693Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "bIclT2wPFwY",
+      "title": "Slab 🏗️Shuttering 📏Center Level 5mm Upar Kyu?🤔 #Shorts",
+      "description": "Slab 🏗️Shuttering 📏Center Level 5mm Upar Kyu?🤔 #Shorts \n\nChhoti si ⚠️site mistake baad mein slab deflection, plaster thickness aur cracks ka reason ban sakti hai! \n\n👷‍♂️Civil Engineers, ye practical tip yaad rakhein!\n\n#CivilEngineering #SlabShuttering #SiteEngineer #Construction #CivilGuruji",
+      "publishedAt": "2026-08-08T04:34:42Z",
+      "channelId": "UCfk6bln_Pp8dYgDk1f5FWCQ",
+      "channelTitle": "The Institute of Construction Managment ",
+      "durationSeconds": 76,
+      "views": 29456,
+      "likes": 749,
+      "comments": 3,
+      "url": "https://www.youtube.com/watch?v=bIclT2wPFwY",
+      "ageHours": 1039.6201880555554,
+      "velocity": 28.333424397127928,
+      "outlier": 7.133066957258748,
+      "velocityRatio": 2.561444530702673,
+      "engagementRatio": 0.6703400586736412
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 46,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 7946,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash"
+  },
+  "pack": {
+    "topic": "Slab Shuttering Camber Leveling",
+    "source_script_insight": "Setting slab shuttering perfectly flat leads to sagging when wet concrete is poured. To prevent this deflection and ensure a uniform 6mm ceiling plaster that won't crack or fall, the center of the shuttering must be raised by 5mm (camber) before pouring.",
+    "coimbatore_angle": "Applying precise structural camber practices to residential roof slabs in Coimbatore's residential projects to prevent ceiling plaster cracking and debonding.",
+    "core_takeaway": "Always raise the center of your roof slab shuttering by 5mm before pouring concrete to offset natural deflection and ensure a safe, crack-free 6mm ceiling plaster.",
+    "voiceover_tamil": "சீலிங் பூச்சு கொட்டுதா? சமமான ஷட்டரிங் தவறு! பாரம் நடுப்பகுதியை இறக்கும். நடுவில் 5மிமீ உயர்த்துங்கள்! இப்போது சீலிங் நேராகும். பூச்சு விரிசல் தவிர்ங்கள். ஆலிவ்ட்ரீ பில்டர்ஸ்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.5,
+        "purpose": "Hook: Show the problem of cracked ceiling plaster.",
+        "visual": "Close-up of a cracked ceiling plaster in a residential room in Coimbatore. A small piece of plaster is loose. Camera slowly tilts up. Natural indoor lighting.",
+        "camera": "Slow tilt-up, close-up lens, shallow depth of field.",
+        "on_screen_text": "Ceiling Crack?",
+        "voiceover_tamil": "சீலிங் பூச்சு கொட்டுதா?"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.5,
+        "end_sec": 2.9,
+        "purpose": "Introduce the common mistake of flat shuttering.",
+        "visual": "An active construction site in Coimbatore. A worker in a safety vest is checking a perfectly flat wooden slab shuttering using a spirit level. The bubble is dead center.",
+        "camera": "Eye-level tracking shot, bright Tamil Nadu sun filtering through scaffolding.",
+        "on_screen_text": "Flat Shuttering?",
+        "voiceover_tamil": "சமமான ஷட்டரிங் தவறு!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.9,
+        "end_sec": 4.3,
+        "purpose": "Explain the physical mechanism of concrete weight deflection.",
+        "visual": "Close-up of wet concrete pouring from a pump hose onto the shuttering. The wooden formwork experience downward pressure. Camera is low-angle, looking up at the underside of the shuttering.",
+        "camera": "Low-angle static shot, high contrast, realistic concrete textures.",
+        "on_screen_text": "Concrete Weight",
+        "voiceover_tamil": "பாரம் நடுப்பகுதியை இறக்கும்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.3,
+        "end_sec": 5.7,
+        "purpose": "Show the solution: raising the center by 5mm.",
+        "visual": "A skilled carpenter adjusting a steel jack prop beneath the center of the slab shuttering. He spins the collar to raise it. A clean, thin neon-green line overlay shows the center curving up slightly with a '+5mm' label.",
+        "camera": "Tight macro shot of the jack collar turning, sharp focus.",
+        "on_screen_text": "+5mm Camber",
+        "voiceover_tamil": "நடுவில் 5மிமீ உயர்த்துங்கள்!"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "purpose": "Show the cured, perfectly level slab.",
+        "visual": "Cut to the cured concrete ceiling after formwork removal. The concrete surface is perfectly flat and straight. A digital level line overlay runs across it showing '0-0 Level'.",
+        "camera": "Horizontal panning shot, clean architectural lighting.",
+        "on_screen_text": "Perfect Level",
+        "voiceover_tamil": "இப்போது சீலிங் நேராகும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.5,
+        "purpose": "Show the plastering benefit (uniform 6mm plaster).",
+        "visual": "A plasterer in Coimbatore applying a uniform, thin 6mm layer of cement plaster to the flat concrete ceiling using a trowel. The texture of the plaster is realistic, wet, and grey.",
+        "camera": "Close-up tracking shot, natural daylight.",
+        "on_screen_text": "6mm Plaster",
+        "voiceover_tamil": "பூச்சு விரிசல் தவிர்ங்கள்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Outro: Beautiful finished ceiling with brand takeaway.",
+        "visual": "A beautiful, modern, finished living room ceiling in a Coimbatore home with warm recessed lighting. Camera gently pans down to reveal a clean, minimalist overlay of the 'OliveTree Builders' logo.",
+        "camera": "Gently panning down, warm indoor lighting, high-end residential feel.",
+        "on_screen_text": "OliveTree Quality",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ பில்டர்ஸ்!"
+      }
+    ],
+    "gemini_video_prompt": "Create an ultra-realistic, high-impact 10-second educational reel for OliveTree Builders, Coimbatore, Tamil Nadu. The video must be in native 9:16 portrait orientation, utilizing photorealistic live-action style footage (90%+ real-looking visuals) with natural Tamil Nadu daylight, realistic construction site dust, concrete textures, and professional workmanship. No 2D cartoon animations, flat explainers, or glossy corporate CGI. The video consists of exactly 7 scenes with precise timing from 0.0 to 10.0 seconds. Scene 1 (0.0-1.5s): Close-up of a cracked ceiling plaster in a Coimbatore home; camera tilts up slowly; text overlay 'Ceiling Crack?'. Scene 2 (1.5-2.9s): A worker checking flat wooden slab shuttering with a spirit level; text overlay 'Flat Shuttering?'. Scene 3 (2.9-4.3s): Low-angle shot of wet concrete pouring onto shuttering, showing downward pressure; text overlay 'Concrete Weight'. Scene 4 (4.3-5.7s): Tight macro shot of a carpenter adjusting a steel jack prop to raise the center of the shuttering, with a thin neon-green line overlay showing '+5mm' camber; text overlay '+5mm Camber'. Scene 5 (5.7-7.1s): Horizontal pan of a cured, perfectly level concrete ceiling with a digital '0-0 Level' line overlay; text overlay 'Perfect Level'. Scene 6 (7.1-8.5s): Close-up of a plasterer applying a uniform 6mm cement plaster layer to the ceiling; text overlay '6mm Plaster'. Scene 7 (8.5-10.0s): A beautiful modern living room ceiling with warm recessed lighting, panning down to show a clean, minimalist 'OliveTree Builders' logo overlay; text overlay 'OliveTree Quality'. Keep color grading warm and consistent. Ensure all workers wear realistic safety gear. NEGATIVE PROMPT: Do not include 3D animations, cartoon characters, flat 2D vector graphics, generic corporate stock videos, floating text documents, fake futuristic cities, landscape orientation, black bars, AI-generated religious symbols, or robotic voiceovers.",
+    "title_english": "Why Your Ceiling Plaster Cracks: The 5mm Shuttering Rule!",
+    "caption_english": "Ever noticed ceiling plaster cracking or peeling off? The mistake happens way before plastering—during slab shuttering! When wet concrete is poured, its massive weight causes the center of the slab to sag. If your shuttering is set perfectly flat (0-0 level), the cured slab will curve downward, forcing plasterers to apply uneven, heavy plaster that eventually fails. The professional solution? Raise the center of your slab shuttering by 5mm (camber) before pouring. This offsets the deflection, leaving you with a perfectly level ceiling and a safe, uniform 6mm plaster coat. At OliveTree Builders, we enforce strict site quality controls for every Coimbatore home. Build right, build safe!",
+    "title_tamil": "சீலிங் பூச்சு கொட்டுவதை தடுப்பது எப்படி? 5மிமீ ரகசியம்!",
+    "caption_tamil": "உங்கள் வீட்டு சீலிங் பூச்சு விரிசல் அடைந்து கொட்டுகிறதா? தவறு பூச்சு வேலைகளில் இல்லை, கான்கிரீட் ஷட்டரிங் அமைப்பதில் தான்! கான்கிரீட் போடும்போது அதன் எடையால் நடுப்பகுதி லேசாக இறங்கும். ஷட்டரிங் சமமாக இருந்தால், சீலிங் வளைந்துவிடும். இதனால் பூச்சு பூசும்போது தடிமன் மாறி விரிசல் ஏற்படும். இதற்கு தீர்வு: ஷட்டரிங் செய்யும்போது நடுப்பகுதியை 5மிமீ உயர்த்தி (Camber) அமைக்க வேண்டும். கோயம்புத்தூரில் உங்கள் கனவு இல்லத்தை தரமாகவும் பாதுகாப்பாகவும் கட்ட ஆலிவ்ட்ரீ பில்டர்ஸ்-ஐ தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreBuilders",
+      "#SlabShuttering",
+      "#OliveTreeBuilders"
+    ]
+  }
+}
