@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260921-HBOK",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-21T06:03:22.915Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "FlTtbg4kAMY",
+      "title": "Resume Chhodo!📄 😱Interview Mein🔥 Ye Lekar Jao!💼 #shorts",
+      "description": "Resume Chhodo!📄 😱Interview Mein🔥 Ye Lekar Jao!💼\n\nApne work ka portfolio + problems ke solutions lekar jao — interviewer ko sirf ye mat batao ki “mujhe job chahiye”, dikhao ki “main aapki problem solve kar sakta hoon.”\n\nNext interview se pehle ye reel save kar lo!\n\n#CivilEngineering #CivilEngineer #JobInterview #InterviewTips #EngineeringJobs",
+      "publishedAt": "2026-08-27T03:58:09Z",
+      "channelId": "UCfk6bln_Pp8dYgDk1f5FWCQ",
+      "channelTitle": "The Institute of Construction Managment ",
+      "durationSeconds": 75,
+      "views": 16701,
+      "likes": 661,
+      "comments": 4,
+      "url": "https://www.youtube.com/watch?v=FlTtbg4kAMY",
+      "ageHours": 602.06583,
+      "velocity": 27.739491543640668,
+      "outlier": 4.03942435602854,
+      "velocityRatio": 2.6342164253427813,
+      "engagementRatio": 1.0482494227469406
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 43,
+    "priority": "strong"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 9549,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.8-flash"
+  },
+  "pack": {
+    "topic": "Structural Quality Audit & Technical QA Checklist vs Generic Paper Estimates",
+    "source_script_insight": "A flimsy generic resume fails to establish value or solve problems; candidates need a tailored problem-solution portfolio. Similarly in residential construction, a basic one-page paper quotation fails to ensure structural safety. Homeowners must insist on comprehensive technical QA checklists and material batch test reports prior to concrete pouring.",
+    "coimbatore_angle": "Coimbatore homebuilders along Saravanampatti and Avinashi Road evaluating independent residential construction who need verified steel grade certifications and concrete slump test checklists before slab casting.",
+    "core_takeaway": "Never accept a basic paper estimate; demand a full technical site QA checklist and material test reports before casting structural elements.",
+    "voiceover_tamil": "வெறும் பேப்பர் எஸ்டிமேட் மட்டும் போதாது! கட்டிட தரத்தை அது காட்டாது. டெக்னிக்கல் QA செக்லிஸ்ட் எடுங்க! ஸ்டீல் கிரேட் மற்றும் காங்க்ரீட் செக் பண்ணுங்க. கவர் பிளாக் அளவுகளை சரிபார்க்கவும். துல்லியமான தர சோதனையே பாதுகாப்பு! ஆலிவ்ட்ரீ பில்டர்ஸ் உடன் தரமான வீடு கட்டுங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Visual Hook: Flimsy paper estimate juxtaposed against slab reinforcement shuttering.",
+        "visual": "A supervisor hand holding a single printed paper sheet blowing slightly in the breeze over an active roof slab rebar grid in Saravanampatti, Coimbatore.",
+        "camera": "Eye-level close-up, 35mm lens feel, quick subtle tilt down to rebar.",
+        "on_screen_text": "Paper Estimate Only?",
+        "voiceover_tamil": "வெறும் பேப்பர் எஸ்டிமேட் மட்டும் போதாது!"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Problem Identification: Missing structural details on standard single-page quotation.",
+        "visual": "Finger pointing to vague line items on paper with no steel grade or cover block specifications listed.",
+        "camera": "Over-the-shoulder extreme macro shot, crisp daylight sunlight.",
+        "on_screen_text": "No Quality Specs!",
+        "voiceover_tamil": "கட்டிட தரத்தை அது காட்டாது."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "The Solution: Introduction of detailed site QA technical inspection clipboard.",
+        "visual": "A site engineer replacing the single paper with a structured multi-page OliveTree site inspection checklist on a rigid aluminum clipboard.",
+        "camera": "Medium shot, dynamic lateral track right, natural direct sunlight.",
+        "on_screen_text": "Use Technical QA Checklist",
+        "voiceover_tamil": "டெக்னிக்கல் QA செக்லிஸ்ட் எடுங்க!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Verification: Checking Fe550 steel grade stamp on reinforcement bars.",
+        "visual": "Close-up of engineer checking embossed Fe550 steel mark on rebar against the technical specification report.",
+        "camera": "Low angle macro shot, 50mm lens, steady hand held.",
+        "on_screen_text": "Check Fe550 Steel Grade",
+        "voiceover_tamil": "ஸ்டீல் கிரேட் மற்றும் காங்க்ரீட் செக் பண்ணுங்க."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Workmanship Audit: Inspecting cover blocks under roof slab mesh.",
+        "visual": "Engineer measuring concrete cover block height (25mm) beneath rebar mat using digital vernier caliper on site.",
+        "camera": "Ground-level close-up angle, sharp focus on measuring tool and concrete cover block.",
+        "on_screen_text": "Verify Cover Block Spacing",
+        "voiceover_tamil": "கவர் பிளாக் அளவுகளை சரிபார்க்கவும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Execution Quality: Concrete slump test verification before pouring slab.",
+        "visual": "Concrete slump cone test being lifted on site to confirm workability before pump discharge.",
+        "camera": "Slight low-angle tracking shot, realistic dusty outdoor bright daylight.",
+        "on_screen_text": "Slump Test Verified",
+        "voiceover_tamil": "துல்லியமான தர சோதனையே பாதுகாப்பு!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Payoff & CTA: Completed, perfectly cast structural floor slab in Coimbatore residential site.",
+        "visual": "Wide view of smoothly finished cured concrete slab with green coconut trees and Coimbatore sky in background.",
+        "camera": "Gimbal slow rise up, 24mm wide angle, bright natural golden morning light.",
+        "on_screen_text": "OliveTree Builders Quality Standard",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ பில்டர்ஸ் உடன் தரமான வீடு கட்டுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "OliveTree Builders visual concept for COIMBATORE ONLY. EXACTLY 10 SECONDS TOTAL, EXACTLY 7 DISTINCT SCENES, PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE ONLY. 90%+ real-looking visuals in native 9:16 vertical layout. No toon animation, flat 2D explainer, white background infographics, glossy 3D renders, or floating CGI. Real-world Coimbatore residential construction site environment during bright daylight with natural concrete dust, rebar rust highlights, sunny tropical lighting, and blue sky framed by coconut palm tops.\n\nSCENE BREAKDOWN:\n- SCENE 1 (0.0s - 1.4s): Close-up shot, eye-level camera. A construction supervisor hand holds a flimsy 1-page paper estimate paper that flutters in the warm breeze above an active slab steel rebar grid on a residential site in Saravanampatti, Coimbatore. Text overlay: 'Paper Estimate Only?'. Tamil VO: 'வெறும் பேப்பர் எஸ்டிமேட் மட்டும் போதாது!'.\n- SCENE 2 (1.4s - 2.8s): Extreme macro over-the-shoulder shot. A finger points to generic total amounts on the paper with missing grade details. Sunlight creates sharp natural shadows across the paper texture. Text overlay: 'No Quality Specs!'. Tamil VO: 'கட்டிட தரத்தை அது காட்டாது.'.\n- SCENE 3 (2.8s - 4.2s): Medium shot, lateral dolly tracking right. A professional site engineer in safety helmet replaces the loose sheet with an OliveTree technical QA checklist on a sturdy metal clipboard over the shuttering deck. Text overlay: 'Use Technical QA Checklist'. Tamil VO: 'டெக்னிக்கல் QA செக்லிஸ்ட் எடுங்க!'.\n- SCENE 4 (4.2s - 5.6s): Low-angle macro shot on rebar. Crisp focus on the embossed 'Fe550' grade mark on high-yield steel rebar being checked against the QA checklist. Text overlay: 'Check Fe550 Steel Grade'. Tamil VO: 'ஸ்டீல் கிரேட் மற்றும் காங்க்ரீட் செக் பண்ணுங்க.'.\n- SCENE 5 (5.6s - 7.0s): Ground-level close-up shot. Measuring tool checking 25mm precast concrete cover block installed underneath the bottom steel layer to guarantee concrete cover. Text overlay: 'Verify Cover Block Spacing'. Tamil VO: 'கவர் பிளாக் அளவுகளை சரிபார்க்கவும்.'.\n- SCENE 6 (7.0s - 8.5s): Low-angle tracking shot. Site technician lifting a concrete slump test cone on active site ground to verify M25 mix workability before pouring slab concrete. Text overlay: 'Slump Test Verified'. Tamil VO: 'துல்லியமான தர சோதனையே பாதுகாப்பு!'.\n- SCENE 7 (8.5s - 10.0s): Gimbal slow tilt-up wide shot. Real completed freshly finished concrete floor slab with clean edges, surrounded by realistic Coimbatore vegetation and morning blue sky. Text overlay: 'OliveTree Builders Quality Standard'. Tamil VO: 'ஆலிவ்ட்ரீ பில்டர்ஸ் உடன் தரமான வீடு கட்டுங்கள்!'.\n\nCONTINUITY & REALISM RULES:\nMaintain identical daylight sunny weather, consistent safety vest colors, real steel rebar textures, real unpolished concrete surfaces, and authentic South Indian residential surrounding buildings. Smooth natural camera motion without artificial fast-swipes. Motion graphics are strictly limited to subtle translucent callout text boxes.\n\nNEGATIVE PROMPT:\nDo not include toon, 2D vector graphic, cartoon, animated character, plastic 3D render, glossy white studio background, fake futuristic overlay, floating 3D houses, floating paper sheets in space, landscape orientation, black bars, blurred sidebars, non-Coimbatore geography, architectural CGI representation, or artificial presenter.",
+    "title_english": "Stop Relying on 1-Page Paper Estimates! Demand Site QA Checklists",
+    "caption_english": "Are you building a residential home in Coimbatore? Don't rely on a simple one-page paper estimate or verbal promises when funding your dream house. Generic quotations lack specific material test reports, steel grades, cover block dimensions, and concrete mix parameters required for long-term structural integrity. At OliveTree Builders, we implement comprehensive technical quality checklists on every site—from Saravanampatti to Avinashi Road. Verify Fe550 steel batch certificates, M25 concrete slump tests, and cover block placements before pouring concrete. Demand rigorous site QA protocols today. Partner with OliveTree Builders for uncompromised structural quality across Coimbatore.",
+    "title_tamil": "1-பேஜர் எஸ்டிமேட் மட்டும் நம்பாதீங்க! டெக்னிக்கல் QA செக்லிஸ்ட் முக்கியம்",
+    "caption_tamil": "கோயம்பத்தூரில் வீடு கட்ட திட்டமிடுகிறீர்களா? வெறும் ஒரு பக்க பேப்பர் எஸ்டிமேட்டை மட்டும் நம்பி இறங்காதீர்கள். அதில் ஸ்டீல் கிரேட், கவர் பிளாக் அளவுகள் மற்றும் காங்க்ரீட் கலவை பற்றிய விவரங்கள் இருக்காது. ஆலிவ்ட்ரீ பில்டர்ஸ் உடன் டெக்னிக்கல் QA செக்லிஸ்ட் மூலம் தரமான வீடு கட்டுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreConstruction",
+      "#OliveTreeBuilders",
+      "#StructuralQuality"
+    ]
+  }
+}
