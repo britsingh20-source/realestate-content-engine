@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260923-ZZ9Q",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-23T12:43:43.022Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Buildofy",
+    "creatorKey": "buildofy",
+    "source": {
+      "id": "ztZEMQKA9zI",
+      "title": "Manlok Villa | Official Promo#buildofy #architecture #marble #home #rajasthan #shorts #reels #luxury",
+      "description": "",
+      "publishedAt": "2026-09-21T10:30:06Z",
+      "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
+      "channelTitle": "Buildofy",
+      "durationSeconds": 71,
+      "views": 10612,
+      "likes": 272,
+      "comments": 3,
+      "url": "https://www.youtube.com/watch?v=ztZEMQKA9zI",
+      "ageHours": 50.17324833333333,
+      "velocity": 211.5071348280586,
+      "outlier": 0.8772060343046084,
+      "velocityRatio": 9.864056638777463,
+      "engagementRatio": 0.9891973131068751
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 39,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 2955,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Material Layering and Structural Spatial Quality in Residential Construction",
+    "source_script_insight": "The source emphasizes luxury through spatial volume, scale, and material layering like marble and contrasting wall finishes instead of standalone decoration.",
+    "coimbatore_angle": "Adapting material layering and spatial volume principles for Coimbatore independent homes to ensure structural durability and aesthetic finish against local climate conditions.",
+    "core_takeaway": "Proper material layering and structural volume planning prevent surface cracks and enhance interior longevity in Coimbatore homes.",
+    "voiceover_tamil": "கோயம்புத்தூர் வீட்டுல, இடத்தோட அளவையும், மெட்டீரியல் லேயரிங்கையும் சரியா பிளான் பண்ணனும்.",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook",
+        "visual": "Real active residential construction site in Coimbatore with workers checking double-height living room walls under bright daylight.",
+        "camera": "Low angle, steady smartphone shot, close-up on masonry wall.",
+        "on_screen_text": "Space & Layers",
+        "voiceover_tamil": "கோயம்புத்தூர் வீட்டுல,"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Problem Setup",
+        "visual": "Close-up of brickwork and plastering layers on a freshly raised interior partition wall.",
+        "camera": "Eye level, slow push-in, handheld gimbal feel.",
+        "on_screen_text": "Volume & Scale",
+        "voiceover_tamil": "இடத்தோட அளவையும்,"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Material Focus",
+        "visual": "A mason applying high-grade mortar between premium wall blocks on an active Coimbatore site.",
+        "camera": "Medium shot, side angle, sharp focus on materials.",
+        "on_screen_text": "Material Layering",
+        "voiceover_tamil": "மெட்டீரியல் லேயரிங்கையும்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.7,
+        "purpose": "Technical Detail",
+        "visual": "Inspection of wall surface flatness and alignment using a spirit level tool.",
+        "camera": "Close-up, tracking movement along the wall edge.",
+        "on_screen_text": "Check Alignment",
+        "voiceover_tamil": "சரியா பிளான்"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.7,
+        "end_sec": 7.1,
+        "purpose": "Workmanship",
+        "visual": "Wide shot of a completed double-height living room core with natural sunlight pouring through window openings.",
+        "camera": "Wide angle, slow upward tilt.",
+        "on_screen_text": "Structural Volume",
+        "voiceover_tamil": "பண்ணனும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7.1,
+        "end_sec": 8.5,
+        "purpose": "Quality Check",
+        "visual": "Engineer examining finished wall plaster texture and joints for quality assurance.",
+        "camera": "Medium close-up, panning right.",
+        "on_screen_text": "Site Quality",
+        "voiceover_tamil": "உரம் கூடும்,"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Call to Action",
+        "visual": "Finished residential villa exterior facade in Coimbatore under bright afternoon sun with OliveTree Builders branding overlay.",
+        "camera": "Eye level, stable tripod shot.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "வாழ்நாள் பலம்!"
+      }
+    ],
+    "gemini_video_prompt": "OliveTree Builders, COIMBATORE ONLY, EXACTLY 10 SECONDS, EXACTLY 7 SCENES, PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE, 90%+ real-looking visuals, portrait 9:16, motion graphics only as overlays, and no toon/cartoon/explainer-animation style. This video is produced exclusively for OliveTree Builders in Coimbatore, Tamil Nadu. The entire video runs for exactly 10 seconds across exactly 7 distinct scenes, maintaining 90% photorealistic live-action footage shot on active residential construction sites in Coimbatore. Scene 1 (0.0-1.4s): Low angle close-up of a worker checking a double-height living room wall on an active Coimbatore site under bright natural daylight with 'Space & Layers' text overlay. Scene 2 (1.4-2.8s): Eye level slow push-in on brickwork and plastering layers on an interior partition wall with 'Volume & Scale' text overlay. Scene 3 (2.8-4.2s): Medium side-angle shot of a mason applying mortar between premium wall blocks with 'Material Layering' text overlay. Scene 4 (4.2-5.7s): Close-up tracking shot of an engineer checking wall alignment with a spirit level with 'Check Alignment' text overlay. Scene 5 (5.7-7.1s): Wide angle slow upward tilt of a completed double-height room structure with natural sunlight and 'Structural Volume' text overlay. Scene 6 (7.1-8.5s): Medium close-up panning right of an engineer examining finished plaster texture with 'Site Quality' text overlay. Scene 7 (8.5-10.0s): Stable eye-level shot of a finished residential villa facade in Coimbatore under bright afternoon sun with a subtle text overlay 'OliveTree Builders'. NEGATIVE PROMPT: Do not generate toon animation, cartoon, flat 2D explainer, white-background infographic, glossy corporate motion graphics, game-like 3D render, plastic CGI, fake futuristic city, floating documents, floating houses, impossible camera motion, random presenter, visible cameraman, religious symbols, landscape orientation, black bars, blurred sidebars.",
+    "title_english": "Mastering Material Layering & Spatial Volume in Coimbatore Homes | OliveTree Builders",
+    "caption_english": "Discover how proper material layering and structural volume planning enhance the strength and finish of independent homes in Coimbatore. At OliveTree Builders, our expert engineering ensures precision workmanship from foundation to finish. Build your dream home with structural integrity. Contact OliveTree Builders today for expert construction guidance in Coimbatore.",
+    "title_tamil": "கோயம்புத்தூர் வீடுகளில் மெட்டீரியல் லேயரிங் மற்றும் ஸ்பேசியல் வால்யூம்",
+    "caption_tamil": "கோயம்புத்தூரில் தரமான வீடுகளை கட்ட சரியான மெட்டீரியல் லேயரிங் மற்றும் வடிவமைப்பு அவசியம். ஆலிவ்டிரீ பில்டர்ஸ் மூலம் உங்கள் வீட்டை பலமாக கட்டுங்கள்.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreConstruction",
+      "#HomeBuilding"
+    ]
+  }
+}
