@@ -1,0 +1,136 @@
+{
+  "contentId": "INV-20260923-B6ZU",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-23T21:38:43.586Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "OaUnw7tlYnQ",
+      "title": "Serious matter tha 😰 #makkah #abrarteli",
+      "description": "",
+      "publishedAt": "2026-09-23T20:57:25Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 17,
+      "views": 236,
+      "likes": 27,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=OaUnw7tlYnQ",
+      "ageHours": 0.6453927777777778,
+      "velocity": 365.6687960045003,
+      "outlier": 0.20783795684720388,
+      "velocityRatio": 157.4374714417403,
+      "engagementRatio": 4.429786935859922
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 46,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3156
+  },
+  "pack": {
+    "subject_classification": "legal risk",
+    "source_evidence_points": [
+      "A serious unresolved matter triggers the need for urgent, direct action.",
+      "Bypassing secondary channels or intermediaries to go straight to the 'headquarters' or ultimate authority.",
+      "Seeking direct confirmation and resolution from the primary source to ensure absolute safety and peace of mind."
+    ],
+    "topic": "Direct Document Verification at Coimbatore SRO/LPA",
+    "source_script_insight": "When facing a critical issue, bypass intermediaries and go straight to the ultimate authority (headquarters) to get direct, absolute resolution.",
+    "coimbatore_angle": "In Coimbatore's real estate market, instead of relying on local brokers' verbal assurances for complex parent documents ('Thai Pathiram'), investors must go directly to the Sub-Registrar Office (SRO) or DTCP/LPA headquarters to verify records.",
+    "visual_strategy": "Using close-up shots of real legal documents, official government seals, and the physical environment of Coimbatore's registration offices to emphasize the rigor of direct verification, avoiding generic happy-family or construction-site footage.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Always verify land titles directly at the government headquarters (SRO/LPA) to eliminate legal risks.",
+    "voiceover_tamil": "பத்திரம் விஷயத்துல சந்தேகம் பெருசா இருந்தா, இடைத்தரகர்களை நம்பாதீங்க. நேரா மெயின் ஆபீஸுக்கே போங்க! அசல் ஆவணங்களை அரசாங்க பதிவேட்டோடு ஒப்பிட்டு, முழுமையா உறுதி செய்யுங்க. இதுவே பாதுகாப்பான முதலீடு!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "A serious unresolved matter triggers the need for urgent, direct action.",
+        "purpose": "Establish the central tension of a doubtful property document.",
+        "visual": "A close-up, high-contrast shot of a person's hand holding a magnifying glass over an old, dusty Tamil Nadu land registration document ('Thai Pathiram'). The texture of the stamp paper is highly detailed under natural, warm desk lighting.",
+        "on_screen_text": "சந்தேகமா?",
+        "voiceover_tamil": "பத்திரம் விஷயத்துல சந்தேகம் பெருசா இருந்தா..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Bypassing secondary channels or intermediaries.",
+        "purpose": "Rejecting unreliable middleman advice.",
+        "visual": "A first-person perspective of a hand gently but firmly pushing away a broker's handwritten note and an unofficial layout map on a wooden table, lit by soft window light.",
+        "on_screen_text": "புரோக்கர் வேண்டாம்",
+        "voiceover_tamil": "இடைத்தரகர்களை நம்பாதீங்க."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Going straight to the 'headquarters' or ultimate authority.",
+        "purpose": "Showing the journey to the official authority.",
+        "visual": "A smooth, eye-level tracking shot of a car driving past a clear street sign in Coimbatore pointing towards the 'Sub-Registrar Office' (SRO) written in Tamil and English, under bright daylight.",
+        "on_screen_text": "நேரடியா போங்க",
+        "voiceover_tamil": "நேரா மெயின் ஆபீஸுக்கே போங்க!"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Seeking direct confirmation from the primary source.",
+        "purpose": "Inspecting the official government records.",
+        "visual": "A close-up shot of a finger tracing a line on an official digital screen displaying the Tnreginet portal, showing verified registration details with clear, sharp text and no glare.",
+        "on_screen_text": "அசல் பதிவு",
+        "voiceover_tamil": "அசல் ஆவணங்களை"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Seeking direct confirmation from the primary source.",
+        "purpose": "Showing official government validation.",
+        "visual": "An extreme close-up of a metal government stamp being firmly pressed onto a certified copy of an Encumbrance Certificate (EC), leaving a crisp purple ink impression.",
+        "on_screen_text": "அரசு முத்திரை",
+        "voiceover_tamil": "அரசாங்க பதிவேட்டோடு ஒப்பிட்டு,"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Ensuring absolute safety and peace of mind.",
+        "purpose": "Verifying the layout approval.",
+        "visual": "A top-down shot of a clean, official DTCP-approved layout map of Coimbatore being unrolled on a desk, showing official blue and red approval stamps on the bottom corner.",
+        "on_screen_text": "உறுதி செய்யுங்க",
+        "voiceover_tamil": "முழுமையா உறுதி செய்யுங்க."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Ensuring absolute safety and peace of mind.",
+        "purpose": "Final payoff showing a secure investor.",
+        "visual": "A medium shot of a confident investor holding a verified file of documents, standing in front of a clean, tree-lined street in Race Course, Coimbatore. A subtle 'OliveTree Investors' logo appears at the bottom.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "இதுவே பாதுகாப்பான முதலீடு!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Duration: Exactly 10 seconds.\n- Aspect Ratio: Native portrait 9:16, full-screen vertical composition.\n\nB. REALISM LOCK\n- This video must consist entirely of ultra-photorealistic, real-world footage. No 3D animations, cartoon explainers, or architectural renders. All settings, objects, and people must look authentic to Coimbatore, Tamil Nadu, with natural sunlight, realistic shadows, and physical textures.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Legal Risk & Due Diligence.\n- Core Concept: When verifying property documents, bypass brokers and go straight to the 'headquarters' (Sub-Registrar Office / DTCP office) to verify parent documents directly.\n- Location: Coimbatore, Tamil Nadu.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus on physical evidence: old stamp papers, official government registers, digital portals, and official stamps.\n- Avoid the generic 'empty plot to happy family' sequence. Every shot must directly illustrate the process of legal verification.\n\nE. CAMERA + IMAGE QUALITY\n- Shot with a high-end mirrorless camera, 4K resolution, natural depth of field, and stable camera movements. No digital zooms, whip pans, or unrealistic camera angles.\n\nF. EXACT 7-SHOT PLAN\n\n- Shot 1 (0.0 - 1.4s): Close-up of a person's hand holding a magnifying glass over an old, dusty Tamil Nadu land registration document ('Thai Pathiram'). The texture of the stamp paper is highly detailed under natural, warm desk lighting. Text overlay: 'சந்தேகமா?'. Tamil VO: 'பத்திரம் விஷயத்துல சந்தேகம் பெருசா இருந்தா...'\n\n- Shot 2 (1.4 - 2.8s): First-person perspective of a hand gently pushing away a broker's handwritten note and an unofficial layout map on a wooden table, lit by soft window light. Text overlay: 'புரோக்கர் வேண்டாம்'. Tamil VO: 'இடைத்தரகர்களை நம்பாதீங்க.'\n\n- Shot 3 (2.8 - 4.2s): A smooth, eye-level tracking shot of a car driving past a clear street sign in Coimbatore pointing towards the 'Sub-Registrar Office' (SRO) written in Tamil and English, under bright daylight. Text overlay: 'நேரடியா போங்க'. Tamil VO: 'நேரா மெயின் ஆபீஸுக்கே போங்க!'\n\n- Shot 4 (4.2 - 5.6s): Close-up shot of a finger tracing a line on an official digital screen displaying the Tnreginet portal, showing verified registration details with clear, sharp text. Text overlay: 'அசல் பதிவு'. Tamil VO: 'அசல் ஆவணங்களை'\n\n- Shot 5 (5.6 - 7.0s): Extreme close-up of a metal government stamp being firmly pressed onto a certified copy of an Encumbrance Certificate (EC), leaving a crisp purple ink impression. Text overlay: 'அரசு முத்திரை'. Tamil VO: 'அரசாங்க பதிவேட்டோடு ஒப்பிட்டு,'\n\n- Shot 6 (7.0 - 8.5s): Top-down shot of a clean, official DTCP-approved layout map of Coimbatore being unrolled on a desk, showing official blue and red approval stamps on the bottom corner. Text overlay: 'உறுதி செய்யுங்க'. Tamil VO: 'முழுமையா உறுதி செய்யுங்க.'\n\n- Shot 7 (8.5 - 10.0s): Medium shot of a confident investor holding a verified file of documents, standing in front of a clean, tree-lined street in Race Course, Coimbatore. A subtle 'OliveTree Investors' logo appears at the bottom. Text overlay: 'OliveTree Investors'. Tamil VO: 'இதுவே பாதுகாப்பான முதலீடு!'\n\nG. MOTION-GRAPHICS LIMIT\n- Only subtle, clean, minimalist text overlays. No heavy motion graphics or cartoon transitions.\n\nH. FINAL REAL SCENE\n- No separate branded end card. The video ends on the real-world shot of the investor in Coimbatore with a minimal logo overlay.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- No cartoons, anime, 3D renders, architectural pre-visualizations, or plastic CGI look. No fake skylines, duplicated people, or unrealistic camera movements. No landscape footage cropped with black bars.",
+    "title_english": "Bypass the Broker: Verify Coimbatore Land Titles Directly at the SRO",
+    "caption_english": "When a property deal feels complicated, don't rely on middleman promises. Go straight to the headquarters! In Coimbatore, verifying your 'Thai Pathiram' (parent document) and checking the Encumbrance Certificate (EC) directly at the Sub-Registrar Office (SRO) or DTCP office is the only way to guarantee a clean title. Intermediaries might overlook critical legal gaps, but official government records never lie. Protect your hard-earned money by conducting direct, primary-source due diligence. Contact OliveTree Investors today for expert guidance on safe, verified property investments in Coimbatore. #CoimbatoreRealEstate #PropertyDueDiligence #OliveTreeInvestors",
+    "title_tamil": "பத்திர சரிபார்ப்பு: இடைத்தரகர்களை நம்பாமல் நேரடியாக சரிபார்ப்பது எப்படி?",
+    "caption_tamil": "கோயம்புத்தூரில் நிலம் வாங்கும் போது பத்திரங்களில் சந்தேகம் இருந்தால், புரோக்கர்களின் வார்த்தைகளை மட்டும் நம்பி ஏமாறாதீர்கள். தாய் பத்திரம் மற்றும் வில்லங்க சான்றிதழை (EC) நேரடியாக சார்-பதிவாளர் அலுவலகம் (SRO) அல்லது DTCP அலுவலகத்தில் சரிபார்ப்பதே பாதுகாப்பானது. அசல் அரசு ஆவணங்களை நேரடியாக ஒப்பிட்டுப் பார்ப்பதன் மூலம் மட்டுமே உங்கள் முதலீட்டைப் பாதுகாக்க முடியும். பாதுகாப்பான முதலீட்டு வழிகாட்டுதலுக்கு இன்றே OliveTree Investors-ஐ அணுகவும். #CoimbatoreRealEstate #PropertyDueDiligence #OliveTreeInvestors",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyDueDiligence",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
