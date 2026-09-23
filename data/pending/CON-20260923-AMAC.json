@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260923-AMAC",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-23T05:46:27.705Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Nemmadi Home Inspection",
+    "creatorKey": "nemmadi",
+    "source": {
+      "id": "JFUIfVbsBlg",
+      "title": "Water Leaking From Waste Pipeline! RWA HOTO",
+      "description": "A waste pipe line is leaking water in the common parking area of an apartment, creating a plumbing and maintenance concern for the RWA.\n\nBook Now: https://nemmadi.in/quote-for-rwa/\n\n#waterleakage #wastepipe #plumbingleakage #plumbingissues #rwa #rwaaudit #rwamaintenance #apartmentmaintenance #apartmentinspection #commonarea #propertyinspection #nemmadi",
+      "publishedAt": "2026-09-22T05:24:22Z",
+      "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+      "channelTitle": "Nemmadi. In",
+      "durationSeconds": 23,
+      "views": 1181,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=JFUIfVbsBlg",
+      "ageHours": 24.31281027777778,
+      "velocity": 48.575215555375316,
+      "outlier": 1.0996275605214152,
+      "velocityRatio": 22.00351536569943,
+      "engagementRatio": 0.6943620117365819
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 42,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 1856,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.5-flash-lite"
+  },
+  "pack": {
+    "topic": "Basement Parking Overhead Drainage Pipeline Leakage Inspection",
+    "source_script_insight": "Overhead drainage pipe joint leakage in basement parking causes water pooling and vehicle damage, highlighting poor MEP workmanship during handover.",
+    "coimbatore_angle": "Apartment buyers in RS Puram or Peelamedu must inspect basement parking ceilings during handing over to prevent long-term seepage onto cars.",
+    "core_takeaway": "Check overhead PVC drainage joints in apartment basements before handover.",
+    "voiceover_tamil": "கோவை அபார்ட்மெண்ட் பார்கிங் மேலே... பைப் ஜாயிண்ட் லீக் ஆகுதா? கைடன்ஸ் பாருங்க!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook",
+        "visual": "POV walking inside a Coimbatore apartment basement parking, overhead white PVC drainage pipes visible against concrete ceiling.",
+        "camera": "Handheld gimbal forward track, eye level, 24mm lens",
+        "on_screen_text": "Basement Leak?",
+        "voiceover_tamil": "கோவை அபார்ட்மெண்ட்"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Show problem",
+        "visual": "Close-up of a PVC pipe joint dripping water onto the wet concrete floor near a parked car tyre.",
+        "camera": "Low angle tilt up, 35mm lens, stable motion",
+        "on_screen_text": "Joint Failure",
+        "voiceover_tamil": "பார்கிங் மேலே..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Highlight impact",
+        "visual": "Puddle of water on parking bay floor reflecting overhead conduits and apartment pillar numbers.",
+        "camera": "Static overhead down-angle, 24mm lens",
+        "on_screen_text": "Check Puddles",
+        "voiceover_tamil": "பைப் ஜாயிண்ட்"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Inspect MEP",
+        "visual": "Engineer hand pointing at suspended white PVC drainage elbow joint running along basement ceiling beams.",
+        "camera": "Medium shot, slight pan, 50mm lens",
+        "on_screen_text": "MEP Check",
+        "voiceover_tamil": "லீக் ஆகுதா?"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Show substandard work",
+        "visual": "Unsealed pipe joint area with moisture stains on the concrete ceiling around the hanger clamp.",
+        "camera": "Close-up tracking shot, 35mm lens",
+        "on_screen_text": "Poor Sealing",
+        "voiceover_tamil": "கைடன்ஸ் பாருங்க!"
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Correct fix",
+        "visual": "Plumber applying solvent cement and proper sealant to a PVC drainage pipe collar joint.",
+        "camera": "Medium close-up, stable tripod shot",
+        "on_screen_text": "Proper Fix",
+        "voiceover_tamil": "முறையான சீலிங்"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Takeaway branding",
+        "visual": "Dry parking ceiling with OliveTree Builders quality check mark overlay on clean PVC pipes.",
+        "camera": "Wide pan, eye level, 24mm lens",
+        "on_screen_text": "OliveTree Quality",
+        "voiceover_tamil": "ஆலிவ்ட্রী பில்டர்ஸ்"
+      }
+    ],
+    "gemini_video_prompt": "OliveTree Builders, COIMBATORE ONLY, EXACTLY 10 SECONDS, EXACTLY 7 SCENES, PHOTOREALISTIC LIVE-ACTION-STYLE REAL FOOTAGE, 90%+ real-looking visuals, portrait 9:16, motion graphics only as overlays, and no toon/cartoon/explainer-animation style. Scene 1 (0.0-1.4s): POV walking inside a Coimbatore apartment basement parking, overhead white PVC drainage pipes visible against concrete ceiling, handheld gimbal forward track, eye level, 24mm lens, natural basement fluorescent lighting. Scene 2 (1.4-2.8s): Close-up of a PVC pipe joint dripping water onto wet concrete floor near parked car tyre, low angle tilt up, 35mm lens, stable motion. Scene 3 (2.8-4.2s): Puddle of water on parking bay floor reflecting overhead conduits and apartment pillar numbers, static overhead down-angle, 24mm lens. Scene 4 (4.2-5.6s): Engineer hand pointing at suspended white PVC drainage elbow joint running along basement ceiling beams, medium shot, slight pan, 50mm lens. Scene 5 (5.6-7.0s): Unsealed pipe joint area with moisture stains on concrete ceiling around hanger clamp, close-up tracking shot, 35mm lens. Scene 6 (7.0-8.5s): Plumber applying solvent cement and proper sealant to a PVC drainage pipe collar joint, medium close-up, stable tripod shot. Scene 7 (8.5-10.0s): Dry parking ceiling with OliveTree Builders quality check mark overlay on clean PVC pipes, wide pan, eye level, 24mm lens. NEGATIVE PROMPT: animation, cartoon, 2D explainer, white-background infographic, glossy corporate motion graphics, game-like 3D render, plastic CGI, fake futuristic city, floating documents, floating houses, landscape 16:9, black bars, blurred sidebars, random presenter, visible cameraman, religious symbols, non-Coimbatore settings.",
+    "title_english": "Basement Pipe Leak Check Before Apartment Handover in Coimbatore",
+    "caption_english": "Spotting overhead water leaks in apartment basement parking is crucial before taking handover in Coimbatore. Poor PVC drainage pipe joint sealing can damage parked vehicles and weaken overhead concrete slabs over time. Always inspect MEP systems thoroughly. Build smart with OliveTree Builders.",
+    "title_tamil": "கோவை அபார்ட்மெண்ட் பார்கிங் பைப் லீக் செக்",
+    "caption_tamil": "கோவை அபார்ட்மெண்ட் வாங்கும் முன் பார்கிங் மேலே பைப் லீக்கேஜ் உள்ளதா என பரிசோதிக்கவும். ஆலிவ்ட্রী பில்டர்ஸ் தரம்.",
+    "hashtags": [
+      "#OliveTreeBuilders",
+      "#CoimbatoreRealEstate",
+      "#HomeInspection"
+    ]
+  }
+}
