@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-23T17:47:19.655Z",
+  "scannedAt": "2026-09-23T21:29:15.271Z",
   "niche": "land_selection",
   "skippedCreators": [],
   "creators": [
@@ -17,8 +17,8 @@
       },
       "baseline": {
         "views": 1074.5,
-        "velocity": 2.1690372539598677,
-        "engagement": 0.0048493564492594855
+        "velocity": 2.157514281566387,
+        "engagement": 0.004842339200862926
       },
       "videoCount": 20
     },
@@ -35,9 +35,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 3944.5,
-        "velocity": 2.9745368180473184,
-        "engagement": 0.013959852446588424
+        "views": 3947.5,
+        "velocity": 2.9685554272305343,
+        "engagement": 0.013954958643092
       },
       "videoCount": 3
     }
@@ -59,11 +59,11 @@
         "likes": 14,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Ow_Q2rMCRVQ",
-        "ageHours": 303.78490222222223,
-        "velocity": 16.722358362246457,
+        "ageHours": 307.483685,
+        "velocity": 16.521201767176688,
         "outlier": 4.727780362959516,
-        "velocityRatio": 7.709576371598761,
-        "engagementRatio": 0.5683033492478905
+        "velocityRatio": 7.657516758212165,
+        "engagementRatio": 0.5691269028241369
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -82,19 +82,19 @@
         "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
         "channelTitle": "Nemmadi. In",
         "durationSeconds": 23,
-        "views": 1188,
+        "views": 1192,
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=JFUIfVbsBlg",
-        "ageHours": 36.38268,
-        "velocity": 32.652899676439446,
-        "outlier": 1.1056305258259655,
-        "velocityRatio": 15.054098133550823,
-        "engagementRatio": 0.6943196282297459
+        "ageHours": 40.08146277777778,
+        "velocity": 29.73943357827939,
+        "outlier": 1.1093531875290832,
+        "velocityRatio": 13.784118989325124,
+        "engagementRatio": 0.6929924895365809
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 41,
+      "viralScore": 40,
       "priority": "candidate"
     },
     {
@@ -113,15 +113,15 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=nJkslTrMmYc",
-        "ageHours": 396.3104577777778,
-        "velocity": 5.326632084949159,
+        "ageHours": 400.00924055555555,
+        "velocity": 5.277378085236539,
         "outlier": 1.9646347138203815,
-        "velocityRatio": 2.4557586898171895,
-        "engagementRatio": 0.48842475031794075
+        "velocityRatio": 2.4460454933374,
+        "engagementRatio": 0.48913254827546454
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 27,
+      "viralScore": 26,
       "priority": "candidate"
     },
     {
@@ -140,11 +140,11 @@
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=FC96Po3F3Ws",
-        "ageHours": 183.78740222222223,
-        "velocity": 5.718563880288204,
+        "ageHours": 187.486185,
+        "velocity": 5.605746364725486,
         "outlier": 0.9781293624941834,
-        "velocityRatio": 2.636452587362527,
-        "engagementRatio": 1.3734448212080324
+        "velocityRatio": 2.5982429931613855,
+        "engagementRatio": 1.3754351409831664
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -167,11 +167,11 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=2x1MLvmDPQQ",
-        "ageHours": 1045.2796244444444,
-        "velocity": 2.1487073386642606,
+        "ageHours": 1048.9784072222221,
+        "velocity": 2.1411308226520944,
         "outlier": 2.0902745463006047,
-        "velocityRatio": 0.990627217094362,
-        "engagementRatio": 0.45906707387407514
+        "velocityRatio": 0.9924063265516843,
+        "engagementRatio": 0.4597323283212402
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -190,15 +190,15 @@
         "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
         "channelTitle": "Civiconcepts - Bhushan Mahajan",
         "durationSeconds": 59,
-        "views": 6011,
+        "views": 6017,
         "likes": 59,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=uwLmZjxyDdA",
-        "ageHours": 1298.1271244444445,
-        "velocity": 4.630517217312218,
-        "outlier": 1.523894029661554,
-        "velocityRatio": 1.5567187433074015,
-        "engagementRatio": 0.7031119120745234
+        "ageHours": 1301.8259072222222,
+        "velocity": 4.62196977846201,
+        "outlier": 1.524255858138062,
+        "velocityRatio": 1.5569760753209188,
+        "engagementRatio": 0.7026571120552982
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -221,11 +221,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=vk9NEu7Apws",
-        "ageHours": 279.7785133333333,
-        "velocity": 4.33914665403064,
+        "ageHours": 283.4772961111111,
+        "velocity": 4.282529912110363,
         "outlier": 1.1298278268962307,
-        "velocityRatio": 2.000494295848975,
-        "engagementRatio": 0.6794495208706246
+        "velocityRatio": 1.9849369937895303,
+        "engagementRatio": 0.6804341412912722
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -248,11 +248,11 @@
         "likes": 10,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=gU29nlviq3s",
-        "ageHours": 999.7807355555556,
-        "velocity": 1.0982408051600097,
+        "ageHours": 1003.4795183333333,
+        "velocity": 1.094192736313796,
         "outlier": 1.0218706375058166,
-        "velocityRatio": 0.5063263911926935,
-        "engagementRatio": 2.2536932194998314
+        "velocityRatio": 0.507154342227295,
+        "engagementRatio": 2.2569591462502854
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -275,11 +275,11 @@
         "likes": 11,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=qKupROZxdfs",
-        "ageHours": 660.3585133333333,
-        "velocity": 1.4916139946889657,
+        "ageHours": 664.0572961111111,
+        "velocity": 1.483305741490096,
         "outlier": 0.9167054443927408,
-        "velocityRatio": 0.6876848205192533,
-        "engagementRatio": 2.3028855080472894
+        "velocityRatio": 0.6875068008417513,
+        "engagementRatio": 2.3062227215237687
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -302,11 +302,11 @@
         "likes": 10,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=MCl3iSFYdOo",
-        "ageHours": 1188.0646244444445,
-        "velocity": 1.1413520545097322,
+        "ageHours": 1191.7634072222222,
+        "velocity": 1.137809729500407,
         "outlier": 1.2619823173569102,
-        "velocityRatio": 0.5262021444887779,
-        "engagementRatio": 1.5207443184678064
+        "velocityRatio": 0.5273706594768589,
+        "engagementRatio": 1.522948096474197
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -329,11 +329,11 @@
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5PGIZa3DvTI",
-        "ageHours": 1066.0332355555556,
-        "velocity": 1.4877584929830705,
+        "ageHours": 1069.7320183333334,
+        "velocity": 1.4826143116394925,
         "outlier": 1.4760353652861795,
-        "velocityRatio": 0.6859073030059619,
-        "engagementRatio": 0.9101453386441627
+        "velocityRatio": 0.6871863256279781,
+        "engagementRatio": 0.9114642706010769
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -356,11 +356,11 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=27KAKU9wic4",
-        "ageHours": 519.7849022222222,
-        "velocity": 2.1893671692554744,
+        "ageHours": 523.483685,
+        "velocity": 2.1738977404806796,
         "outlier": 1.0590972545369939,
-        "velocityRatio": 1.0093727829056378,
-        "engagementRatio": 0.9060322037971642
+        "velocityRatio": 1.0075936734483157,
+        "engagementRatio": 0.9073451752280366
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -379,15 +379,15 @@
         "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
         "channelTitle": "Nemmadi. In",
         "durationSeconds": 50,
-        "views": 377,
+        "views": 378,
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ZsMVpmwRJ2k",
-        "ageHours": 131.69962444444445,
-        "velocity": 2.862574601790394,
-        "outlier": 0.350860865518846,
-        "velocityRatio": 1.3197443227701051,
-        "engagementRatio": 1.0939677962028358
+        "ageHours": 135.39840722222223,
+        "velocity": 2.7917610535817357,
+        "outlier": 0.3517915309446254,
+        "velocityRatio": 1.2939710654220449,
+        "engagementRatio": 1.0926548247719636
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -410,11 +410,11 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=k78BHMib1Qg",
-        "ageHours": 1431.7860133333334,
-        "velocity": 1.1153901386995901,
+        "ageHours": 1435.484796111111,
+        "velocity": 1.1125161369360732,
         "outlier": 1.4862726849697534,
-        "velocityRatio": 0.5142328176536831,
-        "engagementRatio": 0.3873755721682553
+        "velocityRatio": 0.5156471715813488,
+        "engagementRatio": 0.3879369352822188
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -437,11 +437,11 @@
         "likes": 32,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=3pyMS646SuE",
-        "ageHours": 1424.2849022222222,
-        "velocity": 1.3185564187824181,
-        "outlier": 0.4761059703384459,
-        "velocityRatio": 0.4432812566925984,
-        "engagementRatio": 1.2968880879254767
+        "ageHours": 1427.983685,
+        "velocity": 1.315141075999058,
+        "outlier": 0.4757441418619379,
+        "velocityRatio": 0.44302392467908125,
+        "engagementRatio": 1.2973428879447015
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -464,11 +464,11 @@
         "likes": 6,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=OJce4MEeX4M",
-        "ageHours": 1335.7885133333334,
-        "velocity": 0.24180474437078678,
+        "ageHours": 1339.4872961111112,
+        "velocity": 0.24113703872948639,
         "outlier": 0.30060493252675663,
-        "velocityRatio": 0.11148021728503735,
-        "engagementRatio": 3.8305807353108583
+        "velocityRatio": 0.11176613790682181,
+        "engagementRatio": 3.836131799663798
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -491,11 +491,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5FRH3fd3S90",
-        "ageHours": 991.8432355555556,
-        "velocity": 0.10687172750704582,
+        "ageHours": 995.5420183333333,
+        "velocity": 0.10647466209156875,
         "outlier": 0.09865053513261983,
-        "velocityRatio": 0.04927150389507473,
-        "engagementRatio": 7.781619984310738
+        "velocityRatio": 0.049350617514460474,
+        "engagementRatio": 7.792896674788722
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -518,11 +518,11 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=1NOUEBMmcVg",
-        "ageHours": 611.8974022222222,
-        "velocity": 0.13727791570112566,
+        "ageHours": 615.596185,
+        "velocity": 0.1364530873432882,
         "outlier": 0.0781758957654723,
-        "velocityRatio": 0.06328979156559274,
-        "engagementRatio": 4.909831656767489
+        "velocityRatio": 0.06324550827270597,
+        "engagementRatio": 4.916946711473836
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -545,11 +545,11 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=JmdjbhHGga8",
-        "ageHours": 1377.0635133333333,
-        "velocity": 0.0609993650885926,
+        "ageHours": 1380.762296111111,
+        "velocity": 0.06083596013345983,
         "outlier": 0.0781758957654723,
-        "velocityRatio": 0.028122783496332345,
-        "engagementRatio": 4.909831656767489
+        "velocityRatio": 0.02819724562346444,
+        "engagementRatio": 4.916946711473836
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -572,11 +572,11 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=juy9L_SpLcM",
-        "ageHours": 898.6396244444444,
-        "velocity": 0.9158287455984303,
+        "ageHours": 902.3384072222223,
+        "velocity": 0.912074664463791,
         "outlier": 0.7659376454164728,
-        "velocityRatio": 0.42222822310979785,
-        "engagementRatio": 0.751687471145448
+        "velocityRatio": 0.42274328019817853,
+        "engagementRatio": 0.7527767747821426
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -599,11 +599,11 @@
         "likes": 2,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=wK47_UcznQ0",
-        "ageHours": 1236.0915688888888,
-        "velocity": 0.04934909478820597,
+        "ageHours": 1239.7903516666668,
+        "velocity": 0.04920186700759276,
         "outlier": 0.05677059097254537,
-        "velocityRatio": 0.022751612356179035,
-        "engagementRatio": 13.522159316998987
+        "velocityRatio": 0.022804885894832403,
+        "engagementRatio": 13.541754877501713
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -626,11 +626,11 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ZFRDUfHEyAU",
-        "ageHours": 1135.7299022222223,
-        "velocity": 0.28880106032096176,
+        "ageHours": 1139.428685,
+        "velocity": 0.2878635620797979,
         "outlier": 0.3052582596556538,
-        "velocityRatio": 0.13314711851708252,
-        "engagementRatio": 1.2573959120989913
+        "velocityRatio": 0.133423711045289,
+        "engagementRatio": 1.2592180602554948
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -649,15 +649,15 @@
         "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
         "channelTitle": "Civiconcepts - Bhushan Mahajan",
         "durationSeconds": 29,
-        "views": 932,
+        "views": 933,
         "likes": 11,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=pVAvvGS4YxU",
-        "ageHours": 1201.6782355555556,
-        "velocity": 0.7755819922702695,
-        "outlier": 0.23627836227658766,
-        "velocityRatio": 0.2607404243795552,
-        "engagementRatio": 0.9991866251771203
+        "ageHours": 1205.3770183333334,
+        "velocity": 0.7740316812162661,
+        "outlier": 0.2363521215959468,
+        "velocityRatio": 0.2607435502521125,
+        "engagementRatio": 0.9984657104306773
       },
       "confirmations": 0,
       "peerMatches": [],
