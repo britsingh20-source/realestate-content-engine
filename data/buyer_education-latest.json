@@ -1,36 +1,21 @@
 {
-  "scannedAt": "2026-09-25T04:55:38.369Z",
+  "scannedAt": "2026-09-25T05:20:15.006Z",
   "niche": "buyer_education",
   "skippedCreators": [
+    {
+      "creator": "Realty by Rahul / Rahul Jakhar",
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"quota_limit_value\": \"100\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/9212714057\",\n          \"window_start_time\": \"1790233200\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_location\": \"global\",\n          \"service\": \"youtube.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+    },
     {
       "creator": "Priyam Saraswat",
       "reason": "Could not resolve channel for Priyam Saraswat"
     },
     {
       "creator": "Vishal Bhargava",
-      "reason": "Could not resolve channel for Vishal Bhargava"
+      "reason": "YouTube API 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:9212714057'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"consumer\": \"projects/9212714057\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"window_start_time\": \"1790233200\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_location\": \"global\",\n          \"quota_limit_value\": \"100\",\n          \"service\": \"youtube.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     }
   ],
   "creators": [
-    {
-      "creator": {
-        "key": "realty-by-rahul",
-        "name": "Realty by Rahul / Rahul Jakhar",
-        "searchQuery": "Realty by Rahul Rahul Jakhar India real estate Shorts",
-        "language": "English",
-        "enabled": true,
-        "needsChannelIdVerification": true,
-        "resolvedChannelId": "UCyRxfE90zd7yzRo4It5mFFQ",
-        "resolvedTitle": "Rahul Jakhar",
-        "resolution": "youtube-search"
-      },
-      "baseline": {
-        "views": 1,
-        "velocity": 1,
-        "engagement": 0.0001
-      },
-      "videoCount": 0
-    },
     {
       "creator": {
         "key": "mayank",
@@ -44,7 +29,7 @@
       },
       "baseline": {
         "views": 9221,
-        "velocity": 13.263165851082947,
+        "velocity": 13.25600158003567,
         "engagement": 0.022655188038060717
       },
       "videoCount": 8
@@ -62,9 +47,9 @@
         "resolution": "youtube-search"
       },
       "baseline": {
-        "views": 12080.5,
-        "velocity": 24.890582825902708,
-        "engagement": 0.026382482099675628
+        "views": 12088.5,
+        "velocity": 24.877944111856934,
+        "engagement": 0.02640355497897088
       },
       "videoCount": 11
     }
@@ -86,10 +71,10 @@
         "likes": 12331,
         "comments": 531,
         "url": "https://www.youtube.com/watch?v=hQp5jilYjT8",
-        "ageHours": 855.4101002777778,
-        "velocity": 736.2328312414021,
+        "ageHours": 855.8202752777778,
+        "velocity": 735.8799717564402,
         "outlier": 68.29855764016918,
-        "velocityRatio": 55.50958492924886,
+        "velocityRatio": 55.512966509050464,
         "engagementRatio": 0.9386866545672224
       },
       "confirmations": 0,
@@ -109,15 +94,15 @@
         "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
         "channelTitle": "Buildofy",
         "durationSeconds": 56,
-        "views": 4512,
-        "likes": 116,
+        "views": 4551,
+        "likes": 118,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=W-FAJV-alnk",
-        "ageHours": 18.4223225,
-        "velocity": 244.92025910413847,
-        "outlier": 0.3734944745664501,
-        "velocityRatio": 9.83987642303253,
-        "engagementRatio": 0.9912821003989268
+        "ageHours": 18.8324975,
+        "velocity": 241.6567425536629,
+        "outlier": 0.3764735078793895,
+        "velocityRatio": 9.713694245276814,
+        "engagementRatio": 0.9986470104832738
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -136,15 +121,15 @@
         "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
         "channelTitle": "Buildofy",
         "durationSeconds": 71,
-        "views": 13827,
-        "likes": 354,
+        "views": 13843,
+        "likes": 355,
         "comments": 3,
         "url": "https://www.youtube.com/watch?v=ztZEMQKA9zI",
-        "ageHours": 90.42565583333334,
-        "velocity": 152.91014339431524,
-        "outlier": 1.1445718306361492,
-        "velocityRatio": 6.14329300618816,
-        "engagementRatio": 0.9868675885426725
+        "ageHours": 90.83583083333333,
+        "velocity": 152.39580981429344,
+        "outlier": 1.1451379410183231,
+        "velocityRatio": 6.125739696539513,
+        "engagementRatio": 0.987676177273764
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -167,10 +152,10 @@
         "likes": 438,
         "comments": 26,
         "url": "https://www.youtube.com/watch?v=yfgQYu8baUA",
-        "ageHours": 735.9181558333333,
-        "velocity": 28.15122827964564,
+        "ageHours": 736.3283308333333,
+        "velocity": 28.135546511640687,
         "outlier": 2.2467194447456893,
-        "velocityRatio": 2.1225119700472623,
+        "velocityRatio": 2.122476098223653,
         "engagementRatio": 1.044002510015929
       },
       "confirmations": 0,
@@ -194,11 +179,11 @@
         "likes": 610,
         "comments": 4,
         "url": "https://www.youtube.com/watch?v=EBs_0GdbCbc",
-        "ageHours": 594.4264891666667,
-        "velocity": 38.8963150555649,
-        "outlier": 1.9139108480609246,
-        "velocityRatio": 1.5626920159975901,
-        "engagementRatio": 1.0131324114573272
+        "ageHours": 594.8366641666667,
+        "velocity": 38.869493749836764,
+        "outlier": 1.9126442486660875,
+        "velocityRatio": 1.562407792825268,
+        "engagementRatio": 1.012323822726236
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -221,11 +206,11 @@
         "likes": 873,
         "comments": 7,
         "url": "https://www.youtube.com/watch?v=4CzbKcUHdFA",
-        "ageHours": 858.4189891666666,
-        "velocity": 24.790924092510004,
-        "outlier": 1.7615992715533297,
-        "velocityRatio": 0.9959961269653761,
-        "engagementRatio": 1.5798502963250274
+        "ageHours": 858.8291641666667,
+        "velocity": 24.779083999376333,
+        "outlier": 1.7604334698266948,
+        "velocityRatio": 0.9960261944461285,
+        "engagementRatio": 1.5785894057129284
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -248,11 +233,11 @@
         "likes": 567,
         "comments": 4,
         "url": "https://www.youtube.com/watch?v=vq8AER-EO_Q",
-        "ageHours": 762.4176002777778,
-        "velocity": 24.990241559295413,
-        "outlier": 1.577169819130003,
-        "velocityRatio": 1.004003873034624,
-        "engagementRatio": 1.1439020151971155
+        "ageHours": 762.8277752777777,
+        "velocity": 24.97680422433753,
+        "outlier": 1.5761260702320388,
+        "velocityRatio": 1.0039738055538714,
+        "engagementRatio": 1.142989058244499
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -275,11 +260,11 @@
         "likes": 334,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=zP7DzvlmSNw",
-        "ageHours": 354.41787805555555,
-        "velocity": 43.0395895480445,
-        "outlier": 1.2626960804602458,
-        "velocityRatio": 1.729151536911976,
-        "engagementRatio": 0.8349104237354724
+        "ageHours": 354.82805305555553,
+        "velocity": 42.989836538126475,
+        "outlier": 1.261860445878314,
+        "velocityRatio": 1.7280301115250651,
+        "engagementRatio": 0.8342440753367156
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -302,10 +287,10 @@
         "likes": 112,
         "comments": 9,
         "url": "https://www.youtube.com/watch?v=Oh1LE-8VokY",
-        "ageHours": 327.6987113888889,
-        "velocity": 28.13865199810685,
+        "ageHours": 328.1088863888889,
+        "velocity": 28.103475347726093,
         "outlier": 1,
-        "velocityRatio": 2.1215637589127567,
+        "velocityRatio": 2.1200567288745353,
         "engagementRatio": 0.6222969309185554
       },
       "confirmations": 0,
@@ -325,15 +310,15 @@
         "channelId": "UCbr9s1iYnD4SRszBxzEPELg",
         "channelTitle": "Buildofy",
         "durationSeconds": 57,
-        "views": 8852,
+        "views": 8883,
         "likes": 184,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=te-w-vdo_Rw",
-        "ageHours": 186.4198225,
-        "velocity": 47.48422072979927,
-        "outlier": 0.7327511278506684,
-        "velocityRatio": 1.9077183150723251,
-        "engagementRatio": 0.7878812506299374
+        "ageHours": 186.8299975,
+        "velocity": 47.54589797604638,
+        "outlier": 0.7348306241469165,
+        "velocityRatio": 1.9111666849265814,
+        "engagementRatio": 0.7845050735736103
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -356,8 +341,8 @@
         "likes": 233,
         "comments": 2,
         "url": "https://www.youtube.com/watch?v=5cxb3Ekazfk",
-        "ageHours": 758.9439891666667,
-        "velocity": 13.263165851082947,
+        "ageHours": 759.3541641666667,
+        "velocity": 13.25600158003567,
         "outlier": 1.0916386509055418,
         "velocityRatio": 1,
         "engagementRatio": 1.0392588913173058
@@ -383,10 +368,10 @@
         "likes": 251,
         "comments": 5,
         "url": "https://www.youtube.com/watch?v=MFWPG5PIsFk",
-        "ageHours": 711.7381558333333,
-        "velocity": 12.945772155789312,
+        "ageHours": 712.1483308333334,
+        "velocity": 12.938315798926425,
         "outlier": 0.9992408632469364,
-        "velocityRatio": 0.9760695373293761,
+        "velocityRatio": 0.9760345697613902,
         "engagementRatio": 1.2503299327110917
       },
       "confirmations": 0,
@@ -410,11 +395,11 @@
         "likes": 229,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=RfPCMSP-FYQ",
-        "ageHours": 690.4170447222223,
-        "velocity": 14.967764887898605,
-        "outlier": 0.8554281693638508,
-        "velocityRatio": 0.6013424833235406,
-        "engagementRatio": 0.8472817860960777
+        "ageHours": 690.8272197222223,
+        "velocity": 14.958877856832629,
+        "outlier": 0.8548620589816768,
+        "velocityRatio": 0.6012907573702267,
+        "engagementRatio": 0.8466055640183427
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -437,11 +422,11 @@
         "likes": 190,
         "comments": 2,
         "url": "https://www.youtube.com/watch?v=hTg0IVFeHA4",
-        "ageHours": 426.4270447222222,
-        "velocity": 15.67208291011035,
-        "outlier": 0.5532055792392699,
-        "velocityRatio": 0.6296390494239851,
-        "engagementRatio": 1.1003088767832265
+        "ageHours": 426.83721972222224,
+        "velocity": 15.657022610045985,
+        "outlier": 0.552839475534599,
+        "velocityRatio": 0.6293535566945735,
+        "engagementRatio": 1.0994307118479967
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -464,11 +449,11 @@
         "likes": 204,
         "comments": 6,
         "url": "https://www.youtube.com/watch?v=_UXNKOZfDBQ",
-        "ageHours": 930.4264891666667,
-        "velocity": 7.728713749799401,
-        "outlier": 0.5952568188402798,
-        "velocityRatio": 0.31050754431336236,
-        "engagementRatio": 1.1385413555927852
+        "ageHours": 930.8366641666667,
+        "velocity": 7.725308076941465,
+        "outlier": 0.5948628862141705,
+        "velocityRatio": 0.3105283958435918,
+        "engagementRatio": 1.1376326770236243
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -491,10 +476,10 @@
         "likes": 44,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=E74fhy3bZ6M",
-        "ageHours": 207.4173225,
-        "velocity": 6.624326181821193,
+        "ageHours": 207.8274975,
+        "velocity": 6.61125219967584,
         "outlier": 0.14900769981563822,
-        "velocityRatio": 0.49945286488898966,
+        "velocityRatio": 0.4987365277349378,
         "engagementRatio": 1.477758369723435
       },
       "confirmations": 0,
@@ -518,11 +503,11 @@
         "likes": 141,
         "comments": 2,
         "url": "https://www.youtube.com/watch?v=97zyzU62fBE",
-        "ageHours": 522.4187113888889,
-        "velocity": 10.954814357213545,
-        "outlier": 0.4737386697570465,
-        "velocityRatio": 0.44011883666353024,
-        "engagementRatio": 0.960347929059658
+        "ageHours": 522.8288863888889,
+        "velocity": 10.946219975579423,
+        "outlier": 0.4734251561401332,
+        "velocityRatio": 0.4399969678508285,
+        "engagementRatio": 0.9595814680279282
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -545,10 +530,10 @@
         "likes": 50,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=FcJzQGwAaDQ",
-        "ageHours": 231.42148916666667,
-        "velocity": 9.536711599027642,
+        "ageHours": 231.83166416666666,
+        "velocity": 9.519838491144853,
         "outlier": 0.23934497343021363,
-        "velocityRatio": 0.7190373479533141,
+        "velocityRatio": 0.7181530896527878,
         "engagementRatio": 1
       },
       "confirmations": 0,
@@ -572,10 +557,10 @@
         "likes": 28,
         "comments": 2,
         "url": "https://www.youtube.com/watch?v=sMMWnFhSOTU",
-        "ageHours": 543.4256558333333,
-        "velocity": 2.9479653431955883,
+        "ageHours": 543.8358308333334,
+        "velocity": 2.9457419117552717,
         "outlier": 0.1737338683439974,
-        "velocityRatio": 0.22226709492250563,
+        "velocityRatio": 0.22221949009056657,
         "engagementRatio": 0.8816978776529337
       },
       "confirmations": 0,
