@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-26T16:22:04.131Z",
+  "scannedAt": "2026-09-26T17:07:58.617Z",
   "niche": "land_selection",
   "skippedCreators": [],
   "creators": [
@@ -17,8 +17,8 @@
       },
       "baseline": {
         "views": 1022.5,
-        "velocity": 2.7174545053302994,
-        "engagement": 0.005969860192876226
+        "velocity": 2.709981206590334,
+        "engagement": 0.005613799390638869
       },
       "videoCount": 20
     },
@@ -35,9 +35,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 6334,
-        "velocity": 4.627728178175221,
-        "engagement": 0.009946321439848436
+        "views": 6328,
+        "velocity": 4.620761376925634,
+        "engagement": 0.00995575221238938
       },
       "videoCount": 2
     }
@@ -59,11 +59,11 @@
         "likes": 14,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Ow_Q2rMCRVQ",
-        "ageHours": 374.3639238888889,
-        "velocity": 13.591053184681643,
+        "ageHours": 375.1290583333333,
+        "velocity": 13.563332103904596,
         "outlier": 4.976039119804401,
-        "velocityRatio": 5.001391249797459,
-        "engagementRatio": 0.46091068101183486
+        "velocityRatio": 5.004954304081621,
+        "engagementRatio": 0.4901443987528893
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -86,11 +86,11 @@
         "likes": 14,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=63EpDG8VIuw",
-        "ageHours": 14.365035,
-        "velocity": 206.8216332226131,
+        "ageHours": 15.130169444444444,
+        "velocity": 196.36263895847534,
         "outlier": 2.905623471882641,
-        "velocityRatio": 76.10859089524094,
-        "engagementRatio": 0.789334750921648
+        "velocityRatio": 72.45904085273582,
+        "engagementRatio": 0.8393990915027604
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -113,11 +113,11 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=JFUIfVbsBlg",
-        "ageHours": 106.96170166666667,
-        "velocity": 11.293761983748045,
+        "ageHours": 107.72683611111111,
+        "velocity": 11.213547557955293,
         "outlier": 1.1814180929095355,
-        "velocityRatio": 4.1560077497508345,
-        "engagementRatio": 0.693328271342306
+        "velocityRatio": 4.137869122739801,
+        "engagementRatio": 0.7373033055980077
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -140,11 +140,11 @@
         "likes": 6,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=nJkslTrMmYc",
-        "ageHours": 466.8894794444444,
-        "velocity": 4.551398336344085,
+        "ageHours": 467.6546138888889,
+        "velocity": 4.543951747485343,
         "outlier": 2.078239608801956,
-        "velocityRatio": 1.674875633581536,
-        "engagementRatio": 0.4729640763001444
+        "velocityRatio": 1.6767465901368697,
+        "engagementRatio": 0.5029622926093514
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -163,19 +163,19 @@
         "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
         "channelTitle": "Nemmadi. In",
         "durationSeconds": 53,
-        "views": 119,
+        "views": 146,
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=gyRLkfrS6D0",
-        "ageHours": 31.06142388888889,
-        "velocity": 3.8311186385298965,
-        "outlier": 0.11638141809290954,
-        "velocityRatio": 1.4098188694659433,
-        "engagementRatio": 1.4076311794647154
+        "ageHours": 31.826558333333335,
+        "velocity": 4.587363750452648,
+        "outlier": 0.1427872860635697,
+        "velocityRatio": 1.6927658905149436,
+        "engagementRatio": 1.22008547008547
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 21,
+      "viralScore": 22,
       "priority": "candidate"
     },
     {
@@ -194,15 +194,15 @@
         "likes": 8,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=FC96Po3F3Ws",
-        "ageHours": 254.3664238888889,
-        "velocity": 4.159353989511408,
+        "ageHours": 255.13155833333334,
+        "velocity": 4.1468801700246996,
         "outlier": 1.034718826405868,
-        "velocityRatio": 1.530606669349134,
-        "engagementRatio": 1.2666019686676835
+        "velocityRatio": 1.5302246967395963,
+        "engagementRatio": 1.3469374565782883
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 20,
+      "viralScore": 21,
       "priority": "candidate"
     },
     {
@@ -221,42 +221,15 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=2x1MLvmDPQQ",
-        "ageHours": 1115.858646111111,
-        "velocity": 2.014592088195512,
+        "ageHours": 1116.6237805555556,
+        "velocity": 2.0132116467030183,
         "outlier": 2.198533007334963,
-        "velocityRatio": 0.7413526461046103,
-        "engagementRatio": 0.37257141983163067
+        "velocityRatio": 0.742887678264019,
+        "engagementRatio": 0.3962021321896767
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 19,
-      "priority": "candidate"
-    },
-    {
-      "niche": "land_selection",
-      "creator": "Nemmadi Home Inspection",
-      "creatorKey": "nemmadi",
-      "source": {
-        "id": "qKupROZxdfs",
-        "title": "Is Your Wall Mixer Leaking? Don’t Ignore This | Home Inspection",
-        "description": "Leakage from a wall mixer may seem like a small issue, but continuous water leakage can lead to dampness, water wastage, and damage to surrounding areas.\n\nIn this home inspection, leakage was observed from the wall mixer connection. Identifying such issues before moving into your home can help you get them rectified early.\n\nBook Now: https://nemmadi.in/quote-for-b2c/\n\n#homeinspection #waterleakage #plumbingissues #wallmixer #homeinspectionindia #snagging #newhomeinspection",
-        "publishedAt": "2026-08-27T05:25:49Z",
-        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
-        "channelTitle": "Nemmadi. In",
-        "durationSeconds": 36,
-        "views": 987,
-        "likes": 11,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=qKupROZxdfs",
-        "ageHours": 730.937535,
-        "velocity": 1.3503205851920028,
-        "outlier": 0.965281173594132,
-        "velocityRatio": 0.4969064183202857,
-        "engagementRatio": 1.8668583727652608
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 18,
       "priority": "candidate"
     },
     {
@@ -275,11 +248,65 @@
         "likes": 10,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=gU29nlviq3s",
-        "ageHours": 1070.3597572222222,
-        "velocity": 1.0304946468302256,
+        "ageHours": 1071.1248916666666,
+        "velocity": 1.0297585357051462,
         "outlier": 1.0787286063569683,
-        "velocityRatio": 0.3792132103072584,
-        "engagementRatio": 1.8223910464874102
+        "velocityRatio": 0.3799873346726179,
+        "engagementRatio": 1.9379780086942373
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 18,
+      "priority": "candidate"
+    },
+    {
+      "niche": "land_selection",
+      "creator": "Nemmadi Home Inspection",
+      "creatorKey": "nemmadi",
+      "source": {
+        "id": "qKupROZxdfs",
+        "title": "Is Your Wall Mixer Leaking? Don’t Ignore This | Home Inspection",
+        "description": "Leakage from a wall mixer may seem like a small issue, but continuous water leakage can lead to dampness, water wastage, and damage to surrounding areas.\n\nIn this home inspection, leakage was observed from the wall mixer connection. Identifying such issues before moving into your home can help you get them rectified early.\n\nBook Now: https://nemmadi.in/quote-for-b2c/\n\n#homeinspection #waterleakage #plumbingissues #wallmixer #homeinspectionindia #snagging #newhomeinspection",
+        "publishedAt": "2026-08-27T05:25:49Z",
+        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+        "channelTitle": "Nemmadi. In",
+        "durationSeconds": 36,
+        "views": 987,
+        "likes": 11,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=qKupROZxdfs",
+        "ageHours": 731.7026694444445,
+        "velocity": 1.3489085679424861,
+        "outlier": 0.965281173594132,
+        "velocityRatio": 0.49775569094800726,
+        "engagementRatio": 1.9852657193082723
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 18,
+      "priority": "candidate"
+    },
+    {
+      "niche": "land_selection",
+      "creator": "Nemmadi Home Inspection",
+      "creatorKey": "nemmadi",
+      "source": {
+        "id": "MCl3iSFYdOo",
+        "title": "HVAC Duct Installation Mistake That Can Cost You Big | RWA HOTO",
+        "description": "A properly installed HVAC duct system depends on using the right duct accessories. Missing or incorrect accessories can lead to air leakage, reduced cooling efficiency, higher energy bills, and long-term maintenance issues.\n\nBook Now: https://nemmadi.in/rwa/\n\n#hvac #ductinstallation #hvacinspection #buildinginspection #rwahoto #engineering #mep #qualityinspection #airconditioning #shorts #nemmadi",
+        "publishedAt": "2026-08-05T05:43:27Z",
+        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+        "channelTitle": "Nemmadi. In",
+        "durationSeconds": 19,
+        "views": 1356,
+        "likes": 10,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=MCl3iSFYdOo",
+        "ageHours": 1259.4087805555555,
+        "velocity": 1.0766956852578364,
+        "outlier": 1.326161369193154,
+        "velocityRatio": 0.39730743616946407,
+        "engagementRatio": 1.3136613468471876
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -302,38 +329,11 @@
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5PGIZa3DvTI",
-        "ageHours": 1136.6122572222223,
-        "velocity": 1.3953747110523345,
+        "ageHours": 1137.3773916666667,
+        "velocity": 1.3944360171217576,
         "outlier": 1.5511002444987776,
-        "velocityRatio": 0.5134859510307535,
-        "engagementRatio": 0.7393170066167137
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 16,
-      "priority": "candidate"
-    },
-    {
-      "niche": "land_selection",
-      "creator": "Nemmadi Home Inspection",
-      "creatorKey": "nemmadi",
-      "source": {
-        "id": "MCl3iSFYdOo",
-        "title": "HVAC Duct Installation Mistake That Can Cost You Big | RWA HOTO",
-        "description": "A properly installed HVAC duct system depends on using the right duct accessories. Missing or incorrect accessories can lead to air leakage, reduced cooling efficiency, higher energy bills, and long-term maintenance issues.\n\nBook Now: https://nemmadi.in/rwa/\n\n#hvac #ductinstallation #hvacinspection #buildinginspection #rwahoto #engineering #mep #qualityinspection #airconditioning #shorts #nemmadi",
-        "publishedAt": "2026-08-05T05:43:27Z",
-        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
-        "channelTitle": "Nemmadi. In",
-        "durationSeconds": 19,
-        "views": 1356,
-        "likes": 10,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=MCl3iSFYdOo",
-        "ageHours": 1258.6436461111111,
-        "velocity": 1.0773502128181358,
-        "outlier": 1.326161369193154,
-        "velocityRatio": 0.3964556575666339,
-        "engagementRatio": 1.2353105483503033
+        "velocityRatio": 0.5145556041977946,
+        "engagementRatio": 0.7862089220853409
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -356,11 +356,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=vk9NEu7Apws",
-        "ageHours": 350.357535,
-        "velocity": 3.4821571626824013,
+        "ageHours": 351.12266944444445,
+        "velocity": 3.4745691639059255,
         "outlier": 1.1931540342298288,
-        "velocityRatio": 1.2814040330213934,
-        "engagementRatio": 0.5492069192009873
+        "velocityRatio": 1.2821377341865727,
+        "engagementRatio": 0.5840409135491103
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -379,12 +379,12 @@
         "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
         "channelTitle": "Civiconcepts - Bhushan Mahajan",
         "durationSeconds": 59,
-        "views": 6334,
+        "views": 6328,
         "likes": 63,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=uwLmZjxyDdA",
-        "ageHours": 1368.7061461111111,
-        "velocity": 4.627728178175221,
+        "ageHours": 1369.4712805555555,
+        "velocity": 4.620761376925634,
         "outlier": 1,
         "velocityRatio": 1,
         "engagementRatio": 1
@@ -410,11 +410,11 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=27KAKU9wic4",
-        "ageHours": 590.3639238888888,
-        "velocity": 1.9344000434127704,
+        "ageHours": 591.1290583333333,
+        "velocity": 1.931896231289707,
         "outlier": 1.1168704156479217,
-        "velocityRatio": 0.7118426599666842,
-        "engagementRatio": 0.7333980313323167
+        "velocityRatio": 0.7128817818336075,
+        "engagementRatio": 0.7799145299145299
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -437,15 +437,15 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ZsMVpmwRJ2k",
-        "ageHours": 202.2786461111111,
-        "velocity": 1.9527518479781973,
+        "ageHours": 203.04378055555554,
+        "velocity": 1.9453932492747426,
         "outlier": 0.3863080684596577,
-        "velocityRatio": 0.7185959669786065,
-        "engagementRatio": 1.2722134963769707
+        "velocityRatio": 0.7178622658134272,
+        "engagementRatio": 1.352904901006167
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 12,
+      "viralScore": 13,
       "priority": "candidate"
     },
     {
@@ -464,11 +464,11 @@
         "likes": 6,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=OJce4MEeX4M",
-        "ageHours": 1406.367535,
-        "velocity": 0.2303807446749686,
+        "ageHours": 1407.1326694444444,
+        "velocity": 0.2302554741536345,
         "outlier": 0.31687041564792173,
-        "velocityRatio": 0.08477814227361515,
-        "engagementRatio": 3.102002043635206
+        "velocityRatio": 0.08496570883727242,
+        "engagementRatio": 3.2987496043051596
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -491,11 +491,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5FRH3fd3S90",
-        "ageHours": 1062.4222572222222,
-        "velocity": 0.10165449684984348,
+        "ageHours": 1063.1873916666666,
+        "velocity": 0.10158134007843883,
         "outlier": 0.10562347188264058,
-        "velocityRatio": 0.03740798480727008,
-        "engagementRatio": 6.204004087270412
+        "velocityRatio": 0.03748414927432182,
+        "engagementRatio": 6.597499208610319
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -518,42 +518,15 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=1NOUEBMmcVg",
-        "ageHours": 682.4764238888889,
-        "velocity": 0.12894218308459385,
+        "ageHours": 683.2415583333334,
+        "velocity": 0.12879778597581648,
         "outlier": 0.08606356968215159,
-        "velocityRatio": 0.0474496197936978,
-        "engagementRatio": 3.807002508097753
+        "velocityRatio": 0.04752718788698476,
+        "engagementRatio": 4.048465423465424
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 11,
-      "priority": "candidate"
-    },
-    {
-      "niche": "land_selection",
-      "creator": "Nemmadi Home Inspection",
-      "creatorKey": "nemmadi",
-      "source": {
-        "id": "wK47_UcznQ0",
-        "title": "Few seconds. That's all it takes for an unnoticed safety risk to become a life-threatening incident",
-        "description": "One overlooked hazard. One preventable accident. That's all it takes to put lives at risk.\n\nThe incident in this video is a reminder that common areas in residential communities require regular safety and maintenance assessments. Issues that go unnoticed today can become serious hazards tomorrow.\n\nAn 𝗥𝗪𝗔 𝗛𝗲𝗮𝗹𝘁𝗵 𝗖𝗵𝗲𝗰𝗸𝘂𝗽 helps identify potential safety risks, maintenance gaps, and infrastructure concerns before they escalate into costly incidents or accidents.\n\nThe recent Supreme Court ruling on lift accidents also reinforces an important message: 𝗥𝗪𝗔𝘀 𝗵𝗮𝘃𝗲 𝗮 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝘁𝗼 𝗽𝗿𝗼𝗮𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻 𝗮𝗻𝗱 𝗶𝗻𝘀𝗽𝗲𝗰𝘁 𝗰𝗼𝗺𝗺𝗼𝗻 𝗶𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲—𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗱 𝗮𝗳𝘁𝗲𝗿 𝗮𝗻 𝗶𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗼𝗰𝗰𝘂𝗿𝘀.\n\nRead: https://nemmadi.in/when-the-lift-fails-who-answers-the-supreme-court-ruling-every-rwa-should-read/\n\nLearn more about our RWA Health Checkup: https://nemmadi.in/health-checkup-for-rwa/\n\n𝗣𝗿𝗲𝘃𝗲𝗻𝘁𝗶𝗼𝗻 𝗶𝘀 𝗮𝗹𝘄𝗮𝘆𝘀 𝘀𝗮𝗳𝗲𝗿—𝗮𝗻𝗱 𝗳𝗮𝗿 𝗹𝗲𝘀𝘀 𝗰𝗼𝘀𝘁𝗹𝘆—𝘁𝗵𝗮𝗻 𝗿𝗲𝗮𝗰𝘁𝗶𝗻𝗴 𝗮𝗳𝘁𝗲𝗿 𝗮𝗻 𝗮𝗰𝗰𝗶𝗱𝗲𝗻𝘁.\n\n#RWA #ApartmentManagement #BuildingSafety #CommunitySafety #PreventiveMaintenance #FacilityManagement #LiftSafety #HomeInspection #Nemmadi #EnablingQualityLiving",
-        "publishedAt": "2026-08-03T05:41:50Z",
-        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
-        "channelTitle": "Nemmadi. In",
-        "durationSeconds": 56,
-        "views": 61,
-        "likes": 2,
-        "comments": 1,
-        "url": "https://www.youtube.com/watch?v=wK47_UcznQ0",
-        "ageHours": 1306.6705905555555,
-        "velocity": 0.04668353327984883,
-        "outlier": 0.05965770171149144,
-        "velocityRatio": 0.017179140695190616,
-        "engagementRatio": 10.984138384019747
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 10,
       "priority": "candidate"
     },
     {
@@ -572,15 +545,42 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=juy9L_SpLcM",
-        "ageHours": 969.2186461111111,
-        "velocity": 0.8512011229976091,
+        "ageHours": 969.9837805555555,
+        "velocity": 0.8505296856896757,
         "outlier": 0.8068459657701712,
-        "velocityRatio": 0.3132347280618587,
-        "engagementRatio": 0.6091204012956405
+        "velocityRatio": 0.31385076900950243,
+        "engagementRatio": 0.6477544677544678
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 9,
+      "viralScore": 10,
+      "priority": "candidate"
+    },
+    {
+      "niche": "land_selection",
+      "creator": "Nemmadi Home Inspection",
+      "creatorKey": "nemmadi",
+      "source": {
+        "id": "wK47_UcznQ0",
+        "title": "Few seconds. That's all it takes for an unnoticed safety risk to become a life-threatening incident",
+        "description": "One overlooked hazard. One preventable accident. That's all it takes to put lives at risk.\n\nThe incident in this video is a reminder that common areas in residential communities require regular safety and maintenance assessments. Issues that go unnoticed today can become serious hazards tomorrow.\n\nAn 𝗥𝗪𝗔 𝗛𝗲𝗮𝗹𝘁𝗵 𝗖𝗵𝗲𝗰𝗸𝘂𝗽 helps identify potential safety risks, maintenance gaps, and infrastructure concerns before they escalate into costly incidents or accidents.\n\nThe recent Supreme Court ruling on lift accidents also reinforces an important message: 𝗥𝗪𝗔𝘀 𝗵𝗮𝘃𝗲 𝗮 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝘁𝗼 𝗽𝗿𝗼𝗮𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻 𝗮𝗻𝗱 𝗶𝗻𝘀𝗽𝗲𝗰𝘁 𝗰𝗼𝗺𝗺𝗼𝗻 𝗶𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲—𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗱 𝗮𝗳𝘁𝗲𝗿 𝗮𝗻 𝗶𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗼𝗰𝗰𝘂𝗿𝘀.\n\nRead: https://nemmadi.in/when-the-lift-fails-who-answers-the-supreme-court-ruling-every-rwa-should-read/\n\nLearn more about our RWA Health Checkup: https://nemmadi.in/health-checkup-for-rwa/\n\n𝗣𝗿𝗲𝘃𝗲𝗻𝘁𝗶𝗼𝗻 𝗶𝘀 𝗮𝗹𝘄𝗮𝘆𝘀 𝘀𝗮𝗳𝗲𝗿—𝗮𝗻𝗱 𝗳𝗮𝗿 𝗹𝗲𝘀𝘀 𝗰𝗼𝘀𝘁𝗹𝘆—𝘁𝗵𝗮𝗻 𝗿𝗲𝗮𝗰𝘁𝗶𝗻𝗴 𝗮𝗳𝘁𝗲𝗿 𝗮𝗻 𝗮𝗰𝗰𝗶𝗱𝗲𝗻𝘁.\n\n#RWA #ApartmentManagement #BuildingSafety #CommunitySafety #PreventiveMaintenance #FacilityManagement #LiftSafety #HomeInspection #Nemmadi #EnablingQualityLiving",
+        "publishedAt": "2026-08-03T05:41:50Z",
+        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+        "channelTitle": "Nemmadi. In",
+        "durationSeconds": 56,
+        "views": 61,
+        "likes": 2,
+        "comments": 1,
+        "url": "https://www.youtube.com/watch?v=wK47_UcznQ0",
+        "ageHours": 1307.435725,
+        "velocity": 0.04665621325285417,
+        "outlier": 0.05965770171149144,
+        "velocityRatio": 0.017216434246625813,
+        "engagementRatio": 11.680818270982206
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 10,
       "priority": "candidate"
     },
     {
@@ -599,11 +599,11 @@
         "likes": 11,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=pVAvvGS4YxU",
-        "ageHours": 1272.2572572222223,
-        "velocity": 0.7419883004331047,
-        "outlier": 0.14903694347963373,
-        "velocityRatio": 0.16033532477823303,
-        "engagementRatio": 1.3845507129405434
+        "ageHours": 1273.0223916666666,
+        "velocity": 0.7415423374950193,
+        "outlier": 0.14917825537294563,
+        "velocityRatio": 0.16048055223063593,
+        "engagementRatio": 1.3832391713747645
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -626,11 +626,11 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ZFRDUfHEyAU",
-        "ageHours": 1206.3089238888888,
-        "velocity": 0.27190381626507104,
+        "ageHours": 1207.0740583333334,
+        "velocity": 0.2717314631489022,
         "outlier": 0.32078239608801956,
-        "velocityRatio": 0.10005827723398146,
-        "engagementRatio": 1.0213909168067143
+        "velocityRatio": 0.10027060796144466,
+        "engagementRatio": 1.0861736501980406
       },
       "confirmations": 0,
       "peerMatches": [],
