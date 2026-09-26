@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260926-450D",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-26T21:20:11.426Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "VL4M_yYLzVc",
+      "title": "Panchgani ka hidden waterfall spot",
+      "description": "पंचगनी का एक ऐसा खूबसूरत और शांत वॉटरफॉल, जिसके बारे में शायद ही आपको पता हो। प्रकृति के बीच सुकून का अनुभव करें।\n\nआज हम आपको पंचगनी की एक ऐसी जगह पर ले जा रहे हैं जो शहर की भीड़भाड़ से दूर है। यह पंचगनी वॉटरफॉल अपनी शांति और सुंदर नज़ारों के लिए जाना जाता है, जहाँ पहाड़ और हरियाली आपका मन मोह लेंगे। अगर आप भी किसी शांत जगह की तलाश में हैं, तो यह वीडियो आपको ज़रूर देखना चाहिए।\n\nयह जगह उन लोगों के लिए बेहतरीन है जो अपने दोस्तों या परिवार के साथ एक शांत वीकेंड गेटवे की योजना बना रहे हैं। पंचगनी टूरिस्ट प्लेस की लिस्ट में यह एक ऐसी जगह है जो आपको प्रकृति के करीब ले जाएगी और आपको एक यादगार अनुभव देगी।\n\nचैनल को सब्सक्राइब करें ताकि आप ऐसी और भी यात्राओं का आनंद ले सकें, और कमेंट में बताएं कि आपको यह नज़ारा कैसा लगा?",
+      "publishedAt": "2026-09-25T16:30:08Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 51,
+      "views": 148,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=VL4M_yYLzVc",
+      "ageHours": 28.805776944444446,
+      "velocity": 5.137858294377429,
+      "outlier": 0.1295971978984238,
+      "velocityRatio": 2.068227732061369,
+      "engagementRatio": 0.23563306831398645
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 19,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4602
+  },
+  "pack": {
+    "subject_classification": "Topography & natural drainage due diligence",
+    "source_evidence_points": [
+      "Switching from narrow framing to wide-angle perspective reveals crucial surrounding terrain context",
+      "Inspecting low-lying zones and natural water channels below eye level avoids hidden flood risks",
+      "Observing elevation differences relative to surrounding higher structures indicates rain runoff direction",
+      "Verifying site observations from multiple distinct physical angles before making a final judgment"
+    ],
+    "topic": "Evaluating Land Elevation and Monsoon Water Runoff in Coimbatore Properties",
+    "source_script_insight": "In the source clip, the subject transitions from a close-up pose to an ultra-wide angle view to reveal the full valley and waterfall below. In real estate due diligence, looking only at the immediate flat plot boundary (1x) hides low-lying topographical traps; expanding to an ultra-wide spatial inspection reveals natural drainage paths and slope risks during heavy monsoon rains.",
+    "coimbatore_angle": "Coimbatore's Western Ghats foothill pockets (Vadavalli, Thondamuthur, Kovai Pudur, Kovaipudur slope belts) experience intense monsoon runoff. Buyers often inspect dry plots in summer without evaluating surrounding terrain contour, leading to unexpected waterlogging when mountain rain streams downhill.",
+    "visual_strategy": "The visuals strictly focus on physical topographical evidence: digital slope inclinometers, red-soil gradient cuts, rainwater channels along Western Ghats foothills, contour map overlays on mobile phones, and concrete side-drain capacity checks. Camera movements use rapid tilt-ups, micro-level measurements, and grounded high-angle terrain observations—strictly avoiding generic family or housing montage default storylines.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never buy land based on a flat front view alone; inspect the wider elevation contours and seasonal water drainage paths from multiple angles.",
+    "voiceover_tamil": "இடத்தை மனையில் இருந்து மட்டும் பார்க்காதீங்க, சுற்றிலும் உள்ள சரிவு, மழைநீர் செல்லும் பாதையை, வெவ்வேறு கோணத்தில், ஆராய்ந்து சரிபாருங்கள். சரியான மேடான நிலத்தை தேர்ந்தெடுங்கள்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "Switching from narrow framing to wide-angle perspective reveals crucial surrounding terrain context",
+        "purpose": "Hook the viewer by contrasting a close flat plot view with a sudden wide slope drop.",
+        "visual": "Extreme close-up of a granite survey stone on red soil, rapidly tilting up to reveal a steep downhill terrain slope facing Coimbatore western hills.",
+        "on_screen_text": "முழு பார்வை",
+        "voiceover_tamil": "இடத்தை மனையில் இருந்து மட்டும் பார்க்காதீங்க,"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Inspecting low-lying zones and natural water channels below eye level avoids hidden flood risks",
+        "purpose": "Demonstrate practical tool-based elevation check on red soil.",
+        "visual": "Low-angle micro shot of a yellow digital spirit level resting on raw earth showing a 12-degree natural downward tilt toward a natural ditch.",
+        "on_screen_text": "பள்ளத்தாக்கு ஆபத்து",
+        "voiceover_tamil": "சுற்றிலும் உள்ள சரிவு,"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "Observing elevation differences relative to surrounding higher structures indicates rain runoff direction",
+        "purpose": "Show real water channel risk along foothill properties.",
+        "visual": "High-angle static shot of rain runoff cutting small natural gullies through red earth along a plot boundary near Marudhamalai road.",
+        "on_screen_text": "மழைநீர் பாதை",
+        "voiceover_tamil": "மழைநீர் செல்லும் பாதையை,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "Verifying site observations from multiple distinct physical angles before making a final judgment",
+        "purpose": "Introduce spatial verification via contour map reference.",
+        "visual": "Over-the-shoulder shot of hands holding a smartphone displaying a topographic elevation contour map over an active red-soil plot location.",
+        "on_screen_text": "வரைபட சரிபார்ப்பு",
+        "voiceover_tamil": "வெவ்வேறு கோணத்தில்,"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "Inspecting low-lying zones and natural water channels below eye level avoids hidden flood risks",
+        "purpose": "Show concrete drainage infrastructure inspection.",
+        "visual": "Eye-level side pan across a wide concrete storm water drain built along a paved roadway in a high-elevation Kovai Pudur layout.",
+        "on_screen_text": "வடிகால் அளவு",
+        "voiceover_tamil": "ஆராய்ந்து சரிபாருங்கள்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "Verifying site observations from multiple distinct physical angles before making a final judgment",
+        "purpose": "Show professional survey verification action.",
+        "visual": "Medium shot of an inspector placing a aluminum levelling staff on an elevated dry corner embankment, checking visual line.",
+        "on_screen_text": "உயரம் சரிபார்ப்பு",
+        "voiceover_tamil": "சரியான மேடான நிலத்தை"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "Switching from narrow framing to wide-angle perspective reveals me crucial surrounding terrain context",
+        "purpose": "Deliver final takeaway on elevated safe property with minimal brand overlay.",
+        "visual": "Slight high-angle wide view of a dry, well-graded elevated plot with clear perimeter drainage channels against Coimbatore hill silhouette.",
+        "on_screen_text": "OliveTree Investors",
+        "voiceover_tamil": "தேர்ந்தெடுங்கள்!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Exact Duration: 10.0 seconds\n- Native Aspect Ratio: Vertical 9:16 portrait format.\n- Resolution: 4K crisp photorealistic real-world video footage.\n- Target Audience: Coimbatore, Tamil Nadu, India.\n\nB. REALISM LOCK\n- Ultra-photorealistic 4K real-world video shot on professional handheld/cinematic camera.\n- Authentic Coimbatore environment: rich red loam soil, lush Western Ghats monsoon foliage in background, natural overcast cloudy sunlight, natural dust particles, realistic textures, soft atmospheric mist over distant hills.\n- ABSOLUTELY NO 3D renders, CGI, architectural walkthroughs, stock graphic animations, floating icons, or cartoon elements.\n\nC. SOURCE SUBJECT LOCK\n- Core Educational Topic: Topography & Natural Drainage Due Diligence for Land Buyers.\n- Source Evidence Points Applied:\n  1. Broadening perspective from tight close-up to wide-angle reveals critical terrain drops.\n  2. Checking low-lying zones and digital slope incline detects hidden water accumulation.\n  3. Evaluating seasonal rain runoff paths prevents monsoon flooding mistakes.\n  4. Multi-angle inspection of surrounding elevation relative to drains ensures site safety.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- Focus strictly on physical evidence: granite survey stones, red soil slope gradients, digital spirit level instruments, topographic mobile elevation maps, concrete roadside drainage channels, and leveling rods.\n- FORBIDDEN DEFAULT STORYLINE: Do NOT show empty plot turning into a house, family entering a house, construction workers, or generic promotional banners.\n\nE. CAMERA + IMAGE QUALITY\n- 4K optical clarity, natural color grading matching monsoon light in Western Tamil Nadu.\n- Realistic optical depth of field, natural motion blur on fast camera tilts, zero geometry distortion.\n\nF. EXACT 7-SHOT PLAN (10 SECONDS TOTAL)\n\nScene 1 (0.0s - 1.4s):\n- Location: Red soil plot boundary in Vadavalli, Coimbatore.\n- Visual: Extreme close-up of a weathered granite survey stone sticking out of dark red soil. Camera rapidly tilts upward, revealing a steep downward slope leading toward a distant valley framed by Western Ghats clouds.\n- On-Screen Text: \"முழு பார்வை\"\n- Voiceover Tamil: \"இடத்தை மனையில் இருந்து மட்டும் பார்க்காதீங்க,\"\n\nScene 2 (1.4s - 2.8s):\n- Location: Sloped earthen boundary.\n- Visual: Micro ground-level shot of a yellow digital spirit level resting on raw red soil showing a numerical display indicating a downward slope gradient.\n- On-Screen Text: \"பள்ளத்தாக்கு ஆபத்து\"\n- Voiceover Tamil: \"சுற்றிலும் உள்ள சரிவு,\"\n\nScene 3 (2.8s - 4.2s):\n- Location: Foothill plot edge near Marudhamalai road.\n- Visual: High-angle static downward view of small natural rainwater channels cut into the red earth showing clear erosion lines from monsoon runoff.\n- On-Screen Text: \"மழைநீர் பாதை\"\n- Voiceover Tamil: \"மழைநீர் செல்லும் பாதையை,\"\n\nScene 4 (4.2s - 5.6s):\n- Location: Open site in Kovai Pudur.\n- Visual: Over-the-shoulder shot of hands holding a smartphone displaying a detailed topographic contour map with blue drainage lines, with the actual red land visible in soft focus background.\n- On-Screen Text: \"வரைபட சரிபார்ப்பு\"\n- Voiceover Tamil: \"வெவ்வேறு கோணத்தில்,\"\n\nScene 5 (5.6s - 7.0s):\n- Location: Suburban road layout in Coimbatore.\n- Visual: Low-angle smooth pan across a deep, wide concrete storm drainage channel along a paved bitumen street, showing high volumetric capacity.\n- On-Screen Text: \"வடிகால் அளவு\"\n- Voiceover Tamil: \"ஆராய்ந்து சரிபாருங்கள்.\"\n\nScene 6 (7.0s - 8.5s):\n- Location: Upper elevation plot boundary.\n- Visual: Eye-level shot of a surveyor's hand positioning an aluminum leveling rod onto a high concrete kerb stone, checking site elevation relative to road level.\n- On-Screen Text: \"உயரம் சரிபார்ப்பு\"\n- Voiceover Tamil: \"சரியான மேடான நிலத்தை\"\n\nScene 7 (8.5s - 10.0s):\n- Location: Well-developed high ground in Western Coimbatore.\n- Visual: Wide static high-angle view of a well-graded, perfectly dry elevated residential plot featuring proper side concrete drainage gutters, framed against distant mountain mist.\n- On-Screen Text: \"OliveTree Investors\"\n- Voiceover Tamil: \"தேர்ந்தெடுங்கள்!\"\n\nG. MOTION-GRAPHICS LIMIT\n- Only small, crisp white Tamil text overlays positioned in lower third. No full-screen banners or animated transitions.\n\nH. FINAL REAL SCENE\n- Ends on real-world photo-realistic elevated plot with clear concrete drainage. Minimal branding \"OliveTree Investors\" overlaid at bottom center.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- NO cartoons, NO 3D architectural renders, NO graphic animations, NO house construction montages, NO generic happy families, NO text distortion, NO black bars, NO 16:9 landscape video cropped in portrait, NO fake landmarks, NO unrealistic camera morphs.",
+    "title_english": "Coimbatore Land Incline & Water Drainage Check",
+    "caption_english": "Before finalizing plot purchases in Coimbatore's foothill belts like Vadavalli or Kovaipudur, never rely on a single flat viewpoint. A plot that appears dry in summer may sit in a natural monsoon runoff path. Always expand your view to evaluate slope contours, water flow directions, and drainage infrastructure capacity from multiple angles. Conduct thorough topographical due diligence with OliveTree Investors to secure safely elevated properties.",
+    "title_tamil": "கோவை மனை வாங்கும்போது நில சரிவு சரிபார்ப்பு",
+    "caption_tamil": "கோவையில் மனை வாங்கும்போது வெறும் முன்பக்கத்தை மட்டும் பார்க்காதீர்கள்! மலை அடிவாரப் பகுதிகளில் மழைநீர் செல்லும் பாதையையும் நிலத்தின் சரிவையும் அனைத்து கோணங்களிலும் ஆராய்வது அவசியம். OliveTree Investors உடன் சரியான நிலத்தை தேர்வு செய்யுங்கள்.",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#LandVerification",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
