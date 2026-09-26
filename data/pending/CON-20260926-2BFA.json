@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260926-2BFA",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-26T12:10:30.817Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Civil Guruji",
+    "creatorKey": "civil-guruji",
+    "source": {
+      "id": "YD9WGLuk9vs",
+      "title": "Degree Hai?🎓 Phir Job 💼Kyun Nahi Mil Rahi?🤔 #Shorts #reels",
+      "description": "Degree Hai?🎓 Phir Job 💼Kyun Nahi Mil Rahi?🤔 #Shorts #reels  \n\nInterview mein sirf ye mat socho — “Mujhe 💼job chahiye.” \n\nSocho — “Company ki 🏗️problem kya hai, aur main uska solution kaise de sakta hoon?” \n\nYe 🔥mindset aapko ek normal candidate se problem-solving engineer bana sakta hai. \n\n#CivilEngineering #CivilEngineer #JobInterview #SiteEngineer #EngineeringCareer #CivilGuruji",
+      "publishedAt": "2026-08-30T02:30:22Z",
+      "channelId": "UCfk6bln_Pp8dYgDk1f5FWCQ",
+      "channelTitle": "The Institute of Construction Managment ",
+      "durationSeconds": 85,
+      "views": 11657,
+      "likes": 418,
+      "comments": 3,
+      "url": "https://www.youtube.com/watch?v=YD9WGLuk9vs",
+      "ageHours": 657.6401327777778,
+      "velocity": 17.72549973609807,
+      "outlier": 3.437629017988794,
+      "velocityRatio": 1.9248374963111141,
+      "engagementRatio": 0.9699516457622541
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 35,
+    "priority": "strong"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 4703,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.8-flash"
+  },
+  "pack": {
+    "topic": "Practical Site Quality Control vs Paper Plans",
+    "source_script_insight": "A formal engineering degree or a paper plan is meaningless without the practical ability to solve real-world site execution problems like quality control, material verification, and workmanship alignment.",
+    "coimbatore_angle": "Translating the 'plan vs. execution' gap into a practical site quality checklist for residential home builders in Coimbatore, focusing on local site supervision standards.",
+    "core_takeaway": "A perfect blueprint is only as good as the daily on-site quality checks. Ensure cover blocks, masonry alignment, and curing are strictly monitored.",
+    "voiceover_tamil": "பிளான் மட்டும் போதாது! சைட்-ல பிராக்டிகல் குவாலிட்டி செக் தான் முக்கியம். கவர் பிளாக், அலைன்மென்ட், கியூரிங்-னு ஒவ்வொன்னும் செக் பண்ணனும். ஆலிவ்ட்ரீ பில்டர்ஸ்க்கு கால் பண்ணுங்க!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook: Contrast a paper plan with real-world site execution.",
+        "visual": "A close-up of a hand holding a printed architectural house plan on a windy Coimbatore residential construction site. The background shows a concrete column with slightly exposed steel reinforcement due to poor execution, highlighting the contrast.",
+        "camera": "Eye-level close-up, slight camera shake to simulate handheld smartphone footage, natural daylight.",
+        "on_screen_text": "Plan vs Reality",
+        "voiceover_tamil": "பிளான் மட்டும் போதாது!"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Highlight the first critical site check: cover blocks.",
+        "visual": "A close-up shot of a steel reinforcement cage inside a wooden beam shuttering. A supervisor's hand points to the lack of space between the steel and the wood, indicating a quality issue.",
+        "camera": "Low-angle macro shot, moving slowly along the beam, sharp focus on the steel bars.",
+        "on_screen_text": "Cover Block Check",
+        "voiceover_tamil": "சைட்-ல பிராக்டிகல் செக் முக்கியம்."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Show the correct execution of the cover block.",
+        "visual": "A worker's hands placing a precast concrete cover block underneath the steel reinforcement rebar, lifting it away from the shuttering board to ensure proper concrete coverage.",
+        "camera": "Close-up, static shot, focusing on the worker's hands and the concrete block.",
+        "on_screen_text": "Proper Spacing",
+        "voiceover_tamil": "கவர் பிளாக் கரெக்டா இருக்கணும்."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Demonstrate material quality verification.",
+        "visual": "A fresh concrete mix being poured from a transit mixer chute into a wheelbarrow on-site. The concrete texture is thick and cohesive, showing a perfect water-cement ratio.",
+        "camera": "Medium shot, high-angle looking down at the pouring concrete, capturing the wet texture and splatters.",
+        "on_screen_text": "Mix Quality",
+        "voiceover_tamil": "மிக்ஸ் குவாலிட்டிய செக் பண்ணனும்."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Show workmanship and alignment check.",
+        "visual": "A skilled mason in Coimbatore placing a spirit level against a newly built red brick wall, verifying that the vertical alignment is perfectly straight.",
+        "camera": "Side-angle medium shot, tracking slightly forward to show the bubble in the spirit level centered.",
+        "on_screen_text": "Perfect Alignment",
+        "voiceover_tamil": "அலைன்மென்ட் கரெக்டா இருக்கணும்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Show the curing process for structural strength.",
+        "visual": "Water being sprayed from a hose onto a newly cast concrete column wrapped in wet gunny bags (hessian cloth) on a sunny day.",
+        "camera": "Medium shot, panning up the column, capturing water droplets glistening in the Coimbatore sunlight.",
+        "on_screen_text": "Proper Curing",
+        "voiceover_tamil": "கியூரிங் தான் ஸ்ட்ரென்த்!"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Call to Action with a premium finished home.",
+        "visual": "A beautiful, modern double-story residential villa built by OliveTree Builders in Coimbatore, featuring clean lines, glass railings, and elegant exterior paint under a clear blue sky.",
+        "camera": "Low-angle wide shot, slowly tilting up to showcase the grand facade of the completed home.",
+        "on_screen_text": "Build with OliveTree",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ பில்டர்ஸ்க்கு கால் பண்ணுங்க!"
+      }
+    ],
+    "gemini_video_prompt": "Create a 10-second, 9:16 vertical video for OliveTree Builders, focused strictly on Coimbatore, Tamil Nadu. The video must consist of exactly 7 distinct scenes, each lasting between 1.4 and 1.5 seconds, transitioning seamlessly. The style must be 100% photorealistic, live-action smartphone or gimbal footage captured on real residential construction sites in Coimbatore. Do not use any cartoon, 2D/3D animation, CGI, or corporate motion graphics. Scene 1 (0.0-1.4s): Close-up of hands holding a paper blueprint on a windy site, transitioning to a concrete beam with exposed steel. Text overlay: 'Plan vs Reality'. Scene 2 (1.4-2.8s): Close-up of steel reinforcement inside wooden shuttering with no clearance. Text overlay: 'Cover Block Check'. Scene 3 (2.8-4.2s): Hands placing a concrete cover block under the steel rebar. Text overlay: 'Proper Spacing'. Scene 4 (4.2-5.6s): Fresh concrete mix pouring from a chute, showing realistic wet texture. Text overlay: 'Mix Quality'. Scene 5 (5.6-7.0s): A mason placing a spirit level against a red brick wall. Text overlay: 'Perfect Alignment'. Scene 6 (7.0-8.5s): Water spraying onto a concrete column wrapped in wet gunny bags under bright sunlight. Text overlay: 'Proper Curing'. Scene 7 (8.5-10.0s): A beautiful, modern completed double-story villa in Coimbatore with clean architecture. Text overlay: 'Build with OliveTree'. All text overlays must be small, clean, white sans-serif fonts with a subtle drop shadow, placed at the lower third of the screen. Lighting must be natural Tamil Nadu daylight. No visible cameramen or religious symbols. NEGATIVE PROMPT: No cartoon, no 3D render, no architectural walkthrough animation, no glossy corporate graphics, no landscape orientation, no black bars, no generic stock presenters, no floating icons.",
+    "title_english": "Why Blueprints Alone Can't Guarantee Your Dream Home Quality",
+    "caption_english": "A perfect paper plan doesn't guarantee a strong home. Real quality is built on-site through rigorous execution checks! From verifying concrete cover blocks to ensuring precise masonry alignment and systematic curing, every step requires practical engineering supervision. At OliveTree Builders, we bridge the gap between design and flawless execution on every Coimbatore residential project. Build your home with zero compromises. Contact OliveTree Builders today to discuss your project!",
+    "title_tamil": "வெறும் பிளான் மட்டும் போதாது! கோயம்புத்தூரில் தரமான வீடு கட்ட இதோ வழி!",
+    "caption_tamil": "ஒரு சிறந்த வரைபடம் (Plan) மட்டுமே உங்கள் கனவு இல்லத்தின் வலிமையை உறுதி செய்யாது. நிஜமான தரம் என்பது கட்டுமான களத்தில் (Site) நடக்கும் துல்லியமான சோதனைகளில் தான் உள்ளது! கான்கிரீட் கவர் பிளாக்ஸ், செங்கல் சுவர்களின் நேர்த்தி, மற்றும் முறையான நீர் பாய்ச்சுதல் (Curing) போன்ற ஒவ்வொரு கட்டத்தையும் நாங்கள் நேரடியாக கண்காணிக்கிறோம். கோயம்புத்தூரில் தரம் மாறாத கட்டுமானத்திற்கு இன்றே ஆலிவ்ட்ரீ பில்டர்ஸை தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "CoimbatoreBuilders",
+      "HouseConstruction",
+      "OliveTreeBuilders"
+    ]
+  }
+}
