@@ -1,0 +1,137 @@
+{
+  "contentId": "INV-20260926-GEVN",
+  "niche": "investment",
+  "label": "PROPERTY INVESTMENT",
+  "brand": "olivetree_builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-26T16:34:00.677Z",
+  "candidate": {
+    "niche": "investment",
+    "creator": "Abrar Teli",
+    "creatorKey": "abrar-teli",
+    "source": {
+      "id": "VYrn3jcJf9s",
+      "title": "Suna hai bohot upar taq pehchan hai?",
+      "description": "",
+      "publishedAt": "2026-09-26T02:00:06Z",
+      "channelId": "UCU8OQ8fmy3Q_77xIfxNx1Lw",
+      "channelTitle": "Abrar Teli",
+      "durationSeconds": 31,
+      "views": 1814,
+      "likes": 218,
+      "comments": 1,
+      "url": "https://www.youtube.com/watch?v=VYrn3jcJf9s",
+      "ageHours": 14.531744722222221,
+      "velocity": 124.8301587094354,
+      "outlier": 1.5884413309982486,
+      "velocityRatio": 49.84047307845003,
+      "engagementRatio": 4.22944471020033
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 53,
+    "priority": "candidate"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3787
+  },
+  "pack": {
+    "subject_classification": "legal risk",
+    "source_evidence_points": [
+      "The illusion of relying on high-level personal connections or influence as a safety net in transactions.",
+      "Reframing 'influence' to focus on the ultimate, unassailable authority that actually guarantees safety.",
+      "The necessity of physical, verifiable proof of authority rather than verbal assurances.",
+      "The absolute peace of mind and security derived from aligning with verified standards."
+    ],
+    "topic": "Relying on Legal Due Diligence vs. Personal Connections in Coimbatore Real Estate",
+    "source_script_insight": "The source video playfully subverts the idea of having 'high-up connections' (pehchan) by revealing that the ultimate, most secure connection is spiritual devotion. Translated to property investment, this subversion warns buyers against relying on 'influential contacts' or 'knowing someone' to clear sketchy land titles, reframing the ultimate 'high connection' as clean, legally verified documentation (DTCP/RERA, Patta, Parent Documents) which holds absolute authority.",
+    "coimbatore_angle": "In Coimbatore's rapidly expanding suburbs like Saravanampatti, Thudiyalur, or Kovaipudur, buyers are often tempted to overlook minor documentation flaws because a broker claims to have 'influence' with local authorities. This concept teaches Coimbatore investors that the only 'influence' that matters is a 100% clean legal file verified through official Tamil Nadu e-services and physical survey stones.",
+    "visual_strategy": "The visual strategy uses a series of high-contrast, fast-paced real-world shots focusing on the physical elements of legal verification. We start with the modern anxiety of a 'VIP call' and immediately pivot to the tactile, unyielding reality of official documents, magnifying glasses over registration seals, digital portal verifications, and physical boundary stones. The camera moves from tight, analytical macro shots of paperwork to a wide, sunlit, secure Coimbatore plot layout, visually demonstrating the transition from risky uncertainty to absolute legal peace of mind.",
+    "generic_sequence_avoided": true,
+    "core_takeaway": "Never rely on personal influence or verbal promises to bypass property issues; in Coimbatore real estate, clean, verified legal documents are your only true protection.",
+    "voiceover_tamil": "பெரிய இடத்துல செல்வாக்கு இருந்தாலும், டாக்குமெண்ட்ஸ் சரியா இருக்கணும்! பட்டா, வரைபடம் எல்லாம் பக்காவா இருக்கணும். அதுவே பாதுகாப்பு!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "evidence_point": "The illusion of relying on high-level personal connections or influence as a safety net in transactions.",
+        "purpose": "Establish the hook of 'high-up connections' visually using a modern smartphone interface set against a Coimbatore backdrop.",
+        "visual": "A close-up vertical shot of a hand holding a smartphone on a busy Coimbatore street (Gandhipuram). The screen shows an incoming call from 'VIP Broker / Politician' with a calling animation. The background is softly blurred with natural city daylight.",
+        "on_screen_text": "செல்வாக்கு?",
+        "voiceover_tamil": "பெரிய இடத்துல..."
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "evidence_point": "Reframing 'influence' to focus on the ultimate, unassailable authority that actually guarantees safety.",
+        "purpose": "Reject the illusion of personal influence and shift focus to physical legal documentation.",
+        "visual": "The hand decisively swipes red to decline the call. The camera tilts down rapidly to a wooden office desk, revealing a thick, bound stack of old, authentic Tamil Nadu land registration papers (Moola Pathiram/Parent Documents) with official stamps.",
+        "on_screen_text": "உதவாது!",
+        "voiceover_tamil": "...செல்வாக்கு இருந்தாலும்..."
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "evidence_point": "The necessity of physical, verifiable proof of authority rather than verbal assurances.",
+        "purpose": "Show the physical inspection of official government approvals.",
+        "visual": "An extreme close-up macro shot of a magnifying glass sliding over a blueprint, revealing a crisp, blue DTCP approval seal and a clear registration number. Natural sunlight streams across the paper from a side window.",
+        "on_screen_text": "DTCP / RERA?",
+        "voiceover_tamil": "...டாக்குமெண்ட்ஸ் சரியா..."
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "evidence_point": "The necessity of physical, verifiable proof of authority rather than verbal assurances.",
+        "purpose": "Demonstrate digital verification of ownership via official government portals.",
+        "visual": "A clean, eye-level shot of a laptop screen displaying the official Tamil Nadu AnyAny e-Services portal. A cursor clicks on 'View Patta/Chitta', and a valid digital document with a QR code loads instantly.",
+        "on_screen_text": "பட்டா சரிபார்",
+        "voiceover_tamil": "...இருக்கணும்!..."
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "evidence_point": "The necessity of physical, verifiable proof of authority rather than verbal assurances.",
+        "purpose": "Show physical, on-site verification of property boundaries.",
+        "visual": "A low-angle, crisp shot of a concrete survey stone (FMB stone) with a painted yellow top, firmly planted in the soil at the corner of a clean plot. Green grass sways gently in the Coimbatore breeze under a bright, clear sky.",
+        "on_screen_text": "எல்லைகள்",
+        "voiceover_tamil": "பட்டா, வரைபடம்..."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "evidence_point": "The absolute peace of mind and security derived from aligning with verified standards.",
+        "purpose": "Show the final legal clearance that guarantees transaction safety.",
+        "visual": "A close-up of a legal advisor's hand handing over a freshly printed, clean Encumbrance Certificate (EC) with no entries/clear titles to a buyer's hand in a professional, modern office in Coimbatore.",
+        "on_screen_text": "வில்லங்க சான்றிதழ்",
+        "voiceover_tamil": "...எல்லாம் பக்காவா இருக்கணும்."
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "evidence_point": "The absolute peace of mind and security derived from aligning with verified standards.",
+        "purpose": "Deliver the final visual payoff of a safe, legally secure investment in Coimbatore.",
+        "visual": "A beautiful, wide, eye-level panning shot of a premium, neatly developed residential layout in Coimbatore (e.g., Kovaipudur area) with paved roads and clear plots. A tiny, elegant 'OliveTree Investors' logo and text overlay appear at the bottom.",
+        "on_screen_text": "பாதுகாப்பான முதலீடு",
+        "voiceover_tamil": "அதுவே பாதுகாப்பு!"
+      }
+    ],
+    "gemini_video_prompt": "A. MANDATORY OUTPUT FORMAT LOCK\n- Exactly 10 seconds total duration.\n- Native portrait 9:16 aspect ratio, full-screen vertical composition.\n\nB. REALISM LOCK\n- Absolute photorealistic, real-world physical footage. No 3D architectural renders, no cartoon animations, no motion graphics templates, no plastic CGI surfaces.\n- Settings, documents, and environments must look authentically like Coimbatore, Tamil Nadu, India.\n\nC. SOURCE SUBJECT LOCK\n- Subject: Legal Risk & Due Diligence.\n- Theme: Subverting the idea of relying on 'high-up personal connections' or 'VIP influence' to clear property issues, proving instead that clean, verified legal documents are the only true authority and safety net.\n- Setting: Coimbatore, Tamil Nadu.\n\nD. SUBJECT-SPECIFIC VISUAL STRATEGY\n- The visual narrative moves from the anxiety of relying on personal connections (represented by a phone call from a VIP broker) to the absolute concrete certainty of physical and digital legal verification (stamps, portals, survey stones, ECs).\n- Avoid the generic 'empty plot to completed house' sequence. Every shot must focus on the physical evidence of legal verification.\n\nE. CAMERA + IMAGE QUALITY\n- Captured on high-end mirrorless cameras with natural focal lengths (35mm and 50mm equivalent).\n- Natural, bright daylight lighting with realistic shadows, subtle atmospheric haze, and organic textures.\n- Smooth, stabilized camera movements (no fast whip pans, no speed ramps, no drone orbits).\n\nF. EXACT 7-SHOT PLAN\n\n- Shot 1 (0.0s - 1.4s):\n  - Location: A bustling, sunlit street corner in Gandhipuram, Coimbatore. Blurred background of local shops and moving traffic.\n  - Subject: A hand holding a modern smartphone in vertical orientation.\n  - Action: The phone screen shows an incoming call animation from a contact saved as 'VIP Broker / Politician'.\n  - Camera: Close-up, shallow depth of field.\n  - Text Overlay: 'செல்வாக்கு?' (small, clean sans-serif font, white with subtle drop shadow).\n  - Tamil VO: 'பெரிய இடத்துல...'\n\n- Shot 2 (1.4s - 2.8s):\n  - Location: A professional wooden office desk.\n  - Subject: The hand holding the phone.\n  - Action: The thumb decisively swipes red to decline the call. The camera immediately tilts down to reveal a thick stack of authentic, slightly aged Tamil Nadu land registration documents (Moola Pathiram) with official government stamps.\n  - Camera: Quick, smooth tilt-down, close-up.\n  - Text Overlay: 'உதவாது!'\n  - Tamil VO: '...செல்வாக்கு இருந்தாலும்...'\n\n- Shot 3 (2.8s - 4.2s):\n  - Location: A bright office desk near a window.\n  - Subject: A legal document blueprint.\n  - Action: A hand slides a professional metal magnifying glass over the document, magnifying a crisp, official blue DTCP approval stamp and registration number.\n  - Camera: Extreme macro close-up, sharp focus on the magnified text.\n  - Text Overlay: 'DTCP / RERA?'\n  - Tamil VO: '...டாக்குமெண்ட்ஸ் சரியா...'\n\n- Shot 4 (4.2s - 5.6s):\n  - Location: A modern office interior.\n  - Subject: A laptop screen.\n  - Action: The screen displays the official Tamil Nadu e-Services 'AnyAny' portal. A cursor clicks, and a digital Patta/Chitta document with a clear government header and QR code loads instantly.\n  - Camera: Eye-level medium close-up of the screen, realistic screen glare and reflections.\n  - Text Overlay: 'பட்டா சரிபார்'\n  - Tamil VO: '...இருக்கணும்!...'\n\n- Shot 5 (5.6s - 7.0s):\n  - Location: A clean, open land plot in Coimbatore (e.g., Saravanampatti area).\n  - Subject: A concrete boundary survey stone (FMB stone).\n  - Action: The camera focuses on the stone, which has a painted yellow top and engraved numbers. Green grass sways gently around it in the wind under a bright, clear sky.\n  - Camera: Low-angle static shot, crisp details on the concrete texture.\n  - Text Overlay: 'எல்லைகள்'\n  - Tamil VO: 'பட்டா, வரைபடம்...'\n\n- Shot 6 (7.0s - 8.5s):\n  - Location: A well-lit, professional legal office.\n  - Subject: Two hands exchanging a document.\n  - Action: A legal advisor in a formal shirt hands a freshly printed, clean Encumbrance Certificate (EC) with official stamp markings to a buyer.\n  - Camera: Close-up, side-angle tracking shot.\n  - Text Overlay: 'வில்லங்க சான்றிதழ்'\n  - Tamil VO: '...எல்லாம் பக்காவா இருக்கணும்.'\n\n- Shot 7 (8.5s - 10.0s):\n  - Location: A premium, beautifully laid-out residential plot development in Coimbatore (e.g., Kovaipudur).\n  - Subject: A wide view of the organized layout.\n  - Action: A slow, elegant horizontal pan showing clean paved roads, neatly divided plots with low boundary walls, and green trees under a clear blue sky. A small, minimalist 'OliveTree Investors' logo appears in the bottom right corner.\n  - Camera: Eye-level, slow pan, wide angle.\n  - Text Overlay: 'பாதுகாப்பான முதலீடு'\n  - Tamil VO: 'அதுவே பாதுகாப்பு!'\n\nG. MOTION-GRAPHICS LIMIT\n- No cartoon transitions, no full-screen graphics. Text overlays must be minimal, clean, and directly superimposed on the real footage.\n\nH. FINAL REAL SCENE\n- No generic branded end card. The video ends on the beautiful, real-world Coimbatore plot layout in Shot 7, with the small brand logo and the final takeaway text overlay.\n\nI. NEGATIVE PROMPT / FIXED RULES\n- Strictly ban: 2D/3D animated explainers, architectural visualization style, cartoonish graphics, fake skylines, floating text in 3D space, distorted text, duplicated people, visible camera crew, religious symbols, landscape framing, black bars, or repeated shots.",
+    "title_english": "Forget \"High Connections\" — This Is the Only Real Estate Safety Net in Coimbatore!",
+    "caption_english": "Heard someone say they have \"high-up connections\" to clear a property issue in Coimbatore? In real estate, relying on personal influence is a massive risk. The only connection that truly protects your hard-earned money is clean, verified legal documentation. Before you sign any agreement in Coimbatore, ensure the DTCP/RERA approvals, parent documents, Patta, and Encumbrance Certificate (EC) are 100% verified by legal experts. Don't rely on promises; rely on paper. At OliveTree Investors, we prioritize absolute transparency and rigorous legal due diligence for every property. Invest with peace of mind. Contact us today to secure your investment.",
+    "title_tamil": "கோயம்புத்தூரில் சொத்து வாங்கும்போது இந்த 'செல்வாக்கு' உதவுமா?",
+    "caption_tamil": "\"பெரிய இடத்துல செல்வாக்கு இருக்கு\" என்று சொல்லி கோயம்புத்தூரில் சொத்து வாங்கப் போகிறீர்களா? ரியல் எஸ்டேட்டில் தனிநபர் செல்வாக்கை விட, முறையான சட்டப்பூர்வ ஆவணங்களே உங்களைக் காக்கும். DTCP/RERA அங்கீகாரம், பட்டா, தாய் பத்திரம் மற்றும் வில்லங்க சான்றிதழ் (EC) ஆகியவற்றைச் சரியாகச் சரிபார்ப்பதே உங்கள் முதலீட்டிற்கான உண்மையான பாதுகாப்பு. வெற்று வாக்குறுதிகளை நம்பாமல், ஆவணங்களை நம்புங்கள். OliveTree Investors-ல் நாங்கள் ஒவ்வொரு சொத்தையும் சட்டப்பூர்வமாக முழுமையாகச் சரிபார்த்து உங்களுக்கு வழங்குகிறோம். பாதுகாப்பான முதலீட்டிற்கு எங்களைத் தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreRealEstate",
+      "#PropertyDueDiligence",
+      "#OliveTreeInvestors"
+    ]
+  }
+}
