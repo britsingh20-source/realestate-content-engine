@@ -1,0 +1,131 @@
+{
+  "contentId": "CON-20260927-9K6A",
+  "niche": "construction",
+  "label": "CONSTRUCTION KNOWLEDGE",
+  "brand": "olivetree_builders",
+  "brandLabel": "OliveTree Builders",
+  "status": "awaiting_video",
+  "createdAt": "2026-09-27T12:58:25.928Z",
+  "candidate": {
+    "niche": "construction",
+    "creator": "Nemmadi Home Inspection",
+    "creatorKey": "nemmadi",
+    "source": {
+      "id": "63EpDG8VIuw",
+      "title": "Water Pressure Is TOO HIGH! | Bathroom Plumbing Issue",
+      "description": "Very high water pressure from a bathroom health faucet can indicate a plumbing issue that should not be ignored. In this inspection, the water is coming out with excessive pressure from the spray.\n\nBook Now: https://nemmadi.in/quote-for-rwa/\n\n#homeinspection #plumbing #waterpressure #bathroominspection #homeinspectionindia #plumbingissues #apartmentinspection #bathroom",
+      "publishedAt": "2026-09-26T02:00:10Z",
+      "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+      "channelTitle": "Nemmadi. In",
+      "durationSeconds": 19,
+      "views": 5567,
+      "likes": 23,
+      "comments": 0,
+      "url": "https://www.youtube.com/watch?v=63EpDG8VIuw",
+      "ageHours": 34.90047444444444,
+      "velocity": 159.51072553072902,
+      "outlier": 5.261814744801512,
+      "velocityRatio": 48.49295692449465,
+      "engagementRatio": 0.9436321178372552
+    },
+    "confirmations": 0,
+    "peerMatches": [],
+    "viralScore": 65,
+    "priority": "priority"
+  },
+  "transcriptMeta": {
+    "subtitleFile": "gemini-youtube-video-understanding",
+    "chars": 3127,
+    "method": "gemini_youtube_url",
+    "model": "gemini-3.6-flash"
+  },
+  "pack": {
+    "topic": "Bathroom Plumbing Water Pressure Regulation",
+    "source_script_insight": "Excessive water pressure in health faucets causes splashing, aerosolized misting, joint degradation, and fixture damage. It requires technical correction via angle valve throttling or pressure-reducing valves (PRV) during the MEP stage.",
+    "coimbatore_angle": "Addressing high-pressure plumbing issues common in multi-story villas and apartments in Coimbatore areas like Saravanampatti and Vadavalli, where overhead tanks or hydro-pneumatic pressure pumps are installed without proper regulation.",
+    "core_takeaway": "Regulate plumbing line pressure using angle control valves and Pressure Reducing Valves (PRVs) during the MEP phase to prevent pipe bursts and ensure user comfort.",
+    "voiceover_tamil": "பாத்ரூம்ல பிரஷர் அதிகமா இருந்தா பைப் லைன் டேமேஜ் ஆகும்! ஆங்கிள் வால்வ், PRV வெச்சு இத தடுக்கலாம். தரமான பிளம்பிங்கிற்கு ஆலிவ்ட்ரீ பில்டர்ஸ்!",
+    "scenes": [
+      {
+        "scene": 1,
+        "start_sec": 0,
+        "end_sec": 1.4,
+        "purpose": "Hook - Show the problem of high water pressure",
+        "visual": "A hand presses a chrome health faucet in a modern Coimbatore bathroom; an aggressive, violent jet of water blasts out instantly.",
+        "camera": "Eye-level close-up, handheld smartphone style, slight camera shake on water impact.",
+        "on_screen_text": "அதிவேக பிரஷர்?",
+        "voiceover_tamil": "பாத்ரூம்ல பிரஷர் அதிகமா இருந்தா"
+      },
+      {
+        "scene": 2,
+        "start_sec": 1.4,
+        "end_sec": 2.8,
+        "purpose": "Highlight the damage/consequence",
+        "visual": "The harsh water jet hits the grey vitrified floor tiles, creating heavy mist, wild splashing, and water pooling rapidly near the wall joint.",
+        "camera": "Low-angle shot looking up slightly at the splashing water, sharp focus on the water droplets.",
+        "on_screen_text": "பைப் டேமேஜ்!",
+        "voiceover_tamil": "பைப் லைன் டேமேஜ் ஆகும்!"
+      },
+      {
+        "scene": 3,
+        "start_sec": 2.8,
+        "end_sec": 4.2,
+        "purpose": "Introduce the construction/MEP solution phase",
+        "visual": "An active residential construction site in Coimbatore; a plumber in a safety vest is aligning blue PPR concealed plumbing pipes on a brick wall.",
+        "camera": "Medium shot, panning left to right, natural daylight filtering through a window opening.",
+        "on_screen_text": "சரியான பிளான்",
+        "voiceover_tamil": "ஆங்கிள் வால்வ்,"
+      },
+      {
+        "scene": 4,
+        "start_sec": 4.2,
+        "end_sec": 5.6,
+        "purpose": "Show the first physical solution (Angle Valve)",
+        "visual": "Close-up of a brass angle control valve installed behind a wall-hung toilet. A gloved hand gently turns the valve to throttle the flow.",
+        "camera": "Macro shot, shallow depth of field, highlighting the metallic texture of the valve.",
+        "on_screen_text": "வால்வ் அட்ஜஸ்ட்மென்ட்",
+        "voiceover_tamil": "PRV வெச்சு"
+      },
+      {
+        "scene": 5,
+        "start_sec": 5.6,
+        "end_sec": 7,
+        "purpose": "Show the second physical solution (PRV)",
+        "visual": "A Pressure Reducing Valve (PRV) with a pressure gauge installed on a main water inlet pipe in a villa's utility shaft.",
+        "camera": "Static close-up, clear daylight, showing the brass body of the PRV and the dial gauge.",
+        "on_screen_text": "PRV சிஸ்டம்",
+        "voiceover_tamil": "இத தடுக்கலாம்."
+      },
+      {
+        "scene": 6,
+        "start_sec": 7,
+        "end_sec": 8.5,
+        "purpose": "Demonstrate the successful result",
+        "visual": "The same health faucet from Scene 1 is pressed again, now releasing a smooth, perfectly controlled, gentle stream of water without splashing.",
+        "camera": "Eye-level close-up, smooth gimbal movement, clean and calm water flow visual.",
+        "on_screen_text": "சரியான பிரஷர்!",
+        "voiceover_tamil": "தரமான பிளம்பிங்கிற்கு"
+      },
+      {
+        "scene": 7,
+        "start_sec": 8.5,
+        "end_sec": 10,
+        "purpose": "Brand payoff and quality assurance",
+        "visual": "An OliveTree Builders site engineer in a white hardhat holding a checklist, smiling and nodding in a beautifully finished modern bathroom.",
+        "camera": "Medium shot, slow push-in, warm interior lighting reflecting off clean bathroom tiles.",
+        "on_screen_text": "OliveTree Builders",
+        "voiceover_tamil": "ஆலிவ்ட்ரீ பில்டர்ஸ்!"
+      }
+    ],
+    "gemini_video_prompt": "Create an original, highly realistic 10-second vertical 9:16 video for OliveTree Builders, set in Coimbatore, Tamil Nadu. The video must consist of exactly 7 distinct scenes, each lasting between 1.0 and 1.6 seconds, seamlessly transitioning to tell a complete educational story about regulating bathroom water pressure. The entire video must look like photorealistic, live-action smartphone or gimbal footage shot on-site, featuring natural daylight, realistic dust, concrete, brickwork, brass plumbing fixtures, and vitrified tiles. Do not use any 2D explainer animations, cartoons, glossy corporate graphics, or 3D renders. Scene 1 (0.0-1.4s): Close-up of a hand pressing a chrome health bidet faucet in a modern bathroom, with water blasting out aggressively. Text overlay: 'அதிவேக பிரஷர்?'. Scene 2 (1.4-2.8s): Low-angle shot of the high-pressure water jet splashing violently against grey floor tiles, creating mist. Text overlay: 'பைப் டேமேஜ்!'. Scene 3 (2.8-4.2s): Medium shot of a plumber in a safety vest installing blue PPR pipes on an exposed brick wall inside a Coimbatore home under construction. Text overlay: 'சரியான பிளான்'. Scene 4 (4.2-5.6s): Macro shot of a hand adjusting a chrome-plated brass angle valve under a bathroom fixture. Text overlay: 'வால்வ் அட்ஜஸ்ட்மென்ட்'. Scene 5 (5.6-7.0s): Close-up of a brass Pressure Reducing Valve (PRV) with a dial gauge installed on a water line. Text overlay: 'PRV சிஸ்டம்'. Scene 6 (7.0-8.5s): Close-up of the health faucet being pressed again, now releasing a perfectly smooth, gentle stream of water. Text overlay: 'சரியான பிரஷர்!'. Scene 7 (8.5-10.0s): Medium shot of an OliveTree Builders engineer in a white hardhat inspecting a finished bathroom with a clipboard, smiling at the camera. Text overlay: 'OliveTree Builders'. Ensure absolute continuity in bathroom tile colors and materials between the problem and solution scenes. NEGATIVE PROMPT: No cartoon, no 2D/3D animation, no flat vector graphics, no floating text boxes, no generic stock presenters, no black bars, no landscape footage, no fake futuristic elements, no religious symbols.",
+    "title_english": "How to Fix High Water Pressure in Bathroom Pipes | Coimbatore Home Construction",
+    "caption_english": "Is high water pressure in your health faucet splashing everywhere? While it might seem like a minor issue, unregulated high pressure can damage your plumbing joints, degrade hoses, and lead to concealed wall leakages over time. At OliveTree Builders, we prevent this during our MEP planning phase by installing quality Angle Control Valves and Pressure Reducing Valves (PRVs) to ensure optimal, safe water flow throughout your home. Build your dream home in Coimbatore with zero plumbing worries! Contact OliveTree Builders today to plan your quality home construction.",
+    "title_tamil": "பாத்ரூம் பைப் லைன் உடையாமல் தடுப்பது எப்படி? | பிளம்பிங் டிப்ஸ்",
+    "caption_tamil": "உங்கள் வீட்டு பாத்ரூமில் தண்ணீர் பிரஷர் அதிகமாக வருகிறதா? இதனால் பைப் லைன் ஜாயிண்டுகள் சேதமடைந்து, சுவர்களுக்குள் கசிவு ஏற்பட வாய்ப்புள்ளது. ஆலிவ்ட்ரீ பில்டர்ஸ் வழங்கும் தரமான MEP திட்டமிடல் மூலம், ஆங்கிள் வால்வ் மற்றும் PRV சிஸ்டம்களை சரியாக பொருத்தி, தண்ணீர் அழுத்தத்தை சீராக வைக்கிறோம். கோயம்புத்தூரில் கவலை இல்லாத தரமான கட்டுமானத்திற்கு உடனே எங்களை தொடர்பு கொள்ளுங்கள்!",
+    "hashtags": [
+      "#CoimbatoreBuilders",
+      "#PlumbingQuality",
+      "#OliveTreeBuilders"
+    ]
+  }
+}
