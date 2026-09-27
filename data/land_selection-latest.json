@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-27T12:36:13.406Z",
+  "scannedAt": "2026-09-27T16:57:11.309Z",
   "niche": "land_selection",
   "skippedCreators": [],
   "creators": [
@@ -17,8 +17,8 @@
       },
       "baseline": {
         "views": 1022.5,
-        "velocity": 2.5811546225386506,
-        "engagement": 0.004640122248549157
+        "velocity": 2.555446459424913,
+        "engagement": 0.004451585295306322
       },
       "videoCount": 20
     },
@@ -35,9 +35,9 @@
         "resolution": "configured"
       },
       "baseline": {
-        "views": 6469,
-        "velocity": 4.657501710834509,
-        "engagement": 0.009738754057814191
+        "views": 6496,
+        "velocity": 4.662341027009782,
+        "engagement": 0.009698275862068966
       },
       "videoCount": 2
     }
@@ -55,15 +55,15 @@
         "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
         "channelTitle": "Nemmadi. In",
         "durationSeconds": 19,
-        "views": 5480,
-        "likes": 24,
+        "views": 6573,
+        "likes": 27,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=63EpDG8VIuw",
-        "ageHours": 34.600944444444444,
-        "velocity": 158.37717981365313,
-        "outlier": 5.359413202933985,
-        "velocityRatio": 61.359043906437485,
-        "engagementRatio": 0.943846262922274
+        "ageHours": 38.9503625,
+        "velocity": 168.75324331063672,
+        "outlier": 6.428361858190709,
+        "velocityRatio": 66.03669690994565,
+        "engagementRatio": 0.9227529296631016
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -82,15 +82,15 @@
         "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
         "channelTitle": "Nemmadi. In",
         "durationSeconds": 14,
-        "views": 5088,
+        "views": 5090,
         "likes": 14,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=Ow_Q2rMCRVQ",
-        "ageHours": 394.5998333333333,
-        "velocity": 12.89407539030047,
-        "outlier": 4.976039119804401,
-        "velocityRatio": 4.995468027257787,
-        "engagementRatio": 0.592995653919327
+        "ageHours": 398.9492513888889,
+        "velocity": 12.758514979736997,
+        "outlier": 4.97799511002445,
+        "velocityRatio": 4.992675519646074,
+        "engagementRatio": 0.6178677879171792
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -113,11 +113,11 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=JFUIfVbsBlg",
-        "ageHours": 127.19761111111112,
-        "velocity": 9.520619054253727,
+        "ageHours": 131.54702916666668,
+        "velocity": 9.205833135658992,
         "outlier": 1.1843520782396089,
-        "velocityRatio": 3.68851171143319,
-        "engagementRatio": 0.8898082715410922
+        "velocityRatio": 3.602436318595658,
+        "engagementRatio": 0.927494113630542
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -140,11 +140,11 @@
         "likes": 6,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=nJkslTrMmYc",
-        "ageHours": 487.1253888888889,
-        "velocity": 4.370537952981989,
+        "ageHours": 491.4748069444444,
+        "velocity": 4.33185988359452,
         "outlier": 2.082151589242054,
-        "velocityRatio": 1.6932491819042677,
-        "engagementRatio": 0.6073599719133467
+        "velocityRatio": 1.6951479721353182,
+        "engagementRatio": 0.6330833470774558
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -167,11 +167,11 @@
         "likes": 8,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=FC96Po3F3Ws",
-        "ageHours": 274.6023333333333,
-        "velocity": 3.8528441734532484,
+        "ageHours": 278.9517513888889,
+        "velocity": 3.792770594671885,
         "outlier": 1.034718826405868,
-        "velocityRatio": 1.4926824374681782,
-        "engagementRatio": 1.6295770386937811
+        "velocityRatio": 1.4841909838038336,
+        "engagementRatio": 1.6985941347547622
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -194,15 +194,15 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=2x1MLvmDPQQ",
-        "ageHours": 1136.0945555555556,
-        "velocity": 1.9787085405938922,
+        "ageHours": 1140.443973611111,
+        "velocity": 1.9711621544037052,
         "outlier": 2.198533007334963,
-        "velocityRatio": 0.766598220546651,
-        "engagementRatio": 0.47934066585243007
+        "velocityRatio": 0.7713572503676335,
+        "engagementRatio": 0.4996420692200118
       },
       "confirmations": 0,
       "peerMatches": [],
-      "viralScore": 19,
+      "viralScore": 20,
       "priority": "candidate"
     },
     {
@@ -221,11 +221,11 @@
         "likes": 10,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=MCl3iSFYdOo",
-        "ageHours": 1278.8795555555555,
-        "velocity": 1.0603031334025375,
+        "ageHours": 1283.228973611111,
+        "velocity": 1.0567093074465934,
         "outlier": 1.326161369193154,
-        "velocityRatio": 0.41078636829578785,
-        "engagementRatio": 1.5893183139177915
+        "velocityRatio": 0.4135125991582696,
+        "engagementRatio": 1.6566303416026347
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -248,11 +248,11 @@
         "likes": 10,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=gU29nlviq3s",
-        "ageHours": 1090.5956666666666,
-        "velocity": 1.0113739066754652,
+        "ageHours": 1094.9450847222222,
+        "velocity": 1.0073564559448398,
         "outlier": 1.0787286063569683,
-        "velocityRatio": 0.3918300352269271,
-        "engagementRatio": 2.344640761928405
+        "velocityRatio": 0.3941997893282174,
+        "engagementRatio": 2.443942785000732
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -275,11 +275,11 @@
         "likes": 11,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=qKupROZxdfs",
-        "ageHours": 751.1734444444445,
-        "velocity": 1.313944212617858,
+        "ageHours": 755.5228625,
+        "velocity": 1.306380056764993,
         "outlier": 0.965281173594132,
-        "velocityRatio": 0.5090528870856836,
-        "engagementRatio": 2.4018512634648204
+        "velocityRatio": 0.5112140197447085,
+        "engagementRatio": 2.5035763095587535
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -302,11 +302,11 @@
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5PGIZa3DvTI",
-        "ageHours": 1156.8481666666667,
-        "velocity": 1.3709664290430508,
+        "ageHours": 1161.1975847222222,
+        "velocity": 1.365831294231806,
         "outlier": 1.5511002444987776,
-        "velocityRatio": 0.5311446346808392,
-        "engagementRatio": 0.9511859669424766
+        "velocityRatio": 0.5344785406066295,
+        "engagementRatio": 0.9914713242428884
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -329,11 +329,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=vk9NEu7Apws",
-        "ageHours": 370.59344444444446,
-        "velocity": 3.2920172180295806,
+        "ageHours": 374.9428625,
+        "velocity": 3.2538291084284876,
         "outlier": 1.1931540342298288,
-        "velocityRatio": 1.2754048863573206,
-        "engagementRatio": 0.7065952897286969
+        "velocityRatio": 1.27329183377246,
+        "engagementRatio": 0.7365215551518599
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -352,15 +352,15 @@
         "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
         "channelTitle": "Nemmadi. In",
         "durationSeconds": 53,
-        "views": 204,
+        "views": 221,
         "likes": 1,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=gyRLkfrS6D0",
-        "ageHours": 51.297333333333334,
-        "velocity": 3.976814909157071,
-        "outlier": 0.19951100244498776,
-        "velocityRatio": 1.5407116158139114,
-        "engagementRatio": 1.0564292321924145
+        "ageHours": 55.64675138888889,
+        "velocity": 3.9714807151191143,
+        "outlier": 0.21613691931540344,
+        "velocityRatio": 1.5541240163618495,
+        "engagementRatio": 1.0164663996439698
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -379,12 +379,12 @@
         "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
         "channelTitle": "Civiconcepts - Bhushan Mahajan",
         "durationSeconds": 59,
-        "views": 6469,
+        "views": 6496,
         "likes": 63,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=uwLmZjxyDdA",
-        "ageHours": 1388.9420555555555,
-        "velocity": 4.657501710834509,
+        "ageHours": 1393.291473611111,
+        "velocity": 4.662341027009782,
         "outlier": 1,
         "velocityRatio": 1,
         "engagementRatio": 1
@@ -410,11 +410,11 @@
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=27KAKU9wic4",
-        "ageHours": 610.5998333333333,
-        "velocity": 1.8702920270477201,
+        "ageHours": 614.9492513888889,
+        "velocity": 1.857063810421339,
         "outlier": 1.1168704156479217,
-        "velocityRatio": 0.7245951136426791,
-        "engagementRatio": 0.9435707678075855
+        "velocityRatio": 0.7267081662275403,
+        "engagementRatio": 0.9835336003560301
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -437,11 +437,11 @@
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ZsMVpmwRJ2k",
-        "ageHours": 222.51455555555555,
-        "velocity": 1.7796588587712865,
+        "ageHours": 226.8639736111111,
+        "velocity": 1.7455393806987656,
         "outlier": 0.38728606356968215,
-        "velocityRatio": 0.6894816928948384,
-        "engagementRatio": 1.6326633588428223
+        "velocityRatio": 0.6830663089265381,
+        "engagementRatio": 1.7018111691008886
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -464,15 +464,42 @@
         "likes": 6,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=OJce4MEeX4M",
-        "ageHours": 1426.6034444444444,
-        "velocity": 0.22711286816370602,
+        "ageHours": 1430.9528625,
+        "velocity": 0.22642255275547205,
         "outlier": 0.31687041564792173,
-        "velocityRatio": 0.08798886598290381,
-        "engagementRatio": 3.990954877171343
+        "velocityRatio": 0.08860391182150887,
+        "engagementRatio": 4.159982857802172
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 12,
+      "priority": "candidate"
+    },
+    {
+      "niche": "land_selection",
+      "creator": "Nemmadi Home Inspection",
+      "creatorKey": "nemmadi",
+      "source": {
+        "id": "juy9L_SpLcM",
+        "title": "Your Lift Could Be Wobbling Because of THIS | Lift Safety Check",
+        "description": "Empty lift lubrication cups may cause inadequate lubrication of the guide rails, leading to rail wear, increased friction, and wobbling during lift movement.\n\nThis is why regular lift maintenance and safety inspections are important in residential buildings. Small maintenance issues can turn into bigger lift safety concerns if ignored.\n\nLift audits help identify maintenance and compliance issues before they become costly problems.\n\nBook Now: https://nemmadi.in/quote-for-rwa/\nRead More: https://nemmadi.in/more-than-a-third-of-lift-safety-checks-failed-at-handover-and-residents-never-saw-the-list/\n\n#liftsafety #liftmaintenance #rwaaudit #liftsafetyinspection #apartmentliving #safetyfirst #nemmadi",
+        "publishedAt": "2026-08-17T07:08:57Z",
+        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
+        "channelTitle": "Nemmadi. In",
+        "durationSeconds": 23,
+        "views": 825,
+        "likes": 3,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=juy9L_SpLcM",
+        "ageHours": 993.8039736111111,
+        "velocity": 0.8301435916001213,
+        "outlier": 0.8068459657701712,
+        "velocityRatio": 0.32485266460520557,
+        "engagementRatio": 0.8168693611684265
+      },
+      "confirmations": 0,
+      "peerMatches": [],
+      "viralScore": 11,
       "priority": "candidate"
     },
     {
@@ -491,11 +518,11 @@
         "likes": 4,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=5FRH3fd3S90",
-        "ageHours": 1082.6581666666666,
-        "velocity": 0.09975447775221143,
+        "ageHours": 1087.0075847222222,
+        "velocity": 0.09935533249070999,
         "outlier": 0.10562347188264058,
-        "velocityRatio": 0.038647230538285074,
-        "engagementRatio": 7.981909754342686
+        "velocityRatio": 0.03887983335525225,
+        "engagementRatio": 8.319965715604344
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -518,42 +545,15 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=1NOUEBMmcVg",
-        "ageHours": 702.7123333333333,
-        "velocity": 0.12522905295054354,
+        "ageHours": 707.0617513888889,
+        "velocity": 0.12445871923794587,
         "outlier": 0.08606356968215159,
-        "velocityRatio": 0.04851668003808956,
-        "engagementRatio": 4.897990076528467
+        "velocityRatio": 0.04870331709706589,
+        "engagementRatio": 5.105433507302665
       },
       "confirmations": 0,
       "peerMatches": [],
       "viralScore": 11,
-      "priority": "candidate"
-    },
-    {
-      "niche": "land_selection",
-      "creator": "Nemmadi Home Inspection",
-      "creatorKey": "nemmadi",
-      "source": {
-        "id": "juy9L_SpLcM",
-        "title": "Your Lift Could Be Wobbling Because of THIS | Lift Safety Check",
-        "description": "Empty lift lubrication cups may cause inadequate lubrication of the guide rails, leading to rail wear, increased friction, and wobbling during lift movement.\n\nThis is why regular lift maintenance and safety inspections are important in residential buildings. Small maintenance issues can turn into bigger lift safety concerns if ignored.\n\nLift audits help identify maintenance and compliance issues before they become costly problems.\n\nBook Now: https://nemmadi.in/quote-for-rwa/\nRead More: https://nemmadi.in/more-than-a-third-of-lift-safety-checks-failed-at-handover-and-residents-never-saw-the-list/\n\n#liftsafety #liftmaintenance #rwaaudit #liftsafetyinspection #apartmentliving #safetyfirst #nemmadi",
-        "publishedAt": "2026-08-17T07:08:57Z",
-        "channelId": "UCMCS2BYIVl4OmOi-G3XukzA",
-        "channelTitle": "Nemmadi. In",
-        "durationSeconds": 23,
-        "views": 825,
-        "likes": 3,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=juy9L_SpLcM",
-        "ageHours": 989.4545555555555,
-        "velocity": 0.8337927147515954,
-        "outlier": 0.8068459657701712,
-        "velocityRatio": 0.32303090542151747,
-        "engagementRatio": 0.7836784122445547
-      },
-      "confirmations": 0,
-      "peerMatches": [],
-      "viralScore": 10,
       "priority": "candidate"
     },
     {
@@ -572,11 +572,11 @@
         "likes": 2,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=wK47_UcznQ0",
-        "ageHours": 1326.9065,
-        "velocity": 0.04597158880448622,
+        "ageHours": 1331.2559180555556,
+        "velocity": 0.045821392545692605,
         "outlier": 0.05965770171149144,
-        "velocityRatio": 0.017810474584924962,
-        "engagementRatio": 14.131905794573939
+        "velocityRatio": 0.017930875591893408,
+        "engagementRatio": 14.7304311030372
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -599,11 +599,11 @@
         "likes": 2,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=ZFRDUfHEyAU",
-        "ageHours": 1226.5448333333334,
-        "velocity": 0.26741786446452764,
+        "ageHours": 1230.894251388889,
+        "velocity": 0.26647293187850923,
         "outlier": 0.32078239608801956,
-        "velocityRatio": 0.10360396937457135,
-        "engagementRatio": 1.3140948985808083
+        "velocityRatio": 0.1042764683625879,
+        "engagementRatio": 1.3697504531787639
       },
       "confirmations": 0,
       "peerMatches": [],
@@ -622,15 +622,15 @@
         "channelId": "UC93fHoH7WbSN9E1vv8riq8A",
         "channelTitle": "Civiconcepts - Bhushan Mahajan",
         "durationSeconds": 29,
-        "views": 948,
+        "views": 949,
         "likes": 11,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=pVAvvGS4YxU",
-        "ageHours": 1292.4931666666666,
-        "velocity": 0.7334661601692543,
-        "outlier": 0.1465450610604421,
-        "velocityRatio": 0.15748059919399046,
-        "engagementRatio": 1.4080938986002276
+        "ageHours": 1296.8425847222222,
+        "velocity": 0.7317773268551877,
+        "outlier": 0.14608990147783252,
+        "velocityRatio": 0.156954912267436,
+        "engagementRatio": 1.4124809741248097
       },
       "confirmations": 0,
       "peerMatches": [],
